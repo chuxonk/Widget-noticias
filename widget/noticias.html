@@ -1,0 +1,111 @@
+<!-- Widget Noticias Economía y Tecnología · pegar tal cual en un bloque "HTML personalizado" o en un snippet de WPCode.
+     Cambia SOLO la URL de data-src por la de tu news.json en GitHub Pages. -->
+<div id="ecotec-noticias" data-src="https://TU-USUARIO.github.io/TU-REPO/data/news.json" data-max="12"></div>
+<script>
+(function () {
+  var host = document.getElementById('ecotec-noticias');
+  if (!host || host.getAttribute('data-ready')) return;
+  host.setAttribute('data-ready', '1');
+  var SRC = host.getAttribute('data-src'), MAX = +host.getAttribute('data-max') || 12;
+  var TTL = 10 * 60 * 1000, KEY = 'ecotec-noticias-v1', FILTRO = 'Todas';
+  var root = host.attachShadow ? host.attachShadow({ mode: 'open' }) : host;
+
+  var css = '\
+:host{all:initial;display:block}\
+*{box-sizing:border-box}\
+.w{--bg:#fff;--fg:#111;--mut:#5a5651;--line:#d9d6d1;--card:#fff;--ph:#c9c6c1;--sal:#f0806f;--lnk:#b3392a;--ink:#111;--onink:#fff;\
+font:16px/1.55 Georgia,"Times New Roman",serif;color:var(--fg);background:var(--bg);padding:28px 16px 22px;max-width:1000px;margin:0 auto;display:block}\
+@media(prefers-color-scheme:dark){.w{--bg:#111;--fg:#f2f0ed;--mut:#b4b0aa;--line:#33312f;--card:#1a1918;--ph:#3a3836;--lnk:#ff9c8c;--ink:#f2f0ed;--onink:#111}}\
+.t{font:400 1.25rem/1.2 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;letter-spacing:.3em;text-transform:uppercase;text-align:center;margin:0 0 18px}\
+.tabs{display:flex;justify-content:center;gap:4px;flex-wrap:wrap;border-top:3px double var(--ink);border-bottom:1px solid var(--ink);margin-bottom:22px}\
+.tabs button{all:unset;cursor:pointer;padding:11px 16px;font:600 .72rem system-ui,sans-serif;letter-spacing:.16em;text-transform:uppercase;border-bottom:3px solid transparent}\
+.tabs button[aria-selected=true]{border-bottom-color:var(--sal)}\
+.tabs button:hover{color:var(--lnk)}\
+button:focus-visible,a:focus-visible{outline:3px solid var(--sal);outline-offset:2px}\
+.g{list-style:none;margin:0;padding:0;display:grid;gap:20px;grid-template-columns:1fr}\
+@media(min-width:640px){.g{grid-template-columns:repeat(2,1fr)}}\
+@media(min-width:900px){.g{grid-template-columns:repeat(3,1fr)}}\
+.c{display:flex;flex-direction:column;background:var(--card);border:1px solid var(--line);padding:12px 12px 16px;box-shadow:0 2px 8px rgba(0,0,0,.06)}\
+.im{display:block;height:140px;background:var(--ph);margin-bottom:12px;overflow:hidden}\
+.im img{width:100%;height:100%;object-fit:cover;display:block}\
+.k{align-self:flex-start;font:700 .64rem system-ui,sans-serif;letter-spacing:.12em;text-transform:uppercase;padding:3px 9px;margin-bottom:8px;background:var(--ink);color:var(--onink)}\
+.k.e{background:var(--sal);color:#111}\
+h3{font:700 1.05rem/1.28 Georgia,"Times New Roman",serif;margin:0 0 8px}\
+h3 a{color:inherit;text-decoration:none}h3 a:hover{color:var(--lnk);text-decoration:underline}\
+.x{font:.86rem/1.5 system-ui,sans-serif;color:var(--mut);margin:0 0 12px;flex:1}\
+.m{font:.74rem system-ui,sans-serif;color:var(--mut);display:flex;justify-content:space-between;gap:8px;align-items:center;flex-wrap:wrap}\
+.m a.p{font:700 .66rem system-ui,sans-serif;letter-spacing:.1em;text-transform:uppercase;text-decoration:none;background:var(--sal);color:#111;padding:6px 14px;border-radius:999px}\
+.m a.p:hover{background:var(--ink);color:var(--onink)}\
+.s{font:.9rem system-ui,sans-serif;text-align:center;color:var(--mut);padding:30px 8px}\
+.s button{all:unset;cursor:pointer;margin-left:6px;color:var(--lnk);text-decoration:underline}\
+.sk{height:250px;background:var(--ph);opacity:.45;animation:p 1.2s ease-in-out infinite}\
+@keyframes p{50%{opacity:.2}}\
+@media(prefers-reduced-motion:reduce){.sk{animation:none}}\
+.f{font:.72rem system-ui,sans-serif;color:var(--mut);text-align:center;margin:22px 0 0;padding-top:12px;border-top:1px solid var(--line)}';
+
+  var st = document.createElement('style'); st.textContent = css; root.appendChild(st);
+  var w = el('section', 'w'); w.setAttribute('aria-label', 'Últimas noticias de economía y tecnología'); root.appendChild(w);
+  w.appendChild(el('p', 't', 'Últimas noticias'));
+  var tabs = el('div', 'tabs'); tabs.setAttribute('role', 'tablist'); w.appendChild(tabs);
+  var body = el('div'); body.setAttribute('aria-live', 'polite'); w.appendChild(body);
+  w.appendChild(el('p', 'f', 'Noticias vía RSS de sus respectivos medios. Titulares y extractos enlazan a la fuente original.'));
+  var items = [];
+
+  ['Todas', 'Economía', 'Tecnología'].forEach(function (n) {
+    var b = el('button', '', n); b.type = 'button'; b.setAttribute('role', 'tab');
+    b.setAttribute('aria-selected', n === FILTRO);
+    b.onclick = function () { FILTRO = n; [].forEach.call(tabs.children, function (x) { x.setAttribute('aria-selected', x === b); }); draw(); };
+    b.onkeydown = function (e) {
+      var i = [].indexOf.call(tabs.children, b), j = e.key === 'ArrowRight' ? i + 1 : e.key === 'ArrowLeft' ? i - 1 : -1;
+      if (j >= 0) { var t = tabs.children[(j + 3) % 3]; t.focus(); t.click(); }
+    };
+    tabs.appendChild(b);
+  });
+
+  function el(t, c, txt) { var e = document.createElement(t); if (c) e.className = c; if (txt) e.textContent = txt; return e; }
+  function safe(u) { return /^https?:\/\//i.test(u) ? u : '#'; }
+  function ago(d) {
+    var s = (Date.now() - Date.parse(d)) / 1000;
+    if (!(s > 0)) return 'ahora';
+    if (s < 3600) { var m = Math.max(1, Math.round(s / 60)); return 'hace ' + m + ' min'; }
+    if (s < 86400) { var h = Math.round(s / 3600); return 'hace ' + h + (h === 1 ? ' hora' : ' horas'); }
+    var dd = Math.round(s / 86400); return 'hace ' + dd + (dd === 1 ? ' día' : ' días');
+  }
+  function status(msg, retry) {
+    body.textContent = ''; var p = el('p', 's', msg);
+    if (retry) { var b = el('button', '', 'Reintentar'); b.type = 'button'; b.onclick = load; p.appendChild(b); }
+    body.appendChild(p);
+  }
+  function draw() {
+    var list = items.filter(function (n) { return FILTRO === 'Todas' || n.category === FILTRO; }).slice(0, MAX);
+    if (!list.length) return status('No hay noticias en esta categoría ahora mismo.');
+    var ul = el('ul', 'g'); ul.setAttribute('role', 'list');
+    list.forEach(function (n) {
+      var li = el('li', 'c'), url = safe(n.url);
+      var im = el('span', 'im'); im.setAttribute('aria-hidden', 'true');
+      if (n.image) { var g = document.createElement('img'); g.loading = 'lazy'; g.decoding = 'async'; g.alt = ''; g.referrerPolicy = 'no-referrer'; g.src = n.image; g.onerror = function () { g.remove(); }; im.appendChild(g); }
+      li.appendChild(im);
+      li.appendChild(el('span', 'k' + (n.category === 'Economía' ? ' e' : ''), n.category));
+      var h = el('h3'), a = el('a', '', n.title); a.href = url; a.target = '_blank'; a.rel = 'noopener nofollow'; h.appendChild(a); li.appendChild(h);
+      if (n.excerpt) li.appendChild(el('p', 'x', n.excerpt));
+      var m = el('div', 'm'), s = el('span'), tm = el('time', '', ago(n.date)); tm.dateTime = n.date;
+      s.appendChild(document.createTextNode(n.source + ' · ')); s.appendChild(tm); m.appendChild(s);
+      var p = el('a', 'p', 'Leer'); p.href = url; p.target = '_blank'; p.rel = 'noopener nofollow'; p.setAttribute('aria-label', 'Leer en ' + n.source + ': ' + n.title); m.appendChild(p);
+      li.appendChild(m); ul.appendChild(li);
+    });
+    body.textContent = ''; body.appendChild(ul);
+  }
+  function read() { try { return JSON.parse(localStorage.getItem(KEY)); } catch (e) { return null; } }
+  function save(d) { try { localStorage.setItem(KEY, JSON.stringify({ t: Date.now(), d: d })); } catch (e) {} }
+  function use(d) { items = (d && d.items) || []; draw(); }
+  function load() {
+    var c = read();
+    if (c && Date.now() - c.t < TTL) return use(c.d);
+    body.textContent = ''; var ul = el('div', 'g'); for (var i = 0; i < 3; i++) ul.appendChild(el('div', 'sk')); body.appendChild(ul);
+    fetch(SRC, { cache: 'no-cache' }).then(function (r) { if (!r.ok) throw 0; return r.json(); })
+      .then(function (d) { if (!d || !d.items) throw 0; save(d); use(d); })
+      .catch(function () { if (c) use(c.d); else status('No hemos podido cargar las noticias ahora mismo.', true); });
+  }
+  load();
+})();
+</script>

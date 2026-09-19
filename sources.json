@@ -1,0 +1,22 @@
+{
+  "ajustes": {
+    "maxNoticias": 15,
+    "extractoMax": 160,
+    "maxDiasAntiguedad": 7,
+    "maxPorFuente": 4,
+    "noticiasPorFeed": 10,
+    "umbralTitulosSimilares": 0.7,
+    "timeoutSegundos": 20
+  },
+  "fuentes": [
+    { "nombre": "Expansión", "categoria": "Economía", "url": "https://e00-expansion.uecdn.es/rss/economia.xml", "activa": true },
+    { "nombre": "Cinco Días", "categoria": "Economía", "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/cincodias.elpais.com/portada", "activa": true },
+    { "nombre": "El Economista", "categoria": "Economía", "url": "https://www.eleconomista.es/rss/rss-economia.php", "activa": true },
+    { "nombre": "Europa Press", "categoria": "Economía", "url": "https://www.europapress.es/rss/rss.aspx?ch=136", "activa": true },
+    { "nombre": "Xataka", "categoria": "Tecnología", "url": "https://feeds.weblogssl.com/xataka2", "activa": true },
+    { "nombre": "Genbeta", "categoria": "Tecnología", "url": "https://feeds.weblogssl.com/genbeta", "activa": false },
+    { "nombre": "Hipertextual", "categoria": "Tecnología", "url": "https://hipertextual.com/feed", "activa": true },
+    { "nombre": "Applesfera", "categoria": "Tecnología", "url": "https://feeds.weblogssl.com/applesfera", "activa": true },
+    { "nombre": "Europa Press Tecnología", "categoria": "Tecnología", "url": "https://www.europapress.es/rss/rss.aspx?ch=66", "activa": true }
+  ]
+}
