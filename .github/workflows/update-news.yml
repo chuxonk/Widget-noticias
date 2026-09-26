@@ -2,9 +2,10 @@ name: Actualizar noticias
 
 on:
   schedule:
-    - cron: '17 */3 * * *'   # cada 3 horas
+    - cron: '17 */3 * * *'   # cada 3 horas (minuto 17 para evitar la hora punta de GitHub)
   workflow_dispatch:          # botón "Run workflow" para lanzarlo a mano
 
+# Permisos mínimos: escribir el JSON (contents) y reactivar el propio workflow (actions).
 permissions:
   contents: write
   actions: write
@@ -27,18 +28,26 @@ jobs:
       - name: Leer feeds y generar data/news.json
         run: node scripts/update-news.mjs
 
-      - name: Commit solo si news.json cambió
+      - name: Leer Euribor (BCE) y generar data/euribor.json
+        continue-on-error: true
+        run: node scripts/update-euribor.mjs
+
+      - name: Commit solo si news.json o euribor.json cambiaron
         run: |
-          if git diff --quiet -- data/news.json; then
+          git add -N data/euribor.json 2>/dev/null || true
+          if git diff --quiet -- data/news.json data/euribor.json; then
             echo "Sin cambios, no hay commit."
           else
             git config user.name  "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add data/news.json
-            git commit -m "Actualizar noticias [skip ci]"
+            git add data/news.json data/euribor.json
+            git commit -m "Actualizar datos [skip ci]"
             git push
           fi
 
+      # Keepalive: GitHub desactiva los workflows programados tras 60 días sin actividad en el repo.
+      # Este paso vuelve a "habilitar" el workflow en cada ejecución, lo que reinicia ese contador.
+      # (Además, news.json cambia varias veces al día, y esos commits ya cuentan como actividad.)
       - name: Keepalive (evita la desactivación a los 60 días)
         env:
           GH_TOKEN: ${{ github.token }}
