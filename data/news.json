@@ -1,7 +1,61 @@
 {
-  "generatedAt": "2026-09-28T21:15:49.863Z",
+  "generatedAt": "2026-09-29T01:04:10.110Z",
   "count": 15,
   "items": [
+    {
+      "title": "Maricarmen es la excusa para endosar a otro el muerto de la vivienda",
+      "excerpt": "El decreto Maricarmen no va ser ninguna solución al problema de la vivienda en España sino la excusa para intentar buscar chivos expiatorios de cara a las…",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/opinion/2026/09/29/6abad502468aeb637f8b4575.html",
+      "date": "2026-09-29T00:29:48.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/09/28/17906299178623.jpg"
+    },
+    {
+      "title": "OpenAI cancela su IA más avanzada a días de lanzarla en ChatGPT: era peligrosa y engañaba a los usuarios",
+      "excerpt": "OpenAI ha cancelado el lanzamiento de GPT-6.1 Astra después de detectar problemas de seguridad en sus pruebas internas. La compañía tenía planes de lanzarlo…",
+      "source": "Hipertextual",
+      "category": "Tecnología",
+      "url": "https://hipertextual.com/inteligencia-artificial/openai-cancela-gpt-6-1-astra-seguridad/",
+      "date": "2026-09-29T00:00:25.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/GPT-6-AStra-scaled.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1"
+    },
+    {
+      "title": "El problema de la vivienda no se soluciona con un decreto en caliente",
+      "excerpt": "Maricarmen, tengo una noticia para ti: El Gobierno está trabajando contrarreloj para llevar el próximo martes el próximo real decreto sobre vivienda\", decía…",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/opinion/2026/09/29/6abada6be5fdea7e378b458a.html",
+      "date": "2026-09-28T23:58:45.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/09/28/17906309029577.jpg"
+    },
+    {
+      "title": "Trump confirma que estudia vetar la exportación de diésel \"seriamente\"",
+      "excerpt": "El presidente de EEUU confirma que el mayor exportador mundial de gasóleo podría vetar su venta exterior para contener su precio en la recta final hacia las…",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/economia/2026/09/29/6abaf768468aeb083d8b4589.html",
+      "date": "2026-09-28T23:31:31.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/09/29/17906381925172.jpg"
+    },
+    {
+      "title": "Tercer plan anticrisis del Gobierno con el sector agroalimentario en el foco",
+      "excerpt": "El Gobierno lanza hoy un nuevo decreto para amortiguar el impacto de la crisis energética, en el que se da por segura la prórroga de ayudas al sector…",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/economia/2026/09/29/6abab106468aeb4f0f8b4586.html",
+      "date": "2026-09-28T23:07:31.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/09/28/17906198426979.jpg"
+    },
+    {
+      "title": "Gemini cambia para siempre: su función más útil dejará de existir en noviembre",
+      "excerpt": "Una de las primeras funciones populares de Gemini está a punto de cambiar para siempre. Google anunció que las Gems dejarán de existir y migrarán…",
+      "source": "Hipertextual",
+      "category": "Tecnología",
+      "url": "https://hipertextual.com/inteligencia-artificial/gems-gemini-skills-migracion/",
+      "date": "2026-09-28T21:30:00.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/Gemini-2.jpg?fit=1024%2C650&quality=70&strip=all&ssl=1"
+    },
     {
       "title": "Negociación de vértigo para pactar un decreto de vivienda que habría sido imposible sin Maricarmen",
       "excerpt": "Para los acampados en la Puerta del Sol, que exigen un giro radical en política de vivienda, probablemente el decreto que se apruebe este martes en el Consejo…",
@@ -39,15 +93,6 @@
       "image": "https://img.europapress.es/fotoweb/fotonoticia_20260928214440_120.jpg"
     },
     {
-      "title": "Maricarmen alcanza un acuerdo con Urbagestión para volver a su casa",
-      "excerpt": "La familia de la inquilina y la empresa han alcanzado un acuerdo que queda pendiente de que la propia Maricarmen lo ratifique.",
-      "source": "Expansión",
-      "category": "Economía",
-      "url": "https://www.expansion.com/economia/2026/09/28/6abac143e5fdea08608b4587.html",
-      "date": "2026-09-28T19:38:57.000Z",
-      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/09/28/17906242058188.jpg"
-    },
-    {
       "title": "Maricarmen podrá volver a casa tras alcanzar sus representantes acuerdo con Urbagestión en reunión mediada por EMVS",
       "excerpt": "Si acepta, firmará un contrato de ocho años con una renta que no superará el 30% de sus ingresos y podrá volver tras recibir el alta",
       "source": "Europa Press Tecnología",
@@ -75,33 +120,6 @@
       "image": "https://i.blogs.es/23d894/john-ternus-conduce-un-prosche-muy-especial/1024_2000.jpeg"
     },
     {
-      "title": "Lleva 125 años encendida y ha sobrevivido a tres webcams. La historia de esta bombilla es una bofetada a la obsolescencia",
-      "excerpt": "La obsolescencia programada está cada vez más en la boca de las personas y cuando la lavadora se rompe a los cinco años, es fácil pensar en este término y en…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/investigacion/lleva-125-anos-encendida-ha-sobrevivido-a-tres-webcams-historia-esta-bombilla-bofetada-a-obsolescencia",
-      "date": "2026-09-28T18:30:27.000Z",
-      "image": "https://i.blogs.es/3858ae/bombilla-centenaria/1024_2000.jpeg"
-    },
-    {
-      "title": "La economía de siete comarcas catalanas sigue por debajo del nivel pre-Covid",
-      "excerpt": "La energía y la sequía lastran la recuperación de la Terra Alta, la Ribera d'Ebre, les Garrigues, el Pallars Jussà, la Noguera, el Pallars Sobirà y la Alta…",
-      "source": "Expansión",
-      "category": "Economía",
-      "url": "https://www.expansion.com/catalunya/2026/09/28/6abab0b9468aeb17228b456e.html",
-      "date": "2026-09-28T18:29:09.000Z",
-      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2023/06/13/16866620403456.jpg"
-    },
-    {
-      "title": "\"Le pareció asqueroso\": en 1991, Sean Connery rechazó uno de los mejores thrillers de todos los tiempos",
-      "excerpt": "Sean Connery tuvo al alcance de la mano a uno de los psicópatas más célebres que ha dado el cine, un papel que terminó con su intérprete subiendo a recoger un…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/cine-y-tv/le-parecio-asqueroso-sean-connery-rechazo-uno-mejores-thrillers-todos-tiempos",
-      "date": "2026-09-28T18:16:26.000Z",
-      "image": "https://i.blogs.es/135d7a/original/1024_2000.jpeg"
-    },
-    {
       "title": "Galán urge a acelerar la electrificación para recuperar la competitividad de Europa: “Hablamos de nuestra propia seguridad”",
       "excerpt": "El presidente ejecutivo de Iberdrola, Ignacio Sánchez Galán, ha reclamado este lunes acelerar la electrificación de la economía europea para poder reducir la…",
       "source": "Cinco Días",
@@ -111,15 +129,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/KJUQWHJMTZDBVLEZIENMOQZIDQ.jpeg?auth=92074bcb14ec3c10c8f7635badee8407818fdc4f01fbc89bdb9f42ac3f5f1b8d"
     },
     {
-      "title": "El PSOE busca un acuerdo 'in extremis' para intervenir el mercado de la vivienda",
-      "excerpt": "El Ministerio de Vivienda lleva este martes al Consejo de Ministros un decreto que incluye la prórroga de alquileres, limita la compra de vivienda por parte…",
-      "source": "Expansión",
-      "category": "Economía",
-      "url": "https://www.expansion.com/economia/2026/09/28/6abaa10a468aeb90718b4573.html",
-      "date": "2026-09-28T17:28:06.000Z",
-      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/09/28/17906157881399.jpg"
-    },
-    {
       "title": "El Gobierno plantea a los socios prohibir los desahucios a personas vulnerables hasta 2028 y prorrogar dos años los alquileres",
       "excerpt": "El Gobierno plantea incluir en el paquete de vivienda que está negociando contra reloj una nueva protección hasta 2028 frente a los desahucios y una prórroga…",
       "source": "Cinco Días",
@@ -127,15 +136,6 @@
       "url": "https://elpais.com/economia/vivienda/2026-09-28/el-gobierno-plantea-a-los-socios-prohibir-los-desahucios-a-personas-vulnerables-hasta-2028-y-prorrogar-dos-anos-los-alquileres.html",
       "date": "2026-09-28T17:20:55.000Z",
       "image": "https://imagenes.elpais.com/resizer/v2/CFAFV4BLINDO5JLUVRJRJHI6SA.jpg?auth=70f5a21052936a658e94ddb1ce21ed3ced92ee32fdbc47ad057df7ed68e54365"
-    },
-    {
-      "title": "Lagarde asegura que la subida de los precios de la energía no está provocando un aumento de salarios",
-      "excerpt": "La guerra en Oriente Próximo ha provocado un aumento de los precios, principalmente energéticos. Esto ha provocado una subida en la previsión de inflación…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://elpais.com/economia/2026-09-28/lagarde-asegura-que-la-subida-de-los-precios-de-la-energia-no-esta-provocando-un-aumento-de-salarios.html",
-      "date": "2026-09-28T17:02:45.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/XFPN3VABBZKIVLMUGSLR2JMJ74.jpg?auth=c6a1d547882db974eedae48f58db13ed66428340ba3804f5119cfb1a2edf3ad4"
     }
   ]
 }
