@@ -1,141 +1,141 @@
 {
-  "generatedAt": "2026-09-29T09:55:27.535Z",
+  "generatedAt": "2026-09-29T18:07:25.347Z",
   "count": 15,
   "items": [
     {
-      "title": "Acampada en Sol por la vivienda, en directo | El PSOE y Sumar alcanzan un acuerdo de vivienda y dividen las medidas en dos decretos",
-      "excerpt": "Los partidos del Gobierno han alcanzado un acuerdo para aprobar dos reales decretos leyes de vivienda y “dar respuesta a las demandas de la ciudadanía y…",
+      "title": "Poner ventanas en las naves espaciales es clave para que los astronautas no se vuelvan locos. El problema es instalarlas",
+      "excerpt": "No valoramos la importancia de las ventanas, hasta que tenemos un baño sin ellas. O un piso de alquiler con ventanas a una tapia. O directamente un dormitorio…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/espacio/astronautas-mercury-tuvieron-que-pelearse-ingenieros-para-tener-ventana-hoy-basico-que-nadie-se-cuestiona-mal",
+      "date": "2026-09-29T18:00:27.000Z",
+      "image": "https://i.blogs.es/2319d0/ventanas-espacio/1024_2000.jpeg"
+    },
+    {
+      "title": "Acampada en Sol por la vivienda, en directo | El campamento de la Puerta del Sol llama a resistir: “De aquí no se mueve ni Dios”",
+      "excerpt": "Los manifestantes en la Puerta del Sol han hecho un llamamiento a mantener la acampada, pese a la aprobación en el Consejo de Ministros de los dos Reales…",
       "source": "Cinco Días",
       "category": "Economía",
       "url": "https://elpais.com/espana/2026-09-29/acampada-en-sol-por-la-vivienda-en-directo.html",
-      "date": "2026-09-29T09:54:13.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/V6EYRRN7URPMLEEFBDXVI7SRN4.jpg?auth=6540f5b0786d31b1c1de93d2279ec82d8104a3bdf45264b9289b4de803366d56"
+      "date": "2026-09-29T17:57:46.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/HESHOFKQ3BIBFMTKWFW55DIXYY.jpg?auth=0ce200c41a1d9cbea05916e428229997ef31b813f5548b58d971e64bc9109ba2"
     },
     {
-      "title": "Acuerdo PSOE-Sumar por la vivienda: las medidas se dividirán en dos decretos",
-      "excerpt": "Después de retrasar una hora el Consejo de Ministros, los partidos del Gobierno de coalición han anunciado un acuerdo para aprobar dos decretos de vivienda…",
-      "source": "Expansión",
+      "title": "Nuevos pasos para aprobar las Ordenanzas Fiscales 2027 en Zaragoza con congelación del IBI",
+      "excerpt": "Nuevos pasos para que entren en vigor las Ordenanzas Fiscales 2027 en las que se recogen las tasas e impuestos que tendrán que pagar los zaragozanos el…",
+      "source": "El Economista",
       "category": "Economía",
-      "url": "https://www.expansion.com/economia/2026/09/29/6abb818c468aeb1f4f8b459e.html",
-      "date": "2026-09-29T09:52:39.000Z",
-      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/09/29/17906732511858.jpg"
+      "url": "https://www.eleconomista.es/economia/noticias/14017526/09/26/nuevos-pasos-para-aprobar-las-ordenanzas-fiscales-2027-en-zaragoza-con-congelacion-del-ibi.html",
+      "date": "2026-09-29T17:49:48.000Z",
+      "image": null
     },
     {
-      "title": "OpenAI cancela GPT-6.1 Astra: su propio equipo de seguridad ha visto que el modelo no era fiable",
-      "excerpt": "OpenAI ha dejado en suspenso GPT-6.1 Astra, el modelo que planeaba lanzar en octubre, después de que sus propios investigadores descubrieran que el sistema no…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/robotica-e-ia/openai-cancela-gpt-6-1-astra-su-propio-equipo-seguridad-ha-visto-que-modelo-no-era-fiable",
-      "date": "2026-09-29T09:50:26.000Z",
-      "image": "https://i.blogs.es/d5f3bd/altman/1024_2000.jpeg"
-    },
-    {
-      "title": "Decenas de migrantes de playa Benítez en Ceuta, desalojados hoy, deciden retornar voluntariamente a Marruecos",
-      "excerpt": "La Policía escolta a los autobuses que llevan a la frontera a los marroquíes que quieren regresar sabiendo que no tendrán el asilo",
-      "source": "Europa Press Tecnología",
-      "category": "Tecnología",
-      "url": "https://www.europapress.es/nacional/noticia-decenas-migrantes-playa-benitez-ceuta-desalojados-hoy-deciden-retornar-voluntariamente-marruecos-20260929113448.html",
-      "date": "2026-09-29T09:34:48.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20260929113448_120.jpg"
-    },
-    {
-      "title": "Bill Gates, sobre los riesgos de una IA fuera de control: \"No basta con tener un interruptor de apagado\"",
-      "excerpt": "A lo largo de los años hemos escuchado muchas veces eso de que la IA podía acabar con la humanidad, pero desde hace varias semanas el discurso se ha…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/robotica-e-ia/bill-gates-riesgos-ia-fuera-control-no-basta-tener-interruptor-apagado",
-      "date": "2026-09-29T09:30:26.000Z",
-      "image": "https://i.blogs.es/1b0b49/magnific_esta-bien-pero-quiero-que_mesyeoehjq/1024_2000.jpeg"
-    },
-    {
-      "title": "Vox insiste en reducir impuestos frente a la escalada de inflación por la energía y la crisis de vivienda",
-      "excerpt": "La portavoz de Vox en el Congreso, Pepa Millán, ha exigido este martes una reducción drástica de impuestos en energía, vivienda y alimentos ante la escalada…",
-      "source": "Europa Press",
+      "title": "El Partido Popular estima que el Gobierno podría perder casi 2.500 millones de los fondos europeos",
+      "excerpt": "El Gobierno tiene hasta el 30 de septiembre para solicitar el último pago de los fondos Next Generation. El vicesecretario de Economía, Alberto Nadal, y el…",
+      "source": "El Economista",
       "category": "Economía",
-      "url": "https://www.europapress.es/economia/noticia-vox-insiste-reducir-impuestos-frente-escalada-inflacion-energia-crisis-vivienda-20260929112152.html",
-      "date": "2026-09-29T09:21:52.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20260929112152_120.jpg"
+      "url": "https://www.eleconomista.es/economia/noticias/14017527/09/26/el-partido-popular-estima-que-el-gobierno-podria-perder-casi-2500-millones-de-los-fondos-europeos.html",
+      "date": "2026-09-29T17:49:48.000Z",
+      "image": null
     },
     {
-      "title": "UBS moderniza sus comunicaciones de trading con BT y migra la voz de sus operadores bursátiles a la nube",
-      "excerpt": "BT y UBS han cerrado un acuerdo por el que el banco suizo aspira a modernizar sus comunicaciones globales de trading mediante el despliegue de una plataforma…",
-      "source": "Europa Press",
-      "category": "Economía",
-      "url": "https://www.europapress.es/economia/noticia-ubs-moderniza-comunicaciones-trading-bt-migra-voz-operadores-bursatiles-nube-20260929111938.html",
-      "date": "2026-09-29T09:19:38.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20260929111938_120.jpg"
-    },
-    {
-      "title": "Podemos tacha de \"tomadura de pelo\" las medidas de vivienda del Gobierno y rechaza trocearlas en varios decretos",
-      "excerpt": "La secretaria general de Podemos, Ione Belarra, ha tachado de \"tomadura de pelo\" el decreto de vivienda que prepara el Gobierno, se ha mostrado en contra de…",
-      "source": "Europa Press Tecnología",
-      "category": "Tecnología",
-      "url": "https://www.europapress.es/nacional/noticia-podemos-tacha-tomadura-pelo-medidas-vivienda-gobierno-rechaza-trocearlas-varios-decretos-20260929111918.html",
-      "date": "2026-09-29T09:19:18.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20260929111918_120.jpg"
-    },
-    {
-      "title": "España, Portugal y Luxemburgo piden a Bruselas un objetivo \"ambicioso y realista\" de renovables para 2040",
-      "excerpt": "Reclaman acelerar su despliegue y reforzar las redes para abaratar la energía y reducir la dependencia de los combustibles fósiles",
-      "source": "Europa Press",
-      "category": "Economía",
-      "url": "https://www.europapress.es/economia/energia-00341/noticia-espana-portugal-luxemburgo-piden-bruselas-objetivo-ambicioso-realista-renovables-2040-20260929111904.html",
-      "date": "2026-09-29T09:19:04.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20260929111904_120.jpg"
-    },
-    {
-      "title": "AMD mueve ficha frente a Nvidia: compra la empresa de una de las grandes pioneras de la IA por 8.200 millones de dólares",
-      "excerpt": "Fei-Fei Li no es una emprendedora cualquiera. Y Lisa Su, la directora general de AMD, conoce bien el potencial de World Labs, la empresa emergente que Li…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/empresas-y-economia/amd-mueve-ficha-frente-a-nvidia-compra-empresa-grandes-pioneras-ia-8-200-millones-dolares",
-      "date": "2026-09-29T09:16:00.000Z",
-      "image": "https://i.blogs.es/0bf083/fei-fei-li/1024_2000.jpeg"
-    },
-    {
-      "title": "Ecoener gana 3 millones en el primer semestre y supera el hito de un gigavatio en activos",
-      "excerpt": "Ecoener obtuvo un beneficio neto de 2,98 millones de euros en el primer semestre del año, lo que supone una caída del 31% con respecto a los 4,33 millones de…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://cincodias.elpais.com/companias/2026-09-29/ecoener-gana-3-millones-en-el-primer-semestre-y-supera-el-hito-de-un-gigavatio-en-activos.html",
-      "date": "2026-09-29T09:15:23.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/DAY3BGCDN5BOBERCDZMP576FVY.jpg?auth=6a1397446d757a4a7aa818814ff7432bae621eea05a5ab068cfa5d9bb368faaa"
-    },
-    {
-      "title": "PSOE y Sumar alcanzan un acuerdo para aprobar el decreto de Vivienda en el Consejo de Ministros",
-      "excerpt": "PSOE y Sumar, los dos partidos que forman el Gobierno de coalición, han alcanzado un acuerdo para aprobar el real decreto de Vivienda en el Consejo de…",
-      "source": "Europa Press",
-      "category": "Economía",
-      "url": "https://www.europapress.es/nacional/noticia-psoe-sumar-alcanzan-acuerdo-aprobar-decreto-vivienda-consejo-ministros-20260929111513.html",
-      "date": "2026-09-29T09:15:13.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20260929111513_120.jpg"
-    },
-    {
-      "title": "Adiós a los problemas de iOS 27. Apple acaba de actualizar tu iPhone y así puedes acabar con todos los bugs",
-      "excerpt": "Seguramente has estado viendo vídeos de los iPhone 18 Pro con iOS 27 que no dejan en muy buena posición a Apple. Durante los últimos días, varios bugs del…",
+      "title": "Apple quiere lanzar productos todo el año y su nuevo CEO ya tiene un plan para lograrlo",
+      "excerpt": "Una de las cosas que caracteriza a Apple es que siempre llega tarde a la fiesta cuando de nuevos productos o tecnologías se trata. Los de Cupertino nunca son…",
       "source": "Hipertextual",
       "category": "Tecnología",
-      "url": "https://hipertextual.com/tecnologia/adios-a-los-problemas-de-ios-27-apple-acaba-de-actualizar-tu-iphone-y-asi-puedes-acabar-con-todos-los-bugs/",
-      "date": "2026-09-29T09:04:25.000Z",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/ios-27-beta.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1"
+      "url": "https://hipertextual.com/apple/apple-planea-lanzamientos-todo-el-2027-ceo-john-ternus/",
+      "date": "2026-09-29T17:41:25.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/Apple-John-Ternus-scaled.jpg?fit=1024%2C640&quality=70&strip=all&ssl=1"
     },
     {
-      "title": "La Mesa del Congreso abre expediente sancionador a la diputada del PP que mostró un bote de gas pimienta",
-      "excerpt": "Ana Belén Vázquez podrá presentar sus alegaciones y, si se propone suspenderla, la decisión final la adoptará el Pleno a puerta cerrada",
-      "source": "Europa Press Tecnología",
-      "category": "Tecnología",
-      "url": "https://www.europapress.es/nacional/noticia-mesa-congreso-abre-expediente-sancionador-diputada-pp-exhibio-bote-gas-pimienta-20260929110315.html",
-      "date": "2026-09-29T09:03:15.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20260929110315_120.jpg"
+      "title": "El PP hace una enmienda a la totalidad a la gestión económica del Gobierno",
+      "excerpt": "El PP ha aprovechado un encuentro informativo sobre fondos europeos, convocado en su sede de Génova, para hacer una enmienda a la totalidad a la gestión…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://elpais.com/economia/2026-09-29/el-pp-hace-una-enmienda-a-la-totalidad-a-la-gestion-economica-del-gobierno.html",
+      "date": "2026-09-29T17:32:20.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/GQYQHIDJYRF3VDTQT5JYNLQA34.jpeg?auth=554472afd3b3db76535a47bc26fcd665e2077145faf58850a85be458f7264c78"
     },
     {
-      "title": "Seguir el ritmo de la IA en 2026 es imposible: el reto de descubrir cuál es el mejor chatbot a día de hoy",
-      "excerpt": "Recuerdo cuando elegir el chatbot que quería usar era sencillo porque prácticamente solo había uno: ChatGPT. Poco a poco fueron apareciendo más y más…",
+      "title": "Un estudio ha identificado una clave para prevenir el Alzhéimer: algo tan sencillo como hacer ejercicio",
+      "excerpt": "El alzhéimer es una de esas enfermedades que de momento no podemos curar. Uno de los principales focos está puesto sobre todo en la prevención, puesto que…",
       "source": "Xataka",
       "category": "Tecnología",
-      "url": "https://www.xataka.com/robotica-e-ia/seguir-ritmo-ia-2026-imposible-reto-descubrir-cual-mejor-chatbot-a-dia-hoy",
-      "date": "2026-09-29T09:00:27.000Z",
-      "image": "https://i.blogs.es/4d8865/modelos-ia-premios-xataka-2026/1024_2000.jpeg"
+      "url": "https://www.xataka.com/medicina-y-salud/claves-alzheimer-podria-estar-algo-simple-como-hacer-ejercicio",
+      "date": "2026-09-29T17:30:26.000Z",
+      "image": "https://i.blogs.es/ed253e/caminar-/1024_2000.jpeg"
+    },
+    {
+      "title": "Ryan Reynolds arrasa con 'Mayday': el mayor estreno en streaming de una película de Apple TV",
+      "excerpt": "Apple TV se ha ganado su fama a base de series. Ahí están las de ciencia ficción, con Separación o Pluribus. Historias intensas (y sesudas) que te enganchan…",
+      "source": "Applesfera",
+      "category": "Tecnología",
+      "url": "https://www.applesfera.com/apple-tv/ryan-reynolds-arrasa-mayday-mayor-estreno-streaming-pelicula-apple-tv",
+      "date": "2026-09-29T17:00:27.000Z",
+      "image": "https://i.blogs.es/0cf7e6/mayday/1024_2000.jpeg"
+    },
+    {
+      "title": "Rusia invertirá más que nunca en la guerra de Ucrania en el quinto año del conflicto",
+      "excerpt": "El quinto aniversario de la guerra de Ucrania está a la vuelta de la esquina y Rusia cada vez necesita más recursos para mantener el esfuerzo bélico en el…",
+      "source": "El Economista",
+      "category": "Economía",
+      "url": "https://www.eleconomista.es/mercados-cotizaciones/noticias/14017498/09/26/rusia-invertira-mas-que-nunca-en-la-guerra-de-ucrania-en-el-quinto-ano-del-conflicto.html",
+      "date": "2026-09-29T16:49:19.000Z",
+      "image": null
+    },
+    {
+      "title": "Spotify está caído: el servicio de música en streaming no funciona",
+      "excerpt": "Martes. Pasadas las seis de la tarde. Puede ser un buen momento para ponerse los auriculares y escuchar algo de música, especialmente si estás volviendo a…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/servicios/spotify-esta-caido-servicio-musica-streaming-no-funciona",
+      "date": "2026-09-29T16:40:03.000Z",
+      "image": "https://i.blogs.es/8e96a8/spotify-caido.png/1024_2000.jpeg"
+    },
+    {
+      "title": "Foment pide recuperar los despidos por bajas reiteradas para reducir el absentismo",
+      "excerpt": "La patronal plantea la eliminación de complementos por incapacidad temporal.",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/catalunya/2026/09/29/6abbde23468aeb27108b456e.html",
+      "date": "2026-09-29T16:37:17.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/09/29/17906991977820.jpg"
+    },
+    {
+      "title": "El origen del dueño de Urbagestión: de tener una calle con su nombre en Astorga a levantar un discreto negocio inmobiliario",
+      "excerpt": "En Castrillo de los Polvazares, localidad de Astorga (León) que operó como municipio independiente hasta 1975, unos cien habitantes, hay una calle en pleno…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/magnet/dueno-urbagestion-empresa-que-desahucio-a-maricarmen-tiene-calle-su-nombre-astorga-vecinos-dicen-estar-sorprendidos",
+      "date": "2026-09-29T16:30:26.000Z",
+      "image": "https://i.blogs.es/74ce4a/andre/1024_2000.jpeg"
+    },
+    {
+      "title": "Olvídate de jugar ‘GTA 5’ en Android: Take-Two mata de un plumazo la versión no oficial",
+      "excerpt": "El port no oficial de GTA 5 para Android no verá la luz del día. Los desarrolladores del juego anunciaron la cancelación del proyecto, al igual que el cese de…",
+      "source": "Hipertextual",
+      "category": "Tecnología",
+      "url": "https://hipertextual.com/videojuegos/take-two-mata-port-no-oficial-gta-5-android/",
+      "date": "2026-09-29T16:27:31.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2023/12/gta-5-scaled.jpg?fit=1024%2C683&quality=70&strip=all&ssl=1"
+    },
+    {
+      "title": "El Gobierno renueva el escudo anticrisis reforzado con el tope al gas con la vista puesta en la calefacción del otoño",
+      "excerpt": "El Consejo de Ministros ha renovado este martes el escudo anticrisis con las medidas para paliar los efectos de la subida de los precios de la energía que la…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://elpais.com/economia/2026-09-29/el-gobierno-renueva-el-escudo-anticrisis-reforzado-con-el-tope-al-gas-con-la-vista-puesta-en-la-calefaccion-del-otono.html",
+      "date": "2026-09-29T16:17:39.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/CX7RHTMLT5DZPAGLZYN5FJSLGU.png?auth=c9ececfe620d23d5698d4d41c5c907e660cdfebbb10f8c0a13078ab0bf154807"
+    },
+    {
+      "title": "Las claves de los decretos de vivienda: frenazo a los desahucios y castigos a los fondos buitre",
+      "excerpt": "El Gobierno de coalición ha optado por repartir en dos decretos ley la batería de medidas que ha aprobado este martes el Consejo de Ministros para afrontar la…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://elpais.com/economia/vivienda/2026-09-29/las-claves-de-los-decretos-de-vivienda-frenazo-a-los-desahucios-y-castigos-a-los-fondos-buitre.html",
+      "date": "2026-09-29T16:15:34.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/XU3AH3ADRFEU7DSOA433DPK22I.JPG?auth=b75b413eccb73ac337e1fb03706f1b996cb73966c4657ceac69bf1ebfb845844"
     }
   ]
 }
