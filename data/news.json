@@ -1,7 +1,79 @@
 {
-  "generatedAt": "2026-09-29T22:20:33.198Z",
+  "generatedAt": "2026-09-30T05:39:09.159Z",
   "count": 15,
   "items": [
+    {
+      "title": "OpenAI negocia una nueva ronda de 30.000 millones de dólares y valora la empresa en 1,4 billones",
+      "excerpt": "OpenAI vuelve a buscar en respaldo del mundo financiero para su expansión en los negocios de la inteligencia artificial (IA). La compañía está en…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://cincodias.elpais.com/companias/2026-09-30/openai-negocia-una-nueva-ronda-de-30000-millones-de-dolares-y-valora-la-empresa-en-14-billones.html",
+      "date": "2026-09-30T05:18:11.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/FPUPVIKI75KFPNBCQJZ6OWZZ2E.jpg?auth=38f726d45b5019dad284ab04b7ffe2e4b9a4a1f7bdddd70169554f88096c219c"
+    },
+    {
+      "title": "Las Bolsas europeas apuntan al alza con los bonos estables a la espera de la inflación americana",
+      "excerpt": "Los inversores mantienen la prudencia antes de la publicación de datos clave de inflación en Estados Unidos en busca de pistas sobre la trayectoria de los…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-09-30/la-bolsa-y-el-ibex-35.html",
+      "date": "2026-09-30T04:27:15.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/LHIN5DYKSRK4FO3ZLGKUG6FPOQ.jpg?auth=0d1cf74e129a2f4893396be989ec0731052489903342ca73e2e97b944681a494"
+    },
+    {
+      "title": "Los gigantes de la IA firman un acuerdo de autorregulación ante Trump",
+      "excerpt": "Los responsables de Anthropic, OpenAI, Google, xAI, Meta y Nvidia sellan un compromiso ante la Casa Blanca para establecer controles internos y externos a la…",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/empresas/2026/09/30/6abc87d4468aeb27108b459a.html",
+      "date": "2026-09-30T03:56:05.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/09/29/17907146622702.jpg"
+    },
+    {
+      "title": "El gran banquete de Intesa Sanpaolo viene aderezado con riesgo antimonopolio",
+      "excerpt": "La opa de Intesa Sanpaolo por Banca Monte dei Paschi di Siena (MPS), valorada en 36.000 millones de euros, plantea dos problemas de competencia. Primero…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://cincodias.elpais.com/opinion/2026-09-30/el-gran-banquete-de-intesa-sanpaolo-viene-aderezado-con-riesgo-antimonopolio.html",
+      "date": "2026-09-30T03:40:00.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/3D2MDPUZW5PO4MG4WHE4MSRIEA.jpg?auth=7ec731cf7c6dfd93f6807ef62fe654940fa43784f1d74330e888d078a6dfdcd6"
+    },
+    {
+      "title": "Los inquilinos de renta media ahorrarán 500 euros en el IRPF si la autonomía declara la zona tensionada",
+      "excerpt": "Los inquilinos podrán ahorrarse 500 euros de media al año en el IRPF si viven en una zona de mercado residencial tensionado y cumplen con los requisitos de…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://elpais.com/economia/2026-09-30/los-inquilinos-ahorraran-500-euros-de-media-en-el-irpf-si-la-autonomia-declara-la-zona-tensionada.html",
+      "date": "2026-09-30T03:30:01.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/JHLOI2USZBHDDJUUX6CGISNIZA.jpg?auth=447b1fd5a25fb1428c3c63c1a0e66514eff11e41d5cc28a41bdf98633f15d692"
+    },
+    {
+      "title": "Portugal ataca el problema de vivienda al revés que España: más protección a propietarios",
+      "excerpt": "El gobierno portugués lleva hoy a su Parlamento una propuesta para reducir el tiempo de impago necesario para suspender un contrato de alquiler y aumentar las…",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/economia/2026/09/30/6abc0d66468aeb312a8b4586.html",
+      "date": "2026-09-30T00:19:31.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/09/29/17907090162680.jpg"
+    },
+    {
+      "title": "El Gobierno prohíbe a los \"fondos buitre\" comprar pisos hasta 2028",
+      "excerpt": "El Congreso votará el viernes dos decretos: uno con la prórroga de los alquileres, la prohibición de compra a los fondos de inversión, las ayudas fiscales o…",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/economia/2026/09/30/6abc0a84468aeb18738b4581.html",
+      "date": "2026-09-29T23:36:36.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/09/29/17907082942652.jpg"
+    },
+    {
+      "title": "La NASA podría resucitar el SR-71 Blackbird: el avión más rápido de la historia",
+      "excerpt": "La NASA podría traer de vuelta uno de los aviones más emblemáticos de Estados Unidos. Un reporte afirma que la agencia espacial reiniciará el programa del…",
+      "source": "Hipertextual",
+      "category": "Tecnología",
+      "url": "https://hipertextual.com/aviacion/nasa-sr-71-blackbird-regreso-vuelo/",
+      "date": "2026-09-29T22:32:39.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/sr-71-blackbird.jpg?fit=1024%2C640&quality=70&strip=all&ssl=1"
+    },
     {
       "title": "Luis Aragonés frente al 'decreto Maricarmen'",
       "excerpt": "El ser humano es el único animal que tropieza dos veces en la misma piedra y el comunista el que tropieza siempre.",
@@ -10,24 +82,6 @@
       "url": "https://www.expansion.com/economia/2026/09/29/6abc32a3e5fdea2c058b4581.html",
       "date": "2026-09-29T21:56:32.000Z",
       "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/09/29/17907188353659.png"
-    },
-    {
-      "title": "Acampada en Sol por la vivienda, en directo | El campamento de la Puerta del Sol llama a resistir: “De aquí no se mueve ni Dios”",
-      "excerpt": "Los manifestantes en la Puerta del Sol han hecho un llamamiento a mantener la acampada, pese a la aprobación en el Consejo de Ministros de los dos Reales…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://elpais.com/espana/2026-09-29/acampada-en-sol-por-la-vivienda-en-directo.html",
-      "date": "2026-09-29T21:35:24.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/HESHOFKQ3BIBFMTKWFW55DIXYY.jpg?auth=0ce200c41a1d9cbea05916e428229997ef31b813f5548b58d971e64bc9109ba2"
-    },
-    {
-      "title": "Urgencias habitacionales",
-      "excerpt": "En el equilibrio de los decretos aprobados ayer entre aumentar el riesgo del alquiler y compensarlo con una mayor rentabilidad es muy difícil hilar fino y muy…",
-      "source": "Expansión",
-      "category": "Economía",
-      "url": "https://www.expansion.com/economia/2026/09/29/6abc2774468aebd20b8b458d.html",
-      "date": "2026-09-29T21:33:50.000Z",
-      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/09/29/17907175221520.jpg"
     },
     {
       "title": "Microsoft lanza la actualización de Windows 11 2026 con una función que todos esperaban",
@@ -48,15 +102,6 @@
       "image": "https://i.blogs.es/180846/optimus/1024_2000.jpeg"
     },
     {
-      "title": "Trump reúne a los líderes de la IA para apostar por la autorregulación del sector",
-      "excerpt": "El presidente de EEUU recibe en la Casa Blanca a los principales responsables de OpenAI, Anthropic, xAI, o Nvidia.",
-      "source": "Expansión",
-      "category": "Economía",
-      "url": "https://www.expansion.com/empresas/2026/09/29/6abc2455468aeb5b3e8b4579.html",
-      "date": "2026-09-29T20:57:49.000Z",
-      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/09/29/17907146622702.jpg"
-    },
-    {
       "title": "Abascal atribuye la crisis de vivienda a las \"políticas de fronteras abiertas\" de Sánchez y su \"rechazo\" a construir",
       "excerpt": "El presidente de Vox, Santiago Abascal, ha culpado al presidente del Gobierno, Pedro Sánchez, de la crisis de acceso a la vivienda, apuntando a sus \"políticas…",
       "source": "Europa Press Tecnología",
@@ -75,15 +120,6 @@
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/OpenAI-Dots-scaled.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1"
     },
     {
-      "title": "Indra prescinde de cinco directivos de Escribano y fusiona departamentos para la nueva era Simón-Recasens",
-      "excerpt": "Indra ha aprobado este martes la salida de cinco altos directivos vinculados con la etapa previa de Ángel Escribano y ha fusionado, entre otras medidas, las…",
-      "source": "Europa Press",
-      "category": "Economía",
-      "url": "https://www.europapress.es/economia/noticia-indra-prescinde-cinco-directivos-escribano-fusiona-departamentos-nueva-era-simon-recasens-20260929213102.html",
-      "date": "2026-09-29T19:31:02.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20260929213102_120.jpg"
-    },
-    {
       "title": "Huawei Watch D3, primeras impresiones: medir la tensión desde la muñeca nunca había parecido algo tan cotidiano",
       "excerpt": "Si utilizas un reloj inteligente, probablemente hayas vivido algo parecido a lo que me pasa a mí: cada vez nos parece más normal que nos dé información sobre…",
       "source": "Xataka",
@@ -100,42 +136,6 @@
       "url": "https://hipertextual.com/videojuegos/nuevos-proyectos-the-last-of-us-confirmados-neil-druckmann/",
       "date": "2026-09-29T19:25:00.000Z",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2024/01/grounded-2-making-of-the-last-of-us-2-2-scaled.jpg?fit=1024%2C652&quality=70&strip=all&ssl=1"
-    },
-    {
-      "title": "Otro problema para el Boeing 737 MAX: acaba de salir a la luz un nuevo fallo de software",
-      "excerpt": "Un avión puede estar a punto de aterrizar y, unos segundos después, volver a ganar altura. No es necesariamente una señal de peligro, sino una maniobra segura…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/movilidad/otro-problema-para-boeing-737-max-acaba-salir-a-luz-nuevo-fallo-software",
-      "date": "2026-09-29T19:23:28.000Z",
-      "image": "https://i.blogs.es/4468fe/737.max/1024_2000.jpeg"
-    },
-    {
-      "title": "Junts confirma su rechazo al decreto de los alquileres indefinidos y critica algunas medidas del otro",
-      "excerpt": "Junts piensa votar en contra del decreto ley que ha aprobado el Gobierno para la renovación automática de los contratos de alquiler por tiempo indefinido, a…",
-      "source": "El Economista",
-      "category": "Economía",
-      "url": "https://www.eleconomista.es/economia/noticias/14017540/09/26/junts-confirma-su-rechazo-al-decreto-de-los-alquileres-indefinidos-y-critica-algunas-medidas-del-otro.html",
-      "date": "2026-09-29T19:13:29.000Z",
-      "image": null
-    },
-    {
-      "title": "Simón da un vuelco a la cúpula de Indra: prescinde de cinco directivos de la época Escribano",
-      "excerpt": "Revolución en el comité de dirección de Indra. La compañía ha informado a última hora de la tarde de cambios de calado en la cúpula con la salida de cinco…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://cincodias.elpais.com/companias/2026-09-29/simon-da-un-vuelco-a-la-cupula-de-indra-prescinde-de-cinco-directivos-de-la-epoca-escribano.html",
-      "date": "2026-09-29T19:07:33.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/7DMTSCPHFBD3XGMOEMRU7WCMSE.jpg?auth=f3443946b7706cadf5a7181f392f9ff87b57893069795ebbaeddcc62bf6163b1"
-    },
-    {
-      "title": "El bono de EE UU a 30 años escala a máximos de 2002 y mantiene la presión sobre las Bolsas",
-      "excerpt": "A los inversores se les agota la paciencia y las correcciones puntuales del petróleo ya no bastan para disipar los temores inflacionistas. La falta de avances…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-09-29/la-bolsa-y-el-ibex-35.html",
-      "date": "2026-09-29T19:05:07.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/WX3N6WGMUNCQ5C5B57YXY4LT2E.jpg?auth=afa1b996f531f5c555f98da446c1459e03e28284071410608fa6f6a44393a87c"
     }
   ]
 }
