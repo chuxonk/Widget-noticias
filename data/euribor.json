@@ -3,12 +3,12 @@
   "fuente": "Banco Central Europeo",
   "consultado": "2026-10-01",
   "ultimo": {
+    "periodo": "2026-09",
+    "valor": 3.247
+  },
+  "anterior": {
     "periodo": "2026-08",
     "valor": 2.954
   },
-  "anterior": {
-    "periodo": "2026-07",
-    "valor": 2.855
-  },
-  "variacion": 0.099
+  "variacion": 0.293
 }
