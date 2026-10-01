@@ -1,7 +1,7 @@
 {
   "serie": "Euribor 12 meses (media mensual)",
   "fuente": "Banco Central Europeo",
-  "consultado": "2026-09-30",
+  "consultado": "2026-10-01",
   "ultimo": {
     "periodo": "2026-08",
     "valor": 2.954
