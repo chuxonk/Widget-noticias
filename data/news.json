@@ -1,7 +1,70 @@
 {
-  "generatedAt": "2026-10-02T22:18:30.074Z",
+  "generatedAt": "2026-10-03T05:24:56.037Z",
   "count": 15,
   "items": [
+    {
+      "title": "La eutanasia del rentista en España ataca la enfermedad equivocada",
+      "excerpt": "Cuando John Maynard Keynes escribió en 1936 sobre la “eutanasia del rentista”, imaginaba que la abundancia de capital hundiría los rendimientos. El Gobierno…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://cincodias.elpais.com/opinion/2026-10-03/la-eutanasia-del-rentista-en-espana-ataca-la-enfermedad-equivocada.html",
+      "date": "2026-10-03T03:40:00.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/UFBTJGTILRKGRGQDTGNQ6464AM.jpg?auth=e111c9a0f321cf8976cba75b54da61f7f35a13f772e415edd16570bc9a583745"
+    },
+    {
+      "title": "El castigo a la deuda francesa se extiende a Italia y amenaza con contagiar a la eurozona",
+      "excerpt": "Desde la creación del euro, los inversores han visto a Francia como una apuesta relativamente segura, pese a las turbulencias políticas, a un déficit público…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-10-03/el-castigo-a-la-deuda-francesa-se-extiende-a-italia-y-amenaza-con-contagiar-a-la-eurozona.html",
+      "date": "2026-10-03T03:30:01.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/PPNLP2BRHVIH3HPXET6WYKUA2E.jpg?auth=f9d3d82bff7663a0a71cde20e06a970ff353cb2ad699798cca461144f2b7b4c8"
+    },
+    {
+      "title": "Sánchez mide el alcance del malestar social contra la derecha para decidir si convoca ya elecciones",
+      "excerpt": "Estaba escrita y medida, y la frase lo decía todo: “Hagan lo correcto porque la historia les juzgará antes de lo que creen y con más contundencia de la que se…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://elpais.com/espana/2026-10-03/sanchez-mide-el-alcance-del-malestar-social-contra-la-derecha-para-decidir-si-convoca-ya-elecciones.html",
+      "date": "2026-10-03T03:30:01.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/YGAKI36N5VHRRLXRN3VYTW6YS4.JPG?auth=e34c8238b14ff2d6bf2c8ee71d43aa44b9a5e6847d170a034ef88c02b5c93b59"
+    },
+    {
+      "title": "El comprador de vivienda llega a su límite: cada vez más anuncios bajan sus precios y ha vuelto la negociación",
+      "excerpt": "Los reales decretos ley de vivienda finalmente no han salido adelante en el pleno del Congreso de los Diputados del viernes. Incluían medidas para tratar de…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://elpais.com/economia/negocios/2026-10-03/el-comprador-de-vivienda-llega-a-su-limite-cada-vez-mas-anuncios-bajan-sus-precios-y-ha-vuelto-la-negociacion.html",
+      "date": "2026-10-03T03:30:00.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/OHYZHUZDGJBV5JWAHFRUKIQTRE.jpg?auth=36cd47ac4d3be13854b9b049c80dc49884638e1e266ba50d82e5d966f21a16a7"
+    },
+    {
+      "title": "Hoy No Circula sabatino: qué autos pueden circular y cuáles descansan el 3 de octubre",
+      "excerpt": "Este fin de semana entra nuevamente en vigor el dispositivo del Hoy No Circula sabatino, la medida de control vehicular mediante la cual la Secretaría de…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/mexico/hoy-no-circula-sabatino-que-autos-pueden-circular-cuales-descansan-3-octubre",
+      "date": "2026-10-03T03:01:22.000Z",
+      "image": "https://i.blogs.es/4347dc/nabeel-syed-jk3-uhdwjcs-unsplash/1024_2000.jpeg"
+    },
+    {
+      "title": "El Congreso como expresión de España",
+      "excerpt": "Tras el golpe de Junts, el Gobierno se encuentra en una situación imposible de defender.",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/economia/politica/2026/10/03/6ac0338be5fdea335c8b457e.html",
+      "date": "2026-10-02T22:43:47.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/03/17909809734342.jpg"
+    },
+    {
+      "title": "Alivio en el sector inmobiliario, con cautela ante el riesgo de más caída en la oferta de alquileres",
+      "excerpt": "Los expertos inmobiliarios consultados por este diario celebran la derogación de los dos decretos de vivienda, aunque advierten de los daños que el caos por…",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/economia/2026/10/03/6abfef4fe5fdeaca498b4575.html",
+      "date": "2026-10-02T22:26:16.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/02/17909630546482.jpg"
+    },
     {
       "title": "Este truco te permite instalar y actualizar Windows 11 2026 en ordenadores de hace 20 años",
       "excerpt": "Una de las decisiones más controvertidas de Windows 11 desde su lanzamiento fue la compatibilidad. Microsoft endureció los requisitos mínimos, dejando fuera…",
@@ -73,69 +136,6 @@
       "url": "https://www.xataka.com/espacio/spacex-ha-lanzado-tres-cohetes-13-horas-ultimo-llevaba-secreto-estados-unidos",
       "date": "2026-10-02T19:01:23.000Z",
       "image": "https://i.blogs.es/22fc90/falcon_heavy_spacex/1024_2000.jpeg"
-    },
-    {
-      "title": "El Ibex se deja un 3,1% en su peor semana desde abril",
-      "excerpt": "La ralentización del empleo de Estados Unidos, mayor de lo previsto, lleva a los inversores a moderar sus expectativas sobre una próxima subida de tipos de la…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-10-02/la-bolsa-y-el-ibex-35.html",
-      "date": "2026-10-02T18:46:56.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/7FPGQA6QNRG6NBABH2IZGFARY4.png?auth=29d3dd6f6a47556c05b2c9f1ef35567efda047c8d91782e8ae2d0a5a900a1abb"
-    },
-    {
-      "title": "Tenemos un nuevo modelo capaz de pasar el test de Turing en vídeo. O al menos eso dicen sus creadores",
-      "excerpt": "Una videollamada tiene algo que durante mucho tiempo hemos dado casi por sentado: si vemos a alguien reaccionar a lo que decimos, interrumpirnos, sonreír en…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/robotica-e-ia/tenemos-nuevo-modelo-capaz-pasar-test-turing-video-al-eso-dicen-sus-creadores",
-      "date": "2026-10-02T18:31:23.000Z",
-      "image": "https://i.blogs.es/f42e2e/griffin-turing-test2.png/1024_2000.jpeg"
-    },
-    {
-      "title": "Comisiones Obreras y UGT llaman a la protesta después del rechazo del Congreso a los decretos de vivienda",
-      "excerpt": "Comisiones Obreras (CC.OO.) y la Unión General de Trabajadores (UGT) han pedido este viernes que los ciudadanos participen en las protestas convocadas por…",
-      "source": "Europa Press",
-      "category": "Economía",
-      "url": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-comisiones-obreras-ugt-llaman-protesta-despues-rechazo-congreso-decretos-vivienda-20261002200326.html",
-      "date": "2026-10-02T18:03:26.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261002200326_120.jpg"
-    },
-    {
-      "title": "No eres tú: al Papa León XIV tampoco le gustan las imágenes generadas por IA",
-      "excerpt": "Si estás cansado de las imágenes generadas por IA, no eres el único. Esta moda está colmando la paciencia de muchos, incluida la del Papa León XIV. El máximo…",
-      "source": "Hipertextual",
-      "category": "Tecnología",
-      "url": "https://hipertextual.com/inteligencia-artificial/papa-leon-xiv-critica-imagenes-generadas-ia/",
-      "date": "2026-10-02T18:01:56.000Z",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/papa-leon-xiv.jpg?fit=1024%2C682&quality=70&strip=all&ssl=1"
-    },
-    {
-      "title": "El G7 liberará 100 millones de barriles de petróleo y diésel por la presión de Trump",
-      "excerpt": "La decisión aleja la prohibición de exportaciones de diésel por parte de EEUU. El barril de Brent ha llegado a caer más de un 3%, pero recupera los 102 por…",
-      "source": "Expansión",
-      "category": "Economía",
-      "url": "https://www.expansion.com/economia/2026/10/02/6abfc2ca468aebc31e8b457a.html",
-      "date": "2026-10-02T17:31:04.000Z",
-      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/02/17909522456475.jpg"
-    },
-    {
-      "title": "Argentina lanza un \"pasaporte dorado\": 'vende' la nacionalidad desde 350.000 dólares a inversores extranjeros",
-      "excerpt": "El Gobierno argentino ha anunciado este viernes un \"Programa de ciudadanía por inversión\", más conocido como \"pasaporte dorado\", la última iniciativa del…",
-      "source": "El Economista",
-      "category": "Economía",
-      "url": "https://www.eleconomista.es/economia/noticias/14018426/10/26/argentina-lanza-un-pasaporte-dorado-vende-la-nacionalidad-desde-350000-dolares-a-inversores-extranjeros.html",
-      "date": "2026-10-02T16:19:58.000Z",
-      "image": null
-    },
-    {
-      "title": "Sandra Aurrecoechea, abogada: \"El preaviso del arrendador vuelve a ser de cuatro meses y el del arrendatario de dos\"",
-      "excerpt": "Los dos decretos de vivienda que el Gobierno llevó al Consejo de Ministros han tenido solo unos días de vigencia después de ser rechazados por el Congreso con…",
-      "source": "El Economista",
-      "category": "Economía",
-      "url": "https://www.eleconomista.es/economia/noticias/14018424/10/26/sandra-aurrecoechea-abogada-el-preaviso-del-arrendador-vuelve-a-ser-de-cuatro-meses-y-el-del-arrendatario-de-dos.html",
-      "date": "2026-10-02T16:14:02.000Z",
-      "image": null
     }
   ]
 }
