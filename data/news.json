@@ -1,15 +1,42 @@
 {
-  "generatedAt": "2026-10-03T21:23:02.736Z",
+  "generatedAt": "2026-10-04T06:00:05.820Z",
   "count": 15,
   "items": [
     {
-      "title": "Reacciones a los decretos de vivienda y las acampadas en directo| Detenidos tres manifestantes de grupos de ultraderecha que intentaban llegar a la acampada de Sol",
-      "excerpt": "La Policía Nacional ha detenido este sábado a tres manifestantes que han participado en una concentración de extrema derecha en Cibeles y que después han…",
+      "title": "Dormir mal cuesta dinero a la empresa y hace peores a los jefes",
+      "excerpt": "Meterse en la cama por la noche, apagar la luz y que el sueño no llegue. Dar una cabezada en el sofá y al pasar al colchón los ojos se abren como los de un…",
       "source": "Cinco Días",
       "category": "Economía",
-      "url": "https://elpais.com/espana/2026-10-03/reacciones-a-los-decretos-de-vivienda-y-las-acampadas-en-directo.html",
-      "date": "2026-10-03T20:46:03.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/2U3EJ7OT75EMHJZXRNHCXI7EDU.jpg?auth=c4820e9b838da110335897c1543942095ba22b525d93991ca473c5cc84d8c6e6"
+      "url": "https://cincodias.elpais.com/fortunas/2026-10-04/dormir-mal-cuesta-dinero-a-la-empresa-y-hace-peores-a-los-jefes.html",
+      "date": "2026-10-04T03:46:00.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/QSRXWBRJPVEOZF4IYUYDT5CN6Q.jpg?auth=9a8fe74a475d991cdfc30e71455bf4802e16a721975f3910b3866acb27ed848a"
+    },
+    {
+      "title": "Las claves: la situación en torno al diésel se enfría un poco, pero sigue estando muy caliente",
+      "excerpt": "El diésel (y los derivados del petróleo en general) está afrontando una tormenta perfecta de dificultades que ha disparado su precio. Se supone que Donald…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://cincodias.elpais.com/opinion/2026-10-04/las-claves-la-situacion-en-torno-al-diesel-se-enfria-un-poco-pero-sigue-estando-muy-caliente.html",
+      "date": "2026-10-04T03:40:00.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/5Z4D5QH77NNNVMVAC4YUKB4GPU.jpg?auth=6803417456b5e7a922d106315999fd1d43c6eba85295eaff41d213cc10c50671"
+    },
+    {
+      "title": "El apocalipsis laboral de la IA se pospone (por ahora)",
+      "excerpt": "Hay tres versiones del Apocalipsis de San Juan, un texto que nunca pierde vigencia, anticipando los impactos de la inteligencia artificial (IA). Una: la…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://elpais.com/economia/2026-10-04/el-apocalipsis-laboral-de-la-ia-se-pospone-por-ahora.html",
+      "date": "2026-10-04T03:30:00.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/4KJVI4X5E5LDFLM2FJL2GZYK3U.jpg?auth=7e4a276645ec004a699b9e553375e572380d521f17b369f0433921e187f820f5"
+    },
+    {
+      "title": "Thomas Piketty: “El futuro que nos están preparando los multimillonarios es distópico”",
+      "excerpt": "La mayor parte del planeta con ingresos equivalentes a 5.000 euros al mes en el año 2100. Las temperaturas promedio, solo 1,8 grados por encima de las de la…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://elpais.com/economia/negocios/2026-10-04/thomas-piketty-el-futuro-que-nos-estan-preparando-los-multimillonarios-es-distopico.html",
+      "date": "2026-10-04T03:30:00.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/DSBT6YEDBFGJDAYK5ZI4LRY7WU.jpg?auth=47f84a8f748decc98e27cb8f10390859d59158c34a927fca784f4751dc1d4095"
     },
     {
       "title": "Detenidos tres manifestantes de la concentración de Indignados por España al intentar alcanzar la acampada de Sol",
@@ -39,7 +66,7 @@
       "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/03/17910340561319.jpg"
     },
     {
-      "title": "Una tumba etrusca con eco de catedral: la muerte hace 2.500 años era una experiencia inmersiva",
+      "title": "Los etruscos diseñaron sus tumbas hace 2.500 años con un sobrecogedor \"efecto catedral\": la muerte era un espectáculo sensorial",
       "excerpt": "La escena parece sacada de una película de Indiana Jones o de un Unchartred, pero es real: imagina bajar por un corredor de unos 13 metros bajo tierra…",
       "source": "Xataka",
       "category": "Tecnología",
@@ -57,7 +84,7 @@
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/teclado-mecanico.jpg?fit=1024%2C683&quality=70&strip=all&ssl=1"
     },
     {
-      "title": "Mientras anuncia márgenes récord y más fábricas, el CEO de Micron avisa de la crisis de RAM: \"Escaseará más en 2027 y 2028 que hoy\"",
+      "title": "\"Escaseará más en 2027 y 2028 que hoy\". El demoledor aviso del CEO de Micron sobre la RAM tras firmar un trimestre récord",
       "excerpt": "La crisis de la memoria se ha convertido en el cuello de botella de la era de la IA también en la culpable de que la toda tecnología de consumo esté mucho más…",
       "source": "Xataka",
       "category": "Tecnología",
@@ -109,33 +136,6 @@
       "url": "https://www.expansion.com/economia/2026/10/03/6ac0e1dbe5fdeaff178b4594.html",
       "date": "2026-10-03T11:11:57.000Z",
       "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/03/17910258610467.jpg"
-    },
-    {
-      "title": "¿De dónde va a sacar Rusia 202.000 millones de dólares, su presupuesto de guerra récord para 2027?",
-      "excerpt": "Rusia se está preparando para gastarse hasta 202.000 millones de dólares en sus fuerzas militares en 2027. Se trata de una cifra sin precedentes, un récord…",
-      "source": "El Economista",
-      "category": "Economía",
-      "url": "https://www.eleconomista.es/economia/noticias/14018513/10/26/de-donde-va-a-sacar-rusia202000-millones-de-dolares-su-presupuesto-de-guerra-record-para-2027.html",
-      "date": "2026-10-03T09:34:04.000Z",
-      "image": null
-    },
-    {
-      "title": "El Secretario General Iberoamericano pide una alianza en IA y destaca la oportunidad que ofrece Latinoamérica",
-      "excerpt": "El Secretario General Iberoamericano (Segib), Andrés Allamand, ha destacado este sábado la \"gigantesca oportunidad\" que ofrece América Latina para las grandes…",
-      "source": "Europa Press",
-      "category": "Economía",
-      "url": "https://www.europapress.es/economia/noticia-secretario-general-iberoamericano-pide-alianza-ia-destaca-oportunidad-ofrece-latinoamerica-20261003105553.html",
-      "date": "2026-10-03T08:55:53.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261003105553_120.jpg"
-    },
-    {
-      "title": "El fracaso del Brexit: más de la mitad de los británicos desea volver a la UE",
-      "excerpt": "La mitad de los votantes británicos está a favor de la vuelta del Reino Unido a la Unión Europea (UE), según un sondeo que publica este sábado el diario The…",
-      "source": "El Economista",
-      "category": "Economía",
-      "url": "https://www.eleconomista.es/economia/noticias/14018507/10/26/el-fracaso-del-brexit-mas-de-la-mitad-de-los-britanicos-desea-volver-a-la-ue.html",
-      "date": "2026-10-03T08:43:48.000Z",
-      "image": null
     }
   ]
 }
