@@ -1,18 +1,117 @@
 {
-  "generatedAt": "2026-10-06T22:41:00.370Z",
+  "generatedAt": "2026-10-07T06:07:21.852Z",
   "count": 15,
   "items": [
     {
-      "title": "Von der Leyen pide nuevos impuestos para evitar recortes en la UE",
-      "excerpt": "La presidenta se opone a la propuesta de los países frugales de recortar el presupuesto comunitario.",
+      "title": "La Seguridad Social confirma: la jubilación anticipada no reduce la futura pensión de viudedad del cónyuge",
+      "excerpt": "La principal preocupación cuando se valora pedir una jubilación anticipada es la inevitable reducción de la pensión.",
       "source": "Expansión",
       "category": "Economía",
-      "url": "https://www.expansion.com/economia/2026/10/07/6ac57173468aeb3e248b457d.html",
-      "date": "2026-10-06T22:29:07.000Z",
-      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/07/17913256144279.jpg"
+      "url": "https://www.expansion.com/economia/2026/10/07/6ac5a9d6e5fdea9f228b458d.html",
+      "date": "2026-10-07T05:37:06.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/07/17913393385356.jpg"
     },
     {
-      "title": "Sony prepara una nueva portátil, pero no te emociones todavía",
+      "title": "Las Bolsas europeas apuntan a la baja y el petróleo sube",
+      "excerpt": "Los precios del petróleo suben este miércoles con una tormenta dirigiéndose al Golfo de México y en plena escalada de tensiones entre Arabia Saudí y los…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-10-07/la-bolsa-y-el-ibex-35.html",
+      "date": "2026-10-07T05:27:20.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/P4I2H4BCWRKRBBLXCIQZKQG6YY.jpg?auth=f52febc812acca27e7c259cda213e0d8a4ea2ad24d81f99f55f86c5ee39181be"
+    },
+    {
+      "title": "Superstruct, el gigante de los festivales de música en España, cerró 2025 perdiendo más de 115 millones de euros",
+      "excerpt": "España (al igual que otros muchos países) salió del impasse obligado de la pandemia con ganas de viajar, conocer nuevos países… y disfrutar de música en…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/musica/gigante-festivales-superstruct-cerro-2025-perdiendo-115-millones-caldeando-debate-sector-vive-burbuja",
+      "date": "2026-10-07T05:01:21.000Z",
+      "image": "https://i.blogs.es/5cf6a4/barney-goodman-try69sky9iq-unsplash/1024_2000.jpeg"
+    },
+    {
+      "title": "Cada vez más gente quiere frenar los centros de datos. Amazon acaba de explicar por qué cree que sería un error histórico",
+      "excerpt": "Cada día utilizamos más inteligencia artificial y más servicios en la nube. Lo que resulta fácil olvidar es que eso no ocurre en el aire: detrás hay edificios…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/robotica-e-ia/cada-vez-gente-quiere-frenar-centros-datos-amazon-acaba-explicar-que-cree-que-seria-error-historico",
+      "date": "2026-10-07T04:31:22.000Z",
+      "image": "https://i.blogs.es/ce461a/aws-data-center/1024_2000.jpeg"
+    },
+    {
+      "title": "El alambre de espino fue convirtió una infraestructura crucial para el despegue del telégrafo en Estados Unidos",
+      "excerpt": "Aunque no lo inventó, el granjero Joseph Farwell Glidden logró en 1874 la patente del alambre de espino y convirtió aquel tipo de alambre en toda una leyenda…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/historia-tecnologica/alambre-espino-fue-convirtio-infraestructura-crucial-para-despegue-telegrafo-estados-unidos",
+      "date": "2026-10-07T04:01:22.000Z",
+      "image": "https://i.blogs.es/ac5fe8/photo-1758520502028-a9eaaa0c8fd5/1024_2000.jpeg"
+    },
+    {
+      "title": "Los sindicatos ultiman la fecha de la huelga general en noviembre entre críticas de la patronal y la derecha",
+      "excerpt": "Los representantes de los trabajadores irán en las primeras semanas de noviembre a la huelga general por la crisis de acceso a la vivienda que sufre España…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://elpais.com/economia/2026-10-07/los-sindicatos-ultiman-la-fecha-de-la-huelga-general-en-noviembre-entre-criticas-de-la-patronal-y-la-derecha.html",
+      "date": "2026-10-07T03:45:01.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/YPAFHJ6UGNFHNN74AXULE2BAJQ.jpg?auth=ed0904bd7fd076612ceeb634ab1e34720ea7599bb5f9134d76ead8153940930e"
+    },
+    {
+      "title": "Agentes de IA en nuestro comité de dirección: lo que no se puede delegar",
+      "excerpt": "Hace unos meses Bruselas hizo algo que muchos comités de dirección europeos llevaban un año esperando. Aplazó la entrada en vigor de algunas de las…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://cincodias.elpais.com/opinion/2026-10-07/agentes-de-ia-en-nuestro-comite-de-direccion-lo-que-no-se-puede-delegar.html",
+      "date": "2026-10-07T03:40:00.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/GAYN3IEPNJP2NEEBRCFSEO6VBI.jpg?auth=bf1858518a1265fa99e6eeee26d42462a761ce60d5930f9d30b4ad98406d71df"
+    },
+    {
+      "title": "Personas, empresas o grandes tenedores: ¿de quiénes son las viviendas en España?",
+      "excerpt": "España es un país de propietarios y, sobre todo, de pequeños propietarios. Pero ¿cuántos son? ¿Dónde están sus casas? ¿Y cuánta gente tiene decenas de…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://elpais.com/economia/vivienda/2026-10-07/personas-empresas-o-grandes-tenedores-de-quienes-son-las-viviendas-en-espana.html",
+      "date": "2026-10-07T03:30:01.000Z",
+      "image": null
+    },
+    {
+      "title": "Las elecciones en España traban los planes urgentes de la política europea",
+      "excerpt": "Cerrar el acuerdo del nuevo presupuesto comunitario se pone cuesta arriba con el Gobierno de uno de los países más relevantes por peso inmerso en una campaña…",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/elecciones/elecciones-generales/2026/10/07/6ac557af468aebff618b458c.html",
+      "date": "2026-10-07T00:24:01.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/06/17913188347490.jpg"
+    },
+    {
+      "title": "Trump anuncia un plan dotado con 6.600 millones de dólares para expandir la fabricación de submarinos",
+      "excerpt": "El presidente de Estados Unidos, Donald Trump, anunció este martes un plan de inversión público-privada por 6.600 millones de dólares para ampliar la…",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/economia/2026/10/07/6ac58ad8468aeb97598b457c.html",
+      "date": "2026-10-07T00:00:34.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/07/17913311974712.jpg"
+    },
+    {
+      "title": "Las elecciones más deseadas desde 1977",
+      "excerpt": "Desde mayo de 2023, los españoles han votado en elecciones municipales, autonómicas, generales y europeas, y aunque el PSOE de Sánchez perdió todas ellas…",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/elecciones/elecciones-generales/2026/10/07/6ac56a16468aebbf758b4581.html",
+      "date": "2026-10-06T23:48:07.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/07/17913303579810.jpg"
+    },
+    {
+      "title": "Apple y LG están por lanzar una oleada de dispositivos para el hogar inteligente",
+      "excerpt": "Apple ha tomado una eternidad para lanzar sus primeros dispositivos para el hogar inteligente. Tras años de espera en los que Amazon y Google tomaron la…",
+      "source": "Hipertextual",
+      "category": "Tecnología",
+      "url": "https://hipertextual.com/apple/apple-lg-timbres-cerraduras-camaras-inteligentes/",
+      "date": "2026-10-06T23:43:25.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/apple-logo.jpg?fit=1024%2C597&quality=70&strip=all&ssl=1"
+    },
+    {
+      "title": "Sony ya trabaja en una nueva portátil, pero no te emociones todavía",
       "excerpt": "Sony podría lanzar una nueva portátil en 2026. Una filtración dejó al descubierto dos dispositivos con características similares a las de la PlayStation…",
       "source": "Hipertextual",
       "category": "Tecnología",
@@ -37,105 +136,6 @@
       "url": "https://www.xataka.com/magnet/northrop-grumman-quiere-companero-para-f-35-f-22-que-no-lleve-piloto-talon-blue-ha-realizado-su-primer-vuelo",
       "date": "2026-10-06T21:08:46.000Z",
       "image": "https://i.blogs.es/b4d379/talon-blue-ff_resized/1024_2000.jpeg"
-    },
-    {
-      "title": "Las tormentas provocan retrasos, desvíos y cancelaciones en los aeropuertos de Madrid-Barajas y El Prat",
-      "excerpt": "Problemas en los dos principales aeropuertos españoles por el mal tiempo. Las tormentas de este martes han provocado retrasos, desvíos de vuelos y…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://elpais.com/economia/2026-10-06/las-tormentas-provocan-retrasos-desvios-y-cancelaciones-en-los-aeropuertos-de-madrid-barajas-y-en-el-prat.html",
-      "date": "2026-10-06T20:35:55.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/TEBV3N3EKND3FF2FNCNIAMKL6Y.jpg?auth=ae40d7473b4f0a5c127dc6cd37dd647a681540534f461bad324d4bef76d8ea5f"
-    },
-    {
-      "title": "Wall Street alcanza máximos históricos a pesar de las dudas sobre la deuda soberana",
-      "excerpt": "En apariencia, nada ha cambiado. La incertidumbre geopolítica sigue marcando el paso, Oriente Próximo continúa siendo un polvorín, las tensiones…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-10-06/la-bolsa-y-el-ibex-35.html",
-      "date": "2026-10-06T20:13:55.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/LMVOAL5V5VNQTGTZPIWY73KS7E.jpg?auth=8da333eab7fd16d93e2c1b71e5c51783331e012d385cec143ad907b19d404cbe"
-    },
-    {
-      "title": "Xbox prepara algo más grande que una consola y ofrece más detalles de Project Helix",
-      "excerpt": "Xbox ha revelado más detalles sobre su consola de próxima generación. Aunque la compañía ya había definido que Project Helix sería el siguiente paso, la…",
-      "source": "Hipertextual",
-      "category": "Tecnología",
-      "url": "https://hipertextual.com/videojuegos/xbox-project-helix-familia-consolas-proxima-generacion/",
-      "date": "2026-10-06T20:12:00.000Z",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/xbox-logo.jpg?fit=1024%2C683&quality=70&strip=all&ssl=1"
-    },
-    {
-      "title": "Volkswagen también tiene una correa húmeda parecida a la del PureTech de Stellantis, pero con una gran diferencia",
-      "excerpt": "Si hablamos de motores PureTech, es difícil separar su nombre de los problemas que han rodeado a su correa de distribución bañada en aceite. Y no hablamos…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/movilidad/volkswagen-tambien-tiene-correa-humeda-parecida-a-puretech-stellantis-gran-diferencia",
-      "date": "2026-10-06T19:31:22.000Z",
-      "image": "https://i.blogs.es/89f49b/volkswagen-tdi/1024_2000.png"
-    },
-    {
-      "title": "Vivienda: el ciudadano de a pie también necesita seguridad jurídica",
-      "excerpt": "A veces no hace falta esperar años para comprobar los efectos de una política pública. Basta observar cómo reaccionan quienes tienen que tomar decisiones bajo…",
-      "source": "Expansión",
-      "category": "Economía",
-      "url": "https://www.expansion.com/opinion/2026/10/06/vivienda-ciudadano-pie-tambien-necesita-seguridad-juridica.html",
-      "date": "2026-10-06T19:25:01.000Z",
-      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/06/17913146821052.jpg"
-    },
-    {
-      "title": "El decreto que será convalidado incluye la cuenta europea de inversión",
-      "excerpt": "Las plusvalías no tributarán mientras permanezcan en la cuenta. A partir de los cinco años, las ganancias \"quedarán totalmente exentas hasta 10.000 euros y…",
-      "source": "Expansión",
-      "category": "Economía",
-      "url": "https://www.expansion.com/economia/2026/10/06/6ac54a24e5fdea323d8b459a.html",
-      "date": "2026-10-06T19:21:16.000Z",
-      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/06/17913143346179.jpg"
-    },
-    {
-      "title": "Cómo afrontar el problema de la vivienda",
-      "excerpt": "Volquemos nuestra energía como sociedad en aplicar soluciones de oferta para el mercado inmobiliario que han demostrado su eficacia.",
-      "source": "Expansión",
-      "category": "Economía",
-      "url": "https://www.expansion.com/opinion/2026/10/06/afrontar-problema-vivienda.html",
-      "date": "2026-10-06T19:18:22.000Z",
-      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/06/17913142936690.jpg"
-    },
-    {
-      "title": "Exjefe de PlayStation Studios, contra la muerte de los juegos en disco: “Si no eres dueño del juego, ¿qué estás comprando?”",
-      "excerpt": "Pasan los meses, pero la decisión de Sony de matar los juegos de PlayStation en disco sigue dando que hablar. Si bien la medida comenzará a regir a partir de…",
-      "source": "Hipertextual",
-      "category": "Tecnología",
-      "url": "https://hipertextual.com/videojuegos/shawn-layden-playstation-studios-desacuerdo-fin-juegos-en-disco/",
-      "date": "2026-10-06T19:03:00.000Z",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/juegos-PS5-scaled.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1"
-    },
-    {
-      "title": "El mercado del petróleo necesitará hasta dos años para recuperar sus reservas aunque Ormuz reabra hoy mismo",
-      "excerpt": "Hace ya siete meses que Irán decidió cerrar el estrecho de Ormuz, en respuesta a la ofensiva estadounidense e israelí del 28 de febrero. Las consecuencias se…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/energia/mercado-petroleo-necesitara-dos-anos-para-recuperar-sus-reservas-ormuz-reabra-hoy",
-      "date": "2026-10-06T19:01:23.000Z",
-      "image": "https://i.blogs.es/433111/fredrick-f-u9_prasawlc-unsplash/1024_2000.jpeg"
-    },
-    {
-      "title": "El Brent retoma los 100 dólares pese a la liberación de reservas y el aumento del flujo de petróleo",
-      "excerpt": "El precio del barril de Brent ha escalado por encima de los 100 dólares después de tocar los 97 dólares durante la jornada, a pesar del reciente anuncio de…",
-      "source": "Europa Press",
-      "category": "Economía",
-      "url": "https://www.europapress.es/economia/noticia-brent-retoma-100-dolares-pese-liberacion-reservas-aumento-flujo-petroleo-20261006205440.html",
-      "date": "2026-10-06T18:54:40.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261006205440_120.jpg"
-    },
-    {
-      "title": "Esta semana en Lidl, descuento en toda su web sin mínimo de compra: estos son nuestros dispositivos favoritos",
-      "excerpt": "Entrar en la web de Lidl es perderse por un catálogo donde podemos encontrar todo tipo de dispositivos y gadgets. Los podemos encontrar en muchas ocasiones…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/seleccion/esta-semana-lidl-descuento-toda-su-web-minimo-compra-estos-nuestros-dispositivos-favoritos",
-      "date": "2026-10-06T18:15:23.000Z",
-      "image": "https://i.blogs.es/29f821/lidl-happy-days-portada/1024_2000.jpeg"
     }
   ]
 }
