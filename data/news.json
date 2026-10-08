@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-10-07T20:39:42.091Z",
+  "generatedAt": "2026-10-08T01:03:07.631Z",
   "count": 15,
   "items": [
+    {
+      "title": "Bruselas baraja un tasazo a las 'Big Tech' con un impuesto a grandes empresas",
+      "excerpt": "La propuesta bebe del plan de 2025 de lanzar impuesto a las empresas con 100 millones de facturación, pero elevando el umbral para afectar solo a las firmas…",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/economia/2026/10/08/6ac6d93b468aeb042b8b4593.html",
+      "date": "2026-10-07T23:47:24.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/08/17914167659382.jpg"
+    },
+    {
+      "title": "Microsoft y NVIDIA unen fuerzas para llevar la IA de Windows al siguiente nivel",
+      "excerpt": "La idea de un Windows que trabaja por ti a través de agentes de IA es algo que ha estado en la mente de Microsoft desde hace un tiempo. Si hacemos memoria, la…",
+      "source": "Hipertextual",
+      "category": "Tecnología",
+      "url": "https://hipertextual.com/inteligencia-artificial/microsoft-nvidia-windows-agentes-ia-mxc-rtx-spark/",
+      "date": "2026-10-07T23:42:27.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/jensenhuang-satyanadella-microsoft-nvidia.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1"
+    },
+    {
+      "title": "ChatGPT cambia para siempre: ahora responde con gráficos, imágenes y herramientas interactivas",
+      "excerpt": "OpenAI actualizó ChatGPT con nuevas funciones que mejoran las respuestas de la IA. La compañía integró GPT-6 para todos los usuarios gratuitos, quienes…",
+      "source": "Hipertextual",
+      "category": "Tecnología",
+      "url": "https://hipertextual.com/inteligencia-artificial/chatgpt-gpt-6-respuestas-visuales-intelligent-ui/",
+      "date": "2026-10-07T21:45:00.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/chatgpt-6.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1"
+    },
+    {
+      "title": "Feijóo asegura que solo cabe \"respeto\" por la muerte de Maricarmen: \"Ni campaña, ni partidos, ni utilización interesada\"",
+      "excerpt": "El presidente del Partido Popular, Alberto Núñez Feijóo, ha apelado al \"respeto\" tras la muerte de Maricarmen, y ha rechazado una \"utilización interesada\" de…",
+      "source": "Europa Press Tecnología",
+      "category": "Tecnología",
+      "url": "https://www.europapress.es/sociedad/noticia-feijoo-asegura-solo-cabe-respeto-muerte-maricarmen-campana-partidos-utilizacion-interesada-20261007233244.html",
+      "date": "2026-10-07T21:32:44.000Z",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261007233244_120.jpg"
+    },
     {
       "title": "Microsoft anuncia el Surface Laptop Ultra con NVIDIA RTX Spark: tiene un detalle novedoso y un precio que asusta",
       "excerpt": "Después de una larga espera, Microsoft por fin ha presentado apropiadamente el nuevo Surface Laptop Ultra. Estamos hablando de un ordenador portátil muy…",
@@ -37,15 +73,6 @@
       "url": "https://www.expansion.com/catalunya/2026/10/07/seguridad-juridica-plazo-receta-promotores-crisis-alquiler.html",
       "date": "2026-10-07T20:21:04.000Z",
       "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/07/17914044571207.jpg"
-    },
-    {
-      "title": "La ley catalana de cámaras de comercio sale adelante tras más de una década en el tintero",
-      "excerpt": "Pasan a recibir financiación pública con la nueva regulación, aprobada por amplia mayoría en el Parlament.",
-      "source": "Expansión",
-      "category": "Economía",
-      "url": "https://www.expansion.com/catalunya/2026/10/07/ley-catalana-camaras-comercio-sale-adelante-decada-tintero.html",
-      "date": "2026-10-07T20:11:23.000Z",
-      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/07/17914038741084.jpg"
     },
     {
       "title": "El premio a mejor chollo en móviles durante la Fiesta de Ofertas Prime se lo lleva el Google Pixel 11 Pro con estas configuraciones",
@@ -93,15 +120,6 @@
       "image": "https://i.blogs.es/4c7ed3/cafetera-ninja-luxe-mini/1024_2000.jpeg"
     },
     {
-      "title": "La forma más económica de llevar WiFi 6 a cualquier habitación es este amplificador Mercusys rebajado hoy",
-      "excerpt": "Las habitaciones alejadas del router o los muros gruesos suelen provocar \"zonas muertas\" de Internet en casa. Si buscas una solución rápida y barata para…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/seleccion/forma-economica-llevar-wifi-6-a-cualquier-habitacion-este-amplificador-mercusys-rebajado-hoy",
-      "date": "2026-10-07T19:16:37.000Z",
-      "image": "https://i.blogs.es/e75ba3/repetidor-mercusys/1024_2000.jpeg"
-    },
-    {
       "title": "Sindicatos confirman la huelga general por la vivienda para el 11 de noviembre",
       "excerpt": "La Confederación de Sindicatos de Inquilinas (CSI), UGT, CCOO, CGT, CNT, Acción Social de Solidaridad Obrera y Co.Bas han acordado este miércoles convocar una…",
       "source": "Europa Press",
@@ -111,15 +129,6 @@
       "image": "https://img.europapress.es/fotoweb/fotonoticia_20261007210859_120.jpg"
     },
     {
-      "title": "La factura de la luz del usuario medio supera los 104 euros pese al récord de generación solar en España",
-      "excerpt": "La energía solar fotovoltaica lideró el mix eléctrico durante el mes de septiembre por sexto mes consecutivo. Y, sin embargo, la que es la tecnología más…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/energia/factura-luz-usuario-medio-supera-104-euros-pese-al-record-generacion-solar-espana",
-      "date": "2026-10-07T19:00:40.000Z",
-      "image": "https://i.blogs.es/1ffb83/manny-becerra-ss73u_ukr3u-unsplash/1024_2000.jpeg"
-    },
-    {
       "title": "Muere Maricarmen, la mujer que encendió la lucha contra los desahucios en España",
       "excerpt": "Maricarmen Abascal, la mujer que encendió la lucha contra los desahucios en España, ha fallecido este miércoles en el Hospital Gregorio Marañón a los 87 años…",
       "source": "Cinco Días",
@@ -127,15 +136,6 @@
       "url": "https://elpais.com/espana/2026-10-07/muere-maricarmen-la-mujer-que-encendio-la-lucha-contra-los-desahucios-en-espana.html",
       "date": "2026-10-07T18:42:08.000Z",
       "image": "https://imagenes.elpais.com/resizer/v2/J4PJ3T7NMRGKDIBFGQESXRURG4.jpg?auth=bbe36980ca0e5f90dae43f196cc3ed4d82847780c2bf01a32bd1550ed0999380"
-    },
-    {
-      "title": "Elon Musk dobla las manos y confirma que usará la IA de sus rivales en Grok",
-      "excerpt": "Elon Musk confirmó que Grok Bot usará modelos de IA rivales para ayudarlo a responder. A unos meses de haber catalogado a Anthropic como \"malvada\", Musk ahora…",
-      "source": "Hipertextual",
-      "category": "Tecnología",
-      "url": "https://hipertextual.com/inteligencia-artificial/grok-bot-claude-opus-5-5-modelos-competencia/",
-      "date": "2026-10-07T18:40:00.000Z",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/grok-bot.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1"
     }
   ]
 }
