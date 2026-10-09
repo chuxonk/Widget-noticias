@@ -1,24 +1,96 @@
 {
-  "generatedAt": "2026-10-08T18:53:12.700Z",
+  "generatedAt": "2026-10-09T01:15:15.715Z",
   "count": 15,
   "items": [
     {
-      "title": "El Gobierno ve imposible separar entre nacionalizados por 'ley de nietos' y otros motivos antes de las elecciones",
-      "excerpt": "El Gobierno considera \"materialmente imposible\" que antes de las elecciones generales adelantadas para el próximo 29 de noviembre se pueda diferenciar entre…",
+      "title": "El Gobierno acelera para aprobar la subida del salario mínimo a más de 1.270 euros al mes",
+      "excerpt": "Yolanda Díaz da menos de un mes a los expertos para que fijen la recomendación de revalorización para 2027. El mínimo será el IPC medio para garantizar el…",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/economia/2026/10/09/6ac7d6ce468aeb19768b4594.html",
+      "date": "2026-10-09T00:26:04.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/08/17914811532563.jpg"
+    },
+    {
+      "title": "Una visita a la acampada",
+      "excerpt": "Ante esta segunda enrabietada cita en la Puerta del Sol de Madrid, Pedro Sánchez pretende lanzar una opa por fusión a la comunidad nacional de los zurdos…",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/economia/politica/2026/10/09/6ac7f7a1e5fdea8e2a8b45b1.html",
+      "date": "2026-10-08T23:12:29.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/08/17914899066941.jpg"
+    },
+    {
+      "title": "Corea del Sur detecta indicios de IA en ataques a sus principales bancos y el presidente exige respuestas",
+      "excerpt": "Cuando pensamos en inteligencia artificial solemos hacerlo desde el lado de quien intenta ganar tiempo, automatizar tareas o analizar enormes cantidades de…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/seguridad/corea-sur-detecta-indicios-ia-ataques-a-sus-principales-bancos-presidente-exige-respuestas",
+      "date": "2026-10-08T21:13:31.000Z",
+      "image": "https://i.blogs.es/156186/corea-del-sur/1024_2000.jpeg"
+    },
+    {
+      "title": "Paramount pone en marcha una película live-action de ‘Cyberpunk 2077’",
+      "excerpt": "Cyberpunk 2077 tendrá su propia película live-action, desarrollada de la mano de Paramount Pictures. Según reporta Deadline, el proyecto cuenta con el aval de…",
+      "source": "Hipertextual",
+      "category": "Tecnología",
+      "url": "https://hipertextual.com/cine-television/cyberpunk-2077-pelicula-live-action-paramount/",
+      "date": "2026-10-08T20:52:24.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2021/03/Cyberpunk-2077.jpeg?fit=1024%2C576&quality=70&strip=all&ssl=1"
+    },
+    {
+      "title": "Los robots no siempre saben que una pared de cristal existe y eso es un problema",
+      "excerpt": "Hay algo que damos por hecho al caminar por una oficina: aunque podamos ver lo que hay al otro lado de una mampara de cristal, sabemos que no podemos…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/robotica-e-ia/robots-no-siempre-saben-que-pared-cristal-existe-eso-problema",
+      "date": "2026-10-08T20:00:27.000Z",
+      "image": "https://i.blogs.es/d95c99/robot-cristal-portada/1024_2000.jpeg"
+    },
+    {
+      "title": "Esta gigantesca nube de Marte aparece cada mañana, mide más de 1.000 km y desaparece siempre antes de la tarde",
+      "excerpt": "En Marte existe una nube que ha llamado durante años la atención de los científicos. Se llama Nube Alargada de Arsia Mons (AMEC) y resulta interesante por…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/espacio/esta-nube-marte-aparece-cada-manana-mide-1-000-km-desaparece-antes-tarde-ahora-sabemos-que",
+      "date": "2026-10-08T19:30:26.000Z",
+      "image": "https://i.blogs.es/6e9100/nube-marte/1024_2000.jpeg"
+    },
+    {
+      "title": "El estreno más importante de la semana en Netflix: un thriller de seis episodios con Josh Harnett y la atmósfera de Stephen King",
+      "excerpt": "Octubre acaba de empezar y ya tenemos decenas de estrenos en las principales plataformas. Hoy nos centramos en Netflix, que este jueves día 8 da la bienvenida…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/streaming/estreno-importante-semana-netflix-thriller-seis-episodios-josh-harnett-atmosfera-stephen-king",
+      "date": "2026-10-08T19:00:28.000Z",
+      "image": "https://i.blogs.es/a28b0b/below/1024_2000.jpeg"
+    },
+    {
+      "title": "‘Forza Horizon 6’ tiene fecha de lanzamiento en PS5 y sí, tendrás que esperar hasta 2027",
+      "excerpt": "Los rumores estaban en lo cierto: Forza Horizon 6 debutará en la PS5 en 2027. A pesar de que Playground Games había prometido que su aclamado juego de…",
+      "source": "Hipertextual",
+      "category": "Tecnología",
+      "url": "https://hipertextual.com/videojuegos/forza-horizon-6-ps5-fecha-lanzamiento-confirmada/",
+      "date": "2026-10-08T19:00:00.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/batch_massive_FH_6_Car_Pack_02_Italian_Passion_ALF_00_SE_048_SP_01_16x9_WM_9d9df31556.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1"
+    },
+    {
+      "title": "Bruselas descarta dar más flexibilidad fiscal a los países por la crisis energética",
+      "excerpt": "El comisario de Economía, Valdis Dombrovskis, rechaza la petición de Grecia e Italia al entender que Bruselas descarta dar más flexibilidad fiscal a los…",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/economia/2026/10/08/6ac7e632e5fdea3d398b4599.html",
+      "date": "2026-10-08T18:51:37.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/08/17914854120779.jpg"
+    },
+    {
+      "title": "Gobierno ve imposible separar entre nacionalizados por 'ley de nietos' y otros motivos antes de elecciones",
+      "excerpt": "El Gobierno considera \"materialmente imposible\" que antes de las elecciones generales del próximo 29 de noviembre se pueda diferenciar entre los…",
       "source": "Europa Press Tecnología",
       "category": "Tecnología",
       "url": "https://www.europapress.es/nacional/noticia-gobierno-ve-imposible-separar-nacionalizados-ley-nietos-otros-motivos-antes-elecciones-20261008203522.html",
       "date": "2026-10-08T18:35:22.000Z",
       "image": "https://img.europapress.es/fotoweb/fotonoticia_20261008203522_120.jpg"
-    },
-    {
-      "title": "Ya son oficiales los nuevos altavoces de JBL, dos opciones diferentes con sonido potente e IA donde la luz tiene mucho protagonismo",
-      "excerpt": "Habemus nuevos altavoces JBL y ambos, además, ya están disponibles para comprar. Son dos opciones bastante diferentes entre sí, tanto en características como…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/seleccion/oficiales-nuevos-altavoces-jbl-dos-opciones-diferentes-sonido-potente-e-ia-donde-luz-tiene-mucho-protagonismo",
-      "date": "2026-10-08T18:30:27.000Z",
-      "image": "https://i.blogs.es/a44570/nuevos-altavoces-jbl/1024_2000.jpeg"
     },
     {
       "title": "Las actas del BCE dejan entrever que el alza de la deuda puede tener “implicaciones” en próximas decisiones",
@@ -30,31 +102,13 @@
       "image": "https://imagenes.elpais.com/resizer/v2/RZWJWV7B7JLYHEOMPWIDHC5GSI.jpg?auth=dad48106158862e5b217d264be3fb5d12fec69f0a1ad5f280eeb7ad369a33772"
     },
     {
-      "title": "Cientos de personas marchan en Madrid en homenaje a Maricarmen",
-      "excerpt": "Cientos de personas se han congregado delante de la estatua de El Oso y el Madroño, en la Puerta del Sol (Madrid), para iniciar una marcha pacífica hasta la…",
+      "title": "Miles de personas marchan en Madrid hasta la casa de Maricarmen para rendirle homenaje",
+      "excerpt": "MADRID, 8 (EUROPA PRESS) Miles de personas han marchado de forma pacífica hasta la que fue la casa de Maricarmen Abascal para rendirle homenaje tras su…",
       "source": "Europa Press Tecnología",
       "category": "Tecnología",
       "url": "https://www.europapress.es/nacional/noticia-cientos-personas-marchan-madrid-homenaje-maricarmen-20261008202129.html",
       "date": "2026-10-08T18:21:29.000Z",
       "image": "https://img.europapress.es/fotoweb/fotonoticia_20261008202129_120.jpg"
-    },
-    {
-      "title": "Los expertos en ejercicio físico opinan igual: \"Si el objetivo es perder peso, debemos trabajar fuerza y resistencia de una forma secuenciada\"",
-      "excerpt": "Tener un sistema cardiovascular bien entrenado es fundamental si queremos tener una vejez con una calidad de vida aceptable, pero otro de los objetivos que se…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/medicina-y-salud/para-adelgazar-despues-50-cardio-fuerza-experto-senala-que-deberiamos-priorizar",
-      "date": "2026-10-08T18:00:28.000Z",
-      "image": "https://i.blogs.es/baead6/ejercicio-fuerza/1024_2000.jpeg"
-    },
-    {
-      "title": "Esta nueva app de Google toma notas con IA en tu Mac sin conectarte a internet",
-      "excerpt": "Las aplicaciones de notas han dado un salto importante con la llegada de la IA. Herramientas como Granola permiten transcribir reuniones, organizar notas y…",
-      "source": "Hipertextual",
-      "category": "Tecnología",
-      "url": "https://hipertextual.com/apple/google-ai-edge-foresight-notas-ia-offline-mac/",
-      "date": "2026-10-08T17:59:09.000Z",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/google-app-macbook.jpg?fit=1024%2C683&quality=70&strip=all&ssl=1"
     },
     {
       "title": "Mikel Chillida, director del Museo Chillida Leku: \"No es justo medir un museo en base a sus visitantes o al dinero que es capaz de generar\"",
@@ -66,40 +120,13 @@
       "image": null
     },
     {
-      "title": "Hoy en Lidl la solución a los problemas del WiFi en tu casa por menos de 30 euros",
-      "excerpt": "En muchas ocasiones, llevar la conexión WiFi a cada rincón de casa puede ser una tortura. ¿Por qué ocurre esto? Pueden ser muchos motivos: la ubicación del…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/seleccion/hoy-lidl-solucion-a-problemas-wifi-tu-casa-30-euros",
-      "date": "2026-10-08T17:46:26.000Z",
-      "image": "https://i.blogs.es/e0e87d/tienda-lidl-repetidor-wifi-tplink/1024_2000.jpeg"
-    },
-    {
       "title": "El Ibex pierde los 19.000 puntos y queda en mínimos de cuatro meses",
-      "excerpt": "El mundo financiero vuelve a mirar al golfo Pérsico con preocupación ante la subida del precio del petróleo, que supera los 103 dólares hasta los niveles más…",
+      "excerpt": "El mundo financiero vuelve a mirar al golfo Pérsico con preocupación ante la subida del precio del petróleo, que supera los 104 dólares hasta los niveles más…",
       "source": "Cinco Días",
       "category": "Economía",
       "url": "https://cincodias.elpais.com/mercados-financieros/2026-10-08/la-bolsa-y-el-ibex-35.html",
       "date": "2026-10-08T17:41:31.000Z",
       "image": "https://imagenes.elpais.com/resizer/v2/LR4346LB4BIDHHNLZUFYSTSIGE.jpg?auth=b7262b37309868abd4525760ac69cf5b407f644d7a16527afaaa032e5c302508"
-    },
-    {
-      "title": "Adobe había conseguido que Photoshop fuera un muro de pago inexpugnable, hasta que alguien envió un ejército de LLMs",
-      "excerpt": "Hay mucha gente que mantiene una relación tóxica con la suite de Adobe. Photoshop, Illustrator, InDesign y Premiere son aplicaciones esenciales en el flujo…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/aplicaciones/adobe-habia-conseguido-que-photoshop-fuera-muro-pago-inexpugnable-que-alguien-ha-enviado-ejercito-llms",
-      "date": "2026-10-08T17:30:26.000Z",
-      "image": "https://i.blogs.es/15ac7d/magnific__que-el-formato-de-la-imagen-sea-53-y-deja-ms-aire-__57026/1024_2000.jpeg"
-    },
-    {
-      "title": "Rufián afirma que quiere representar a ERC acompañado de otras fuerzas: \"Lo intentaré hasta el final\"",
-      "excerpt": "El portavoz de ERC en el Congreso, Gabriel Rufián, ha afirmado que quiere representar a ERC acompañado de otras fuerzas de izquierdas y antifascistas: \"Y lo…",
-      "source": "Europa Press Tecnología",
-      "category": "Tecnología",
-      "url": "https://www.europapress.es/catalunya/noticia-rufian-afirma-quiere-representar-erc-acompanado-otras-fuerzas-intentare-final-20261008190904.html",
-      "date": "2026-10-08T17:09:04.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261008190904_120.jpg"
     },
     {
       "title": "La patronal empresarial vizcaína no ve \"de recibo\" que las empresas paguen un coste por la huelga del 11-N por la vivienda, porque \"huele más a política que a laboral\"",
@@ -108,33 +135,6 @@
       "category": "Economía",
       "url": "https://www.eleconomista.es/economia/noticias/14019825/10/26/cebek-no-ve-de-recibo-que-las-empresas-paguen-un-coste-por-la-huelga-del-11n-por-la-vivienda-porque-huele-mas-a-politica-que-a-laboral.html",
       "date": "2026-10-08T17:02:13.000Z",
-      "image": null
-    },
-    {
-      "title": "El crudo se dispara un 4% por los ataques en Ormuz",
-      "excerpt": "El petróleo que atraviesa el estrecho cae un 27% respecto a los máximos durante la guerra. La semana pasada fueron atacados diez buques, el máximo desde que…",
-      "source": "Expansión",
-      "category": "Economía",
-      "url": "https://www.expansion.com/economia/2026/10/08/6ac7ca68e5fdea8e2a8b4598.html",
-      "date": "2026-10-08T16:53:54.000Z",
-      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/08/17914782036688.jpg"
-    },
-    {
-      "title": "Trump: \"No atacaremos a Irán en ningún momento antes de las elecciones 'midterm'\"",
-      "excerpt": "El presidente de Estados Unidos revela que Washington y Teherán están manteniendo conversaciones y ofrece una tregua coincidiendo con la recta final hacia las…",
-      "source": "Expansión",
-      "category": "Economía",
-      "url": "https://www.expansion.com/economia/2026/10/08/6ac7ca95468aebee5c8b4577.html",
-      "date": "2026-10-08T16:53:46.000Z",
-      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/08/17914783981194.jpg"
-    },
-    {
-      "title": "Arabia Saudí hace negocio con el bien más escaso del golfo Pérsico para reducir su dependencia del petróleo y sortear la guerra",
-      "excerpt": "La guerra iniciada por Israel y EEUU contra Irán va camino de cumplir su octavo mes sin ninguna solución a corto plazo en el horizonte. El conflicto se ha…",
-      "source": "El Economista",
-      "category": "Economía",
-      "url": "https://www.eleconomista.es/economia/noticias/14019821/10/26/arabia-saudi-hace-negocio-con-el-bien-mas-escaso-del-golfo-persico-para-reducir-su-dependencia-del-petroleo-y-sortear-la-guerra.html",
-      "date": "2026-10-08T16:50:58.000Z",
       "image": null
     }
   ]
