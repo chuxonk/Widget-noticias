@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-10-10T21:49:33.431Z",
+  "generatedAt": "2026-10-11T05:55:02.082Z",
   "count": 15,
   "items": [
+    {
+      "title": "Natarajan Chandrasekaran, el corredor de fondo que lucha por seguir en la cima de Tata",
+      "excerpt": "La cúpula de Tata está en llamas. Natarajan Chandrasekaran (India, 63 años), presidente de Tata Sons, la matriz del mayor conglomerado empresarial de la…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://cincodias.elpais.com/opinion/2026-10-11/natarajan-chandrasekaran-el-corredor-de-fondo-que-lucha-por-seguir-en-la-cima-de-tata.html",
+      "date": "2026-10-11T03:40:00.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/NHJ3F4WFDJGLHBEH2RC6ZVMDM4.jpg?auth=5bd0898f1533dad62d563fbdda43c93a6b9f6147113712f689283a03dbe31bf7"
+    },
+    {
+      "title": "Las claves: el acercamiento entre China y la UE recuerda que están condenados a entenderse",
+      "excerpt": "Las disputas comerciales son historias de largo recorrido que dan muchas vueltas, pero el “entendimiento” al que llegaron el viernes la Unión Europea y China…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://cincodias.elpais.com/opinion/2026-10-11/las-claves-el-acercamiento-entre-china-y-la-ue-recuerda-que-estan-condenados-a-entenderse.html",
+      "date": "2026-10-11T03:40:00.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/6BUC2LR5EVBDZKG5VN4UZUNL2I.jpg?auth=0e505dab760196cbf34bd12076de5a36dbbb666508b1268bf887a81987e79ee4"
+    },
+    {
+      "title": "El movimiento de vivienda señala a los pequeños caseros: ¿son responsables del alza de los precios?",
+      "excerpt": "Iria y Laura son amigas desde la universidad y compañeras de piso desde hace seis años. Al tercer día de protestas por la vivienda, estas jóvenes de 28 años…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://elpais.com/economia/vivienda/2026-10-11/el-movimiento-de-vivienda-senala-a-los-pequenos-caseros-son-responsables-del-alza-de-los-precios.html",
+      "date": "2026-10-11T03:30:01.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/BSXUAU5N3FH57IS6INAOHF5IPU.jpg?auth=0566c02665aa26f55bebef3587036eeb08a93f68627cb7021fa934c6a34dd566"
+    },
+    {
+      "title": "Del colchón a la Bolsa: la nueva cuenta que aspira a movilizar ahorro por un billón de euros",
+      "excerpt": "Europa invierte poco en Europa. Estados Unidos, en cambio, invierte mucho en EE UU. Esto explica, en parte, la creciente disparidad de competitividad a ambas…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-10-11/del-colchon-a-la-bolsa-la-nueva-cuenta-que-aspira-a-movilizar-ahorro-por-un-billon-de-euros.html",
+      "date": "2026-10-11T03:30:00.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/IBXPH762ANFRVBRCSM7MYCKGHQ.jpg?auth=8b8f71e6e1e13b5ac7e8868f0600d0fbd34b6ee5569994985f91cd39ee72db74"
+    },
     {
       "title": "El Rey visita el espacio de ARMMO en INDUDEF 2026 y conoce su interceptor autónomo de drones",
       "excerpt": "El Rey Felipe VI visitó este viernes el espacio de ARMMO Defense Technologies en INDUDEF 2026, donde el consejero delegado de la compañía, Jaime Abrisqueta…",
@@ -57,21 +93,12 @@
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/El-precio-de-la-red-La-red-social-2.jpg?fit=1024%2C614&quality=70&strip=all&ssl=1"
     },
     {
-      "title": "Trump anima a los ucranios a que “busquen un nuevo líder” tras un ataque de Kiev contra el sector petrolero ruso",
-      "excerpt": "Ucrania mantiene su pulso contra la industria petrolera rusa después de que el presidente estadounidense, Donald Trump, anunciase al mundo un acuerdo con su…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://elpais.com/internacional/2026-10-10/ucrania-golpea-una-gran-terminal-petrolera-rusa-tras-el-acuerdo-del-diesel-de-trump-y-putin.html",
-      "date": "2026-10-10T17:51:24.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/PCIZTKDRZBKMDK74GEQAJTYNQ4.jpg?auth=fcacf9e2b00d5158b0c9c03b11a3ffb9e606af98e03575e20cf38f53e2c04268"
-    },
-    {
-      "title": "Tiene dos toneladas de vaqueros y 4.000 cintas VHS en las paredes: parece un adosado más, pero esta casa está hecha de residuos",
+      "title": "Por fuera parece un adosado más, pero está hecha de basura: sus paredes esconden dos toneladas de vaqueros y 4.000 cintas VHS",
       "excerpt": "Puede que la Waste House no llame la atención a primera vista, porque por fuera parece una casa urbana contemporánea corriente, pero es la máxima expresión de…",
       "source": "Xataka",
       "category": "Tecnología",
       "url": "https://www.xataka.com/ecologia-y-naturaleza/tiene-dos-toneladas-vaqueros-4-000-cintas-vhs-paredes-parece-adosado-esta-casa-esta-hecha-residuos",
-      "date": "2026-10-10T17:00:27.000Z",
+      "date": "2026-10-10T17:00:00.000Z",
       "image": "https://i.blogs.es/6d4628/waste_house-_university_of_brighton-_grand_parade-_brighton_-september_2015-_-17-/1024_2000.jpeg"
     },
     {
@@ -93,15 +120,6 @@
       "image": null
     },
     {
-      "title": "General Dynamics nombra a Danny Deep como nuevo CEO a partir de enero de 2027",
-      "excerpt": "El consejo de administración de la compañía estadounidense de defensa y aeroespacial General Dynamics, matriz de Santa Bárbara Sistemas, ha elegido a Danny…",
-      "source": "Europa Press",
-      "category": "Economía",
-      "url": "https://www.europapress.es/economia/noticia-general-dynamics-nombra-danny-deep-nuevo-ceo-partir-enero-2027-20261010181056.html",
-      "date": "2026-10-10T16:10:56.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261010181056_120.jpg"
-    },
-    {
       "title": "Por qué faltan diez días en el calendario de tu móvil si viajas hasta octubre de 1582",
       "excerpt": "Si abres el calendario de un iPhone y retrocedes más de cuatro siglos, vas a encontrarte con una curiosidad: del 4 de octubre de 1582 pasa al 15 de octubre…",
       "source": "Xataka",
@@ -118,24 +136,6 @@
       "url": "https://www.applesfera.com/curiosidades/prueba-cerveza-steve-jobs-asi-usaba-para-contratar-a-mejores-candidatos",
       "date": "2026-10-10T16:00:28.000Z",
       "image": "https://i.blogs.es/e31234/jobs-prueba-cerveza/1024_2000.jpeg"
-    },
-    {
-      "title": "El 60% de las empresas españolas con inteligencia artificial sigue en fase de pruebas",
-      "excerpt": "El 60% de las empresas españolas de diez o más empleados que utilizan inteligencia artificial (IA) permanece todavía en fase de experimentación y solo el 6%…",
-      "source": "Europa Press",
-      "category": "Economía",
-      "url": "https://www.europapress.es/economia/noticia-60-empresas-espanolas-inteligencia-artificial-sigue-fase-pruebas-20261010174407.html",
-      "date": "2026-10-10T15:44:07.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261010174407_120.jpg"
-    },
-    {
-      "title": "Las empresas de IA tienen tan claro que habrá una gran catástrofe en 2027 que ya preparan el día después",
-      "excerpt": "No pasa una semana sin que conozcamos algún ataque hecho con IA o alguna advertencia de sus dirigentes ante una amenaza en ciernes. O directamente, con alguna…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/servicios/empresas-ia-tienen-claro-que-habra-gran-catastrofe-2027-que-preparan-dia-despues",
-      "date": "2026-10-10T15:30:25.000Z",
-      "image": "https://i.blogs.es/f63ff9/caos-digital-alrededor-de-la-tierra/1024_2000.jpeg"
     }
   ]
 }
