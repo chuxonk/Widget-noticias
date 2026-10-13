@@ -1,42 +1,132 @@
 {
-  "generatedAt": "2026-10-13T16:59:13.556Z",
+  "generatedAt": "2026-10-13T22:51:14.845Z",
   "count": 15,
   "items": [
     {
-      "title": "Gemini 4 Argon es la nueva bestia de Google para el trabajo pesado: código, ciencia, finanzas y ciberseguridad",
-      "excerpt": "Imaginemos que encargamos a una inteligencia artificial una tarea que no puede resolverse con una sola respuesta: revisar miles de líneas de código, detectar…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/robotica-e-ia/gemini-4-argon-nueva-bestia-google-para-trabajo-pesado-codigo-ciencia-finanzas-ciberseguridad",
-      "date": "2026-10-13T16:48:00.000Z",
-      "image": "https://i.blogs.es/e20678/gemini-4-argon-portadapg/1024_2000.jpeg"
+      "title": "Un revés judicial deja en vilo el impuesto a casas de lujo en Nueva York",
+      "excerpt": "Un juez anula el tributo contra las segundas residencias en Nueva York promovido por el alcalde Mamdani, quien ha recurrido para mantenerlo en vigor.",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/fiscal/2026/10/14/6ace8192e5fdea0f298b4579.html",
+      "date": "2026-10-13T22:46:50.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2023/12/07/17019688156960.jpg"
     },
     {
-      "title": "En España cada vez hay más gente haciendo 200 kilómetros en coche todos los días para ir a trabajar",
-      "excerpt": "Vivir a 110 kilómetros del trabajo parece una forma de ahorrar, pero lo que se ahorra en alquiler se paga en coche, en tiempo y en sueño. Aunque hay quien…",
-      "source": "Xataka",
+      "title": "Estas versiones de Windows 11 se quedan sin soporte desde hoy: cómo te afecta y qué puedes hacer",
+      "excerpt": "A partir de hoy, Microsoft deja sin soporte a dos versiones de Windows 11 que todavía se utilizan en un gran número de ordenadores en todo el mundo. Esto…",
+      "source": "Hipertextual",
       "category": "Tecnología",
-      "url": "https://www.xataka.com/magnet/hay-gente-que-conduce-220-kilometros-al-dia-para-ir-a-trabajar-no-gusto-prefieren-kit-superviviencia-que-alquilar-habitacion",
-      "date": "2026-10-13T16:46:26.000Z",
-      "image": "https://i.blogs.es/b877e7/pexels-blas-gonzales-2150789348-31329246/1024_2000.jpeg"
+      "url": "https://hipertextual.com/software/windows-11-24h2-home-y-pro-se-quedan-sin-soporte-hoy-mismo/",
+      "date": "2026-10-13T21:40:00.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/10/windows-11-harold.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1"
     },
     {
-      "title": "Los beneficios de Johnson & Johnson caen un 96% por el litigio de los polvos de talco, pero sus ventas aumentan",
-      "excerpt": "La farmacéutica estadounidense Johnson & Johnson (J&J) ha obtenido un beneficio neto de 210 millones de dólares —unos 188 millones de euros— durante el tercer…",
+      "title": "Google ya permite crear apps para Android gratis y sin programar: así funciona la nueva herramienta con IA",
+      "excerpt": "Hasta hace unos meses, crear una aplicación para el móvil exigía conocimientos de programación y dominio de herramientas de desarrollo. La llegada de la IA y…",
+      "source": "Hipertextual",
+      "category": "Tecnología",
+      "url": "https://hipertextual.com/inteligencia-artificial/google-crear-apps-android-ia-sin-programar/",
+      "date": "2026-10-13T20:36:17.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/app-google-play-2.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1"
+    },
+    {
+      "title": "Foment lleva ante la UE su batalla contra el absentismo laboral",
+      "excerpt": "",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/catalunya/2026/10/13/foment-lleva-ue-batalla-absentismo-laboral.html",
+      "date": "2026-10-13T20:33:02.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/13/17919235724138.jpg"
+    },
+    {
+      "title": "OpenAI encuentra un \"sofisticado\" dispositivo de grabación en sus oficinas y se pone en manos del FBI",
+      "excerpt": "Las empresas que desarrollan inteligencia artificial tienen motivos de sobra para proteger su tecnología. Hablamos de sistemas que requieren enormes…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/robotica-e-ia/importancia-nacional-openai-encuentra-sofisticado-dispositivo-grabacion-sus-oficinas-fbi-acaba-interviniendo",
+      "date": "2026-10-13T20:23:00.000Z",
+      "image": "https://i.blogs.es/8cce7d/openai-hq/1024_2000.jpeg"
+    },
+    {
+      "title": "Google lanza Gemini 4 Argon, su IA más potente hasta ahora",
+      "excerpt": "Google ha lanzado Gemini 4 Argon, su modelo de frontera más poderoso a la fecha. Tras meses de retrasos y de ceder terreno a Anthropic y OpenAI, el gigante…",
+      "source": "Hipertextual",
+      "category": "Tecnología",
+      "url": "https://hipertextual.com/inteligencia-artificial/google-lanza-gemini-4-argon-ia-mas-potente/",
+      "date": "2026-10-13T19:20:00.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/gemini-4-argon.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1"
+    },
+    {
+      "title": "Los ciberataques se han disparado tanto en Japón que ya se habla de “un estado de emergencia en el ciberespacio”",
+      "excerpt": "Cuando reservamos un billete de tren o alquilamos un coche, solemos prestar atención al precio, al horario o a las condiciones del servicio. Mucho menos a lo…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/seguridad/ciberataques-se-han-disparado-japon-que-se-habla-estado-emergencia-ciberespacio",
+      "date": "2026-10-13T19:00:28.000Z",
+      "image": "https://i.blogs.es/421852/hackers/1024_2000.jpeg"
+    },
+    {
+      "title": "El Rey, en Ceuta: \"Nuestra obligación es defender una parte irrenunciable de España\"",
+      "excerpt": "\"La soberanía y la integridad territorial de nuestro país no son negociables: son indiscutibles\", señaló Felipe VI durante su visita a Ceuta. \"Cualquier…",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/economia/2026/10/13/6ace7eee468aebb97b8b4599.html",
+      "date": "2026-10-13T18:57:21.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/13/17919177461559.jpg"
+    },
+    {
+      "title": "Confirmado el regreso de ‘The X-Files’ con una nueva serie del director de ‘Black Panther’ y ‘Sinners’",
+      "excerpt": "The X-Files, la icónica serie de FOX, prepara su regreso con una nueva versión de la mano de Ryan Coogler. Hulu ha dado el visto bueno a una nueva producción…",
+      "source": "Hipertextual",
+      "category": "Tecnología",
+      "url": "https://hipertextual.com/cine-television/the-x-files-nueva-serie-ryan-coogler/",
+      "date": "2026-10-13T18:45:00.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/X-files-scaled.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1"
+    },
+    {
+      "title": "Llevamos años cambiando las sábanas cada semana. La ciencia apunta a que lo importante no es cuándo las cambias, sino cómo las lavas",
+      "excerpt": "Dentro de los hogares hay diferentes debates en torno a con qué frecuencia hacer diferentes tareas, como por ejemplo el cambio de sábanas de nuestras camas…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/medicina-y-salud/llevamos-anos-cambiando-sabanas-cada-semana-ciencia-apunta-a-que-importante-no-cuando-cambias-sino-como-lavas",
+      "date": "2026-10-13T18:30:27.000Z",
+      "image": "https://i.blogs.es/106369/cama-sin-hacer/1024_2000.jpeg"
+    },
+    {
+      "title": "Cuerpo apadrina la nueva red de economistas progresistas: “Una economía desigual es una economía lastrada”",
+      "excerpt": "El vicepresidente primero del Gobierno de España, Carlos Cuerpo, ha echado la tarde de este martes en el madrileño barrio de San Blas. La ubicación había sido…",
       "source": "Cinco Días",
       "category": "Economía",
-      "url": "https://cincodias.elpais.com/companias/2026-10-13/los-beneficios-de-johnson-johnson-caen-un-96-por-el-litigio-de-los-polvos-de-talco-pero-sus-ventas-aumentan.html",
-      "date": "2026-10-13T16:39:33.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/HI3BFJLABZOWXEBE2LRII7MY7U.jpg?auth=4f241cfe06d428db346732c00d8255d9f263ade5a9e1b200df2648c7c9a28b7a"
+      "url": "https://elpais.com/economia/2026-10-13/cuerpo-apadrina-la-nueva-red-de-economistas-progresistas-una-economia-desigual-es-una-economia-lastrada.html",
+      "date": "2026-10-13T18:28:58.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/SJKRIZL3XJL3VDPA6ODMOIRDYU.jpg?auth=e1ac44cdc469bd9b30cf3bbfec8b08a79d123822905b5aa273f8100774615806"
     },
     {
-      "title": "Uno de los mayores distribuidores de hardware de España ha tenido una idea para seguir creciendo: convertirse en Dell",
-      "excerpt": "En 1984, Michael Dell se dedicaba a mejorar el rendimiento de los PC de sus compañeros de su residencia universitaria de Texas. Pero lo que realmente le ha…",
+      "title": "Las Bolsas europeas pinchan ante el frenazo del entusiasmo por la IA",
+      "excerpt": "Las Bolsas asiáticas han sufrido una jornada de pérdidas, presas de la volatilidad que trae consigo la fortísima apuesta de los inversores por la inteligencia…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-10-13/la-bolsa-y-el-ibex-35.html",
+      "date": "2026-10-13T18:26:39.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/LHIN5DYKSRK4FO3ZLGKUG6FPOQ.jpg?auth=0d1cf74e129a2f4893396be989ec0731052489903342ca73e2e97b944681a494"
+    },
+    {
+      "title": "Los reactores SMR llevan años prometiendo una revolución nuclear que todavía no termina de arrancar",
+      "excerpt": "Más rápidos de construir, más económicos, más seguros… Los reactores modulares pequeños (SMR, por sus siglas en inglés) parecían, hace no tanto, haber llegado…",
       "source": "Xataka",
       "category": "Tecnología",
-      "url": "https://www.xataka.com/robotica-e-ia/uno-mayores-distribuidores-hardware-espana-ha-tenido-idea-para-seguir-creciendo-convertirse-dell",
-      "date": "2026-10-13T16:30:27.000Z",
-      "image": "https://i.blogs.es/009925/magnific__crea-una-imagenpasa-la-imagen-adjunta-img1-a-43-y-__89085/1024_2000.png"
+      "url": "https://www.xataka.com/energia/reactores-smr-llevan-anos-prometiendo-revolucion-nuclear-que-todavia-no-termina-arrancar",
+      "date": "2026-10-13T18:16:26.000Z",
+      "image": "https://i.blogs.es/942438/pexels-wolfgang-weiser-467045605-16705829/1024_2000.jpeg"
+    },
+    {
+      "title": "El Gobierno modifica por la vía de urgencia los estatutos del ICO para adaptarlos al fondo España Crece",
+      "excerpt": "El Gobierno ha iniciado por la vía de urgencia la reforma de los estatutos del Instituto de Crédito Oficial (ICO) para adaptar su funcionamiento al fondo…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://elpais.com/economia/2026-10-13/el-gobierno-modifica-por-la-via-de-urgencia-los-estatutos-del-ico-para-adaptarlos-al-fondo-espana-crece.html",
+      "date": "2026-10-13T17:05:32.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/RCBKV4YKVRBPLHLKWWKO42CKVY.jpg?auth=09d053d8335f5f533d12d37854760e02776c10e695042d4ab91bf710aee733bd"
     },
     {
       "title": "Castilla y León anuncia un recorte de 4 millones en las partidas para sindicatos y patronal",
@@ -46,96 +136,6 @@
       "url": "https://www.eleconomista.es/economia/noticias/14020659/10/26/castilla-y-leon-anuncia-un-recorte-de-4-millones-en-las-partidas-para-sindicatos-y-patronal.html",
       "date": "2026-10-13T16:26:33.000Z",
       "image": null
-    },
-    {
-      "title": "La Ley de Propiedad Horizontal lo aclara y los expertos coinciden: \"puedes aparcar dos vehículos en tu garaje si cumples con las normas\"",
-      "excerpt": "Si hay algo que une a España es que no hay una comunidad de propietarios donde no haya algún lío. Los hay de todo tipo, capaces de plantar una piscina…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/movilidad/ley-propiedad-horizontal-aclara-expertos-coinciden-puedes-aparcar-dos-vehiculos-tu-garaje-cumples-estas-normas",
-      "date": "2026-10-13T16:16:27.000Z",
-      "image": "https://i.blogs.es/ccb0d5/michael-fousert-cru3luw2jrk-unsplash/1024_2000.jpeg"
-    },
-    {
-      "title": "El colegio Vicente Aleixandre de Ceuta abre sus puertas a los Reyes",
-      "excerpt": "Felipe VI y Letizia han visitado este martes por la tarde el colegio público Vicente Aleixandre, en Ceuta, donde se han interesado por la situación de la…",
-      "source": "Europa Press Tecnología",
-      "category": "Tecnología",
-      "url": "https://www.europapress.es/nacional/noticia-colegio-vicente-aleixandre-ceuta-abre-puertas-reyes-20261013180952.html",
-      "date": "2026-10-13T16:09:52.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261013180952_120.jpg"
-    },
-    {
-      "title": "El Ibex 35 cede un 0,4% y posterga su recuperación ante el inicio de la temporada de resultados en EEUU",
-      "excerpt": "El Ibex 35 de la Bolsa de Madrid ha cerrado la sesión de este martes con una caída del 0,39%, pero salva los 19.200 enteros que recuperó este lunes. En…",
-      "source": "Europa Press",
-      "category": "Economía",
-      "url": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-cede-04-posterga-recuperacion-inicio-temporada-resultados-eeuu-20261013180653.html",
-      "date": "2026-10-13T16:06:53.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261013180653_120.jpg"
-    },
-    {
-      "title": "En 2026, los disquetes aún controlan los trenes de San Francisco y eliminarlos provocaría el caos. Apple lo sabía, por eso los eliminó hace 28 años",
-      "excerpt": "Ironía del universo es que una de las cunas de la tecnología esté obsoleta a nivel tecnológico. Es el caso de San Francisco, que aunque no es considerada la…",
-      "source": "Applesfera",
-      "category": "Tecnología",
-      "url": "https://www.applesfera.com/curiosidades/2026-disquetes-controlan-trenes-san-francisco-eliminarlos-provocaria-caos-apple-sabia-eso-elimino-hace-28-anos",
-      "date": "2026-10-13T16:00:28.000Z",
-      "image": "https://i.blogs.es/911ea9/disquetes/1024_2000.jpeg"
-    },
-    {
-      "title": "Hunan Yuneng redobla su apuesta por Extremadura: eleva a 216 millones la inversión en su fábrica de Mérida",
-      "excerpt": "Hunan Yuneng New Energy Battery Materials Co ha dedicido ampliar la dimsensión prevista de su proycto industrial en Mérida (Badajoz). La empresa plantea…",
-      "source": "El Economista",
-      "category": "Economía",
-      "url": "https://www.eleconomista.es/economia/noticias/14020647/10/26/hunan-yuneng-redobla-su-apuesta-por-extremadura-eleva-a-216-millones-la-inversion-en-su-fabrica-de-merida.html",
-      "date": "2026-10-13T15:57:51.000Z",
-      "image": null
-    },
-    {
-      "title": "La nueva portavoz de Trump vive un breve pero accidentado estreno con nervios, trabas y confusiones: así es Katie Zacharia",
-      "excerpt": "Katie Zacharia se estrenó este martes como nueva portavoz de la Casa Blanca con su primera rueda de prensa desde que el presidente estadounidense, Donald…",
-      "source": "El Economista",
-      "category": "Economía",
-      "url": "https://www.eleconomista.es/economia/noticias/14020644/10/26/la-nueva-portavoz-de-trump-vive-un-breve-pero-accidentado-estreno-con-nervios-trabas-y-confusiones-asi-es-katie-zacharia.html",
-      "date": "2026-10-13T15:54:40.000Z",
-      "image": null
-    },
-    {
-      "title": "Los autónomos piden elevar de forma progresiva la pensión compatible con el trabajo hasta el 100% en el cuarto año",
-      "excerpt": "Los autónomos proponen a los partidos políticos eliminar el periodo de un año de espera para acceder a la jubilación activa. Además, proponen aumentar…",
-      "source": "El Economista",
-      "category": "Economía",
-      "url": "https://www.eleconomista.es/economia/noticias/14020643/10/26/los-autonomos-piden-elevar-de-forma-progresiva-la-pension-compatible-con-el-trabajo-hasta-el-100-en-el-cuarto-ano.html",
-      "date": "2026-10-13T15:54:33.000Z",
-      "image": null
-    },
-    {
-      "title": "Las Bolsas europeas pinchan ante el frenazo del entusiasmo por la IA",
-      "excerpt": "Las Bolsas asiáticas han sufrido una jornada de pérdidas, presas de la volatilidad que trae consigo la fortísima apuesta de los inversores por la inteligencia…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-10-13/la-bolsa-y-el-ibex-35.html",
-      "date": "2026-10-13T15:53:01.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/LHIN5DYKSRK4FO3ZLGKUG6FPOQ.jpg?auth=0d1cf74e129a2f4893396be989ec0731052489903342ca73e2e97b944681a494"
-    },
-    {
-      "title": "Colau llama a ERC y Podemos a negociar para una candidatura única: \"Todavía hay tiempo\"",
-      "excerpt": "La exalcaldesa de Barcelona y candidata del Frente Amplio a las elecciones generales del 29 de noviembre, Ada Colau, ha llamado este martes a ERC y Podemos a…",
-      "source": "Europa Press Tecnología",
-      "category": "Tecnología",
-      "url": "https://www.europapress.es/catalunya/noticia-colau-llama-erc-podemos-negociar-candidatura-unica-izquierdas-todavia-hay-tiempo-20261013172813.html",
-      "date": "2026-10-13T15:28:13.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261013172813_120.jpg"
-    },
-    {
-      "title": "‘GTA 6’ llegaría a PC mucho antes de lo que todos pensábamos",
-      "excerpt": "La espera por GTA 6 en PC podría ser mucho más breve de lo que todos imaginábamos. Según reporta GamesBeat, Rockstar Games planea lanzar la versión para…",
-      "source": "Hipertextual",
-      "category": "Tecnología",
-      "url": "https://hipertextual.com/videojuegos/gta-6-pc-primer-trimestre-2027/",
-      "date": "2026-10-13T15:26:51.000Z",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/Jason_and_Lucia_02-scaled.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1"
     }
   ]
 }
