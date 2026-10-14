@@ -1,7 +1,70 @@
 {
-  "generatedAt": "2026-10-13T22:51:14.845Z",
+  "generatedAt": "2026-10-14T05:00:03.007Z",
   "count": 15,
   "items": [
+    {
+      "title": "Un proyecto español ha devuelto a la vida un Cray-1 de 1976 usando 30 Mac mini de hace más de una década",
+      "excerpt": "Si nos enseñaran una fotografía del Cray-1 sin decirnos qué es, probablemente nos llamaría antes la atención su forma que su función. Aquella estructura…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/ordenadores/proyecto-espanol-ha-devuelto-a-vida-cray-1-1976-usando-30-mac-mini-hace-decada",
+      "date": "2026-10-14T04:30:27.000Z",
+      "image": "https://i.blogs.es/bc89fd/cray12/1024_2000.jpeg"
+    },
+    {
+      "title": "François Provost, CEO de Renault: \"Creo que las reglas del juego en España no son muy equitativas\"",
+      "excerpt": "El director general de Renault, François Provost, ha puesto el plan de incentivos del Gobierno para vehículos eléctricos en su punto de mira. Y es que en el…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/movilidad/francois-provost-ceo-renault-culpa-a-hibridos-enchufables-chinos-que-planta-valladolid-haya-perdido-20-produccion",
+      "date": "2026-10-14T04:00:26.000Z",
+      "image": "https://i.blogs.es/b74179/francois_provost_strategy_day_conference/1024_2000.jpeg"
+    },
+    {
+      "title": "La clara inconstitucionalidad del impuesto sobre el patrimonio",
+      "excerpt": "El Tribunal Constitucional tiene pendiente de resolver la cuestión de inconstitucionalidad del impuesto sobre el patrimonio (IP) desde el año 2021, cuando la…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://cincodias.elpais.com/opinion/2026-10-14/la-clara-inconstitucionalidad-del-impuesto-sobre-el-patrimonio.html",
+      "date": "2026-10-14T03:40:00.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/JNQA5C24IFDNPMG2EG53AUHNMU.jpg?auth=34b00a6d26ba04d7fd347791606293abd22e85972e6625f6a10399f528a180e1"
+    },
+    {
+      "title": "Cuando la alarma no suena",
+      "excerpt": "Muchos españoles se fueron de vacaciones este verano con parte de la cabeza en la alarma que quedaba activada en casa. No es esa alarma. Tampoco la de los…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://cincodias.elpais.com/opinion/2026-10-14/cuando-la-alarma-no-suena.html",
+      "date": "2026-10-14T03:40:00.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/UTT5PBARRZAR5JBXA52PUG5K5M.jpg?auth=03c65e106d6adf76c3ed3ede86575b72865c313752a904cbf8828ce8bb29032f"
+    },
+    {
+      "title": "Las grandes fortunas familiares se alejan de la Bolsa",
+      "excerpt": "Poco se sabe de lo que ocurre dentro de los family offices. No existe una definición oficial de lo que son, ni un registro oficial que constate cuántos hay…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-10-14/las-grandes-fortunas-familiares-se-alejan-de-la-bolsa.html",
+      "date": "2026-10-14T03:30:01.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/KAPBFSW3ORLXFFQIGIS2WKO46U.jpg?auth=ed05fa4642b2a7d965ed0265de5690ef0cfa89156b1064e1d57bfe678d7f12e4"
+    },
+    {
+      "title": "El Supremo estudiará por primera vez si los extracomunitarios pueden deducirse los gastos del alquiler en España",
+      "excerpt": "El Tribunal Supremo estudiará por primera vez si los propietarios de inmuebles en España que residen fuera de la Unión Europea pueden deducirse los gastos…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://elpais.com/economia/2026-10-14/el-supremo-estudiara-por-primera-vez-si-los-extracomunitarios-pueden-deducirse-los-gastos-del-alquiler-en-espana.html",
+      "date": "2026-10-14T03:30:01.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/HGOZ6Z6KVRE73IARQZWBT4ILYU.jpg?auth=2c65b1e0c26ad1707e1ec80fabfbf1267c85633f7ea0d49bf74a12309f37cb67"
+    },
+    {
+      "title": "OpenAI descubre una grabadora escondida en sus oficinas y el FBI detiene a un empleado",
+      "excerpt": "Un ingeniero de OpenAI fue detenido por ocultar un dispositivo de grabación en una sala de conferencias de la empresa. Las autoridades afirmaron que el…",
+      "source": "Hipertextual",
+      "category": "Tecnología",
+      "url": "https://hipertextual.com/inteligencia-artificial/detienen-ingeniero-openai-grabadora-sala-ejecutiva/",
+      "date": "2026-10-14T00:05:06.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/02/openai-logo.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1"
+    },
     {
       "title": "Un revés judicial deja en vilo el impuesto a casas de lujo en Nueva York",
       "excerpt": "Un juez anula el tributo contra las segundas residencias en Nueva York promovido por el alcalde Mamdani, quien ha recurrido para mantenerlo en vigor.",
@@ -57,6 +120,15 @@
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/gemini-4-argon.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1"
     },
     {
+      "title": "Marruecos se hace de oro en Europa: duplica sus ventas y concentra en España el 40% de sus exportaciones",
+      "excerpt": "Marruecos se hace de oro en Europa. Los Estados miembros de la UE han duplicado en la última década sus importaciones, consolidando al país norteafricano como…",
+      "source": "El Economista",
+      "category": "Economía",
+      "url": "https://www.eleconomista.es/economia/noticias/14020712/10/26/marruecos-se-hace-de-oro-en-europa-duplica-sus-ventas-y-concentra-en-espana-el-40-de-sus-exportaciones.html",
+      "date": "2026-10-13T19:01:45.000Z",
+      "image": null
+    },
+    {
       "title": "Los ciberataques se han disparado tanto en Japón que ya se habla de “un estado de emergencia en el ciberespacio”",
       "excerpt": "Cuando reservamos un billete de tren o alquilamos un coche, solemos prestar atención al precio, al horario o a las condiciones del servicio. Mucho menos a lo…",
       "source": "Xataka",
@@ -64,78 +136,6 @@
       "url": "https://www.xataka.com/seguridad/ciberataques-se-han-disparado-japon-que-se-habla-estado-emergencia-ciberespacio",
       "date": "2026-10-13T19:00:28.000Z",
       "image": "https://i.blogs.es/421852/hackers/1024_2000.jpeg"
-    },
-    {
-      "title": "El Rey, en Ceuta: \"Nuestra obligación es defender una parte irrenunciable de España\"",
-      "excerpt": "\"La soberanía y la integridad territorial de nuestro país no son negociables: son indiscutibles\", señaló Felipe VI durante su visita a Ceuta. \"Cualquier…",
-      "source": "Expansión",
-      "category": "Economía",
-      "url": "https://www.expansion.com/economia/2026/10/13/6ace7eee468aebb97b8b4599.html",
-      "date": "2026-10-13T18:57:21.000Z",
-      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/13/17919177461559.jpg"
-    },
-    {
-      "title": "Confirmado el regreso de ‘The X-Files’ con una nueva serie del director de ‘Black Panther’ y ‘Sinners’",
-      "excerpt": "The X-Files, la icónica serie de FOX, prepara su regreso con una nueva versión de la mano de Ryan Coogler. Hulu ha dado el visto bueno a una nueva producción…",
-      "source": "Hipertextual",
-      "category": "Tecnología",
-      "url": "https://hipertextual.com/cine-television/the-x-files-nueva-serie-ryan-coogler/",
-      "date": "2026-10-13T18:45:00.000Z",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/X-files-scaled.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1"
-    },
-    {
-      "title": "Llevamos años cambiando las sábanas cada semana. La ciencia apunta a que lo importante no es cuándo las cambias, sino cómo las lavas",
-      "excerpt": "Dentro de los hogares hay diferentes debates en torno a con qué frecuencia hacer diferentes tareas, como por ejemplo el cambio de sábanas de nuestras camas…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/medicina-y-salud/llevamos-anos-cambiando-sabanas-cada-semana-ciencia-apunta-a-que-importante-no-cuando-cambias-sino-como-lavas",
-      "date": "2026-10-13T18:30:27.000Z",
-      "image": "https://i.blogs.es/106369/cama-sin-hacer/1024_2000.jpeg"
-    },
-    {
-      "title": "Cuerpo apadrina la nueva red de economistas progresistas: “Una economía desigual es una economía lastrada”",
-      "excerpt": "El vicepresidente primero del Gobierno de España, Carlos Cuerpo, ha echado la tarde de este martes en el madrileño barrio de San Blas. La ubicación había sido…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://elpais.com/economia/2026-10-13/cuerpo-apadrina-la-nueva-red-de-economistas-progresistas-una-economia-desigual-es-una-economia-lastrada.html",
-      "date": "2026-10-13T18:28:58.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/SJKRIZL3XJL3VDPA6ODMOIRDYU.jpg?auth=e1ac44cdc469bd9b30cf3bbfec8b08a79d123822905b5aa273f8100774615806"
-    },
-    {
-      "title": "Las Bolsas europeas pinchan ante el frenazo del entusiasmo por la IA",
-      "excerpt": "Las Bolsas asiáticas han sufrido una jornada de pérdidas, presas de la volatilidad que trae consigo la fortísima apuesta de los inversores por la inteligencia…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-10-13/la-bolsa-y-el-ibex-35.html",
-      "date": "2026-10-13T18:26:39.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/LHIN5DYKSRK4FO3ZLGKUG6FPOQ.jpg?auth=0d1cf74e129a2f4893396be989ec0731052489903342ca73e2e97b944681a494"
-    },
-    {
-      "title": "Los reactores SMR llevan años prometiendo una revolución nuclear que todavía no termina de arrancar",
-      "excerpt": "Más rápidos de construir, más económicos, más seguros… Los reactores modulares pequeños (SMR, por sus siglas en inglés) parecían, hace no tanto, haber llegado…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/energia/reactores-smr-llevan-anos-prometiendo-revolucion-nuclear-que-todavia-no-termina-arrancar",
-      "date": "2026-10-13T18:16:26.000Z",
-      "image": "https://i.blogs.es/942438/pexels-wolfgang-weiser-467045605-16705829/1024_2000.jpeg"
-    },
-    {
-      "title": "El Gobierno modifica por la vía de urgencia los estatutos del ICO para adaptarlos al fondo España Crece",
-      "excerpt": "El Gobierno ha iniciado por la vía de urgencia la reforma de los estatutos del Instituto de Crédito Oficial (ICO) para adaptar su funcionamiento al fondo…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://elpais.com/economia/2026-10-13/el-gobierno-modifica-por-la-via-de-urgencia-los-estatutos-del-ico-para-adaptarlos-al-fondo-espana-crece.html",
-      "date": "2026-10-13T17:05:32.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/RCBKV4YKVRBPLHLKWWKO42CKVY.jpg?auth=09d053d8335f5f533d12d37854760e02776c10e695042d4ab91bf710aee733bd"
-    },
-    {
-      "title": "Castilla y León anuncia un recorte de 4 millones en las partidas para sindicatos y patronal",
-      "excerpt": "El vicepresidente primero de la Junta de Castilla y León, Carlos Pollán, ha avanzado que el proyecto de Presupuestos de la Junta incluye una disminución de…",
-      "source": "El Economista",
-      "category": "Economía",
-      "url": "https://www.eleconomista.es/economia/noticias/14020659/10/26/castilla-y-leon-anuncia-un-recorte-de-4-millones-en-las-partidas-para-sindicatos-y-patronal.html",
-      "date": "2026-10-13T16:26:33.000Z",
-      "image": null
     }
   ]
 }
