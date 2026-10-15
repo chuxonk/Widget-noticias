@@ -1,7 +1,79 @@
 {
-  "generatedAt": "2026-10-14T21:46:04.036Z",
+  "generatedAt": "2026-10-15T04:48:28.536Z",
   "count": 15,
   "items": [
+    {
+      "title": "Los desarrolladores chinos ya no viven solo de China: más de la mitad de sus ingresos en la App Store llega del extranjero",
+      "excerpt": "China tiene uno de los mayores mercados digitales del mundo, con millones de personas que utilizan aplicaciones para comprar, comunicarse, trabajar o…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/aplicaciones/desarrolladores-chinos-no-viven-solo-china-mitad-sus-ingresos-app-store-llega-extranjero",
+      "date": "2026-10-15T04:30:27.000Z",
+      "image": "https://i.blogs.es/8d9049/apple-app-store-ecosystem-china-wuthering-waves/1024_2000.jpeg"
+    },
+    {
+      "title": "Hubo un tiempo en el que creímos que las aves migraban a la Luna, pero luego una flecha lanzada en África cayó en Alemania",
+      "excerpt": "Hay pocas imágenes tan primaverales como la vuelta de las golondrinas y, sobre todo, de las cigüeñas que, tras un largo invierno, regresan a casa para anidar…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/ecologia-y-naturaleza/hubo-tiempo-que-creimos-que-aves-migraban-a-luna-luego-flecha-lanzada-africa-cayo-alemania",
+      "date": "2026-10-15T04:00:23.000Z",
+      "image": "https://i.blogs.es/a1d6bc/david-billington-8gqdtyiptre-unsplash/1024_2000.jpeg"
+    },
+    {
+      "title": "Los precios aconsejan vigilancia",
+      "excerpt": "Las rebajas fiscales a la gasolina y el gasóleo se mantendrán en vigor en España, toda vez que el Instituto Nacional de Estadística señaló ayer que el IPC de…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://cincodias.elpais.com/opinion/2026-10-15/los-precios-aconsejan-vigilancia.html",
+      "date": "2026-10-15T03:40:00.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/DGDPWSFZJJORLPNGWL7Y6PHONA.jpg?auth=af2b8c6bd453ea6d3600540bd8b5e38ff2750cb8dfb21e20dea8f1e44e1dabbb"
+    },
+    {
+      "title": "La banca europea se acerca al precipicio de los tipos altos",
+      "excerpt": "Los inversores parecen pensar que la subida de los tipos se ha convertido en demasiado de algo bueno para los bancos europeos. Las acciones de las 20 mayores…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://cincodias.elpais.com/opinion/2026-10-15/la-banca-europea-se-acerca-al-precipicio-de-los-tipos-altos.html",
+      "date": "2026-10-15T03:40:00.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/NLGZVPMSE5HDVOPEIPTLUI666A.jfif?auth=bd7a387830c6ef1ff312ff7131563982d4920c4f66f54aa5ffc6ff996ddd6362"
+    },
+    {
+      "title": "Berlín, pobre y sin casa propia",
+      "excerpt": "Solo 15 de cada 100 berlineses viven en sus cuatro paredes en propiedad. El resto, de alquiler. La compra de una vivienda en Berlín es un lujo. Supone entre…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://cincodias.elpais.com/opinion/2026-10-15/berlin-pobre-y-sin-casa-propia.html",
+      "date": "2026-10-15T03:40:00.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/ZRWIRREDOJKWDAJBY7XG6X722U.jpg?auth=aebe93f66088ec3ff0a1e7d0cfd0495b899e8d14c49e1505b600e4e8929c19b2"
+    },
+    {
+      "title": "El PSOE y el PP encienden la batalla por el futuro de las pensiones",
+      "excerpt": "Las pensiones son el eterno agujero negro de todas las carreras electorales y esta precampaña del 29-N se incendió este miércoles precisamente por el pulso…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://elpais.com/economia/2026-10-15/el-psoe-y-el-pp-encienden-la-batalla-por-el-futuro-de-las-pensiones.html",
+      "date": "2026-10-15T03:30:01.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/UTT5PBARRZAR5JBXA52PUG5K5M.jpg?auth=03c65e106d6adf76c3ed3ede86575b72865c313752a904cbf8828ce8bb29032f"
+    },
+    {
+      "title": "PlayStation podría quedarse sin ‘Fallout’ y ‘Minecraft’: Xbox estudia hacer exclusivos todos sus juegos",
+      "excerpt": "Xbox podría tomar un camino arriesgado para sus próximos juegos. La compañía estaría considerando volver a la estrategia de juegos exclusivos para su consola…",
+      "source": "Hipertextual",
+      "category": "Tecnología",
+      "url": "https://hipertextual.com/videojuegos/xbox-juegos-exclusivos-microsoft-encuesta/",
+      "date": "2026-10-15T00:08:08.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/xbox-series-x-25-2.jpeg?fit=1024%2C576&quality=70&strip=all&ssl=1"
+    },
+    {
+      "title": "FMI: la abultada deuda deja a los países sin margen para afrontar futuras crisis",
+      "excerpt": "Las presiones inflacionistas y el alza del rendimiento de los bonos han disparado el coste de financiación de la deuda. El Fondo avisa a los gobiernos de que…",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/economia/2026/10/15/fmi-abultada-deuda-deja-paises-margen-afrontar-futuras-crisis.html",
+      "date": "2026-10-14T22:28:03.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/15/17920168750690.jpg"
+    },
     {
       "title": "Netflix despide al 6 % de sus empleados: el mayor recorte de su historia",
       "excerpt": "Netflix ha concretado hoy el despido del 6 % de su plantilla, lo que representa el mayor recorte de su historia. Si bien la plataforma de streaming no reveló…",
@@ -48,49 +120,13 @@
       "image": "https://i.blogs.es/c24bb4/avion-nuclear-b-36/1024_2000.png"
     },
     {
-      "title": "Carissa Véliz, filósofa: “La IA presenta las predicciones como hechos, pero la democracia necesita incertidumbre para ser libre”",
-      "excerpt": "La democracia necesita algo que la inteligencia artificial pretende eliminar: la incertidumbre. Nadie sabe quién ganará unas elecciones antes de que los…",
-      "source": "Cinco Días",
+      "title": "José María Figaredo (Vox): \"El sistema actual de pensiones está en peligro de extinción con este Gobierno\"",
+      "excerpt": "El debate sobre el futuro de las pensiones se cuela en la precampaña para las elecciones del 29-N. El portavoz nacional de Economía, Energía y Desregulación…",
+      "source": "El Economista",
       "category": "Economía",
-      "url": "https://cincodias.elpais.com/economia/foro-creo-creando-oportunidades/2026-10-14/carissa-veliz-filosofa-la-ia-presenta-las-predicciones-como-hechos-pero-la-democracia-necesita-incertidumbre-para-ser-libre.html",
-      "date": "2026-10-14T20:15:39.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/7VGLWD24F5BT7C47Q6SEPOUBXI.jpg?auth=cc0a1d03ea35bc0cbd293657ed464b5db925f96da4d49445e473182ac6b9bb22"
-    },
-    {
-      "title": "WhatsApp rompe su regla más antigua y cambia las llamadas para siempre",
-      "excerpt": "WhatsApp se ha actualizado con una función que nunca pensamos que llegaría. El popular cliente de mensajería activó las llamadas de invitado, que permiten a…",
-      "source": "Hipertextual",
-      "category": "Tecnología",
-      "url": "https://hipertextual.com/mobile/whatsapp-permite-unirse-llamadas-sin-cuenta/",
-      "date": "2026-10-14T19:57:00.000Z",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/03/whatsapp-android.jpg?fit=1024%2C684&quality=70&strip=all&ssl=1"
-    },
-    {
-      "title": "Alguien ha robado 100 millones de dólares en criptomonedas utilizando puertas traseras plantadas de antemano en monederos físicos",
-      "excerpt": "Cuando hablamos de proteger nuestras criptomonedas, solemos pensar en contraseñas, estafas por Internet o ataques informáticos. Sin embargo, existe otra…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/seguridad/alguien-ha-robado-100-millones-dolares-criptomonedas-utilizando-puertas-traseras-plantadas-antemano-monederos-fisicos",
-      "date": "2026-10-14T19:30:26.000Z",
-      "image": "https://i.blogs.es/1e0a84/carteira-hardware-ledger/1024_2000.jpeg"
-    },
-    {
-      "title": "Mucho ojo con romper tu iPhone Duo: repararlo te saldrá más caro que comprar un iPhone nuevo",
-      "excerpt": "Si piensas comprarte el iPhone Duo (o si ya lo reservaste), seguramente quieras ser bastante cuidadoso al usarlo. Apple ha dado a conocer los precios de las…",
-      "source": "Hipertextual",
-      "category": "Tecnología",
-      "url": "https://hipertextual.com/apple/reparar-el-iphone-duo-cuesta-mas-que-comprar-un-iphone-nuevo/",
-      "date": "2026-10-14T18:45:00.000Z",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/iPhone-duo-4-scaled.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1"
-    },
-    {
-      "title": "La economía entra en campaña (las empresas, menos)",
-      "excerpt": "La economía es una disciplina eminentemente narrativa, pero a solo unas semanas de las elecciones la modulación del relato es muy distinta en función de quién…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://cincodias.elpais.com/economia/foro-creo-creando-oportunidades/2026-10-14/la-economia-entra-en-campana-las-empresas-menos.html",
-      "date": "2026-10-14T18:29:01.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/OUGKSYA7IND7PCHYZVITD7AYIY.jpg?auth=20b3f3783da9c16d15c79f72487393c175287d9b3917561ddd0cf02df4c26887"
+      "url": "https://www.eleconomista.es/economia/noticias/14021004/10/26/jose-maria-figaredo-vox-el-sistema-actual-de-pensiones-esta-en-peligro-de-extincion-con-este-gobierno.html",
+      "date": "2026-10-14T17:56:06.000Z",
+      "image": null
     },
     {
       "title": "La UE abre la puerta a no acordar este año el presupuesto común",
@@ -100,42 +136,6 @@
       "url": "https://www.expansion.com/economia/2026/10/14/ue-abre-puerta-acordar-ano-presupuesto-comun.html",
       "date": "2026-10-14T17:27:48.000Z",
       "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/14/17919988517018.jpg"
-    },
-    {
-      "title": "Jordi Hereu: “El ciudadano residente y el trabajador deben estar en el epicentro de las políticas de turismo”",
-      "excerpt": "“Quien no haya hecho los deberes de transformación irá por detrás en Europa”. La advertencia parte del ministro de Industria y Turismo, Jordi Hereu, quien ha…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://cincodias.elpais.com/economia/foro-creo-creando-oportunidades/2026-10-14/jordi-hereu-el-ciudadano-residente-y-el-trabajador-deben-estar-en-el-epicentro-de-las-politicas-de-turismo.html",
-      "date": "2026-10-14T17:19:58.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/7DGK7PQNBVBUBCYBGCPAOAF7WM.JPG?auth=5628a21201c71aedda44f5c656a88a22999c72556ca91834e56c88f760c0733c"
-    },
-    {
-      "title": "La empresaria Judith Viader lanza su propia fundación",
-      "excerpt": "La CEO de Frit Ravich, Judith Viader, constituye su propia fundación con los objetivos de impulsar el liderazgo femenino y prestigiar el sector de las ventas…",
-      "source": "El Economista",
-      "category": "Economía",
-      "url": "https://www.eleconomista.es/economia/noticias/14020990/10/26/judith-viader-lanza-fundacion.html",
-      "date": "2026-10-14T17:07:34.000Z",
-      "image": null
-    },
-    {
-      "title": "EEUU acusa a España de dañar su comercio marítimo y propone una tasa de 180.000 euros a todo barco español",
-      "excerpt": "La Comisión Marítima Federal de Estados Unidos (FMC, por sus siglas en inglés) ha concluido tras una investigación que el Gobierno de España ha incurrido en…",
-      "source": "Europa Press",
-      "category": "Economía",
-      "url": "https://www.europapress.es/economia/macroeconomia-00338/noticia-eeuu-acusa-espana-danar-comercio-maritimo-propone-tasa-180000-euros-todo-barco-espanol-20261014190034.html",
-      "date": "2026-10-14T17:00:34.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261014190034_120.jpg"
-    },
-    {
-      "title": "Jesús Suso (Vodafone): “Las redes son el corazón de la economía digital”",
-      "excerpt": "Acontecimientos como la pandemia, que paralizó las economías e hizo del teletrabajo una herramienta esencial, los ciberataques que han puesto de relieve la…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://cincodias.elpais.com/economia/foro-creo-creando-oportunidades/2026-10-14/jesus-suso-vodafone-las-redes-son-el-corazon-de-la-economia-digital.html",
-      "date": "2026-10-14T16:58:20.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/6MTQ6QCD3NFHDCUQHAIKGLRGOM.JPG?auth=5f0c70af1066311001db78360e022c56e5a28335cc02f0bebe370605bc62a587"
     }
   ]
 }
