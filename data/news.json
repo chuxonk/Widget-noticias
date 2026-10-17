@@ -1,15 +1,69 @@
 {
-  "generatedAt": "2026-10-16T21:17:23.433Z",
+  "generatedAt": "2026-10-17T04:35:58.217Z",
   "count": 15,
   "items": [
     {
-      "title": "Podemos desoye la oferta de Frente Amplio y responde que su afán con Madrid y Cataluña no bloquee pactos en otras CCAA",
-      "excerpt": "Podemos ha respondido a Frente Amplio que sus pretensiones de acuerdo en Madrid y Cataluña no puede bloquear el pacto en el resto de territorios e insta a…",
+      "title": "Las empresas del Ibex lideran la creación de empleo entre las grandes cotizadas europeas",
+      "excerpt": "España lideró la creación de empleo en la Unión Europea el pasado año, creando cuatro de cada diez nuevos puestos generados en toda la UE. Y las grandes…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://elpais.com/economia/2026-10-17/las-empresas-del-ibex-lideran-la-creacion-de-empleo-entre-las-grandes-cotizadas-europeas.html",
+      "date": "2026-10-17T03:45:01.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/PNNRH6QICBNBVL7SUW6X2EYQWE.jpg?auth=1307ceffb34f8e4bb4fd98474e3fe532621b8ea0934004843297ffc51b03f9f7"
+    },
+    {
+      "title": "A los ricos no les basta con la piscina: las zonas comunes se adaptan al gusto del comprador extranjero en los edificios de ultralujo",
+      "excerpt": "Si para muchos españoles tener una piscina en casa ya es un lujo, a los ricos parece que les sabe a poco. Dentro de las comodidades que ofrecen los nuevos…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://cincodias.elpais.com/fortunas/2026-10-17/a-los-ricos-no-les-basta-con-la-piscina-las-zonas-comunes-se-adaptan-al-gusto-del-comprador-extranjero-en-los-edificios-de-ultralujo.html",
+      "date": "2026-10-17T03:45:00.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/4P4I75GEGRA5JKHIMDYCSEYJ4I.jpg?auth=e6d7f333766327be0175f849637ae0ceb7254116c3f5d10bea7165609954a22a"
+    },
+    {
+      "title": "Basta de catastrofismo: la incertidumbre nos hace libres",
+      "excerpt": "Una noticia chocante, muy propia de nuestro tiempo, fue muy comentada en las pausas para el café o los canapés del foro CREO, que organizó esta semana Cinco…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://cincodias.elpais.com/opinion/2026-10-17/basta-de-catastrofismo-la-incertidumbre-nos-hace-libres.html",
+      "date": "2026-10-17T03:40:00.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/NAIXOOPHG5BKPKDBF3OIZNZ5DA.jpg?auth=e43114eaf9643e5e382a58c8a5fbc3ad85a13a16ca90e271e266b60a8888e878"
+    },
+    {
+      "title": "Terry Ewing (Mediolanum): “La próxima corrección llegará si se complica el acceso al crédito”",
+      "excerpt": "Ni la ofensiva arancelaria de Donald Trump, ni los conflictos geopolíticos, ni unas valoraciones cada vez más exigentes han impedido que los inversores sigan…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-10-17/terry-ewing-mediolanum-la-proxima-correccion-llegara-si-se-complica-el-acceso-al-credito.html",
+      "date": "2026-10-17T03:30:01.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/HFHF7VEHLVFCNM3HDXBCXCLLD4.jpg?auth=d819ddfe65c9eaade6d51142f677d415eb62e15fc3c1031a0dc7e887c53bca31"
+    },
+    {
+      "title": "Frente Amplio y Podemos consuman su choque al naufragar el intento de lograr un pacto global de unidad",
+      "excerpt": "Solo confluyen juntos en Canarias y Valencia mientras que el nuevo espacio que lidera Colau logra más alianzas y una coalición de corte estatal",
       "source": "Europa Press Tecnología",
       "category": "Tecnología",
-      "url": "https://www.europapress.es/nacional/noticia-podemos-desoye-oferta-frente-amplio-responde-afan-madrid-cataluna-no-bloquee-pactos-otras-ccaa-20261016230839.html",
-      "date": "2026-10-16T21:08:39.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261016230839_120.jpg"
+      "url": "https://www.europapress.es/nacional/noticia-frente-amplio-podemos-consuman-fractura-no-llegar-acuerdo-global-coaliciones-29n-20261017000800.html",
+      "date": "2026-10-16T22:08:00.000Z",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261017000800_120.jpg"
+    },
+    {
+      "title": "Los agentes de IA están aprendiendo a mejorar su propio software. La clave puede estar en predecir sus errores antes de cometerlos",
+      "excerpt": "En el desarrollo de software, cambiar algo para mejorarlo siempre abre la posibilidad de estropear otra cosa. Hasta un ajuste pequeño puede alterar el…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/robotica-e-ia/agentes-ia-estan-aprendiendo-a-mejorar-su-propio-software-clave-puede-estar-predecir-sus-errores-antes-cometerlos",
+      "date": "2026-10-16T21:54:26.000Z",
+      "image": "https://i.blogs.es/1d2f2b/programando-agentes/1024_2000.jpeg"
+    },
+    {
+      "title": "Linux sigue los pasos de Windows y añade un asistente de IA a Ubuntu",
+      "excerpt": "Canonical ha presentado Ubuntu 26.10, la versión estable más reciente del sistema operativo que marca un punto de inflexión en la evolución de Linux. Conocida…",
+      "source": "Hipertextual",
+      "category": "Tecnología",
+      "url": "https://hipertextual.com/inteligencia-artificial/ubuntu-26-10-myna-asistente-ia-local/",
+      "date": "2026-10-16T21:37:58.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/ubuntu-terminal.jpg?fit=1024%2C683&quality=70&strip=all&ssl=1"
     },
     {
       "title": "Windows 11 mejora una función que llevaba años pidiendo la comunidad",
@@ -66,15 +120,6 @@
       "image": null
     },
     {
-      "title": "Cuidado: esta app falsa se hace pasar por WhatsApp y podría robar tu información sin que te des cuenta",
-      "excerpt": "Los usuarios de Android deben estar atentos a una nueva amenaza que circula en Google Play. Una aplicación falsa que se hace pasar por WhatsApp está…",
-      "source": "Hipertextual",
-      "category": "Tecnología",
-      "url": "https://hipertextual.com/mobile/falsa-app-whatsapp-android-robar-informacion/",
-      "date": "2026-10-16T17:55:26.000Z",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/12/alerta-whatsapp.jpg?fit=1024%2C684&quality=70&strip=all&ssl=1"
-    },
-    {
       "title": "Meloni y Frederiksen reclaman suspender el derecho de asilo ante crisis como la de Ceuta",
       "excerpt": "La crisis migratoria de Ceuta ha centrado parte del debate de los jefes de Estado y de Gobierno de la UE. Si bien el texto de conclusiones de la Cumbre…",
       "source": "El Economista",
@@ -84,58 +129,13 @@
       "image": null
     },
     {
-      "title": "La nueva película de Netflix ha conseguido lo que Hollywood no logró en 55 años de historia: usar 'Stairway to Heaven'",
-      "excerpt": "Durante más de medio siglo, ninguna productora había conseguido que Jimmy Page y Robert Plant cedieran su canción más conocida, la maravillosa y…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/cine-y-tv/nueva-pelicula-netflix-ha-conseguido-que-hollywood-no-logro-55-anos-historia-usar-stairway-to-heaven",
-      "date": "2026-10-16T17:30:27.000Z",
-      "image": "https://i.blogs.es/43455f/magnific__enhance__59509/1024_2000.jpeg"
-    },
-    {
-      "title": "La multinacional Mahle plantea un nuevo ERE para 170 trabajadores en su fábrica de Cuenca",
-      "excerpt": "La multinacional alemana Mahle, especializada en la fabricación de componentes eléctricos para la automoción, plantea un segundo expediente de regulación de…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://cincodias.elpais.com/companias/2026-10-16/la-multinacional-mahle-plantea-un-nuevo-ere-para-170-trabajadores-en-su-fabrica-de-cuenca.html",
-      "date": "2026-10-16T17:21:43.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/RNHDZIYXPNFSNCVTXM6REVNXPI.JPG?auth=0c444bf0c0ba53bc99f81206bf8f2c3fbe512f56faf156973fc064dee9925e22"
-    },
-    {
-      "title": "Los maquinistas ferroviarios convocan huelga en Renfe para el 29 de octubre",
-      "excerpt": "El Sindicato Español de Maquinistas y Ayudantes Ferroviarios (Semaf) ha convocado una jornada de huelga de 24 horas para el próximo 29 de octubre en todas las…",
+      "title": "Las capitales exigen más medidas para equilibrar la relación comercial con Pekín",
+      "excerpt": "La Unión Europea se preparará para endurecer su política comercial respecto a China. Tras el difícil acuerdo comercial sellado la pasada semana, que pone coto…",
       "source": "El Economista",
       "category": "Economía",
-      "url": "https://www.eleconomista.es/economia/noticias/14021642/10/26/los-maquinistas-ferroviarios-convocan-huelga-en-renfe-para-el-29-de-octubre.html",
-      "date": "2026-10-16T17:02:21.000Z",
+      "url": "https://www.eleconomista.es/economia/noticias/14021644/10/26/las-capitales-exigen-mas-medidas-para-equilibrar-la-relacion-comercial-con-pekin.html",
+      "date": "2026-10-16T17:09:17.000Z",
       "image": null
-    },
-    {
-      "title": "Apple llama a sus máximos históricos en Bolsa tras agotar las reservas de su nuevo iPhone plegable",
-      "excerpt": "Las acciones de Apple se acercan a nuevos máximos históricos, tras saberse que la compañía de la manzana ha agotado en pocos minutos las reservas de su nuevo…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://elpais.com/economia/2026-10-16/apple-llama-a-sus-maximos-historicos-en-bolsa-tras-agotar-las-reservas-de-su-nuevo-iphone-plegable.html",
-      "date": "2026-10-16T16:58:34.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/EQOMPFQFLJNIJCMSPXAYDIMSD4.jpg?auth=c9482f7d8401e3dd3950c5fb244fb000287cbc71d2dff77d8f5b1353fe4cb14f"
-    },
-    {
-      "title": "Francia y Alemania presionan para permitir la venta de coches de combustión en la UE después de 2035",
-      "excerpt": "El eje francoalemán, que lleva tiempo funcionando con dificultad, se ha reparado apresuradamente en los últimos días en defensa de sus propios intereses…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://elpais.com/economia/2026-10-16/francia-y-alemania-presionan-para-permitir-la-venta-de-coches-de-combustion-en-la-ue-despues-de-2035.html",
-      "date": "2026-10-16T16:13:01.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/YP4DNILJZRNGVIYEY6ZK3DCGNE.jpg?auth=e90e95a7d50f6ebb128a80ffa65c055e665418ec935375494f56b23bb67ff58e"
-    },
-    {
-      "title": "El Ibex 35 sube un 1,54% en la semana y se aferra a los 19.300 puntos",
-      "excerpt": "El Ibex 35 ha finalizado la semana con un alza del 1,54%, hasta situarse en los 19.326,30 puntos, tras el alivio de la presión en el mercado de la deuda…",
-      "source": "Europa Press",
-      "category": "Economía",
-      "url": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-sube-154-semana-aferra-19300-puntos-20261016180834.html",
-      "date": "2026-10-16T16:08:34.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261016180834_120.jpg"
     }
   ]
 }
