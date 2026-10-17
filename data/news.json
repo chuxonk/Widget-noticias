@@ -1,78 +1,87 @@
 {
-  "generatedAt": "2026-10-17T15:40:46.065Z",
+  "generatedAt": "2026-10-17T20:40:38.340Z",
   "count": 15,
   "items": [
     {
-      "title": "Dinamarca ya no puede fiarse de su número de identidad. ¿El motivo? La contraseña más usada y peor que hay: \"123456\"",
-      "excerpt": "Alguien ha entrado al registro civil danés (CPR) y ha obtenido datos de unos 8,8 millones de personas. Y al parecer, no necesitó sofisticadas técnicas de…",
+      "title": "El Chernóbil asturiano: el pueblo abandonado ubicado junto a una antigua central térmica que tiene cine, escuela, club social y hasta consultorio médico",
+      "excerpt": "Había una vez un pueblo con cine, escuela, club social, piscina y hasta un consultorio médico de rigor. Solo que está abandonado. No es un cuento, existe…",
       "source": "Xataka",
       "category": "Tecnología",
-      "url": "https://www.xataka.com/seguridad/dinamarca-no-puede-fiarse-su-numero-identidad-motivo-contrasena-usada-peor-que-hay-123456",
-      "date": "2026-10-17T15:30:06.000Z",
-      "image": "https://i.blogs.es/56fc74/photo-1757846110061-b77a1387a340/1024_2000.jpeg"
+      "url": "https://www.xataka.com/magnet/chernobil-asturiano-pueblo-abandonado-ubicado-a-antigua-central-termica-que-tiene-cine-escuela-club-social-consultorio-medico",
+      "date": "2026-10-17T18:30:05.000Z",
+      "image": "https://i.blogs.es/6d2848/portadilla/1024_2000.jpeg"
     },
     {
-      "title": "Steve Jobs le propuso un cambio de ordenador y el dueño dijo que no. Ahora se ha vendido por más de un millón",
-      "excerpt": "El Apple-1 fue el primer ordenador de Apple, construido a mano por Steve Wozniak y Steve Jobs en 1976. Hoy quedan menos de 75 ejemplares en todo el mundo y…",
+      "title": "Las células zombis están detrás del envejecimiento: así es como los científicos pretenden eliminarlas",
+      "excerpt": "El paso del tiempo deja huella en nuestro organismo, y uno de los principales responsables son las llamadas \"células senescentes\", también conocidas como…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/medicina-y-salud/celulas-zombis-estan-detras-envejecimiento-asi-como-cientificos-pretenden-eliminarlas",
+      "date": "2026-10-17T18:00:04.000Z",
+      "image": "https://i.blogs.es/c05627/celulas/1024_2000.jpeg"
+    },
+    {
+      "title": "‘Super Mario Galaxy’ por fin tiene una versión para Android, pero no te emociones todavía",
+      "excerpt": "Super Mario Galaxy es, sin dudas, de los juegos más divertidos de la franquicia del fontanero de Nintendo. Después de todo, ha inspirado hasta su propia…",
+      "source": "Hipertextual",
+      "category": "Tecnología",
+      "url": "https://hipertextual.com/videojuegos/super-mario-galaxy-port-no-oficial-android/",
+      "date": "2026-10-17T18:00:00.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/galaxy.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1"
+    },
+    {
+      "title": "Irán afirma que el estrecho de Ormuz podría reabrirse en siete días si EEUU acepta su plan",
+      "excerpt": "El ministro de Exteriores iraní, Abás Araqchí, afirmó este sábado durante una reunión de la Organización de Cooperación Islámica (OCI) en Bagdad que el…",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/economia/2026/10/17/iran-afirma-estrecho-ormuz-podria-reabrirse-siete-dias-eeuu-acepta-plan.html",
+      "date": "2026-10-17T17:22:50.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/17/17922577644624.jpg"
+    },
+    {
+      "title": "Mientras se construía la Gran Pirámide hace 4.700 años, un barco se hundía en el Mediterráneo: es el naufragio más antiguo jamás conocido",
+      "excerpt": "Frente a la isla turca de Kekova yacen los restos de un barco que se hundió hace entre 4.400 y 4.700 años. Bueno, eso lo deducimos porque están encontrando e…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/magnet/se-construia-gran-piramide-hace-4-700-anos-barco-se-hundia-mediterraneo-naufragio-antiguo-jamas-conocido",
+      "date": "2026-10-17T17:00:06.000Z",
+      "image": "https://i.blogs.es/440c9b/gemini_generated_image_nmro1vnmro1vnmro/1024_2000.jpeg"
+    },
+    {
+      "title": "Este impactante documental te hará dudar de todo lo que sabes sobre la ley: y está en HBO Max",
+      "excerpt": "¿Quién mató a Alex Odeh?, el más reciente documental de HBO Max es incómodo y controversial de origen. Y eso por una razón muy válida. La de revisitar un…",
+      "source": "Hipertextual",
+      "category": "Tecnología",
+      "url": "https://hipertextual.com/cine-television/este-impactante-documental-te-hara-dudar-de-todo-lo-que-sabes-sobre-la-ley-y-esta-en-hbo-max/",
+      "date": "2026-10-17T17:00:00.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/Documental-HBO.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1"
+    },
+    {
+      "title": "La regla de \"100 más tu edad\" y la muerte de un presidente: cómo la medicina se equivocó durante décadas con la tensión arterial",
+      "excerpt": "Durante gran parte del siglo XX, si un paciente de 70 años acudía a la consulta de su médico y el tensiómetro le marcaba 170 mmHg de sistólica (la conocida…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/medicina-y-salud/regla-100-tu-edad-muerte-presidente-como-medicina-se-equivoco-durante-decadas-tension-arterial",
+      "date": "2026-10-17T16:00:06.000Z",
+      "image": "https://i.blogs.es/3d2cf0/tension-arterial/1024_2000.jpeg"
+    },
+    {
+      "title": "La ciencia dicta sentencia: los imanes en la nevera son más peligrosos de lo que se piensa. Y yo estuve años con un iPad viejo pegado al frigorífico",
+      "excerpt": "Poner imanes en la nevera puede ser perjudicial. Así de contundente es la conclusión de un estudio hecho por expertos. Aunque hay matices, ya que no es malo…",
       "source": "Applesfera",
       "category": "Tecnología",
-      "url": "https://www.applesfera.com/curiosidades/steve-jobs-le-propuso-cambio-ordenador-dueno-dijo-que-no-ahora-se-ha-vendido-millon",
-      "date": "2026-10-17T15:00:10.000Z",
-      "image": "https://i.blogs.es/4b822b/carta/1024_2000.jpeg"
+      "url": "https://www.applesfera.com/ipad/ciencia-dicta-sentencia-imanes-nevera-peligrosos-que-se-piensa-yo-estuve-anos-ipad-viejo-pegado-al-frigorifico",
+      "date": "2026-10-17T16:00:06.000Z",
+      "image": "https://i.blogs.es/056ee3/ipad-nevera/1024_2000.jpeg"
     },
     {
-      "title": "Creíamos que la NASA inventó Tang para los astronautas, pero resultó ser uno de los malentendidos más rentables de la historia espacial",
-      "excerpt": "Durante décadas, millones de personas han creído que Tang, la popular bebida de naranja en polvo, fue inventada por la NASA para alimentar a sus astronautas…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/espacio/creiamos-que-nasa-invento-tang-para-astronautas-resulto-ser-uno-malentendidos-rentables-historia-espacial",
-      "date": "2026-10-17T15:00:09.000Z",
-      "image": "https://i.blogs.es/4119d7/tang_-elegido-para-el-espacio-y-el-hogar/1024_2000.png"
-    },
-    {
-      "title": "El final de ‘Whalefall’ explicado: ¿el protagonista sobrevive a la aventura?",
-      "excerpt": "Whalefall es quizás la survivor movie más curiosa de la década y lo es por una razón muy concreta. Su protagonista, Jay Gardiner (Austin Abrams), debe…",
+      "title": "Esta película de terror te hará vomitar y está en Disney+",
+      "excerpt": "¿Qué hace de una película de terror inolvidable? Razones sobran, pero la más frecuente es su capacidad para reinventar el género. Ya sea por su premisa…",
       "source": "Hipertextual",
       "category": "Tecnología",
-      "url": "https://hipertextual.com/cine-television/el-final-de-whalefall-explicado-el-protagonista-sobrevive-a-la-aventura/",
-      "date": "2026-10-17T15:00:00.000Z",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/Whalefall-Movie-Poster-TOP-1.jpg?fit=1024%2C547&quality=70&strip=all&ssl=1"
-    },
-    {
-      "title": "Tatuajes invisibles que aparecen cuando tú quieres: así funciona PhotoTat, la tinta fotocrómica ideal para entrevistas de trabajo y visitas a tu abuela",
-      "excerpt": "Generalmente, las personas tatuadas están orgullosas de lucir sus tatuajes. Sin embargo, hay ocasiones en las que preferirían no tenerlos. En ciertas…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/medicina-y-salud/tatuajes-invisibles-que-aparecen-cuando-tu-quieres-asi-funciona-phototat-tinta-fotocromica-ideal-para-entrevistas-trabajo-visitas-a-tu-abuela",
-      "date": "2026-10-17T14:30:06.000Z",
-      "image": "https://i.blogs.es/427d72/tatuajes-que-se-borran/1024_2000.jpeg"
-    },
-    {
-      "title": "Windows 7 lleva años jubilado, pero diez juegos han demostrado que aún puede dar guerra a Windows 11",
-      "excerpt": "Doce años son los que separan a Windows 7 de Windows 11, una eternidad en términos tecnológicos. Aun así, el sistema más anciano sigue funcionando a día de…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/aplicaciones/windows-7-lleva-anos-jubilado-diez-juegos-han-demostrado-que-puede-dar-guerra-a-windows-11",
-      "date": "2026-10-17T14:00:05.000Z",
-      "image": "https://i.blogs.es/51acae/windows-7-portada/1024_2000.jpeg"
-    },
-    {
-      "title": "‘Whalefall’ es una de las grandes películas de acción del año que sorprende en cada escena",
-      "excerpt": "Whalefall (2026) podría tener una de las premisas más insólitas del año. En especial, porque la historia de un buzo que es tragado por una ballena y debe…",
-      "source": "Hipertextual",
-      "category": "Tecnología",
-      "url": "https://hipertextual.com/cine-television/whalefall-es-una-de-las-grandes-peliculas-de-accion-del-ano-que-sorprende-en-cada-escena/",
-      "date": "2026-10-17T14:00:00.000Z",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/Whalefall-23.jpg?fit=1024%2C575&quality=70&strip=all&ssl=1"
-    },
-    {
-      "title": "El calendario completo de ‘Avatar: Los Siete Refugios’, explicado: número de episodios y fechas de estreno",
-      "excerpt": "Por fin se estrena también en España Avatar: Los Siete Refugios, la nueva serie de la exitosa franquicia Avatar. Tras los pasos de La Leyenda de Aang y La…",
-      "source": "Hipertextual",
-      "category": "Tecnología",
-      "url": "https://hipertextual.com/cine-television/el-calendario-completo-de-avatar-los-siete-refugios-explicado-numero-de-episodios-y-fechas-de-estreno/",
-      "date": "2026-10-17T13:00:00.000Z",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/Avatar-los-siete-refugios.jpg?fit=1024%2C614&quality=70&strip=all&ssl=1"
+      "url": "https://hipertextual.com/cine-television/esta-pelicula-de-terror-te-hara-vomitar-y-esta-en-disney/",
+      "date": "2026-10-17T16:00:00.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/La-Mosca-Hipertextual.jpg?fit=1024%2C640&quality=70&strip=all&ssl=1"
     },
     {
       "title": "Un mejor equilibrio entre clima e industria",
@@ -126,15 +135,6 @@
       "category": "Economía",
       "url": "https://www.eleconomista.es/economia/noticias/14021699/10/26/portugal-elige-a-lufthansa-para-privatizar-la-aerolinea-tap-en-una-operacion-valorada-en-1201-millones.html",
       "date": "2026-10-17T07:48:22.000Z",
-      "image": null
-    },
-    {
-      "title": "El comercio de Sol cifra en 25 millones las pérdidas por la acampada y exige su fin inmediato",
-      "excerpt": "La Confederación de Comercio Especializado de la Comunidad de Madrid (Cocem) ha cifrado en cerca de 25 millones de euros las pérdidas que ha sufrido el…",
-      "source": "El Economista",
-      "category": "Economía",
-      "url": "https://www.eleconomista.es/economia/noticias/14021695/10/26/el-comercio-de-sol-cifra-en-25-millones-las-perdidas-por-la-acampada-y-exige-su-fin-inmediato.html",
-      "date": "2026-10-17T06:37:14.000Z",
       "image": null
     }
   ]
