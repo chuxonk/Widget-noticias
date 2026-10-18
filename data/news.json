@@ -1,78 +1,96 @@
 {
-  "generatedAt": "2026-10-18T15:55:53.979Z",
+  "generatedAt": "2026-10-18T20:50:40.139Z",
   "count": 15,
   "items": [
     {
-      "title": "A finales de los 90, un fan borracho de Van Halen llamó al soporte técnico de Microsoft y exigió hablar con Bill Gates",
-      "excerpt": "Los operadores de los servicios de soporte al usuario de las grandes tecnológicas han atendido llamadas con historias que nadie en su sano juicio creería. Una…",
+      "title": "Una de las líneas del metro más antiguo del mundo está a punto de cambiar: Siemens ha enseñado los trenes de nueva generación",
+      "excerpt": "El metro de Londres lleva transportando pasajeros desde 1863. Fue el primero del mundo y, más de siglo y medio después, sigue siendo una parte fundamental de…",
       "source": "Xataka",
       "category": "Tecnología",
-      "url": "https://www.xataka.com/empresas-y-economia/a-finales-90-fan-borracho-van-halen-llamo-al-soporte-tecnico-microsoft-exigio-hablar-bill-gates",
-      "date": "2026-10-18T15:31:34.000Z",
-      "image": "https://i.blogs.es/90927a/bill-gates/1024_2000.jpeg"
+      "url": "https://www.xataka.com/movilidad/lineas-metro-antiguo-mundo-esta-a-punto-cambiar-siemens-ha-ensenado-trenes-nueva-generacion",
+      "date": "2026-10-18T19:01:34.000Z",
+      "image": "https://i.blogs.es/296abf/tfl-image-2/1024_2000.jpeg"
     },
     {
-      "title": "Ocho consejos y ajustes para usar el iPhone con una sola mano (incluso si es un iPhone Max)",
-      "excerpt": "Me pase años defendiendo la comodidad de los iPhone pequeños hasta que la batería y la necesidad puntual de una mayor pantalla me hizo pasarme al bando de los…",
+      "title": "Macron cede ante la revuelta y lanza ayudas al carburante para frenar la crisis",
+      "excerpt": "El presidente de la República Francesa, Emmanuel Macron, se dirigió este domingo a la población a las 20.00 horas para anunciar que tomará \"medidas\" en…",
+      "source": "El Economista",
+      "category": "Economía",
+      "url": "https://www.eleconomista.es/economia/noticias/14021791/10/26/macron-cede-ante-la-revuelta-y-lanza-ayudas-al-carburante-para-frenar-la-crisis.html",
+      "date": "2026-10-18T18:54:48.000Z",
+      "image": null
+    },
+    {
+      "title": "Querían frenar la humedad en la Catedral Vieja de Salamanca y han acabado encontrando tumbas, un caldero romano y un posible templo anterior",
+      "excerpt": "Si hablamos de ciudades donde es imposible cavar dos metros sin tropezar con una porción de historia, Salamanca está en el top. Según La Gaceta de Salamanca…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/magnet/querian-frenar-humedad-catedral-vieja-salamanca-han-acabado-encontrando-tumbas-caldero-romano-posible-templo-anterior",
+      "date": "2026-10-18T18:31:34.000Z",
+      "image": "https://i.blogs.es/1e4c8c/naves/1024_2000.jpeg"
+    },
+    {
+      "title": "Hoy en Ikea (y rebajada a 19,99 euros) la solución 2 en 1 para ganar espacio en la mesa de trabajo y elevar la pantalla del PC",
+      "excerpt": "Actualmente, casi todas las pantallas de PC permiten ajustar su altura. Un imprescindible para quienes pasamos un buen puñado de horas a diario usando el…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/seleccion/hoy-ikea-rebajada-a-19-99-euros-solucion-2-1-para-ganar-espacio-mesa-trabajo-elevar-pantalla-pc",
+      "date": "2026-10-18T18:15:34.000Z",
+      "image": "https://i.blogs.es/3a2e66/idea-elevador-monitor/1024_2000.jpeg"
+    },
+    {
+      "title": "Llevamos años escuchando que adelgazar rápido provoca efecto rebote. Los expertos llevan tiempo cuestionando esta idea",
+      "excerpt": "En la sociedad que vivimos actualmente, queremos hacerlo todo cuanto antes, mejor. Y el perder peso no es una excepción. Pero aquí las prisas por perder kilos…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/medicina-y-salud/llevamos-anos-escuchando-que-adelgazar-rapido-provoca-efecto-rebote-expertos-llevan-tiempo-cuestionando-esta-idea",
+      "date": "2026-10-18T18:01:34.000Z",
+      "image": "https://i.blogs.es/72b8e9/dieta/1024_2000.jpeg"
+    },
+    {
+      "title": "Microsoft acaba de hacer algo inesperado con Linux y podría cambiar la seguridad de millones de PCs",
+      "excerpt": "Linux ha pasado de ser un bicho raro de servidores a convertirse en una verdadera alternativa para quienes están hartos de Windows. Ese crecimiento ha…",
+      "source": "Hipertextual",
+      "category": "Tecnología",
+      "url": "https://hipertextual.com/software/microsoft-defender-linux-escritorios-seguridad/",
+      "date": "2026-10-18T18:00:00.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/microsoft-defender-linux-1.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1"
+    },
+    {
+      "title": "5 teorías aterradoras de las películas y sagas más populares",
+      "excerpt": "En Hollywood, aparentemente, hay teorías aterradoras para todos los gustos. De quién mató realmente a la Dalia Negra, hasta películas malditas que se…",
+      "source": "Hipertextual",
+      "category": "Tecnología",
+      "url": "https://hipertextual.com/cine-television/5-teorias-aterradoras-de-las-peliculas-y-sagas-mas-populares/",
+      "date": "2026-10-18T17:00:00.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/Teorias-Terrorpifiucas.jpg?fit=1024%2C819&quality=70&strip=all&ssl=1"
+    },
+    {
+      "title": "Adif pone a prueba el punto del incendio del AVE en la línea Madrid-Barcelona y prevé abrirlo al tráfico este lunes",
+      "excerpt": "La retirada en la madrugada del viernes al sábado de lo que quedaba de la máquina del tren AVE de Renfe incendiada el 12 de octubre, en la línea de alta…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://elpais.com/economia/2026-10-18/adif-pone-a-prueba-el-punto-del-incendio-del-ave-en-la-linea-madrid-barcelona-y-preve-abrirlo-al-trafico-este-lunes.html",
+      "date": "2026-10-18T16:43:19.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/6UG5XFEIMNHONIIF3KIQHT2VXM.jpeg?auth=94d234e7edad7926013ba14f28616c31162f50613cbcee4f3786626809b1cdbb"
+    },
+    {
+      "title": "Steve Jobs encargó un avión privado idéntico al de otro multimillonario. Solo los diferenciaba un botón",
+      "excerpt": "La influencia de los amigos es tal que muchos acabamos comprando algo solo porque se lo hemos visto a alguno de ellos. Lo que pocos hemos podido hacer es…",
       "source": "Applesfera",
       "category": "Tecnología",
-      "url": "https://www.applesfera.com/trucos/ocho-consejos-ajustes-para-usar-iphone-sola-mano-incluso-iphone-max",
-      "date": "2026-10-18T15:01:35.000Z",
-      "image": "https://i.blogs.es/bbd063/iphone-en-una-mano/1024_2000.jpeg"
+      "url": "https://www.applesfera.com/curiosidades/steve-jobs-encargo-avion-privado-identico-al-otro-multimillonario-solo-diferenciaba-boton",
+      "date": "2026-10-18T16:01:35.000Z",
+      "image": "https://i.blogs.es/f079ac/jobs-avion/1024_2000.jpeg"
     },
     {
-      "title": "Albert Einstein: \"Una vida tranquila y modesta trae más felicidad que la búsqueda del éxito unida a una inquietud constante\"",
-      "excerpt": "En 1922, Albert Einstein se encontraba en un hotel de Tokio cuando, al no disponer de suelto para dar una propina a un botones, le entregó una nota manuscrita…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/medicina-y-salud/albert-einstein-vida-tranquila-modesta-trae-felicidad-que-busqueda-exito-unida-a-inquietud-constante",
-      "date": "2026-10-18T15:01:34.000Z",
-      "image": "https://i.blogs.es/c65bb0/einstein-collage/1024_2000.jpeg"
-    },
-    {
-      "title": "5 sagas cuya segunda película es la mejor",
-      "excerpt": "Las sagas son parte sustancial del cine. Pero se enfrentan al clásico problema: ¿hay secuelas realmente buenas o que sean necesarias? Por ahora, se trata de…",
+      "title": "7 películas de terror sobrenatural que deberías ver ahora mismo",
+      "excerpt": "El cine de terror explora los grandes miedos de la humanidad. Pero además, lo hace a través de las grandes obsesiones de todas las épocas. Por lo que no es…",
       "source": "Hipertextual",
       "category": "Tecnología",
-      "url": "https://hipertextual.com/cine-television/5-sagas-cuya-segunda-pelicula-es-la-mejor/",
-      "date": "2026-10-18T15:00:00.000Z",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/Secuelas.jpg?fit=1024%2C819&quality=70&strip=all&ssl=1"
-    },
-    {
-      "title": "Europa quiere hacer algo que parecía imposible y es comprar energía como si fuera un solo país",
-      "excerpt": "La Unión Europea está buscando nuevas formas de hacer frente a un mercado cada vez más volátil y menos fiable. En esta ocasión, es la presidenta de la…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/energia/europa-quiere-hacer-algo-que-parecia-imposible-comprar-energia-como-fuera-solo-pais",
-      "date": "2026-10-18T14:31:34.000Z",
-      "image": "https://i.blogs.es/75f95c/francois-genon-m5iugintpvo-unsplash/1024_2000.jpeg"
-    },
-    {
-      "title": "Rockstar tiene trabajando a 4.700 personas para lanzar 'GTA VI' y vender más de 40 millones de copias",
-      "excerpt": "Cuando Rockstar lanzó 'Red Dead Redemption II' en 2018 tenía 2.441 empleados. En agosto de este año tenía 4.711, repartidos en 12 oficinas. Las cifras son…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/videojuegos/rockstar-tiene-trabajando-a-4-700-personas-para-lanzar-gta-vi-vender-40-millones-copias",
-      "date": "2026-10-18T14:01:34.000Z",
-      "image": "https://i.blogs.es/a0786e/33-new-details-from-the-gta-6-launch-trailer_r171.2560/1024_2000.jpeg"
-    },
-    {
-      "title": "Las 5 películas que tardaron menos en rodarse de todos los tiempos",
-      "excerpt": "Como lo acaba de demostrar The Batman 2, filmar una película siempre será una combinación de factores. Por un lado, la más pura casualidad, en la que…",
-      "source": "Hipertextual",
-      "category": "Tecnología",
-      "url": "https://hipertextual.com/cine-television/las-5-peliculas-que-tardaron-menos-en-rodarse-de-todos-los-tiempos/",
-      "date": "2026-10-18T14:00:00.000Z",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/Menor-tiempo-de-rodaje.jpg?fit=1024%2C819&quality=70&strip=all&ssl=1"
-    },
-    {
-      "title": "¿Hace falta ver ‘VisionQuest’ antes de ‘Avengers: Doomsday’ y ‘X-Men’? Su creador confirma las sospechas",
-      "excerpt": "Con el estreno de VisionQuest en Disney+, Marvel ya ha lanzado su último proyecto antes de la llegada de Avengers: Doomsday a los cines. Esta serie, con el…",
-      "source": "Hipertextual",
-      "category": "Tecnología",
-      "url": "https://hipertextual.com/cine-television/hace-falta-ver-visionquest-antes-de-avengers-doomsday-y-x-men-entrevista-creador-terry-matalas/",
-      "date": "2026-10-18T13:00:00.000Z",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/VisionQuest-Avenegrs-Doomsday.jpg?fit=1024%2C614&quality=70&strip=all&ssl=1"
+      "url": "https://hipertextual.com/cine-television/7-peliculas-de-terror-sobrenatural-que-deberias-ver-ahora-mismo/",
+      "date": "2026-10-18T16:00:00.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/10/10-peliculas-de-terror.jpg?fit=1024%2C819&quality=70&strip=all&ssl=1"
     },
     {
       "title": "El impacto económico de la crisis migratoria alcanza los 74,34 millones de euros en Ceuta",
@@ -118,24 +136,6 @@
       "url": "https://www.eleconomista.es/economia/noticias/14021741/10/26/la-doble-amenaza-para-la-economia-global-el-fmi-alerta-del-riesgo-de-la-ia-y-la-deuda-de-los-paises-ricos.html",
       "date": "2026-10-18T06:41:07.000Z",
       "image": null
-    },
-    {
-      "title": "Elena Ibáñez, orientadora vocacional: “La educación en España está poniendo los noes a la IA, pero no los síes”",
-      "excerpt": "Los resultados de España en el último informe PISA, publicado en septiembre, fueron los peores desde que se comenzó a realizar esta prueba internacional en el…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://elpais.com/economia/2026-10-18/elena-ibanez-orientadora-vocacional-la-educacion-en-espana-esta-poniendo-noes-a-la-ia-pero-no-sies.html",
-      "date": "2026-10-18T04:07:00.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/XSLAWVMMOVHL5KOJWJX3E2OAAU.jpg?auth=f1d3525b0a92d026bbf30050e554d15352b7478257bd7e680a81ebd1d2b95f07"
-    },
-    {
-      "title": "Tadashi Yanai, el hombre más rico de Japón, acecha a Inditex",
-      "excerpt": "A los niños les suelen gustar los tonos llamativos y vibrantes. A Tadashi Yanai (Ube, Japón, 1949), sin embargo, le horrorizó la ropa infantil de colorines…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://cincodias.elpais.com/opinion/2026-10-18/tadashi-yanai-el-hombre-mas-rico-de-japon-acecha-a-inditex.html",
-      "date": "2026-10-18T03:40:00.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/GGT7IIFH7JEPTBHKXP2NN52D2M.jpg?auth=35ecbe6ac83b041238455dacdceb3831dff2acdc9b3036f8c015f6eae6f7dda5"
     }
   ]
 }
