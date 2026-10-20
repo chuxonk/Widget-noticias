@@ -1,7 +1,115 @@
 {
-  "generatedAt": "2026-10-20T19:20:03.456Z",
+  "generatedAt": "2026-10-20T23:56:23.239Z",
   "count": 15,
   "items": [
+    {
+      "title": "Android Auto se actualiza con una de las mejoras más esperadas de Gemini",
+      "excerpt": "Google sigue ampliando la presencia de Gemini en su ecosistema de servicios y ahora lleva una de sus funciones más ambiciosas al coche. El gigante tecnológico…",
+      "source": "Hipertextual",
+      "category": "Tecnología",
+      "url": "https://hipertextual.com/movilidad/gemini-inteligencia-personalizada-android-auto/",
+      "date": "2026-10-20T23:41:59.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/android-auto.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1"
+    },
+    {
+      "title": "El Gobierno intensifica su agenda social en la antesala de las elecciones generales",
+      "excerpt": "El Ejecutivo de Sánchez se reafirma en su estrategia de legislar con las Cortes disueltas y avanza más medidas que deberá votar la Diputación Permanente del…",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/economia/2026/10/21/gobierno-intensifica-agenda-social-antesala-elecciones-generales.html",
+      "date": "2026-10-20T23:32:02.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/21/17925391154256.jpg"
+    },
+    {
+      "title": "China afianza su ‘sorpasso’ a Alemania como primer proveedor mundial de España",
+      "excerpt": "Las exportaciones españolas crecen un 3,2% hasta agosto y alcanzan cifras récord por encima de los 264.000 millones. China supone dos tercios del déficit…",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/economia/2026/10/21/china-afianza-sorpasso-alemania-primer-proveedor-mundial-espana.html",
+      "date": "2026-10-20T23:21:09.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/21/17925384515286.jpg"
+    },
+    {
+      "title": "Netflix crece al menor ritmo en años y aviva las preocupaciones sobre el estancamiento de su audiencia",
+      "excerpt": "El negocio del mayor grupo mundial de streaming, con permiso de YouTube, está estancado. Los ingresos de Netflix crecieron en el tercer trimestre al menor…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://elpais.com/economia/2026-10-20/netflix-crece-al-menor-ritmo-en-anos-y-aviva-las-preocupaciones-sobre-el-estancamiento-de-su-audiencia.html",
+      "date": "2026-10-20T23:07:20.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/32DJN4GDQ5MG7PGLBYBVMZWJYU.jpg?auth=7631b66154ac1361e7d3755f1f71a053e2dd9d59f73a70f2592033884428d90b"
+    },
+    {
+      "title": "La próxima Xbox no será una sola consola y Microsoft ya tiene el plan",
+      "excerpt": "Microsoft tiene planes de lanzar una consola portátil en 2027, antes de dar el salto a Project Helix. En una entrevista con Fortune, la jefa de Xbox, Asha…",
+      "source": "Hipertextual",
+      "category": "Tecnología",
+      "url": "https://hipertextual.com/videojuegos/xbox-portatil-2027-consola-2028-project-helix/",
+      "date": "2026-10-20T21:58:00.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2022/07/xbox.jpg?fit=1024%2C695&quality=70&strip=all&ssl=1"
+    },
+    {
+      "title": "SpaceX bate previsiones con un beneficio de 3.926 millones en el tercer trimestre gracias a Starlink y la IA",
+      "excerpt": "SpaceX se anotó un beneficio neto atribuido de 4.404 millones de dólares (3.926 millones de euros) en el tercer trimestre de 2026, en contraste con los…",
+      "source": "Europa Press",
+      "category": "Economía",
+      "url": "https://www.europapress.es/economia/noticia-spacex-bate-previsiones-beneficio-3926-millones-tercer-trimestre-gracias-starlink-ia-20261020232259.html",
+      "date": "2026-10-20T21:22:59.000Z",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261020232259_120.jpg"
+    },
+    {
+      "title": "La UCO señala que Aldama achacó a un intento de robo los daños en un coche suyo cuando se decía que fue tiroteado",
+      "excerpt": "La Unidad Central Operativa (UCO) de la Guardia Civil ha señalado que el empresario Víctor de Aldama atribuyó a un intento de robo los daños que sufrió uno de…",
+      "source": "Europa Press Tecnología",
+      "category": "Tecnología",
+      "url": "https://www.europapress.es/nacional/noticia-uco-senala-aldama-achaco-intento-robo-danos-coche-suyo-cuando-decia-fue-tiroteado-20261020225937.html",
+      "date": "2026-10-20T20:59:37.000Z",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261020225937_120.jpg"
+    },
+    {
+      "title": "YouTube quiere ponértelo más difícil para dar ‘No me gusta’ a un vídeo",
+      "excerpt": "Ponerle No me gusta a un vídeo en YouTube estaría por volverse algo más complicado. La plataforma de Google ha comenzado a probar cambios en su interfaz que…",
+      "source": "Hipertextual",
+      "category": "Tecnología",
+      "url": "https://hipertextual.com/internet/youtube-prueba-con-ocultar-el-boton-no-me-gusta/",
+      "date": "2026-10-20T20:51:00.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/youtube.jpg?fit=1024%2C683&quality=70&strip=all&ssl=1"
+    },
+    {
+      "title": "¿Podrá Feijóo sortear las trampas de Sánchez?",
+      "excerpt": "El objetivo del líder del PSOE no ha cambiado: impedir que gobierne alguien que no sea él.",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/opinion/2026/10/20/podra-feijoo-sortear-trampas-sanchez.html",
+      "date": "2026-10-20T20:09:57.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/20/17925269855177.jpg"
+    },
+    {
+      "title": "ChatGPT ya programa en COBOL, un lenguaje más viejo que muchos de sus usuarios",
+      "excerpt": "Cuando pensamos en la IA y vibe coding, lo primero que nos viene a la mente es la programación con lenguajes modernos como Python o JavaScript. Si bien esto…",
+      "source": "Hipertextual",
+      "category": "Tecnología",
+      "url": "https://hipertextual.com/inteligencia-artificial/chatgpt-programa-cobol-moderniza-aplicaciones-antiguas/",
+      "date": "2026-10-20T19:39:00.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/old-computer.jpg?fit=1024%2C768&quality=70&strip=all&ssl=1"
+    },
+    {
+      "title": "Menos de 100 caracteres, 1.200 webs atacadas y más de 100 comprometidas: así está cambiando la IA la ciberseguridad",
+      "excerpt": "Durante años hemos asumido que la ciberseguridad era una carrera de fondo: alguien encontraba una vulnerabilidad, otro intentaba cerrarla y, entre medias…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/seguridad/100-caracteres-1-200-webs-atacadas-100-comprometidas-asi-esta-cambiando-ia-ciberseguridad",
+      "date": "2026-10-20T19:31:40.000Z",
+      "image": "https://i.blogs.es/c17e3f/hacker-ia/1024_2000.jpeg"
+    },
+    {
+      "title": "La Generalitat Valenciana aprueba ayudas de 6.000 euros por los daños de la DANA en viviendas",
+      "excerpt": "El Gobierno valenciano ha aprobado un primer paquete de ayudas por valor de 23,5 millones de euros para los afectados por la DANA Adam, que ha provocado…",
+      "source": "El Economista",
+      "category": "Economía",
+      "url": "https://www.eleconomista.es/economia/noticias/14022394/10/26/la-generalitat-valenciana-aprueba-ayudas-de-6000-euros-por-los-danos-de-la-dana-en-viviendas.html",
+      "date": "2026-10-20T19:11:14.000Z",
+      "image": null
+    },
     {
       "title": "A un conductor de BYD en China le pusieron un cepo y su solución fue conducir con la rueda en el aire",
       "excerpt": "Un BYD FCB Bao 8 ha sido protagonista estos días en las redes sociales chinas por haber sido visto circulando por la calle con una rueda levantada del suelo…",
@@ -10,24 +118,6 @@
       "url": "https://www.xataka.com/movilidad/a-conductor-byd-china-le-han-puesto-cepo-solucion-conducir-rueda-aire",
       "date": "2026-10-20T19:01:38.000Z",
       "image": "https://i.blogs.es/537d6f/coche-cepo/1024_2000.jpeg"
-    },
-    {
-      "title": "El Galaxy S27 traería pésimas noticias: Samsung recortaría la RAM de su próximo tope de gama",
-      "excerpt": "Los Samsung Galaxy S27 podrían llegar con una sorpresa desagradable. Según recoge 9to5Google, nuevas filtraciones apuntan a que la firma coreana podría…",
-      "source": "Hipertextual",
-      "category": "Tecnología",
-      "url": "https://hipertextual.com/mobile/el-galaxy-s27-podria-llegar-con-solo-8-gb-de-memoria-ram/",
-      "date": "2026-10-20T18:38:00.000Z",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/02/Samsung-Galaxy-S26-7-scaled.jpg?fit=1024%2C640&quality=70&strip=all&ssl=1"
-    },
-    {
-      "title": "Merz busca recuperar el atractivo inversor de Alemania con una cumbre al estilo de Macron",
-      "excerpt": "Alemania lleva años viendo cómo merman las inversiones privadas en el país, algo que no puede compensar de manera sostenible con un aumento de las inversiones…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://elpais.com/economia/2026-10-20/merz-busca-recuperar-el-atractivo-inversor-de-alemania-con-una-cumbre-al-estilo-de-macron.html",
-      "date": "2026-10-20T18:37:20.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/ZH5B3F32T5N7RCOZSEDZNEOIJ4.jpg?auth=bed4e3ec42238e6b8658245775e64b9ff47e591c4f6087314873650de6eb0731"
     },
     {
       "title": "Revolut restablece sus servicios tras la caída de Google Cloud que ha impedido a los clientes acceder a sus cuentas",
@@ -46,96 +136,6 @@
       "url": "https://www.expansion.com/catalunya/2026/10/20/ventas-catalanas-exterior-suben-2-agosto.html",
       "date": "2026-10-20T18:04:56.000Z",
       "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/20/17925194858591.jpg"
-    },
-    {
-      "title": "Vuelve a Netflix el anime que lavó la cara y el prestigio de uno de los videojuegos más odiados de los últimos años",
-      "excerpt": "Netflix estrena hoy los diez episodios de 'Cyberpunk: Edgerunners 2': una historia independiente con personajes nuevos, y con Studio Trigger al frente de la…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/cine-y-tv/cyberpunk-edgerunners-t2",
-      "date": "2026-10-20T18:01:38.000Z",
-      "image": "https://i.blogs.es/e030b9/fic9hfbrxwuf6enztynxet/1024_2000.jpeg"
-    },
-    {
-      "title": "El Gobierno garantiza a los sindicatos que el sueldo de los funcionarios subirá un 4,5% desde el 1 de enero",
-      "excerpt": "El Ministerio de Transformación Digital y para la Función Pública ha garantizado este martes a CSIF, CCOO y UGT que el sueldo de los empleados públicos subirá…",
-      "source": "Europa Press",
-      "category": "Economía",
-      "url": "https://www.europapress.es/economia/laboral-00346/noticia-gobierno-garantiza-sindicatos-sueldo-funcionarios-subira-45-enero-20261020194527.html",
-      "date": "2026-10-20T17:45:27.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261020194527_120.jpg"
-    },
-    {
-      "title": "El Gobierno garantiza a los sindicatos que subirá el sueldo a los funcionarios un 5% en 2027",
-      "excerpt": "Los responsables de Función Pública han garantizado este martes a los sindicatos que, pese al adelanto electoral, aplicarán la subida salarial del 5% para más…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://elpais.com/economia/2026-10-20/el-gobierno-garantiza-a-los-sindicatos-que-subira-el-sueldo-a-los-funcionarios-un-5-en-2027.html",
-      "date": "2026-10-20T17:44:46.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/WXO2DTMU4A4SGWJE2SGVCN4T3I.jpg?auth=6cd816a6fb15ea144f03fa07023d41c7fd6ed5f565e3c123b88125be4be9d4fe"
-    },
-    {
-      "title": "Motorola desafía a Xiaomi: su próximo móvil tendrá una batería gigante y precio rompedor",
-      "excerpt": "Motorola prepara el lanzamiento de un nuevo móvil de gama media con gran autonomía. A unos meses de presentar el Moto G47, el fabricante tiene todo listo para…",
-      "source": "Hipertextual",
-      "category": "Tecnología",
-      "url": "https://hipertextual.com/mobile/motorola-moto-g47-power-bateria-7000mah/",
-      "date": "2026-10-20T17:40:41.000Z",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/moto-g37-power.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1"
-    },
-    {
-      "title": "El Gobierno aprobará antes de fin de año la subida de sueldo a los funcionarios del 5%",
-      "excerpt": "El departamento de Óscar López se compromete con los sindicatos a sacar adelante la revalorización prevista para 2027, del 4,5%, y el 0,5% adicional al…",
-      "source": "Expansión",
-      "category": "Economía",
-      "url": "https://www.expansion.com/economia/2026/10/20/gobierno-aprobara-ano-subida-sueldo-funcionarios-5.html",
-      "date": "2026-10-20T17:33:35.000Z",
-      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/20/17925176045918.jpg"
-    },
-    {
-      "title": "La izquierda encara la apertura del plazo para listas al 29N con los primeros espadas definidos",
-      "excerpt": "Frente Amplio encara el inicio del trámite para el registro de listas electorales al 29N, que se abre este miércoles y se prolongará hasta la medianoche del…",
-      "source": "Europa Press Tecnología",
-      "category": "Tecnología",
-      "url": "https://www.europapress.es/nacional/noticia-izquierda-encara-apertura-plazo-listas-29n-primeros-espadas-definidos-20261020193309.html",
-      "date": "2026-10-20T17:33:09.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261020193309_120.jpg"
-    },
-    {
-      "title": "Los \"palillos chinos\" de SpaceX tendrán copia china: Deep Blue Aerospace los quiere para su cohete Nebula-2",
-      "excerpt": "La compañía china Deep Blue Aerospace acaba de anunciar que el tanque de propelente de acero inoxidable de 5 metros de diámetro de su cohete Nebula-2 ya ha…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/espacio/china-no-se-conforma-reutilizar-cohetes-quiere-hacerlo-truco-que-spacex",
-      "date": "2026-10-20T17:31:40.000Z",
-      "image": "https://i.blogs.es/f20824/mechazilla-chino/1024_2000.jpeg"
-    },
-    {
-      "title": "Carrefour empeora sus previsiones anuales por los disturbios en Francia: “Es una situación sin precedentes”",
-      "excerpt": "Carrefour corrige a la baja sus previsiones de cierre de ejercicio por culpa de los disturbios que se suceden en Francia desde el fin de semana. La compañía…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://elpais.com/economia/2026-10-20/carrefour-empeora-sus-previsiones-anuales-por-los-disturbios-en-francia-es-una-situacion-sin-precedentes.html",
-      "date": "2026-10-20T17:29:42.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/OBV2BPTHZJN55KNLUHMJKQZZM4.jpg?auth=83a8b1ff608274b135e381c427f48440f379273a6152ea200a916df2e20750e2"
-    },
-    {
-      "title": "Yagüe, de Confebask, denuncia que \"el discurso ideológico\" de ETA sobre la empresa \"todavía cala en la sociedad\"",
-      "excerpt": "Este martes 20 de octubre se celebra el décimoquinto aniversario del anuncio de disolución de la banda terrorista ETA. En una fecha tan especial, la…",
-      "source": "El Economista",
-      "category": "Economía",
-      "url": "https://www.eleconomista.es/economia/noticias/14022378/10/26/confebask-cree-que-el-discurso-ideologico-de-eta-sobre-la-empresa-todavia-cala-en-la-sociedad.html",
-      "date": "2026-10-20T17:18:56.000Z",
-      "image": null
-    },
-    {
-      "title": "Qué es SoundGlow, la novedad visual que llega incluso a los HomePod mini antiguos",
-      "excerpt": "Sound Glow es una de las novedades que Apple ha preparado para el HomePod. Es una luz que se enciende en la parte superior del altavoz y late al ritmo de la…",
-      "source": "Applesfera",
-      "category": "Tecnología",
-      "url": "https://www.applesfera.com/homepod/que-soundglow-novedad-visual-que-llega-incluso-a-homepod-antiguos",
-      "date": "2026-10-20T17:01:41.000Z",
-      "image": "https://i.blogs.es/4151e8/homepod-mini-soundglow/1024_2000.jpeg"
     }
   ]
 }
