@@ -1,7 +1,34 @@
 {
-  "generatedAt": "2026-10-19T20:37:03.916Z",
+  "generatedAt": "2026-10-20T00:24:44.362Z",
   "count": 15,
   "items": [
+    {
+      "title": "El Galaxy A56 recibe One UI 9: todo lo nuevo que llega con la actualización de Android 17",
+      "excerpt": "Samsung ha comenzado el despliegue global de One UI 9 para el Galaxy A56. Uno de los móviles más populares de la gama media recibirá por fin la actualización…",
+      "source": "Hipertextual",
+      "category": "Tecnología",
+      "url": "https://hipertextual.com/mobile/galaxy-a56-one-ui-9-android-17-global/",
+      "date": "2026-10-19T23:14:37.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/04/galaxy-a56-002.jpg?fit=1024%2C684&quality=70&strip=all&ssl=1"
+    },
+    {
+      "title": "Subida salarial del 5% para los funcionarios: pendiente de las elecciones",
+      "excerpt": "El Gobierno se reúne con los sindicatos representantes de los empleados públicos para explorar la posibilidad de aprobar la revalorización antes de las…",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/economia/2026/10/20/subida-salarial-5-funcionarios-pendiente-elecciones.html",
+      "date": "2026-10-19T22:14:51.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/20/17924480829578.jpg"
+    },
+    {
+      "title": "El coste de la vivienda empuja a 770.000 trabajadores a la pobreza, según Oxfam Intermón",
+      "excerpt": "Tener un techo bajo el que vivir y poder pagarlo. Se trata de una ecuación complicada para muchos bolsillos. Y puede volverse dramática para una parte…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://elpais.com/economia/vivienda/2026-10-20/el-coste-de-la-vivienda-empuja-a-770000-trabajadores-a-la-pobreza-segun-oxfam-intermon.html",
+      "date": "2026-10-19T22:01:00.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/ZN3FYIHV7FNGHEMTDJXZGQPGNY.jpg?auth=2a1694ae690002c997adb86a0c5f1b8909b10ae134bda8fdc502d1dadcaba927"
+    },
     {
       "title": "China quiere que su IA conquiste el mundo, pero no que toda su tecnología salga del país: controles para 40 tecnologías clave",
       "excerpt": "Cuando hablamos de controles de exportación en la industria tecnológica, es habitual que pensemos en Estados Unidos y en las restricciones que Washington ha…",
@@ -109,33 +136,6 @@
       "url": "https://www.xataka.com/energia/luz-subio-septiembre-dos-tercios-aumento-tienen-explicacion-servicios-ajuste-red-electrica",
       "date": "2026-10-19T17:31:54.000Z",
       "image": "https://i.blogs.es/1e0f87/thomas-despeyroux-dh5pua2pwry-unsplash/1024_2000.jpeg"
-    },
-    {
-      "title": "Lecornu impone \"toques de queda localizados\" en varias ciudades de Francia",
-      "excerpt": "La situación se volvió prácticamente incontrolable en Francia durante todo el fin de semana debido a las protestas estudiantiles. Tras el mensaje del…",
-      "source": "El Economista",
-      "category": "Economía",
-      "url": "https://www.eleconomista.es/economia/noticias/14022072/10/26/lecornu-impone-toques-de-queda-localizados-en-varias-ciudades-de-francia.html",
-      "date": "2026-10-19T17:25:29.000Z",
-      "image": null
-    },
-    {
-      "title": "Renuncian los candidatos 2 y 3 del PSOE al Congreso por Palencia tras imponer Ferraz a Seijo como cabeza de lista",
-      "excerpt": "Luis Ángel Marín Paredes y Alicia García Alonso han comunicado esta tarde a la Permanente del PSOE de Palencia su decisión irrevocable de renunciar a aparecer…",
-      "source": "Europa Press Tecnología",
-      "category": "Tecnología",
-      "url": "https://www.europapress.es/castilla-y-leon/noticia-luis-angel-marin-alicia-garcia-renuncian-ocupar-puestos-lista-psoe-congreso-palencia-20261019192520.html",
-      "date": "2026-10-19T17:25:20.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261019192520_120.jpg"
-    },
-    {
-      "title": "Francia impone toques de queda en varias ciudades, mientras sobre el Gobierno sobrevuela declarar el estado de emergencia",
-      "excerpt": "El Gobierno francés ha comenzado a imponer este lunes toques de queda nocturnos en varias ciudades del país para contener la ola de protestas, disturbios y…",
-      "source": "El Economista",
-      "category": "Economía",
-      "url": "https://www.eleconomista.es/economia/noticias/14022069/10/26/francia-impone-toques-de-queda-en-varias-ciudades-mientras-sobre-el-gobierno-sobrevuela-declarar-el-estado-de-emergencia.html",
-      "date": "2026-10-19T17:19:49.000Z",
-      "image": null
     }
   ]
 }
