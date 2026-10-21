@@ -1,7 +1,70 @@
 {
-  "generatedAt": "2026-10-20T23:56:23.239Z",
+  "generatedAt": "2026-10-21T04:56:55.692Z",
   "count": 15,
   "items": [
+    {
+      "title": "Los resultados de las tecnológicas animan las Bolsas",
+      "excerpt": "Los resultados de las empresas tecnológicas están ofreciendo cierta tranquilidad después de que las preocupaciones sobre las valoraciones y la financiación de…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-10-21/la-bolsa-y-el-ibex-35.html",
+      "date": "2026-10-21T04:39:28.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/CS5MAI337RO73CB3JKHEIGRP7Q.jpg?auth=1e01854ea1501b91ec0a7d64dd4c3e75e12c95f81f43e40164a1d62beccf2005"
+    },
+    {
+      "title": "Alibaba ya ha metido RISC-V en más de 6.000 millones de chips",
+      "excerpt": "Alibaba es una de las principales bazas de China en su pulso con EEUU en el terreno de la inteligencia artificial (IA). Es muy difícil cuantificar de una…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/robotica-e-ia/alibaba-ha-metido-risc-v-6-000-millones-chips",
+      "date": "2026-10-21T04:01:39.000Z",
+      "image": "https://i.blogs.es/2dd0c1/alibaba/1024_2000.jpeg"
+    },
+    {
+      "title": "Indonesia y Turquía, gangas aparentes que son trampas de valor",
+      "excerpt": "Los argumentos para comprar acciones o índices bursátiles de Indonesia y Turquía resultan reconocibles y son similares a los que hace años se veían para otros…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://cincodias.elpais.com/opinion/2026-10-21/indonesia-y-turquia-gangas-aparentes-que-son-trampas-de-valor.html",
+      "date": "2026-10-21T03:40:00.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/OWNWSMDRDZLKXOLIU6V6HLPHFA.jpg?auth=21227874fdb6b9862d1532270bec590753a2eb556b8e65fef64511a1bc29ead5"
+    },
+    {
+      "title": "La crisis de la deuda deja al Gobierno de Francia sin margen ante las reivindicaciones sociales",
+      "excerpt": "Hace poco más de un mes, en un instituto de la periferia parisina un grupo de estudiantes bloqueó su centro educativo para protestar por el estado de las…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://elpais.com/internacional/2026-10-21/la-crisis-de-la-deuda-deja-al-gobierno-de-francia-sin-margen-ante-las-reivindicaciones-sociales.html",
+      "date": "2026-10-21T03:40:00.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/U5CM6RMECZPPJNTX6EKY3JQNXM.jpg?auth=04c3d493bde5e115b35da8746a4a985ce7386892e3854be53ad9f210c117191d"
+    },
+    {
+      "title": "Pablo Hernández de Cos busca apoyos en Francia y Alemania para impulsar su candidatura a presidente del BCE",
+      "excerpt": "El puesto con mayor poder económico de Europa puede decidirse en las próximas semanas. Un español, el exgobernador del Banco de España y actual director…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://elpais.com/economia/2026-10-21/pablo-hernandez-de-cos-busca-apoyos-en-francia-y-alemania-para-impulsar-su-candidatura-a-presidente-del-bce.html",
+      "date": "2026-10-21T03:30:01.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/IRRJL3I3WVGSTHO2TLAIL65OYY.jpg?auth=2c20f7cccedfe92f09a1a005e7311463bc57495a28402577798990e11be52dd2"
+    },
+    {
+      "title": "La UE rechaza extraer gas y petróleo en el Ártico pese a la crisis energética",
+      "excerpt": "Bruselas entiende que la operativa para obtener estas materias primas tardaría una década en estar lista y confía en no necesitar combustibles fósiles para…",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/economia/2026/10/21/ue-rechaza-extraer-gas-petroleo-artico-pese-crisis-energetica.html",
+      "date": "2026-10-21T01:06:38.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/21/17925447978662.jpg"
+    },
+    {
+      "title": "El Supremo acota el cálculo del valor del catastro sin la visita de un perito",
+      "excerpt": "El Alto Tribunal establece que las comunidades no pueden calcular el valor catastral de un inmueble utilizando planos o fotografías procedentes de Google…",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/fiscal/2026/10/21/supremo-acota-calculo-valor-catastro-visita-perito.html",
+      "date": "2026-10-21T00:33:48.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/21/17925388376220.jpg"
+    },
     {
       "title": "Android Auto se actualiza con una de las mejoras más esperadas de Gemini",
       "excerpt": "Google sigue ampliando la presencia de Gemini en su ecosistema de servicios y ahora lleva una de sus funciones más ambiciosas al coche. El gigante tecnológico…",
@@ -30,15 +93,6 @@
       "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/21/17925384515286.jpg"
     },
     {
-      "title": "Netflix crece al menor ritmo en años y aviva las preocupaciones sobre el estancamiento de su audiencia",
-      "excerpt": "El negocio del mayor grupo mundial de streaming, con permiso de YouTube, está estancado. Los ingresos de Netflix crecieron en el tercer trimestre al menor…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://elpais.com/economia/2026-10-20/netflix-crece-al-menor-ritmo-en-anos-y-aviva-las-preocupaciones-sobre-el-estancamiento-de-su-audiencia.html",
-      "date": "2026-10-20T23:07:20.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/32DJN4GDQ5MG7PGLBYBVMZWJYU.jpg?auth=7631b66154ac1361e7d3755f1f71a053e2dd9d59f73a70f2592033884428d90b"
-    },
-    {
       "title": "La próxima Xbox no será una sola consola y Microsoft ya tiene el plan",
       "excerpt": "Microsoft tiene planes de lanzar una consola portátil en 2027, antes de dar el salto a Project Helix. En una entrevista con Fortune, la jefa de Xbox, Asha…",
       "source": "Hipertextual",
@@ -46,15 +100,6 @@
       "url": "https://hipertextual.com/videojuegos/xbox-portatil-2027-consola-2028-project-helix/",
       "date": "2026-10-20T21:58:00.000Z",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2022/07/xbox.jpg?fit=1024%2C695&quality=70&strip=all&ssl=1"
-    },
-    {
-      "title": "SpaceX bate previsiones con un beneficio de 3.926 millones en el tercer trimestre gracias a Starlink y la IA",
-      "excerpt": "SpaceX se anotó un beneficio neto atribuido de 4.404 millones de dólares (3.926 millones de euros) en el tercer trimestre de 2026, en contraste con los…",
-      "source": "Europa Press",
-      "category": "Economía",
-      "url": "https://www.europapress.es/economia/noticia-spacex-bate-previsiones-beneficio-3926-millones-tercer-trimestre-gracias-starlink-ia-20261020232259.html",
-      "date": "2026-10-20T21:22:59.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261020232259_120.jpg"
     },
     {
       "title": "La UCO señala que Aldama achacó a un intento de robo los daños en un coche suyo cuando se decía que fue tiroteado",
@@ -75,15 +120,6 @@
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/youtube.jpg?fit=1024%2C683&quality=70&strip=all&ssl=1"
     },
     {
-      "title": "¿Podrá Feijóo sortear las trampas de Sánchez?",
-      "excerpt": "El objetivo del líder del PSOE no ha cambiado: impedir que gobierne alguien que no sea él.",
-      "source": "Expansión",
-      "category": "Economía",
-      "url": "https://www.expansion.com/opinion/2026/10/20/podra-feijoo-sortear-trampas-sanchez.html",
-      "date": "2026-10-20T20:09:57.000Z",
-      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/20/17925269855177.jpg"
-    },
-    {
       "title": "ChatGPT ya programa en COBOL, un lenguaje más viejo que muchos de sus usuarios",
       "excerpt": "Cuando pensamos en la IA y vibe coding, lo primero que nos viene a la mente es la programación con lenguajes modernos como Python o JavaScript. Si bien esto…",
       "source": "Hipertextual",
@@ -100,42 +136,6 @@
       "url": "https://www.xataka.com/seguridad/100-caracteres-1-200-webs-atacadas-100-comprometidas-asi-esta-cambiando-ia-ciberseguridad",
       "date": "2026-10-20T19:31:40.000Z",
       "image": "https://i.blogs.es/c17e3f/hacker-ia/1024_2000.jpeg"
-    },
-    {
-      "title": "La Generalitat Valenciana aprueba ayudas de 6.000 euros por los daños de la DANA en viviendas",
-      "excerpt": "El Gobierno valenciano ha aprobado un primer paquete de ayudas por valor de 23,5 millones de euros para los afectados por la DANA Adam, que ha provocado…",
-      "source": "El Economista",
-      "category": "Economía",
-      "url": "https://www.eleconomista.es/economia/noticias/14022394/10/26/la-generalitat-valenciana-aprueba-ayudas-de-6000-euros-por-los-danos-de-la-dana-en-viviendas.html",
-      "date": "2026-10-20T19:11:14.000Z",
-      "image": null
-    },
-    {
-      "title": "A un conductor de BYD en China le pusieron un cepo y su solución fue conducir con la rueda en el aire",
-      "excerpt": "Un BYD FCB Bao 8 ha sido protagonista estos días en las redes sociales chinas por haber sido visto circulando por la calle con una rueda levantada del suelo…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/movilidad/a-conductor-byd-china-le-han-puesto-cepo-solucion-conducir-rueda-aire",
-      "date": "2026-10-20T19:01:38.000Z",
-      "image": "https://i.blogs.es/537d6f/coche-cepo/1024_2000.jpeg"
-    },
-    {
-      "title": "Revolut restablece sus servicios tras la caída de Google Cloud que ha impedido a los clientes acceder a sus cuentas",
-      "excerpt": "Revolut ha restablecido todos sus servicios después de sufrir una caída que ha impedido operar con normalidad a sus clientes durante la mayor parte de este…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://elpais.com/economia/2026-10-20/revolut-sufre-una-caida-que-impide-a-sus-clientes-hacer-pagos-transferencias-y-acceder-a-sus-cuentas.html",
-      "date": "2026-10-20T18:22:25.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/YYF2C5EFLVJ2DNRGU3KRWEDN24.jpg?auth=b96e842eb47cfefb9ac70648f06c084e051e4afbc6531610518777dfb72c1867"
-    },
-    {
-      "title": "Las ventas catalanas al exterior suben un 2% hasta agosto",
-      "excerpt": "El déficit comercial sube un 6,6%, hasta superar los 10.000 millones.",
-      "source": "Expansión",
-      "category": "Economía",
-      "url": "https://www.expansion.com/catalunya/2026/10/20/ventas-catalanas-exterior-suben-2-agosto.html",
-      "date": "2026-10-20T18:04:56.000Z",
-      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/20/17925194858591.jpg"
     }
   ]
 }
