@@ -1,7 +1,88 @@
 {
-  "generatedAt": "2026-10-21T21:47:24.610Z",
+  "generatedAt": "2026-10-22T04:57:19.479Z",
   "count": 15,
   "items": [
+    {
+      "title": "Las Bolsas sufren por las dudas sobre la IA y el avance del petróleo",
+      "excerpt": "Las Bolsas sufren el nerviosismo en torno a la inteligencia artificial después de que los resultados empresariales de las grandes compañías tecnológicas no…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-10-22/la-bolsa-y-el-ibex-35.html",
+      "date": "2026-10-22T04:34:30.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/7AOCU3UQMFOBBHGQYNHHTXQZOY.jpg?auth=a884ae140a6629e7476f1a1e1e8c769d8478cc2bbab034e1138fd30892c3e9b1"
+    },
+    {
+      "title": "John Kerry: “La decisión de Trump de permitir la compra de petróleo ruso es contraproducente y peligrosa”",
+      "excerpt": "La trayectoria política de John Kerry (Aurora, EE UU, 82 años) dejó un vasto legado que la Administración de Donald Trump está dispuesta a dilapidar. Entre…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://elpais.com/economia/2026-10-22/john-kerry-la-decision-de-trump-de-permitir-la-compra-de-petroleo-ruso-es-contraproducente-y-peligrosa.html",
+      "date": "2026-10-22T03:45:01.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/YUBXCFAT7ZHHJAGYUHSZG5W6HU.jpg?auth=9194f66faf769fe7986f5a56e247ff945b7811b9742e8e033b76ae6f4c2c8838"
+    },
+    {
+      "title": "¿Cuántas casas más puede construir España?",
+      "excerpt": "A España le faltan ya unas 750.000 viviendas para cubrir la demanda existente, según los cálculos del Banco de España. Y la brecha sigue creciendo: si se…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://elpais.com/economia/vivienda/2026-10-22/cuantas-casas-mas-puede-construir-espana.html",
+      "date": "2026-10-22T03:45:01.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/2UTHAWPUNRKFONA3T2JFCVORRU.jpg?auth=f56abad6ced2eb859e4b212f7f0a14f1d5c0dcbb3c597ee543e6249dc6e1afa3"
+    },
+    {
+      "title": "Buscador | Madrid copa los barrios más caros para comprar o alquilar casa en las grandes ciudades",
+      "excerpt": "Vivir de alquiler supone un esfuerzo mayúsculo para muchos bolsillos, y puede llegar a resultar asfixiante para las finanzas de numerosos hogares en varias…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://elpais.com/economia/vivienda/2026-10-22/buscador-madrid-copa-los-barrios-mas-caros-para-comprar-o-alquilar-casa-en-las-grandes-ciudades.html",
+      "date": "2026-10-22T03:45:01.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/2BFQ64YRENHNVPMEX5VZS5EW44.jpg?auth=ac24c6cdde0c8b7fe0ce06173fb1034bb4595f5502a5c1ea736a80850f0cef17"
+    },
+    {
+      "title": "SpaceX ya gana más con IA que con cohetes: el 52% de sus ingresos vienen de la IA",
+      "excerpt": "La división de IA en SpaceX, ahora rebautizada como “Super Intelligence”, ha sido la gran protagonista en los resultados financieros del último trimestre de…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/empresas-y-economia/spacex-gana-ia-que-cohetes-52-sus-ingresos-vienen-ia",
+      "date": "2026-10-22T03:01:38.000Z",
+      "image": "https://i.blogs.es/d23b2f/musk/1024_2000.jpeg"
+    },
+    {
+      "title": "El plan de vivienda de Feijóo: rebajas fiscales, Ley del Suelo y 'desokupaciones' exprés",
+      "excerpt": "El presidente del PP promete aprobar varias leyes durante sus primeros 100 días de mandato para agilizar la construcción y desalojar ‘okupas’ en 48 horas.",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/economia/2026/10/22/plan-vivienda-feijoo-rebajas-fiscales-ley-suelo-desokupaciones-expres.html",
+      "date": "2026-10-21T23:47:42.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/22/17926264580170.jpg"
+    },
+    {
+      "title": "Si usas Chrome, Google empezará a vigilar todo el texto que copias en tu equipo",
+      "excerpt": "Google tiene algunas prácticas cuestionables para espiar a sus usuarios, aunque la última de Chrome podría molestar a más de uno. La tecnológica anunció una…",
+      "source": "Hipertextual",
+      "category": "Tecnología",
+      "url": "https://hipertextual.com/internet/google-chrome-analizara-texto-portapapeles-estafas/",
+      "date": "2026-10-21T23:30:00.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/02/Google-Chrome.jpg?fit=1024%2C641&quality=70&strip=all&ssl=1"
+    },
+    {
+      "title": "Los partidos ya no disimulan su obsesión por controlar la Justicia",
+      "excerpt": "El empeño de las izquierdas y las derechas en ganar senadores es solamente para poder elegir a los cuatro magistrados del Tribunal Constitucional que deben…",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/economia/politica/2026/10/22/partidos-disimulan-obsesion-controlar-justicia.html",
+      "date": "2026-10-21T22:50:58.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/22/17926230460361.jpg"
+    },
+    {
+      "title": "Los pequeños caseros y los futuros inquilinos, los más castigados por los decretos de vivienda",
+      "excerpt": "Los académicos avanzan un alza de rentas en los nuevos contratos para compensar los topes por debajo de la inflación y una caída en la oferta de alquiler…",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/economia/2026/10/22/pequenos-caseros-futuros-inquilinos-castigados-decretos-vivienda.html",
+      "date": "2026-10-21T22:10:37.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/22/17926206229041.jpg"
+    },
     {
       "title": "El último golpe para Meta llega en forma de una sanción de 25.000 millones de dólares por un escándalo de privacidad",
       "excerpt": "Hay escándalos tecnológicos que desaparecen de los titulares pero nunca terminan de irse del todo. Cambridge Analytica es uno de ellos. Han pasado años desde…",
@@ -30,15 +111,6 @@
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2022/10/Microsoft-Xbox-Cloud-Gaming.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1"
     },
     {
-      "title": "El Ibex recupera los 19.300 puntos mientras la tecnología devuelve el optimismo a los mercados",
-      "excerpt": "Precios energéticos al alza, tensiones geopolíticas y rentabilidades de la deuda en máximos desde la crisis de deuda de la eurozona. Las amenazas se acumulan…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-10-21/la-bolsa-y-el-ibex-35.html",
-      "date": "2026-10-21T20:09:45.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/CS5MAI337RO73CB3JKHEIGRP7Q.jpg?auth=1e01854ea1501b91ec0a7d64dd4c3e75e12c95f81f43e40164a1d62beccf2005"
-    },
-    {
       "title": "Meta es multada con 22.300 millones por violar 43 millones de veces la ley de protección de datos neomexicana",
       "excerpt": "Meta, tecnológica detrás de Facebook, Whatsapp e Instagram, ha sido condenada a pagar 25.000 millones de dólares (22.278 millones de euros) por un caso sobre…",
       "source": "Europa Press",
@@ -46,24 +118,6 @@
       "url": "https://www.europapress.es/economia/noticia-meta-multada-22300-millones-violar-43-millones-veces-ley-proteccion-datos-neomexicana-20261021213230.html",
       "date": "2026-10-21T19:32:30.000Z",
       "image": "https://img.europapress.es/fotoweb/fotonoticia_20261021213230_120.jpg"
-    },
-    {
-      "title": "El Estatuto de los Trabajadores confirma: la empresa puede cambiar tu jornada y horario laboral",
-      "excerpt": "Los trabajadores que llevan un tiempo en la empresa se pueden ver afectados por un repentino cambio de horario en la jornada laboral.",
-      "source": "Expansión",
-      "category": "Economía",
-      "url": "https://www.expansion.com/economia/2026/10/21/estatuto-trabajadores-confirma-empresa-cambiar-jornada-horario-laboral.html",
-      "date": "2026-10-21T19:29:24.000Z",
-      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/21/17926109561237.jpg"
-    },
-    {
-      "title": "Enmienda a la totalidad de Barcelona Oberta a Collboni",
-      "excerpt": "La federación de ejes comerciales presenta un decálogo crítico con el Ayuntamiento.",
-      "source": "Expansión",
-      "category": "Economía",
-      "url": "https://www.expansion.com/catalunya/2026/10/21/enmienda-totalidad-barcelona-oberta-collboni.html",
-      "date": "2026-10-21T19:24:21.000Z",
-      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/21/17926106539761.jpg"
     },
     {
       "title": "Adiós a ‘Mass Effect’: EA cierra BioWare y cancela el próximo juego de la saga",
@@ -82,60 +136,6 @@
       "url": "https://www.xataka.com/materiales/cientificos-convierten-plastico-miles-millones-nanodiamantes-mediante-potentes-disparos-laser",
       "date": "2026-10-21T19:01:39.000Z",
       "image": "https://i.blogs.es/efa743/botella-diamante/1024_2000.jpeg"
-    },
-    {
-      "title": "Multa histórica para Meta: pagará 25.000 millones de dólares en Nuevo México por las malas prácticas de Facebook",
-      "excerpt": "Nuevo México ha tomado la delantera como un Estado pionero a la hora de poner freno a los abusos de las compañías tecnológicas. Este miércoles, un juez ha…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://elpais.com/us/2026-10-21/multa-historica-para-meta-debera-pagar-25000-millones-de-dolares-en-nuevo-mexico.html",
-      "date": "2026-10-21T18:56:28.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/JJ73DYGMCBEKDBNNACJD2MZE54.jpg?auth=db50aefd8710c24532fd3ff729128910c2503915b94ecbba8d756e42e5f57826"
-    },
-    {
-      "title": "Mejores altavoces inteligentes 2026: cuál comprar y 7 modelos recomendados",
-      "excerpt": "Hace tiempo que los altavoces inteligentes se han convertido en uno de esos gadgets que están en prácticamente cualquier casa. Especialmente porque son…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/seleccion/mejor-altavoz-inteligente",
-      "date": "2026-10-21T18:45:35.000Z",
-      "image": "https://i.blogs.es/6d114e/altavoz-inteligente-delante-de-una-tv/1024_2000.jpeg"
-    },
-    {
-      "title": "Un reboot de ‘Glee’ está en marcha en Disney+",
-      "excerpt": "Glee es, sin dudas, una de las series de TV para adolescentes más notorias de las últimas décadas. Amada y denostada en partes iguales, la producción de Fox…",
-      "source": "Hipertextual",
-      "category": "Tecnología",
-      "url": "https://hipertextual.com/cine-television/un-reboot-de-glee-esta-en-marcha-en-disney/",
-      "date": "2026-10-21T18:30:00.000Z",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/Glee.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1"
-    },
-    {
-      "title": "Cómo saber si una web está afectada por la vulnerabilidad de PHP con la herramienta que OpenAI ha publicado",
-      "excerpt": "Las dos vulnerabilidades críticas detectadas en PHP han llevado a administradores y organizaciones de distintos países a revisar servidores y aplicar…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/seguridad/como-saber-web-esta-afectada-vulnerabilidad-php-herramienta-que-openai-ha-publicado",
-      "date": "2026-10-21T18:29:00.000Z",
-      "image": "https://i.blogs.es/6fe9ad/herramienta-de-openai-para-verificar-php-codex/1024_2000.jpeg"
-    },
-    {
-      "title": "El gran consumo urge al futuro Gobierno a bajar impuestos a alimentos y energía ante el impacto de la inflación",
-      "excerpt": "Bajar impuestos a los alimentos y suministros energéticos y aprobar Presupuestos. Esos son los deberes más urgentes que las compañías de gran consumo, desde…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://cincodias.elpais.com/companias/2026-10-21/el-gran-consumo-urge-al-futuro-gobierno-a-bajar-impuestos-a-alimentos-y-energia-ante-el-impacto-de-la-inflacion.html",
-      "date": "2026-10-21T17:13:50.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/6G7IQ2FRVJFYDAV5Z3V5LIDPDI.jpg?auth=0b5ea29f70c8eeb7d1ec22366441566274da498e46ac564396444307005ffb54"
-    },
-    {
-      "title": "11N Sindicatos registran a convocatoria de huelga general para pedir salarios dignos, vivienda asequible y derechos laborales",
-      "excerpt": "El próximo día 11 de noviembre se acerca. Es la fecha de la huelga general. Y los sindicatos han registrado la convocatoria en Aragón. Es el caso de UGT y…",
-      "source": "El Economista",
-      "category": "Economía",
-      "url": "https://www.eleconomista.es/economia/noticias/14022671/10/26/11n-sindicatos-registran-a-convocatoria-de-huelga-general-para-pedir-salarios-dignos-vivienda-asequible-y-derechos-laborales.html",
-      "date": "2026-10-21T17:06:11.000Z",
-      "image": null
     }
   ]
 }
