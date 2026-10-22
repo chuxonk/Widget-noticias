@@ -1,60 +1,132 @@
 {
-  "generatedAt": "2026-10-22T17:15:57.588Z",
+  "generatedAt": "2026-10-22T21:41:46.738Z",
   "count": 15,
   "items": [
     {
-      "title": "La española Arquimea lanza una emisión de bonos de 40 millones para impulsar su plan de negocio en espacio y defensa",
-      "excerpt": "Arquimea, tecnológica española especializada en los sectores de espacio, defensa y fintech, ha lanzado una emisión de bonos de 40 millones de euros en el…",
+      "title": "Apagar el móvil cinco minutos al día: el consejo que recibió Pedro Sánchez en Moncloa para protegerlo de amenazas",
+      "excerpt": "Hay pocas cosas aparentemente más sencillas que apagar un móvil. Otra muy distinta es pensar que mantenerlo apagado durante cinco minutos puede ayudar a…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/seguridad/apagar-movil-cinco-minutos-al-dia-consejo-que-recibio-pedro-sanchez-moncloa-para-protegerlo-amenazas",
+      "date": "2026-10-22T21:23:00.000Z",
+      "image": "https://i.blogs.es/7165c7/pedro-sanchez-en-la-revuelta/1024_2000.png"
+    },
+    {
+      "title": "Sánchez defiende que Begoña Gómez dejó su trabajo cuando llegó a Moncloa y niega que pueda ejercer influencia",
+      "excerpt": "El presidente del Gobierno, Pedro Sánchez, ha defendido que su mujer, Begoña Gómez, dejó su trabajo cuando él llegó a La Moncloa y niega que haya podido…",
+      "source": "Europa Press Tecnología",
+      "category": "Tecnología",
+      "url": "https://www.europapress.es/nacional/noticia-sanchez-defiende-begona-gomez-dejo-trabajo-cuando-llego-moncloa-niega-pueda-ejercer-influencia-20261022232056.html",
+      "date": "2026-10-22T21:20:56.000Z",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261022232056_120.jpg"
+    },
+    {
+      "title": "Tom Skerritt, estrella de ‘Alien’ y ‘Top Gun’, ha muerto a los 93 años",
+      "excerpt": "Tom Skerritt, uno de los actores más prolíficos y reconocibles de Hollywood, dueño de una carrera que se extendió por más de 60 años, ha fallecido a los 93…",
+      "source": "Hipertextual",
+      "category": "Tecnología",
+      "url": "https://hipertextual.com/cine-television/tom-skerritt-alien-top-gun-ha-muerto-93-anos/",
+      "date": "2026-10-22T20:51:13.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/Tom-Skerritt.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1"
+    },
+    {
+      "title": "Elon Musk invierte 89.000 millones en Skydance, la nueva compañía surgida de la fusión de Paramount y Warner",
+      "excerpt": "El magnate Elon Musk, propietario y consejero delegado de Tesla y SpaceX, ha inyectado 1.000 millones de dólares (unos 891 millones de euros) en el recién…",
       "source": "Cinco Días",
       "category": "Economía",
-      "url": "https://cincodias.elpais.com/companias/2026-10-22/la-espanola-arquimea-lanza-una-emision-de-bonos-de-40-millones-para-impulsar-su-plan-de-negocio-en-espacio-y-defensa.html",
-      "date": "2026-10-22T17:00:26.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/QOWPKSEURNFQPBC2YFZBQE4OUM.jpg?auth=f3f28b2aae003ec1ec811f4c89be4df0fb044addb508459e6f67547976aa7f47"
+      "url": "https://elpais.com/economia/2026-10-22/elon-musk-invierte-89000-millones-en-skydance-la-nueva-compania-surgida-de-la-fusion-de-paramount-y-warner.html",
+      "date": "2026-10-22T20:27:40.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/EQC77MZS6ZP2HBXRFS5FFDUOCE.jpg?auth=e1e4a5c69401f40ad5e0cdcbadb57a92c690be51d143388e2505e8b7947fe98e"
     },
     {
-      "title": "Michael O'Leary, CEO de Ryanair: \"Vamos a ver las mayores subidas de precio de la historia. Hasta un 20%\"",
-      "excerpt": "Un crecimiento disparado de los precios de los vuelos. Es, según Michael O'Leary, CEO de Ryanair, lo que vamos a ver en los próximos 12 meses como…",
+      "title": "Los fallos críticos de PHP acaban de hacerse públicos. Lo misterioso es que alguien ya intentaba explotarlos cuatro días antes",
+      "excerpt": "Hay vulnerabilidades que pueden permanecer ocultas durante años y, cuando finalmente alguien las encuentra, todavía no se hacen públicas de inmediato…",
       "source": "Xataka",
       "category": "Tecnología",
-      "url": "https://www.xataka.com/movilidad/michael-leary-ceo-ryanair-vamos-a-ver-mayores-subidas-precio-historia-20",
-      "date": "2026-10-22T17:00:09.000Z",
-      "image": "https://i.blogs.es/6df964/ryanair-oleary/1024_2000.jpeg"
+      "url": "https://www.xataka.com/seguridad/fallos-criticos-php-acaban-hacerse-publicos-misterioso-que-alguien-intentaba-explotarlos-cuatro-dias-antes",
+      "date": "2026-10-22T19:30:13.000Z",
+      "image": "https://i.blogs.es/042ae5/ciberseguridad/1024_2000.png"
     },
     {
-      "title": "El primer rastro de iOS 28 ya está en el código del iPhone",
-      "excerpt": "iOS 27 apenas está empezando a caminar. De hecho, su primera gran actualización, iOS 27.2, llegará el lunes 26 de octubre. Y precisamente en esa versión ya se…",
-      "source": "Applesfera",
-      "category": "Tecnología",
-      "url": "https://www.applesfera.com/ios/primer-rastro-ios-28-esta-codigo-iphone",
-      "date": "2026-10-22T17:00:09.000Z",
-      "image": "https://i.blogs.es/02df5d/ios-28/1024_2000.jpeg"
+      "title": "Andalucía dispara un 22% el presupuesto de Vivienda y roza los 1.000 millones para 2027",
+      "excerpt": "La Junta de Andalucía elevará un 22% el presupuesto de la Consejería de Vivienda, Juventud y Ordenación del Territorio en 2027, hasta rozar los 1.000 millones…",
+      "source": "El Economista",
+      "category": "Economía",
+      "url": "https://www.eleconomista.es/economia/noticias/14023024/10/26/andalucia-dispara-un-22-el-presupuesto-de-vivienda-y-roza-los-1000-millones-para-2027.html",
+      "date": "2026-10-22T19:28:27.000Z",
+      "image": null
     },
     {
-      "title": "Castilla y León acaba de ponerle un precio a la energía solar: hasta 2.000 euros por hectárea que ocupe",
-      "excerpt": "A poco más de un mes para las generales, Castilla y León quiere que los grandes parques solares paguen por el terreno que ocupan. La Junta ha incluido en su…",
+      "title": "CEOE rectifica y no impugnará finalmente la huelga general por la vivienda antes del 11 de noviembre",
+      "excerpt": "“Nosotros impugnaremos. Se ha trufado de temas laborales para intentar que sea legal, pero nosotros consideramos que no lo es”. Así se refirió este lunes…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://elpais.com/economia/2026-10-22/ceoe-rectifica-y-no-impugnara-finalmente-la-huelga-general-por-la-vivienda-antes-del-11-de-noviembre.html",
+      "date": "2026-10-22T19:07:59.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/FGIHT5W2JJNCRERWB4VZA6Q4FU.jpg?auth=450560bb0fe3063b333fa7ce7668762a5c6277902188ab4f03b1023482b10294"
+    },
+    {
+      "title": "Una simple foto del rostro puede dar pistas sobre la supervivencia de un paciente con cáncer. Esta IA busca encontrarlas",
+      "excerpt": "Cuando una persona es diagnosticada de cáncer, es importante comenzar el tratamiento lo más pronto posible. Pero el problema al que se enfrentan los oncólogos…",
       "source": "Xataka",
       "category": "Tecnología",
-      "url": "https://www.xataka.com/energia/castilla-leon-acaba-ponerle-precio-a-energia-solar-2-000-euros-hectarea-que-ocupe",
-      "date": "2026-10-22T16:46:06.000Z",
-      "image": "https://i.blogs.es/827f89/pexels-anonim-zero-549194817-16659262/1024_2000.jpeg"
+      "url": "https://www.xataka.com/medicina-y-salud/simple-foto-rostro-puede-dar-pistas-supervivencia-paciente-cancer-esta-ia-busca-encontrarlas",
+      "date": "2026-10-22T19:00:11.000Z",
+      "image": "https://i.blogs.es/c62133/analisis-facial/1024_2000.jpeg"
     },
     {
-      "title": "DAZN tira el precio de su plan fútbol (por tiempo limitado) para ver el Clásico y más partidos esta temporada. Solo 9,99 euros al mes",
-      "excerpt": "Este fin de semana más tenemos, posiblemente, uno de los partidos de fútbol más importantes que se puede ver en todo el mundo. Nos estamos refiriendo al…",
+      "title": "Los astrónomo han hecho la mejor radiografía hasta el momento de los 5 primeros minutos del Universo",
+      "excerpt": "Aunque parece que el Big Bang como origen del Universo es una de las ideas más aceptadas de la ciencia, ni siquiera los astrónomos se ponen de acuerdo. Aunque…",
       "source": "Xataka",
       "category": "Tecnología",
-      "url": "https://www.xataka.com/seleccion/dazn-tira-precio-su-plan-futbol-tiempo-limitado-para-ver-clasico-partidos-esta-temporada-solo-9-99-euros-al-mes",
-      "date": "2026-10-22T16:46:06.000Z",
-      "image": "https://i.blogs.es/fe4538/gemini_generated_image_6uzabx6uzabx6uza/1024_2000.jpeg"
+      "url": "https://www.xataka.com/espacio/astronomo-han-hecho-mejor-radiografia-momento-5-primeros-minutos-universo",
+      "date": "2026-10-22T18:46:07.000Z",
+      "image": "https://i.blogs.es/33a227/origen-universo/1024_2000.jpeg"
     },
     {
-      "title": "Hacienda obliga a tributar por las propinas que reciben los trabajadores, pero cotizarán si lo recoge el convenio o las gestiona la empresa",
-      "excerpt": "Dejar un par de euros sobre la barra, redondear la cuenta a mano alzada o pulsar un 10% al pagar con el datáfono: la propina es un gesto cotidiano en bares y…",
-      "source": "Xataka",
+      "title": "Varapalo del Constitucional a la parte de la Ley de Costa valenciana que buscaba proteger casas frente a los deslindes",
+      "excerpt": "El instrumento legal con el que la Generalitat Valenciana en manos del PP quería proteger viviendas que llevan décadas en primera línea de costa para evitar…",
+      "source": "El Economista",
+      "category": "Economía",
+      "url": "https://www.eleconomista.es/economia/noticias/14023015/10/26/varapalo-del-constitucional-a-la-parte-de-la-ley-de-costa-valenciana-que-buscaba-proteger-casas-frente-a-los-deslindes.html",
+      "date": "2026-10-22T18:34:13.000Z",
+      "image": null
+    },
+    {
+      "title": "One UI 9.0 aterriza en los Galaxy A más vendidos: estos son los Samsung compatibles con Android 17",
+      "excerpt": "Samsung continúa ampliando la disponibilidad de One UI 9.0 en sus móviles de gama media y de entrada. A unos días de lanzar la actualización para el Galaxy…",
+      "source": "Hipertextual",
       "category": "Tecnología",
-      "url": "https://www.xataka.com/magnet/hacienda-obliga-a-tributar-propinas-que-reciben-trabajadores-cotizaran-recoge-convenio-gestiona-empresa",
-      "date": "2026-10-22T16:30:11.000Z",
-      "image": "https://i.blogs.es/0abb6c/tacanos/1024_2000.jpeg"
+      "url": "https://hipertextual.com/mobile/samsung-one-ui-9-android-17-galaxy-a16-a17-a07-a35/",
+      "date": "2026-10-22T18:27:31.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/oneui-9-samsung.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1"
+    },
+    {
+      "title": "Las grandes empresas de España tributan solo un 8,9% de sus beneficios",
+      "excerpt": "Las grandes empresas españolas, aquellas con una cifra de negocios superior a los 1.000 millones de euros al año, tributaron en 2024 a un tipo efectivo del…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://elpais.com/economia/2026-10-22/las-grandes-empresas-de-espana-tributan-solo-un-89-de-sus-beneficios.html",
+      "date": "2026-10-22T17:59:19.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/RWGR46TAVM4FNMND6WOTGHUBMM.jpg?auth=dba5aef1fc7f314d289ba7dafc16786bdb653afba4159b9140800aff51c688c6"
+    },
+    {
+      "title": "Luz verde a la ley de Ayuso que agiliza las gestiones tributarias y garantiza la seguridad jurídica",
+      "excerpt": "La Asamblea de Madrid ha dado luz verde definitiva este jueves a la nueva Ley de Defensa del Contribuyente, una de las grandes promesas de Isabel Díaz Ayuso…",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/economia/2026/10/22/luz-verde-ley-ayuso-agiliza-gestiones-tributarias-garantiza-seguridad-juridica.html",
+      "date": "2026-10-22T17:18:36.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/22/17926895096619.jpg"
+    },
+    {
+      "title": "Es oficial: ‘Carrie’ tendrá segunda temporada en Prime Video",
+      "excerpt": "Era solo cuestión de tiempo hasta que se anunciara, y ya es oficial: Carrie regresará a Prime Video con una segunda temporada. La aclamada serie de Mike…",
+      "source": "Hipertextual",
+      "category": "Tecnología",
+      "url": "https://hipertextual.com/cine-television/es-oficial-carrie-tendra-segunda-temporada-en-prime-video/",
+      "date": "2026-10-22T17:16:25.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/Carrie-scaled.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1"
     },
     {
       "title": "Bankinter eleva su beneficio un 11%, hasta los 901 millones",
@@ -64,78 +136,6 @@
       "url": "https://cincodias.elpais.com/companias/2026-10-22/bankinter-dispara-el-beneficio-un-11-en-los-nueve-primeros-meses-del-ano-hasta-los-900-millones.html",
       "date": "2026-10-22T16:13:20.000Z",
       "image": "https://imagenes.elpais.com/resizer/v2/ELZBPKKCJRMOXCVIVUAYQDNTXU.jpg?auth=167e2017137c7d9e7f41e438bd7dafb0f5d34094a583206fb30a9d7bd96ac702"
-    },
-    {
-      "title": "El Ibex se hunde un 2,12% y pierde los 19.000 puntos lastrado por Bankinter y prima de riesgo francesa",
-      "excerpt": "El Ibex 35 ha finalizado la sesión de este jueves con un desplome del 2,12%, hasta situarse en los 18.913,50 puntos, como consecuencia del descenso registrado…",
-      "source": "Europa Press",
-      "category": "Economía",
-      "url": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-hunde-212-pierde-19000-puntos-lastrado-bankinter-prima-riesgo-francesa-20261022180439.html",
-      "date": "2026-10-22T16:04:39.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261022180439_120.jpg"
-    },
-    {
-      "title": "Con razón Apple desconfía del FBI: su propia app destapó una de las mayores tramas de ciberseguridad de la historia",
-      "excerpt": "Tener un teléfono que sólo sirva para enviar mensajes cifrados y cuyos servidores estén alojados en países sin restricciones a la comunicación no es sólo el…",
-      "source": "Applesfera",
-      "category": "Tecnología",
-      "url": "https://www.applesfera.com/seguridad/razon-apple-desconfia-fbi-su-propia-app-destapo-mayores-tramas-ciberseguridad-historia",
-      "date": "2026-10-22T16:00:08.000Z",
-      "image": "https://i.blogs.es/6c8786/encrochat/1024_2000.jpeg"
-    },
-    {
-      "title": "CC OO y UGT piden evitar el teletrabajo como forma de “esquirolaje tecnológico” en la huelga del 11-N",
-      "excerpt": "Los secretarios generales de las federaciones de Servicios a la Ciudadanía de CC OO, Lucho Palazzo, y de Servicios, Movilidad y Consumo de UGT, Ricardo Casas…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://elpais.com/economia/2026-10-22/cc-oo-y-ugt-piden-evitar-el-teletrabajo-como-forma-de-esquirolaje-tecnologico-en-la-huelga-del-11-n.html",
-      "date": "2026-10-22T15:53:35.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/QFKMALLEABOMJDR3CFG6F5LBF4.jpg?auth=0211ae9110c1021cdff399a99743878893ce91ffeb1ce51373f6bc48b8339849"
-    },
-    {
-      "title": "Sánchez acepta el cara a cara con Feijóo y pide que el debate a cuatro sea en TVE pero el PP rechaza el ente público",
-      "excerpt": "El PSOE ha aceptado un 'cara a cara' entre el candidato socialista a la Presidencia del Gobierno, Pedro Sánchez y el líder de la oposición, Alberto Núñez…",
-      "source": "Europa Press Tecnología",
-      "category": "Tecnología",
-      "url": "https://www.europapress.es/nacional/noticia-sanchez-acepta-cara-cara-feijoo-quiere-debate-cuatro-26-noviembre-sea-tve-20261022175207.html",
-      "date": "2026-10-22T15:52:07.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261022175207_120.jpg"
-    },
-    {
-      "title": "En libertad un marroquí acusado de atacar con espray pimienta a dos legionarios en Ceuta: condenado a multas de 60 euros",
-      "excerpt": "Un ciudadano marroquí acusado de rociar con un bote de espray de pimienta a dos legionarios en el polígono del Tarajal de Ceuta ha quedado en libertad tras…",
-      "source": "Europa Press Tecnología",
-      "category": "Tecnología",
-      "url": "https://www.europapress.es/nacional/noticia-libertad-marroqui-acusado-atacar-espray-pimienta-dos-legionarios-ceuta-condenado-multas-60-euros-20261022174434.html",
-      "date": "2026-10-22T15:44:34.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261022174434_120.jpg"
-    },
-    {
-      "title": "Meta se desploma un 7% en Bolsa tras presentar resultados y ser objeto de una multa de 22.300 millones",
-      "excerpt": "Meta, compañía propietaria de Facebook, Whatsapp e Instagram, se ha hundido hasta un 7% en la apertura de la Bolsa de Nueva York después de presentar…",
-      "source": "Europa Press",
-      "category": "Economía",
-      "url": "https://www.europapress.es/economia/finanzas-00340/noticia-meta-desploma-bolsa-presentar-resultados-ser-objeto-multa-22300-millones-20261022174204.html",
-      "date": "2026-10-22T15:42:04.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261022174204_120.jpg"
-    },
-    {
-      "title": "Tensión en los mercados: la prima de riesgo francesa se dispara, la tecnología cae con fuerza y el Ibex baja el 2%",
-      "excerpt": "Los inversores afrontan una de las jornadas más difíciles de los últimos tiempos, con incendios en todos los frentes y sin saber dónde buscar refugio. El…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-10-22/la-bolsa-y-el-ibex-35.html",
-      "date": "2026-10-22T15:41:05.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/K4DESNPHJBP2LH3TPESAQAOUUA.jpg?auth=75d5002fdf1915ad84558d9e451452524280ef38981a221157dfe356ec8c581c"
-    },
-    {
-      "title": "Hacienda mantendrá los módulos del IRPF para 2027 con la reducción del 5% e incluirá rebajas fiscales al campo",
-      "excerpt": "Las actividades agrarias podrán aplicar una reducción del 35% por adquisición de gasóleo agrícola y del 15% por compra de fertilizantes",
-      "source": "Europa Press",
-      "category": "Economía",
-      "url": "https://www.europapress.es/economia/fiscal-00347/noticia-hacienda-mantendra-modulos-irpf-2027-reduccion-incluira-rebajas-fiscales-campo-20261022172241.html",
-      "date": "2026-10-22T15:22:41.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261022172241_120.jpg"
     }
   ]
 }
