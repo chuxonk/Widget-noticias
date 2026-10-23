@@ -1,9 +1,99 @@
 {
-  "generatedAt": "2026-10-22T21:41:46.738Z",
+  "generatedAt": "2026-10-23T04:59:15.473Z",
   "count": 15,
   "items": [
     {
-      "title": "Apagar el móvil cinco minutos al día: el consejo que recibió Pedro Sánchez en Moncloa para protegerlo de amenazas",
+      "title": "Contención en las Bolsas europeas por el repliegue de la tecnología y el alza del petróleo",
+      "excerpt": "La venta masiva de acciones tecnológicas se intensifica y deteriora el ánimo de los inversores. A esta presión se suma el avance del precio del petróleo, por…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-10-23/la-bolsa-y-el-ibex-35.html",
+      "date": "2026-10-23T04:30:17.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/FHBQ76NHMHRLSI5NHJGE3LKXUQ.jpg?auth=f429ad12d4a10a3bf5e5e2327fc26f9b9c6ed5a9465023af77210cb93bc60aa2"
+    },
+    {
+      "title": "17 pesqueros rusos han merodeado más de 500 veces cerca de cables submarinos críticos. La sospecha es que no pescaban",
+      "excerpt": "En mitad del Atlántico, un pesquero que navega lentamente no tiene por qué llamar la atención. Al fin y al cabo, hablamos de embarcaciones que pasan buena…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/magnet/17-pesqueros-rusos-han-merodeado-500-veces-cerca-cables-submarinos-criticos-sospecha-que-no-pescaban",
+      "date": "2026-10-23T04:30:10.000Z",
+      "image": "https://i.blogs.es/d621f3/m-0024_s._makarevich/1024_2000.jpeg"
+    },
+    {
+      "title": "Xbox nos muestra el precio de jugar en un futuro en el que no podremos comprar una consola, y no es barato",
+      "excerpt": "En una situación normal, Sony y Microsoft deberían empezar a hablar abiertamente de sus nuevas consolas. Deberíamos tener también más rumores de las sucesoras…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/videojuegos/xbox-nos-muestra-precio-jugar-futuro-que-no-podremos-comprar-consola-no-barato",
+      "date": "2026-10-23T04:00:10.000Z",
+      "image": "https://i.blogs.es/4d3a0c/original/1024_2000.jpeg"
+    },
+    {
+      "title": "El nuevo impuesto complementario a las multinacionales solo recauda 46 millones en su primer ejercicio",
+      "excerpt": "Los cambios experimentados en los últimos años en la tributación de las grandes empresas se han quedado muy lejos de la revolución que prometían. La euforia…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://elpais.com/economia/2026-10-23/el-nuevo-impuesto-complementario-a-las-multinacionales-solo-recauda-46-millones-en-su-primer-ejercicio.html",
+      "date": "2026-10-23T03:45:01.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/B64JIEZYYBG5RMAOWYXSVL7W5M.jpg?auth=670382aa3b9734ef4fe15e03c6ef79f9037375cefb524fef2009403abd0c878b"
+    },
+    {
+      "title": "España sufre más muertes en el trabajo que la media de la UE y se aleja de los países más seguros",
+      "excerpt": "España registra un índice de 1,89 muertes en accidentes laborales por cada 100.000 ocupados, según datos recientemente distribuidos por Eurostat. Esa cifra…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://elpais.com/economia/2026-10-23/espana-sufre-mas-muertes-en-el-trabajo-que-la-media-de-la-ue-y-se-aleja-de-los-paises-mas-seguros.html",
+      "date": "2026-10-23T03:45:01.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/L2HNOIARU5BTDFK4KY2YRPOP4A.jpg?auth=6c431a4785454fa58ae06706fd78bdb91f33b8167fcf14cc504a432eeaaf8207"
+    },
+    {
+      "title": "Los expertos prevén una oleada de reclamaciones de los clientes a los bancos por las ciberestafas",
+      "excerpt": "Las preferentes, las cláusulas suelo, los gastos hipotecarios y ahora los fraudes. Este último es el nuevo frente de la banca española, después de que el…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-10-23/los-expertos-preven-una-oleada-de-reclamaciones-de-los-clientes-a-los-bancos-por-las-ciberestafas.html",
+      "date": "2026-10-23T03:30:01.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/JGV5KNQLCFIFHEUVHV3NZLSO5U.jpg?auth=016e58b8c9d17ac92b0e881e70485c948b879f2bd699b9dc8ba3e4651838d4b8"
+    },
+    {
+      "title": "El nuevo Consejo para la prevención del blanqueo se constituirá antes de las elecciones",
+      "excerpt": "El departamento que lidera Carlos Cuerpo constituye un órgano para canalizar la colaboración público-privada en la lucha contra el blanqueo de capitales y la…",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/economia/2026/10/23/nuevo-consejo-prevencion-blanqueo-constituira-elecciones.html",
+      "date": "2026-10-22T23:45:49.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/12/17918004090577.jpg"
+    },
+    {
+      "title": "Guiños fiscales al campo, que mantiene su gran tractorada en Madrid del 28 de octubre",
+      "excerpt": "El Gobierno lanza “reducciones fiscales excepcionales” para el sector agrario en 2027, con un recorte general del 10% en el rendimiento neto aplicable en el…",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/economia/2026/10/23/guinos-fiscales-campo-mantiene-gran-tractorada-madrid-28-octubre.html",
+      "date": "2026-10-22T23:44:09.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/23/17927126385753.jpg"
+    },
+    {
+      "title": "La reedición de Yalta",
+      "excerpt": "Es inevitable que la prevista velada en Shenzhen de Xi, Trump y Putin se compare con la de Yalta hace más de 80 años. Y que les inquiete a las democracias…",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/economia/politica/2026/10/23/reedicion-yalta.html",
+      "date": "2026-10-22T22:42:06.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/23/17927089170145.jpg"
+    },
+    {
+      "title": "La UE avala a España para endurecer el perdón de deudas con Hacienda",
+      "excerpt": "El Abogado General de la UE señala que la norma europea que contempla la segunda oportunidad es imprecisa y habilita excepciones a los países.",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/economia/2026/10/23/ue-avala-espana-endurecer-perdon-deudas-hacienda.html",
+      "date": "2026-10-22T22:39:29.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/23/17927087546908.jpg"
+    },
+    {
+      "title": "Apagar el móvil cinco minutos al día: el consejo de sistemas de Moncloa que Sánchez contó en ‘La Revuelta’ para protegerse de virus",
       "excerpt": "Hay pocas cosas aparentemente más sencillas que apagar un móvil. Otra muy distinta es pensar que mantenerlo apagado durante cinco minutos puede ayudar a…",
       "source": "Xataka",
       "category": "Tecnología",
@@ -30,15 +120,6 @@
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/Tom-Skerritt.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1"
     },
     {
-      "title": "Elon Musk invierte 89.000 millones en Skydance, la nueva compañía surgida de la fusión de Paramount y Warner",
-      "excerpt": "El magnate Elon Musk, propietario y consejero delegado de Tesla y SpaceX, ha inyectado 1.000 millones de dólares (unos 891 millones de euros) en el recién…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://elpais.com/economia/2026-10-22/elon-musk-invierte-89000-millones-en-skydance-la-nueva-compania-surgida-de-la-fusion-de-paramount-y-warner.html",
-      "date": "2026-10-22T20:27:40.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/EQC77MZS6ZP2HBXRFS5FFDUOCE.jpg?auth=e1e4a5c69401f40ad5e0cdcbadb57a92c690be51d143388e2505e8b7947fe98e"
-    },
-    {
       "title": "Los fallos críticos de PHP acaban de hacerse públicos. Lo misterioso es que alguien ya intentaba explotarlos cuatro días antes",
       "excerpt": "Hay vulnerabilidades que pueden permanecer ocultas durante años y, cuando finalmente alguien las encuentra, todavía no se hacen públicas de inmediato…",
       "source": "Xataka",
@@ -48,51 +129,6 @@
       "image": "https://i.blogs.es/042ae5/ciberseguridad/1024_2000.png"
     },
     {
-      "title": "Andalucía dispara un 22% el presupuesto de Vivienda y roza los 1.000 millones para 2027",
-      "excerpt": "La Junta de Andalucía elevará un 22% el presupuesto de la Consejería de Vivienda, Juventud y Ordenación del Territorio en 2027, hasta rozar los 1.000 millones…",
-      "source": "El Economista",
-      "category": "Economía",
-      "url": "https://www.eleconomista.es/economia/noticias/14023024/10/26/andalucia-dispara-un-22-el-presupuesto-de-vivienda-y-roza-los-1000-millones-para-2027.html",
-      "date": "2026-10-22T19:28:27.000Z",
-      "image": null
-    },
-    {
-      "title": "CEOE rectifica y no impugnará finalmente la huelga general por la vivienda antes del 11 de noviembre",
-      "excerpt": "“Nosotros impugnaremos. Se ha trufado de temas laborales para intentar que sea legal, pero nosotros consideramos que no lo es”. Así se refirió este lunes…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://elpais.com/economia/2026-10-22/ceoe-rectifica-y-no-impugnara-finalmente-la-huelga-general-por-la-vivienda-antes-del-11-de-noviembre.html",
-      "date": "2026-10-22T19:07:59.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/FGIHT5W2JJNCRERWB4VZA6Q4FU.jpg?auth=450560bb0fe3063b333fa7ce7668762a5c6277902188ab4f03b1023482b10294"
-    },
-    {
-      "title": "Una simple foto del rostro puede dar pistas sobre la supervivencia de un paciente con cáncer. Esta IA busca encontrarlas",
-      "excerpt": "Cuando una persona es diagnosticada de cáncer, es importante comenzar el tratamiento lo más pronto posible. Pero el problema al que se enfrentan los oncólogos…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/medicina-y-salud/simple-foto-rostro-puede-dar-pistas-supervivencia-paciente-cancer-esta-ia-busca-encontrarlas",
-      "date": "2026-10-22T19:00:11.000Z",
-      "image": "https://i.blogs.es/c62133/analisis-facial/1024_2000.jpeg"
-    },
-    {
-      "title": "Los astrónomo han hecho la mejor radiografía hasta el momento de los 5 primeros minutos del Universo",
-      "excerpt": "Aunque parece que el Big Bang como origen del Universo es una de las ideas más aceptadas de la ciencia, ni siquiera los astrónomos se ponen de acuerdo. Aunque…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/espacio/astronomo-han-hecho-mejor-radiografia-momento-5-primeros-minutos-universo",
-      "date": "2026-10-22T18:46:07.000Z",
-      "image": "https://i.blogs.es/33a227/origen-universo/1024_2000.jpeg"
-    },
-    {
-      "title": "Varapalo del Constitucional a la parte de la Ley de Costa valenciana que buscaba proteger casas frente a los deslindes",
-      "excerpt": "El instrumento legal con el que la Generalitat Valenciana en manos del PP quería proteger viviendas que llevan décadas en primera línea de costa para evitar…",
-      "source": "El Economista",
-      "category": "Economía",
-      "url": "https://www.eleconomista.es/economia/noticias/14023015/10/26/varapalo-del-constitucional-a-la-parte-de-la-ley-de-costa-valenciana-que-buscaba-proteger-casas-frente-a-los-deslindes.html",
-      "date": "2026-10-22T18:34:13.000Z",
-      "image": null
-    },
-    {
       "title": "One UI 9.0 aterriza en los Galaxy A más vendidos: estos son los Samsung compatibles con Android 17",
       "excerpt": "Samsung continúa ampliando la disponibilidad de One UI 9.0 en sus móviles de gama media y de entrada. A unos días de lanzar la actualización para el Galaxy…",
       "source": "Hipertextual",
@@ -100,42 +136,6 @@
       "url": "https://hipertextual.com/mobile/samsung-one-ui-9-android-17-galaxy-a16-a17-a07-a35/",
       "date": "2026-10-22T18:27:31.000Z",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/oneui-9-samsung.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1"
-    },
-    {
-      "title": "Las grandes empresas de España tributan solo un 8,9% de sus beneficios",
-      "excerpt": "Las grandes empresas españolas, aquellas con una cifra de negocios superior a los 1.000 millones de euros al año, tributaron en 2024 a un tipo efectivo del…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://elpais.com/economia/2026-10-22/las-grandes-empresas-de-espana-tributan-solo-un-89-de-sus-beneficios.html",
-      "date": "2026-10-22T17:59:19.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/RWGR46TAVM4FNMND6WOTGHUBMM.jpg?auth=dba5aef1fc7f314d289ba7dafc16786bdb653afba4159b9140800aff51c688c6"
-    },
-    {
-      "title": "Luz verde a la ley de Ayuso que agiliza las gestiones tributarias y garantiza la seguridad jurídica",
-      "excerpt": "La Asamblea de Madrid ha dado luz verde definitiva este jueves a la nueva Ley de Defensa del Contribuyente, una de las grandes promesas de Isabel Díaz Ayuso…",
-      "source": "Expansión",
-      "category": "Economía",
-      "url": "https://www.expansion.com/economia/2026/10/22/luz-verde-ley-ayuso-agiliza-gestiones-tributarias-garantiza-seguridad-juridica.html",
-      "date": "2026-10-22T17:18:36.000Z",
-      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/22/17926895096619.jpg"
-    },
-    {
-      "title": "Es oficial: ‘Carrie’ tendrá segunda temporada en Prime Video",
-      "excerpt": "Era solo cuestión de tiempo hasta que se anunciara, y ya es oficial: Carrie regresará a Prime Video con una segunda temporada. La aclamada serie de Mike…",
-      "source": "Hipertextual",
-      "category": "Tecnología",
-      "url": "https://hipertextual.com/cine-television/es-oficial-carrie-tendra-segunda-temporada-en-prime-video/",
-      "date": "2026-10-22T17:16:25.000Z",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/Carrie-scaled.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1"
-    },
-    {
-      "title": "Bankinter eleva su beneficio un 11%, hasta los 901 millones",
-      "excerpt": "Bankinter tiene a tiro de piedra volver a pulverizar su propio récord anual de beneficios. El banco ha elevado en los nueve primeros meses del año las…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://cincodias.elpais.com/companias/2026-10-22/bankinter-dispara-el-beneficio-un-11-en-los-nueve-primeros-meses-del-ano-hasta-los-900-millones.html",
-      "date": "2026-10-22T16:13:20.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/ELZBPKKCJRMOXCVIVUAYQDNTXU.jpg?auth=167e2017137c7d9e7f41e438bd7dafb0f5d34094a583206fb30a9d7bd96ac702"
     }
   ]
 }
