@@ -1,15 +1,51 @@
 {
-  "generatedAt": "2026-10-23T21:28:44.771Z",
+  "generatedAt": "2026-10-24T04:44:01.010Z",
   "count": 15,
   "items": [
     {
-      "title": "Moody’s mantiene la calificación de la deuda soberana de Francia en medio de la crisis política y el malestar social",
-      "excerpt": "La presión no da tregua a Francia. La agencia de rating Moody’s ha mantenido este viernes la nota de la deuda soberana francesa en Aa3 con una perspectiva…",
+      "title": "¿Dónde viven los caseros? Barrios de renta alta y zonas turísticas concentran a quienes declaran ingresos de alquiler",
+      "excerpt": "Los barrios de mayor renta del país y los distritos con mayor dinamismo turístico suelen concentrar una mayor proporción de contribuyentes que declaran en su…",
       "source": "Cinco Días",
       "category": "Economía",
-      "url": "https://elpais.com/economia/2026-10-23/moodys-mantiene-la-calificacion-de-la-deuda-soberana-de-francia-en-medio-de-la-crisis-politica-y-el-malestar-social.html",
-      "date": "2026-10-23T21:18:25.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/LXMEWSZ7TRAOVKHQCFI7PL76ZE.jpg?auth=3e4c0b41b597e7953a8ed2b3b0a018a20820e67defa03a6531dc929c91c62309"
+      "url": "https://elpais.com/economia/2026-10-24/donde-viven-los-caseros-barrios-de-renta-alta-y-zonas-turisticas-concentran-a-quienes-declaran-ingresos-de-alquiler.html",
+      "date": "2026-10-24T03:45:01.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/2IN3G4H3GVH75N2IMGNDI5BCCY.jpg?auth=da3b1e00cae609796e0502993a9ae94966f9fd257f817e2cc3a50e8ceed77db3"
+    },
+    {
+      "title": "¿Qué es y cómo combatir la fatiga digital, el fenómeno del que casi nadie escapa?",
+      "excerpt": "Hay una pregunta que David Broncano realiza con cierta frecuencia a la que los invitados a La Revuelta se muestran reticentes a contestar. Y no, no es ninguna…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://cincodias.elpais.com/fortunas/2026-10-24/que-es-y-como-combatir-la-fatiga-digital-el-fenomeno-del-que-casi-nadie-escapa.html",
+      "date": "2026-10-24T03:45:01.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/AUIVEZJFGRG33JCZFTB3T57VCU.jpg?auth=befad04e50d062856f11058fe3ff9455f4e2408546413ccb5a9ec5cc1b4999e7"
+    },
+    {
+      "title": "Cuando rejuvenecer las plantillas no es barato: las empresas se gastan 27.000 millones al año en reemplazar a los trabajadores séniors",
+      "excerpt": "Los procesos de rejuvenecimiento de las plantillas que llevan a cabo muchas compañías con el objetivo de ahorrar costes no siempre salen a cuenta. La…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://elpais.com/economia/2026-10-24/cuando-rejuvenecer-las-plantillas-no-es-barato-las-empresas-se-gastan-27000-millones-al-ano-en-reemplazar-a-los-trabajadores-seniors.html",
+      "date": "2026-10-24T03:45:01.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/OFYBLJ4OWVANTO2KFQXDOKTGRY.jpg?auth=9f4dd8b587c029f42f94f2df31e65cd8fceb4d489379c2b7415611f834a4e297"
+    },
+    {
+      "title": "La era de la ira: no esperen un final feliz a las revueltas en Francia",
+      "excerpt": "Llevamos unas semanas muy conflictivas. Sobre todo en las calles de Francia, pero no solo allí. Lo que empezó como una protesta estudiantil por los recortes…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://cincodias.elpais.com/opinion/2026-10-24/la-era-de-la-ira-no-esperen-un-final-feliz-a-las-revueltas-en-francia.html",
+      "date": "2026-10-24T03:40:00.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/TKOQNEY23NCTPP4MSB4ROFGL6Q.JPG?auth=ee4b7af2f31e8a765d2fc8f5e458f9ea6ca899c1570ee5d270974e276573134a"
+    },
+    {
+      "title": "Hoy No Circula sabatino: qué autos pueden circular y cuáles descansan el 24 de octubre",
+      "excerpt": "Este fin de semana entra en vigor de nuevo la normativa del Hoy No Circula sabatino, la medida implementada por la Secretaría de Medio Ambiente de la Ciudad…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/mexico/hoy-no-circula-sabatino-que-autos-pueden-circular-cuales-descansan-24-octubre",
+      "date": "2026-10-24T03:00:08.000Z",
+      "image": "https://i.blogs.es/063024/erik-mclean-aayaelnoxsq-unsplash/1024_2000.jpeg"
     },
     {
       "title": "Microsoft recula con la IA en Windows 11 y retira 8 funciones de Copilot",
@@ -19,6 +55,15 @@
       "url": "https://hipertextual.com/inteligencia-artificial/microsoft-elimina-funciones-copilot-windows-11/",
       "date": "2026-10-23T20:46:00.000Z",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2024/01/tecla-copilot-windows-microsoft.jpg?fit=1024%2C570&quality=70&strip=all&ssl=1"
+    },
+    {
+      "title": "Exteriores ordena a las oficinas consulares que trabajen este fin de semana para cumplir el plazo de la 'ley de nietos'",
+      "excerpt": "El Ministerio de Asuntos Exteriores, Unión Europea y Cooperación ha ordenado a las oficinas consulares que trabajen este sábado y domingo para \"cumplir con el…",
+      "source": "Europa Press Tecnología",
+      "category": "Tecnología",
+      "url": "https://www.europapress.es/nacional/noticia-exteriores-ordena-oficinas-consulares-trabajen-fin-semana-cumplir-plazo-ley-nietos-20261023215419.html",
+      "date": "2026-10-23T19:54:19.000Z",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261023215419_120.jpg"
     },
     {
       "title": "IBM tiene unas cifras que desafían a los gigantes de la IA cerrada: 90% del rendimiento por solo el 10% del coste por token",
@@ -66,40 +111,22 @@
       "image": "https://i.blogs.es/c39429/black-friday-2026-xataka-seleccion/1024_2000.jpeg"
     },
     {
-      "title": "La DGT tiene cámaras que multan con 200 euros por saltarse la línea continua. El problema es que no lo pueden demostrar",
-      "excerpt": "“No respetar una marca longitudinal continua, sin causa justificada. Infracción captada por cámara de control” Es el texto que llega con cada multa de la DGT…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/movilidad/dgt-tiene-unas-camaras-que-multan-200-euros-saltarse-linea-continua-unico-problema-que-no-pueden-demostrar",
-      "date": "2026-10-23T18:00:07.000Z",
-      "image": "https://i.blogs.es/8dffde/fabricio-sakai-p3n-uwyn7gk-unsplash/1024_2000.jpeg"
-    },
-    {
-      "title": "Feijóo pide \"estar a la altura\" para \"pasar página\" de Sánchez el 29N: \"España necesita un servidor y no un impostor\"",
-      "excerpt": "Promete que quien cobre el salario mínimo no pagará IRPF \"por ley\" e insta al PSOE a \"abandonar la desobediencia y competir honradamente\"",
-      "source": "Europa Press Tecnología",
-      "category": "Tecnología",
-      "url": "https://www.europapress.es/comunitat-valenciana/noticia-feijoo-pide-estar-altura-pasar-pagina-sanchez-29n-espana-necesita-servidor-no-impostor-20261023195713.html",
-      "date": "2026-10-23T17:57:13.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261023195713_120.jpg"
-    },
-    {
-      "title": "Deutsche Telekom gana a Telefónica el megacontrato de 400 millones para la nube soberana de Cataluña",
-      "excerpt": "T-Systems Iberia, filial del grupo alemán Deutsche Telekom, ha obtenido la propuesta de adjudicación del contrato para desarrollar y gestionar la nube pública…",
-      "source": "Cinco Días",
+      "title": "La deuda global se encamina a su índice más alto desde la Segunda Guerra Mundial",
+      "excerpt": "El mundo está cada vez más endeudado y, con el paso del tiempo, cada vez va a ser más difícil financiar esa deuda. El Fondo Monetario Internacional (FMI)…",
+      "source": "El Economista",
       "category": "Economía",
-      "url": "https://cincodias.elpais.com/companias/2026-10-23/deutsche-telekom-arrebata-a-telefonica-el-megacontrato-de-400-millones-para-la-nube-soberana-de-cataluna.html",
-      "date": "2026-10-23T17:42:20.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/WYFXBNQRTRLRJFLTLJDXHAIAI4.jpg?auth=ba3a44d020a33dd25625bed25e60aadbc7a333eb37eb0b24706d76726190e54c"
+      "url": "https://www.eleconomista.es/economia/noticias/14023291/10/26/la-deuda-global-se-encamina-a-su-indice-mas-alto-desde-la-segunda-guerra-mundial.html",
+      "date": "2026-10-23T17:16:26.000Z",
+      "image": null
     },
     {
-      "title": "Los economistas ven a De Cos liderando la carrera para sustituir a Lagarde al frente del BCE",
-      "excerpt": "La carrera por la sucesión de Christine Lagarde al frente del Banco Central Europeo tiene un favorito, el español Pablo Hernández de Cos. El exgobernador del…",
-      "source": "Cinco Días",
+      "title": "Seis países de la UE sufren una tasa de desempleo juvenil superior al 20%",
+      "excerpt": "Rumanía, España, Suecia, Finlandia, Estonia e Italia lideraban al cierre de 2025 la clasificación del desempleo juvenil en la Unión Europea. Todos ellos…",
+      "source": "El Economista",
       "category": "Economía",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-10-23/los-economistas-ven-a-de-cos-liderando-la-carrera-para-sustituir-a-lagarde-al-frente-del-bce.html",
-      "date": "2026-10-23T17:17:21.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/IB4TDAS52GNL6GTWHPD6SN3JZE.jpg?auth=008f62ff48f5dd8a913132fd6a38df49dfb20e39f3a222d72a6f9036ad0699f3"
+      "url": "https://www.eleconomista.es/economia/noticias/14023287/10/26/seis-paises-de-la-ue-sufren-una-tasa-de-desempleo-juvenil-superior-al-20.html",
+      "date": "2026-10-23T17:11:19.000Z",
+      "image": null
     },
     {
       "title": "'Bono chiringuito' de 5.000 euros, modernización de parques eólicos y una oficina virtual: las claves del presupuesto para Medio Ambiente de la Xunta",
@@ -109,33 +136,6 @@
       "url": "https://www.eleconomista.es/economia/noticias/14023284/10/26/bono-chiringuito-de-5000-euros-modernizacion-de-parques-eolicos-y-una-oficina-virtual-las-claves-del-presupuesto-para-medio-ambiente-de-la-xunta.html",
       "date": "2026-10-23T17:08:32.000Z",
       "image": null
-    },
-    {
-      "title": "María Jesús Lorente continuará al frente de CEPYME Aragón",
-      "excerpt": "María Jesús Lorente Ozcáriz continuará al frente de Cepyme Aragón durante la próxima legislatura tras haberse presentado una única candidatura de consenso a…",
-      "source": "El Economista",
-      "category": "Economía",
-      "url": "https://www.eleconomista.es/economia/noticias/14023283/10/26/maria-jesus-lorente-continuara-al-frente-de-cepyme-aragon.html",
-      "date": "2026-10-23T17:04:12.000Z",
-      "image": null
-    },
-    {
-      "title": "El petróleo y el temor a una burbuja de la IA dejan una semana de pérdidas en las Bolsas",
-      "excerpt": "Las Bolsas han encontrado un respiro en el último momento del viernes, pero no el suficiente para borrar las pérdidas de una semana marcada por la escalada…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-10-23/la-bolsa-y-el-ibex-35.html",
-      "date": "2026-10-23T16:25:29.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/7RNP7DM5BREULIMDQEU6MYI6RU.png?auth=47f4b71321fa518cc4ee02617833f128d727631b7a8763f7bc14c947db18c695"
-    },
-    {
-      "title": "El Ibex 35 cede un 1,74% en una semana marcada por el alza del petróleo y de la deuda francesa",
-      "excerpt": "El Ibex 35 ha finalizado la semana con un descenso del 1,74%, hasta situarse en los 18.989,80 puntos, como consecuencia del encarecimiento del crudo, que se…",
-      "source": "Europa Press",
-      "category": "Economía",
-      "url": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-cede-174-semana-marcada-alza-petroleo-deuda-francesa-20261023180934.html",
-      "date": "2026-10-23T16:09:34.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261023180934_120.jpg"
     }
   ]
 }
