@@ -1,7 +1,133 @@
 {
-  "generatedAt": "2026-10-24T04:44:01.010Z",
+  "generatedAt": "2026-10-24T11:10:56.788Z",
   "count": 15,
   "items": [
+    {
+      "title": "Miles de personas se manifiestan en Madrid en defensa del sistema de pensiones: “¡No se venden!”",
+      "excerpt": "- “¡Las pensiones no se venden, las pensiones se defienden!“. Seguir leyendo",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://elpais.com/economia/2026-10-24/miles-de-personas-se-manifiestan-en-madrid-en-defensa-del-sistema-de-pensiones-no-se-venden.html",
+      "date": "2026-10-24T11:09:15.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/CSWARPDUZ5BTDGIGW4SQ55IWVY.jpeg?auth=6557ca86764b51d925c48e7efc7d4859722f514b4bcb2f4990b320e17df2b9b9"
+    },
+    {
+      "title": "Temblores bursátiles por la escalada bélica",
+      "excerpt": "Occidente afronta el nuevo pico de los precios energéticos con sus reservas en cotas mínimas. La sostenibilidad de la deuda pública y de los desarrolladores…",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/opinion/2026/10/24/temblores-bursatiles-escalada-belica.html",
+      "date": "2026-10-24T11:02:37.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/24/17928397435601.jpg"
+    },
+    {
+      "title": "Ned Curic, jefe de desarrollo de producto de Stellantis: \"Estamos aprendiendo de Leapmotor para crear el Citroën 2 CV en dos años\"",
+      "excerpt": "En 1976 Mercedes dio los primeros pasos para poner en la calle el Mercedes W124. El coche, ejemplo de vehículo indestructible, tardó ocho años en llegar al…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/movilidad/ned-curic-jefe-desarrollo-producto-stellantis-estamos-aprendiendo-leapmotor-para-crear-citroen-2-cv-dos-anos",
+      "date": "2026-10-24T11:00:10.000Z",
+      "image": "https://i.blogs.es/bd7065/stellantis-coche-electrico-leapmotor/1024_2000.jpeg"
+    },
+    {
+      "title": "5 cosas que deberías saber de ‘Clayface’ antes de ver la película de DC",
+      "excerpt": "Clayface es un experimento arriesgado y uno que demuestra que el Universo de DC está intentando encontrar identidad propia. Por un lado, alejándose de la…",
+      "source": "Hipertextual",
+      "category": "Tecnología",
+      "url": "https://hipertextual.com/cine-television/5-cosas-que-deberias-saber-de-clayface-antes-de-ver-la-pelicula-de-dc/",
+      "date": "2026-10-24T11:00:00.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/Clayface.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1"
+    },
+    {
+      "title": "\"¿Podrías votar por Eliska?\" El mensaje inocente que puede robarte el WhatsApp",
+      "excerpt": "Si estos días uno de tus contactos quiere pedirte un favorcito por WhatsApp, mejor que le digas: gracias pero no, gracias. Cuando alguien nos pide dinero es…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/seguridad/podrias-votar-eliska-mensaje-inocente-que-puede-robarte-whatsapp",
+      "date": "2026-10-24T10:56:56.000Z",
+      "image": "https://i.blogs.es/45aadf/mensaje-sospechoso-en-un-paraiso-neon-1-/1024_2000.jpeg"
+    },
+    {
+      "title": "El leviatán francés",
+      "excerpt": "Francia coquetea con convertirse en el “enfermo de Europa” y engordar las listas de países con problemas de financiación en el largo plazo.",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/opinion/2026/10/24/leviatan-frances.html",
+      "date": "2026-10-24T10:53:23.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/24/17928391952496.jpg"
+    },
+    {
+      "title": "En Galicia hay casas de piedra por 10.000 euros y pueblos que ofrecen exenciones fiscales. Pero no buscan compradores, sino emprendedores",
+      "excerpt": "Hay quien busca casa en el pueblo para jubilarse y quien, quizá hasta las narices del frenesí urbano, quiere montar allí una bodega, una panadería o un…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/magnet/galicia-hay-casas-piedra-10-000-euros-pueblos-que-ofrecen-exenciones-fiscales-no-buscan-compradores-sino-emprendedores",
+      "date": "2026-10-24T10:30:10.000Z",
+      "image": "https://i.blogs.es/ce1515/carlos-portela/1024_2000.jpeg"
+    },
+    {
+      "title": "El outlet de MediaMarkt está liquidando este iPad Air de 13 pulgadas: está nuevo y es más barato que antes de la subida de precios",
+      "excerpt": "Una semana más, volvemos a bichear el outlet que tiene MediaMarkt en busca de algún dispositivo a buen precio. En esta ocasión, hemos encontrado un iPad Air…",
+      "source": "Applesfera",
+      "category": "Tecnología",
+      "url": "https://www.applesfera.com/seleccion/outlet-mediamarkt-esta-liquidando-este-ipad-air-13-pulgadas-esta-nuevo-barato-que-antes-subida-precios",
+      "date": "2026-10-24T10:30:10.000Z",
+      "image": "https://i.blogs.es/88d3cb/ipad-air-m4-outlet-de-mediamarkt/1024_2000.jpeg"
+    },
+    {
+      "title": "Según Pangram, 'Donde el agua trabaja' de David Silva Rojas es IA al 99%. El problema es el de siempre: que una IA no es infalible",
+      "excerpt": "La novela 'Donde el agua trabaja' se alzó en julio con el primer Premio Internacional de Novela Breve Almadía Ventosa-Arrufat, dotado con 20.000 euros y por…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/robotica-e-ia/pangram-donde-agua-trabaja-david-silva-rojas-ia-al-99-problema-siempre-que-ia-no-infalible",
+      "date": "2026-10-24T10:00:00.000Z",
+      "image": "https://i.blogs.es/c48e40/novela-corta-escrita-a-mano/1024_2000.jpeg"
+    },
+    {
+      "title": "‘Clayface’ es una pasable película de terror que no aporta nada al Universo DC",
+      "excerpt": "Clayface es una película de terror a toda regla. Y una, que hace un especial buen uso del body horror en los momentos correctos. No obstante, poco o nada…",
+      "source": "Hipertextual",
+      "category": "Tecnología",
+      "url": "https://hipertextual.com/cine-television/clayface-es-una-pasable-pelicula-de-terror-que-no-aporta-nada-al-universo-dc/",
+      "date": "2026-10-24T10:00:00.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/Clayface-Hipertextual.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1"
+    },
+    {
+      "title": "Las agencias de viajes piden que se exima de las mesas electorales a quienes tengan vacaciones contratadas",
+      "excerpt": "La Confederación Española de Agencias de Viajes (CEAV) ha trasladado una consulta a la Junta Electoral Central para solicitar que se unifiquen los criterios…",
+      "source": "Europa Press",
+      "category": "Economía",
+      "url": "https://www.europapress.es/economia/noticia-agencias-viajes-piden-exima-mesas-electorales-quienes-tengan-vacaciones-contratadas-20261024115950.html",
+      "date": "2026-10-24T09:59:50.000Z",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261024115950_120.jpg"
+    },
+    {
+      "title": "Los reproches entre Constitucional y Supremo se recrudecen en la fase final de la amnistía: de excederse a \"injerencia\"",
+      "excerpt": "La amnistía ha entrado esta semana en su etapa final después de que el Tribunal Supremo haya asumido la doctrina del Tribunal Constitucional y aplicado la…",
+      "source": "Europa Press Tecnología",
+      "category": "Tecnología",
+      "url": "https://www.europapress.es/nacional/noticia-reproches-constitucional-supremo-recrudecen-fase-final-amnistia-excederse-injerencia-20261024111748.html",
+      "date": "2026-10-24T09:17:48.000Z",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261024111748_120.jpg"
+    },
+    {
+      "title": "¿Puede España acabar como Francia? Las claves para entender la deuda, el déficit y el crecimiento",
+      "excerpt": "Los problemas económicos de Francia, marcada por el elevado déficit público, el aumento de la deuda, las dificultades para aprobar ajustes presupuestarios y…",
+      "source": "Europa Press",
+      "category": "Economía",
+      "url": "https://www.europapress.es/economia/macroeconomia-00338/noticia-puede-espana-acabar-francia-claves-entender-deuda-deficit-crecimiento-20261024095949.html",
+      "date": "2026-10-24T07:59:49.000Z",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261024095949_120.jpg"
+    },
+    {
+      "title": "Moody's mantiene el rating 'Aa3' de Francia con perspectiva negativa",
+      "excerpt": "La agencia de calificación crediticia Moody's ha decidido mantener sin cambios la nota de solvencia de la deuda soberana a largo plazo de Francia en 'Aa3' con…",
+      "source": "El Economista",
+      "category": "Economía",
+      "url": "https://www.eleconomista.es/economia/noticias/14023326/10/26/moodys-mantiene-el-rating-aa3-de-francia-con-perspectiva-negativa.html",
+      "date": "2026-10-24T06:28:51.000Z",
+      "image": null
+    },
     {
       "title": "¿Dónde viven los caseros? Barrios de renta alta y zonas turísticas concentran a quienes declaran ingresos de alquiler",
       "excerpt": "Los barrios de mayor renta del país y los distritos con mayor dinamismo turístico suelen concentrar una mayor proporción de contribuyentes que declaran en su…",
@@ -10,132 +136,6 @@
       "url": "https://elpais.com/economia/2026-10-24/donde-viven-los-caseros-barrios-de-renta-alta-y-zonas-turisticas-concentran-a-quienes-declaran-ingresos-de-alquiler.html",
       "date": "2026-10-24T03:45:01.000Z",
       "image": "https://imagenes.elpais.com/resizer/v2/2IN3G4H3GVH75N2IMGNDI5BCCY.jpg?auth=da3b1e00cae609796e0502993a9ae94966f9fd257f817e2cc3a50e8ceed77db3"
-    },
-    {
-      "title": "¿Qué es y cómo combatir la fatiga digital, el fenómeno del que casi nadie escapa?",
-      "excerpt": "Hay una pregunta que David Broncano realiza con cierta frecuencia a la que los invitados a La Revuelta se muestran reticentes a contestar. Y no, no es ninguna…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://cincodias.elpais.com/fortunas/2026-10-24/que-es-y-como-combatir-la-fatiga-digital-el-fenomeno-del-que-casi-nadie-escapa.html",
-      "date": "2026-10-24T03:45:01.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/AUIVEZJFGRG33JCZFTB3T57VCU.jpg?auth=befad04e50d062856f11058fe3ff9455f4e2408546413ccb5a9ec5cc1b4999e7"
-    },
-    {
-      "title": "Cuando rejuvenecer las plantillas no es barato: las empresas se gastan 27.000 millones al año en reemplazar a los trabajadores séniors",
-      "excerpt": "Los procesos de rejuvenecimiento de las plantillas que llevan a cabo muchas compañías con el objetivo de ahorrar costes no siempre salen a cuenta. La…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://elpais.com/economia/2026-10-24/cuando-rejuvenecer-las-plantillas-no-es-barato-las-empresas-se-gastan-27000-millones-al-ano-en-reemplazar-a-los-trabajadores-seniors.html",
-      "date": "2026-10-24T03:45:01.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/OFYBLJ4OWVANTO2KFQXDOKTGRY.jpg?auth=9f4dd8b587c029f42f94f2df31e65cd8fceb4d489379c2b7415611f834a4e297"
-    },
-    {
-      "title": "La era de la ira: no esperen un final feliz a las revueltas en Francia",
-      "excerpt": "Llevamos unas semanas muy conflictivas. Sobre todo en las calles de Francia, pero no solo allí. Lo que empezó como una protesta estudiantil por los recortes…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://cincodias.elpais.com/opinion/2026-10-24/la-era-de-la-ira-no-esperen-un-final-feliz-a-las-revueltas-en-francia.html",
-      "date": "2026-10-24T03:40:00.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/TKOQNEY23NCTPP4MSB4ROFGL6Q.JPG?auth=ee4b7af2f31e8a765d2fc8f5e458f9ea6ca899c1570ee5d270974e276573134a"
-    },
-    {
-      "title": "Hoy No Circula sabatino: qué autos pueden circular y cuáles descansan el 24 de octubre",
-      "excerpt": "Este fin de semana entra en vigor de nuevo la normativa del Hoy No Circula sabatino, la medida implementada por la Secretaría de Medio Ambiente de la Ciudad…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/mexico/hoy-no-circula-sabatino-que-autos-pueden-circular-cuales-descansan-24-octubre",
-      "date": "2026-10-24T03:00:08.000Z",
-      "image": "https://i.blogs.es/063024/erik-mclean-aayaelnoxsq-unsplash/1024_2000.jpeg"
-    },
-    {
-      "title": "Microsoft recula con la IA en Windows 11 y retira 8 funciones de Copilot",
-      "excerpt": "Microsoft continúa ajustando su estrategia de inteligencia artificial en Windows 11. A unos meses de prometer cambios estructurales, el gigante tecnológico…",
-      "source": "Hipertextual",
-      "category": "Tecnología",
-      "url": "https://hipertextual.com/inteligencia-artificial/microsoft-elimina-funciones-copilot-windows-11/",
-      "date": "2026-10-23T20:46:00.000Z",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2024/01/tecla-copilot-windows-microsoft.jpg?fit=1024%2C570&quality=70&strip=all&ssl=1"
-    },
-    {
-      "title": "Exteriores ordena a las oficinas consulares que trabajen este fin de semana para cumplir el plazo de la 'ley de nietos'",
-      "excerpt": "El Ministerio de Asuntos Exteriores, Unión Europea y Cooperación ha ordenado a las oficinas consulares que trabajen este sábado y domingo para \"cumplir con el…",
-      "source": "Europa Press Tecnología",
-      "category": "Tecnología",
-      "url": "https://www.europapress.es/nacional/noticia-exteriores-ordena-oficinas-consulares-trabajen-fin-semana-cumplir-plazo-ley-nietos-20261023215419.html",
-      "date": "2026-10-23T19:54:19.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261023215419_120.jpg"
-    },
-    {
-      "title": "IBM tiene unas cifras que desafían a los gigantes de la IA cerrada: 90% del rendimiento por solo el 10% del coste por token",
-      "excerpt": "La carrera por la inteligencia artificial lleva tiempo girando alrededor de una pregunta: quién tiene el modelo más capaz. Cada nueva generación busca…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/robotica-e-ia/ibm-tiene-unas-cifras-que-desafian-a-gigantes-ia-cerrada-90-rendimiento-solo-10-coste-token",
-      "date": "2026-10-23T19:30:07.000Z",
-      "image": "https://i.blogs.es/52f9cc/arvind-krishna-ceo-de-ibm/1024_2000.jpeg"
-    },
-    {
-      "title": "Netflix quería pagar una fortuna para hacer series y películas de juegos de Xbox: por qué no prosperó",
-      "excerpt": "Netflix intentó licenciar en exclusiva las propiedades intelectuales de Xbox para desarrollar series y películas originales, pero el acuerdo finalmente no…",
-      "source": "Hipertextual",
-      "category": "Tecnología",
-      "url": "https://hipertextual.com/cine-television/netflix-quiso-licenciar-las-ip-de-xbox-para-peliculas-y-series/",
-      "date": "2026-10-23T19:07:00.000Z",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2022/03/halo-serie-live-action.jpg?fit=1024%2C673&quality=70&strip=all&ssl=1"
-    },
-    {
-      "title": "Pedro Sánchez acepta la entrevista del 'youtuber' Jordi Wild tras el sí de Feijóo, Abascal y Colau",
-      "excerpt": "El presidente del Gobierno, Pedro Sánchez, ha confirmado que acepta la propuesta del 'youtuber' Jordi Wild, para ser entrevistado en su podcast 'The Wild…",
-      "source": "Europa Press Tecnología",
-      "category": "Tecnología",
-      "url": "https://www.europapress.es/nacional/noticia-pedro-sanchez-acepta-entrevista-youtuber-jordi-wild-si-feijoo-abascal-colau-20261023205019.html",
-      "date": "2026-10-23T18:50:19.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261023205019_120.jpg"
-    },
-    {
-      "title": "\"Van a empeorar mucho más\": Jason Clinton, subdirector de ciberseguridad de Anthropic, advierte de lo que está por venir",
-      "excerpt": "Pocas veces nos preguntamos qué tiene que suceder para que una transferencia llegue a su destino, un documento permanezca privado o nadie más pueda acceder a…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/seguridad/van-a-empeorar-mucho-jason-clinton-subdirector-ciberseguridad-anthropic-advierte-que-esta-venir",
-      "date": "2026-10-23T18:32:14.000Z",
-      "image": "https://i.blogs.es/2b284a/jason-clinton/1024_2000.jpeg"
-    },
-    {
-      "title": "Cuándo es el Black Friday 2026 y qué tiendas han comenzado ya con sus descuentos",
-      "excerpt": "Como sucede cada año, a finales de noviembre de 2026 tendrá lugar una nueva edición del Black Friday. Un día que se espera que sea el de mayores descuentos de…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/seleccion/cuando-black-friday-2026-que-tiendas-han-comenzado-sus-descuentos",
-      "date": "2026-10-23T18:16:08.000Z",
-      "image": "https://i.blogs.es/c39429/black-friday-2026-xataka-seleccion/1024_2000.jpeg"
-    },
-    {
-      "title": "La deuda global se encamina a su índice más alto desde la Segunda Guerra Mundial",
-      "excerpt": "El mundo está cada vez más endeudado y, con el paso del tiempo, cada vez va a ser más difícil financiar esa deuda. El Fondo Monetario Internacional (FMI)…",
-      "source": "El Economista",
-      "category": "Economía",
-      "url": "https://www.eleconomista.es/economia/noticias/14023291/10/26/la-deuda-global-se-encamina-a-su-indice-mas-alto-desde-la-segunda-guerra-mundial.html",
-      "date": "2026-10-23T17:16:26.000Z",
-      "image": null
-    },
-    {
-      "title": "Seis países de la UE sufren una tasa de desempleo juvenil superior al 20%",
-      "excerpt": "Rumanía, España, Suecia, Finlandia, Estonia e Italia lideraban al cierre de 2025 la clasificación del desempleo juvenil en la Unión Europea. Todos ellos…",
-      "source": "El Economista",
-      "category": "Economía",
-      "url": "https://www.eleconomista.es/economia/noticias/14023287/10/26/seis-paises-de-la-ue-sufren-una-tasa-de-desempleo-juvenil-superior-al-20.html",
-      "date": "2026-10-23T17:11:19.000Z",
-      "image": null
-    },
-    {
-      "title": "'Bono chiringuito' de 5.000 euros, modernización de parques eólicos y una oficina virtual: las claves del presupuesto para Medio Ambiente de la Xunta",
-      "excerpt": "Los presupuestos de la Consellería de Medio Ambiente e Cambio Climático ascenderán en 2027 a 470 millones de euros, un 8,2% más que en 2026, según la Xunta…",
-      "source": "El Economista",
-      "category": "Economía",
-      "url": "https://www.eleconomista.es/economia/noticias/14023284/10/26/bono-chiringuito-de-5000-euros-modernizacion-de-parques-eolicos-y-una-oficina-virtual-las-claves-del-presupuesto-para-medio-ambiente-de-la-xunta.html",
-      "date": "2026-10-23T17:08:32.000Z",
-      "image": null
     }
   ]
 }
