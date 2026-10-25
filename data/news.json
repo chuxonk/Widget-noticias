@@ -1,33 +1,105 @@
 {
-  "generatedAt": "2026-10-25T16:29:47.077Z",
+  "generatedAt": "2026-10-25T20:55:44.339Z",
   "count": 15,
   "items": [
     {
-      "title": "El Touch ID llegó gracias a una demo que salió fatal. Fue delante de IBM",
-      "excerpt": "Detrás del Touch ID hay una historia bastante curiosa. La de la pequeña empresa que Apple compró para tenerlo, y empieza con una demostración que salió fatal…",
-      "source": "Applesfera",
-      "category": "Tecnología",
-      "url": "https://www.applesfera.com/curiosidades/touch-id-llego-gracias-a-demo-que-salio-fatal-fue-delante-ibm",
-      "date": "2026-10-25T16:00:12.000Z",
-      "image": "https://i.blogs.es/7f4324/iphone-5s-/1024_2000.jpeg"
-    },
-    {
-      "title": "Llevamos años viendo como los viñedos españoles desaparecen sin que podamos hacer nada. Ha llegado el turno de la ingeniería genética",
-      "excerpt": "El 6 de agosto, entre Aldeanueva de Ebro y Alfaro, varios viñedos cortaron los primeros racimos de tempranillo blanco. Era la vendimia más temprana de la…",
+      "title": "En Europa existe un museo dedicado a grandes productos fallidos. Detrás está un antiguo empleado de Google",
+      "excerpt": "Estamos acostumbrados a entrar en un museo para encontrarnos con aquello que merece ser recordado. En España basta pensar en el Prado, el Reina Sofía o el…",
       "source": "Xataka",
       "category": "Tecnología",
-      "url": "https://www.xataka.com/ecologia-y-naturaleza/llevamos-anos-viendo-como-vinedos-espanoles-desaparecen-que-podamos-hacer-nada-ha-llegado-turno-ingenieria-genetica",
-      "date": "2026-10-25T16:00:11.000Z",
-      "image": "https://i.blogs.es/abeb47/mika-baumeister-4gen9bddbwq-unsplash-1-/1024_2000.jpeg"
+      "url": "https://www.xataka.com/magnet/europa-existe-museo-dedicado-a-grandes-productos-fallidos-detras-esta-antiguo-empleado-google",
+      "date": "2026-10-25T20:00:10.000Z",
+      "image": "https://i.blogs.es/8b4c08/museo-fracasos-portada/1024_2000.jpeg"
     },
     {
-      "title": "‘Wildwood: El bosque salvaje’ es una obra de arte de animación que pasará a la historia",
-      "excerpt": "Wildwood: El bosque salvaje es un cuento de hadas brillante, conmovedor y con un guion lleno de sorpresas. Pero además, es una obra de arte artesanal, de…",
+      "title": "Lidl soluciona (por 7,99 euros) un problema cotidiano en casa cuando llega el frío, vuelven las lluvias y sube la humedad",
+      "excerpt": "Hace ya más de un mes que entró en España el otoño y, con él, han llegado las primeras borrascas y lluvias generalizadas. Algo que, sumado a la bajada de las…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/seleccion/lidl-soluciona-7-99-euros-problema-cotidiano-casa-cuando-llega-frio-vuelven-lluvias-sube-humedad",
+      "date": "2026-10-25T19:16:09.000Z",
+      "image": "https://i.blogs.es/196559/lidl-solucion-humedad/1024_2000.jpeg"
+    },
+    {
+      "title": "Frente Amplio afronta este lunes el cierre de listas al 29N con varias plazas electorales aún sin candidatos designados",
+      "excerpt": "Frente Amplio afronta el cierre de las listas para las elecciones generales del 29N este lunes con varias circunscripciones aún sin candidatos designados para…",
+      "source": "Europa Press Tecnología",
+      "category": "Tecnología",
+      "url": "https://www.europapress.es/nacional/noticia-frente-amplio-afronta-lunes-cierre-listas-29n-varias-plazas-electorales-aun-candidatos-designados-20261025201442.html",
+      "date": "2026-10-25T19:14:42.000Z",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261025201442_120.jpg"
+    },
+    {
+      "title": "He probado el Honor Robot Phone con su cámara robotizada y estas son las ocho cosas donde más se diferencia del resto",
+      "excerpt": "El Honor Robot Phone es un móvil normal. Al menos en apariencia. Lo especial comienza cuando uno abre la app de cámara, pulsa el botón de desplegar el gimbal…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/moviles/he-probado-honor-robot-phone-su-camara-robotizada-estas-ocho-cosas-donde-se-diferencia-resto",
+      "date": "2026-10-25T19:02:08.000Z",
+      "image": "https://i.blogs.es/a68dbd/honor-robot-phone/1024_2000.jpeg"
+    },
+    {
+      "title": "¿Qué pasará con las IP de ‘Mass Effect’ y ‘Dragon Age’ tras el cierre de BioWare?",
+      "excerpt": "El cierre de BioWare por parte de Electronic Arts sigue dando que hablar. El estudio detrás de sagas icónicas como Dragon Age, Mass Effect y las primeras dos…",
       "source": "Hipertextual",
       "category": "Tecnología",
-      "url": "https://hipertextual.com/cine-television/wildwood-el-bosque-salvaje-es-una-obra-de-arte-de-animacion-que-pasara-a-la-historia/",
-      "date": "2026-10-25T16:00:00.000Z",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/wildwood-review_gacz.1200.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1"
+      "url": "https://hipertextual.com/videojuegos/que-pasara-con-mass-effect-y-dragon-age-tras-el-cierre-de-bioware/",
+      "date": "2026-10-25T19:00:00.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/Mass-Effect.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1"
+    },
+    {
+      "title": "Ocho años después de abrirla, una tumba de 55 metros con \"antenas\" en pleno desierto del Sáhara revela por fin su edad",
+      "excerpt": "En una llanura de grava del norte del Sáhara Occidental, a unos 600 metros de altura, hay un montículo ovalado de piedra del que nacen dos hileras de losas…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/magnet/ocho-anos-despues-abrirla-tumba-55-metros-antenas-pleno-desierto-sahara-revela-fin-su-edad",
+      "date": "2026-10-25T18:30:12.000Z",
+      "image": "https://i.blogs.es/c5a982/tumba/1024_2000.jpeg"
+    },
+    {
+      "title": "La líder opositora María Corina Machado regresa a Venezuela",
+      "excerpt": "La líder opositora y premio nobel de la paz 2025 ya se encuentra de regreso en Venezuela y reapareció este domingo en una Iglesia católica del estado Lara…",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/economia/politica/2026/10/25/lider-opositora-maria-corina-machado-regresa-venezuela.html",
+      "date": "2026-10-25T18:25:07.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/25/17929526952707.jpg"
+    },
+    {
+      "title": "Dimite el delegado del Gobierno en Madrid tras quedar fuera de las listas del PSOE al 29N",
+      "excerpt": "",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/economia/politica/2026/10/25/dimite-delegado-gobierno-madrid-quedar-fuera-listas-psoe-29n.html",
+      "date": "2026-10-25T18:12:04.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/25/17929519156843.jpg"
+    },
+    {
+      "title": "‘The Batman 2’ no será la primera: 7 películas que tuvieron que ser filmadas por directores secundarios",
+      "excerpt": "A menos que vivas bajo una piedra, lo sabes: The Batman 2 pasa por momentos complicados. Su director, Matt Reeves, tuvo que abandonar la filmación en Londres…",
+      "source": "Hipertextual",
+      "category": "Tecnología",
+      "url": "https://hipertextual.com/cine-television/the-batman-2-no-sera-la-primera-7-peliculas-que-tuvieron-que-ser-filmadas-por-directores-secundarios/",
+      "date": "2026-10-25T18:00:00.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/Pelicula-con-otro-director.jpg?fit=1024%2C819&quality=70&strip=all&ssl=1"
+    },
+    {
+      "title": "La industria pone coto a completar el salario a los trabajadores de baja: así lucha el metal contra el absentismo",
+      "excerpt": "El diálogo social sobre la reforma de la gestión de las bajas laborales ha quedado paralizado tras el adelanto electoral. Ante esta situación y el continuo…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://elpais.com/economia/2026-10-25/la-industria-pone-coto-a-completar-el-salario-a-los-trabajadores-de-baja-asi-lucha-el-metal-contra-el-absentismo.html",
+      "date": "2026-10-25T17:25:37.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/EOPD2ARX2UP2TRT2Z5Y5YBQIC4.jpg?auth=61fb752d8c79cc661861f29717a04ec72b58129f50fd2bba141087016c419e8c"
+    },
+    {
+      "title": "Steve Jobs construyó Apple siguiendo un consejo de su padre sobre una valla: \"Le encantaba hacer las cosas bien\"",
+      "excerpt": "¿Steve Jobs siempre fue tan perfeccionista? La verdad es que sí. Su padre adoptivo Paul Jobs tiene el honor de haber influenciado tanto a su hijo, y hubo un…",
+      "source": "Applesfera",
+      "category": "Tecnología",
+      "url": "https://www.applesfera.com/curiosidades/steve-jobs-construyo-apple-siguiendo-consejo-su-padre-valla-le-encantaba-hacer-cosas-bien-1",
+      "date": "2026-10-25T17:00:10.000Z",
+      "image": "https://i.blogs.es/f57e44/casa-steve-jobs/1024_2000.jpeg"
     },
     {
       "title": "Rusia apunta que la guerra le costará a Ucrania más de 473 millones al día en 2027",
@@ -37,51 +109,6 @@
       "url": "https://www.eleconomista.es/economia/noticias/14023416/10/26/rusia-apunta-que-la-guerra-le-costara-a-ucrania-mas-de-470-millones-al-dia-en-2027.html",
       "date": "2026-10-25T15:53:32.000Z",
       "image": null
-    },
-    {
-      "title": "El 'boom' de la solar tiene un efecto inesperado: la electricidad barata amenaza la rentabilidad de los nuevos parques",
-      "excerpt": "Aunque recientemente los precios de la luz están al alza por diversas razones, estos últimos meses hemos vivido una situación que cada vez se repite con más…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/energia/boom-solar-tiene-efecto-inesperado-electricidad-barata-amenaza-rentabilidad-nuevos-parques",
-      "date": "2026-10-25T15:32:07.000Z",
-      "image": "https://i.blogs.es/823bcd/mariana-proenca-mg8sgwkmhcy-unsplash/1024_2000.jpeg"
-    },
-    {
-      "title": "Lo nuevo de MrBeast: apoyar con un cuarto de millón de dólares una bola inteligente controlada con IA",
-      "excerpt": "Jimmy Donaldson, MrBeast, debutó como tiburón invitado en el estreno de la temporada 18 de 'Shark Tank', reality de la estadounidense ABC en el que…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/literatura-comics-y-juegos/nuevo-mrbeast-apoyar-cuarto-millon-dolares-bola-inteligente-controlada-ia",
-      "date": "2026-10-25T15:00:11.000Z",
-      "image": "https://i.blogs.es/0b8c43/captura-de-pantalla-2026-10-21-a-las-9.44.08/1024_2000.jpeg"
-    },
-    {
-      "title": "Vivimos más que nunca y nos sentimos peor: la salud percibida cae a niveles de 1987",
-      "excerpt": "Los avances médicos que vamos conociendo están haciendo que podamos vivir muchos más años, puesto que ya podemos dar respuesta a enfermedades que antes era…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/medicina-y-salud/vivimos-que-nunca-nos-sentimos-peor-salud-percibida-cae-a-niveles-1987",
-      "date": "2026-10-25T14:30:08.000Z",
-      "image": "https://i.blogs.es/a45d10/percepcion-salud/1024_2000.jpeg"
-    },
-    {
-      "title": "5 películas animadas en ‘stop motion’ que puedes ver ahora mismo",
-      "excerpt": "Wildwood: El bosque salvaje de Laika, que se estrena este fin de semana en España, es, además de una estupenda película, un logro técnico. Eso, al combinar…",
-      "source": "Hipertextual",
-      "category": "Tecnología",
-      "url": "https://hipertextual.com/cine-television/5-peliculas-animadas-en-stop-motion-que-puedes-ver-ahora-mismo/",
-      "date": "2026-10-25T14:00:00.000Z",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/Stopmotoon.jpg?fit=1024%2C819&quality=70&strip=all&ssl=1"
-    },
-    {
-      "title": "Colau llama a \"llenar las calles\" y \"poner el cuerpo\" frente a los políticos que solo usan su \"piquito de oro\"",
-      "excerpt": "La candidata de Frente Amplio, Ada Colau, ha llamado a \"llenar las calles\" de cara a las elecciones generales y ha cargado contra los políticos de izquierda…",
-      "source": "Europa Press Tecnología",
-      "category": "Tecnología",
-      "url": "https://www.europapress.es/nacional/noticia-colau-llama-llenar-calles-poner-cuerpo-frente-politicos-solo-usan-piquito-oro-20261025140652.html",
-      "date": "2026-10-25T13:06:52.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261025140652_120.jpg"
     },
     {
       "title": "La ciencia señala los lugares clave en los que invertir para frenar la crisis de biodiversidad de planeta",
@@ -109,33 +136,6 @@
       "url": "https://elpais.com/economia/2026-10-25/audi-abrira-su-primera-fabrica-en-ee-uu-para-esquivar-los-aranceles-de-trump.html",
       "date": "2026-10-25T11:48:21.000Z",
       "image": "https://imagenes.elpais.com/resizer/v2/AYEU3XGJUFNTHJWTRUSMUFQ6A4.jpg?auth=03bbc7beaddd08410b33cb472082bafb41789738c3805e3fc4ede64f79e76f03"
-    },
-    {
-      "title": "El campo español lleva los tractores a Madrid este miércoles ante los graves problemas que afronta sector",
-      "excerpt": "Asaja, COAG y Unión de Uniones de Agricultores y Ganaderos volverán a sacar a los tractores a la calles para tomar Madrid este miércoles 28 de octubre en una…",
-      "source": "Europa Press",
-      "category": "Economía",
-      "url": "https://www.europapress.es/asturias/asturias-rural-00671/noticia-campo-espanol-lleva-tractores-madrid-miercoles-graves-problemas-afronta-sector-20261025135548.html",
-      "date": "2026-10-25T11:29:50.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261025122950_120.jpg"
-    },
-    {
-      "title": "Un peón del sector metalúrgico de Guipúzcoa cobra por hora un 30% más que un ingeniero de Cuenca",
-      "excerpt": ", según el informe 'La negociación colectiva en la industria y servicios del metal en 2052' elaborado por la patronal del sector, Confemetal, en el que se…",
-      "source": "Europa Press",
-      "category": "Economía",
-      "url": "https://www.europapress.es/economia/laboral-00346/noticia-peon-sector-metalurgico-guipuzcoa-cobra-hora-30-mas-ingeniero-cuenca-20261025113355.html",
-      "date": "2026-10-25T10:33:55.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261025113355_120.jpg"
-    },
-    {
-      "title": "Pekín mueve ficha por su 'negocio' de 3.000 millones con Corea del Norte: un puente para frenar a Rusia",
-      "excerpt": "El líder de Corea del Norte, Kim Jong-un, realizó este sábado 24 de octubre un viaje sorpresa y cruzó el Nuevo Puente del Río Yalu (también llamado Nuevo…",
-      "source": "El Economista",
-      "category": "Economía",
-      "url": "https://www.eleconomista.es/economia/noticias/14023396/10/26/pekin-mueve-ficha-por-su-negocio-de-3000-millones-con-corea-del-norte-un-puente-para-frenar-a-rusia.html",
-      "date": "2026-10-25T10:17:52.000Z",
-      "image": null
     }
   ]
 }
