@@ -1,78 +1,123 @@
 {
-  "generatedAt": "2026-10-25T11:40:24.251Z",
+  "generatedAt": "2026-10-25T16:29:47.077Z",
   "count": 15,
   "items": [
     {
-      "title": "Los marroquíes desbancan a los europeos en la compra de vivienda en España. También pagan menos por metro cuadrado",
-      "excerpt": "Durante las últimas décadas, el extranjero que compraba casa en España tenía un perfil más o menos definido: británico, con el divino placer de unas largas…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/magnet/marroquies-desbancan-a-europeos-compra-vivienda-espana-tambien-pagan-metro-cuadrado",
-      "date": "2026-10-25T11:30:10.000Z",
-      "image": "https://i.blogs.es/8d4390/calle/1024_2000.jpeg"
-    },
-    {
-      "title": "PcComponentes tiene este MacBook Neo reacondicionado (pero como nuevo) con 512 GB mucho más barato que el de 256 GB",
-      "excerpt": "De entre todos los MacBook que podemos elegir, está claro que el MacBook Neo es la opción más adecuada si buscas un portátil económico para estudiar o para…",
+      "title": "El Touch ID llegó gracias a una demo que salió fatal. Fue delante de IBM",
+      "excerpt": "Detrás del Touch ID hay una historia bastante curiosa. La de la pequeña empresa que Apple compró para tenerlo, y empieza con una demostración que salió fatal…",
       "source": "Applesfera",
       "category": "Tecnología",
-      "url": "https://www.applesfera.com/seleccion/pccomponentes-tiene-este-macbook-neo-reacondicionado-como-nuevo-512-gb-mucho-barato-que-256-gb",
-      "date": "2026-10-25T11:30:10.000Z",
-      "image": "https://i.blogs.es/7a76d5/macbook-neo-portada-verde/1024_2000.jpeg"
+      "url": "https://www.applesfera.com/curiosidades/touch-id-llego-gracias-a-demo-que-salio-fatal-fue-delante-ibm",
+      "date": "2026-10-25T16:00:12.000Z",
+      "image": "https://i.blogs.es/7f4324/iphone-5s-/1024_2000.jpeg"
+    },
+    {
+      "title": "Llevamos años viendo como los viñedos españoles desaparecen sin que podamos hacer nada. Ha llegado el turno de la ingeniería genética",
+      "excerpt": "El 6 de agosto, entre Aldeanueva de Ebro y Alfaro, varios viñedos cortaron los primeros racimos de tempranillo blanco. Era la vendimia más temprana de la…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/ecologia-y-naturaleza/llevamos-anos-viendo-como-vinedos-espanoles-desaparecen-que-podamos-hacer-nada-ha-llegado-turno-ingenieria-genetica",
+      "date": "2026-10-25T16:00:11.000Z",
+      "image": "https://i.blogs.es/abeb47/mika-baumeister-4gen9bddbwq-unsplash-1-/1024_2000.jpeg"
+    },
+    {
+      "title": "‘Wildwood: El bosque salvaje’ es una obra de arte de animación que pasará a la historia",
+      "excerpt": "Wildwood: El bosque salvaje es un cuento de hadas brillante, conmovedor y con un guion lleno de sorpresas. Pero además, es una obra de arte artesanal, de…",
+      "source": "Hipertextual",
+      "category": "Tecnología",
+      "url": "https://hipertextual.com/cine-television/wildwood-el-bosque-salvaje-es-una-obra-de-arte-de-animacion-que-pasara-a-la-historia/",
+      "date": "2026-10-25T16:00:00.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/wildwood-review_gacz.1200.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1"
+    },
+    {
+      "title": "Rusia apunta que la guerra le costará a Ucrania más de 473 millones al día en 2027",
+      "excerpt": "El gasto militar de Ucrania en 2027 ascenderá a 473 millones de dólares cada día si continúa el conflicto con Rusia. Al menos así lo asegura la agencia rusa…",
+      "source": "El Economista",
+      "category": "Economía",
+      "url": "https://www.eleconomista.es/economia/noticias/14023416/10/26/rusia-apunta-que-la-guerra-le-costara-a-ucrania-mas-de-470-millones-al-dia-en-2027.html",
+      "date": "2026-10-25T15:53:32.000Z",
+      "image": null
+    },
+    {
+      "title": "El 'boom' de la solar tiene un efecto inesperado: la electricidad barata amenaza la rentabilidad de los nuevos parques",
+      "excerpt": "Aunque recientemente los precios de la luz están al alza por diversas razones, estos últimos meses hemos vivido una situación que cada vez se repite con más…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/energia/boom-solar-tiene-efecto-inesperado-electricidad-barata-amenaza-rentabilidad-nuevos-parques",
+      "date": "2026-10-25T15:32:07.000Z",
+      "image": "https://i.blogs.es/823bcd/mariana-proenca-mg8sgwkmhcy-unsplash/1024_2000.jpeg"
+    },
+    {
+      "title": "Lo nuevo de MrBeast: apoyar con un cuarto de millón de dólares una bola inteligente controlada con IA",
+      "excerpt": "Jimmy Donaldson, MrBeast, debutó como tiburón invitado en el estreno de la temporada 18 de 'Shark Tank', reality de la estadounidense ABC en el que…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/literatura-comics-y-juegos/nuevo-mrbeast-apoyar-cuarto-millon-dolares-bola-inteligente-controlada-ia",
+      "date": "2026-10-25T15:00:11.000Z",
+      "image": "https://i.blogs.es/0b8c43/captura-de-pantalla-2026-10-21-a-las-9.44.08/1024_2000.jpeg"
+    },
+    {
+      "title": "Vivimos más que nunca y nos sentimos peor: la salud percibida cae a niveles de 1987",
+      "excerpt": "Los avances médicos que vamos conociendo están haciendo que podamos vivir muchos más años, puesto que ya podemos dar respuesta a enfermedades que antes era…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/medicina-y-salud/vivimos-que-nunca-nos-sentimos-peor-salud-percibida-cae-a-niveles-1987",
+      "date": "2026-10-25T14:30:08.000Z",
+      "image": "https://i.blogs.es/a45d10/percepcion-salud/1024_2000.jpeg"
+    },
+    {
+      "title": "5 películas animadas en ‘stop motion’ que puedes ver ahora mismo",
+      "excerpt": "Wildwood: El bosque salvaje de Laika, que se estrena este fin de semana en España, es, además de una estupenda película, un logro técnico. Eso, al combinar…",
+      "source": "Hipertextual",
+      "category": "Tecnología",
+      "url": "https://hipertextual.com/cine-television/5-peliculas-animadas-en-stop-motion-que-puedes-ver-ahora-mismo/",
+      "date": "2026-10-25T14:00:00.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/Stopmotoon.jpg?fit=1024%2C819&quality=70&strip=all&ssl=1"
+    },
+    {
+      "title": "Colau llama a \"llenar las calles\" y \"poner el cuerpo\" frente a los políticos que solo usan su \"piquito de oro\"",
+      "excerpt": "La candidata de Frente Amplio, Ada Colau, ha llamado a \"llenar las calles\" de cara a las elecciones generales y ha cargado contra los políticos de izquierda…",
+      "source": "Europa Press Tecnología",
+      "category": "Tecnología",
+      "url": "https://www.europapress.es/nacional/noticia-colau-llama-llenar-calles-poner-cuerpo-frente-politicos-solo-usan-piquito-oro-20261025140652.html",
+      "date": "2026-10-25T13:06:52.000Z",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261025140652_120.jpg"
+    },
+    {
+      "title": "La ciencia señala los lugares clave en los que invertir para frenar la crisis de biodiversidad de planeta",
+      "excerpt": "Una nueva investigación identifica un 13% de la superficie terrestre del planeta como zona crítica para la conservación de la biodiversidad, lo que pone de…",
+      "source": "El Economista",
+      "category": "Economía",
+      "url": "https://www.eleconomista.es/economia/noticias/14023406/10/26/la-ciencia-senala-los-lugares-clave-en-los-que-invertir-para-frenar-la-crisis-de-biodiversidad-de-planeta.html",
+      "date": "2026-10-25T13:02:01.000Z",
+      "image": null
+    },
+    {
+      "title": "Nvidia teje una red de alianzas estratégicas en banca, 'telecos' y automoción para impulsar su IA",
+      "excerpt": "Nvidia ha cerrado en las últimas semanas varios acuerdos con empresas de sectores como la tecnología, las finanzas o la automoción, entre otros, para aplicar…",
+      "source": "Europa Press",
+      "category": "Economía",
+      "url": "https://www.europapress.es/economia/noticia-nvidia-teje-red-alianzas-estrategicas-banca-telecos-automocion-impulsar-ia-20261025133004.html",
+      "date": "2026-10-25T12:30:04.000Z",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261025133004_120.jpg"
+    },
+    {
+      "title": "Audi abrirá su primera fábrica en EE UU para esquivar las pérdidas provocadas por los aranceles de Trump",
+      "excerpt": "Audi va a dar el paso de abrir su primera fábrica en territorio estadounidense. El fabricante alemán anunció este domingo que invertirá 4.000 millones de…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://elpais.com/economia/2026-10-25/audi-abrira-su-primera-fabrica-en-ee-uu-para-esquivar-los-aranceles-de-trump.html",
+      "date": "2026-10-25T11:48:21.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/AYEU3XGJUFNTHJWTRUSMUFQ6A4.jpg?auth=03bbc7beaddd08410b33cb472082bafb41789738c3805e3fc4ede64f79e76f03"
     },
     {
       "title": "El campo español lleva los tractores a Madrid este miércoles ante los graves problemas que afronta sector",
       "excerpt": "Asaja, COAG y Unión de Uniones de Agricultores y Ganaderos volverán a sacar a los tractores a la calles para tomar Madrid este miércoles 28 de octubre en una…",
       "source": "Europa Press",
       "category": "Economía",
-      "url": "https://www.europapress.es/economia/noticia-campo-espanol-lleva-tractores-madrid-miercoles-graves-problemas-afronta-sector-20261025122950.html",
+      "url": "https://www.europapress.es/asturias/asturias-rural-00671/noticia-campo-espanol-lleva-tractores-madrid-miercoles-graves-problemas-afronta-sector-20261025135548.html",
       "date": "2026-10-25T11:29:50.000Z",
       "image": "https://img.europapress.es/fotoweb/fotonoticia_20261025122950_120.jpg"
-    },
-    {
-      "title": "Jupol denuncia la \"extrema gravedad\" de los disturbios en Barcelona: \"España parece un paraíso criminal\"",
-      "excerpt": "El portavoz de Jupol, Ibón Domínguez, ha asegurado que los disturbios registrados en Barcelona este sábado constituyen el \"máximo exponente\" de la deriva de…",
-      "source": "Europa Press Tecnología",
-      "category": "Tecnología",
-      "url": "https://www.europapress.es/nacional/noticia-jupol-denuncia-extrema-gravedad-disturbios-barcelona-espana-parece-paraiso-criminal-20261025122441.html",
-      "date": "2026-10-25T11:24:41.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261025122441_120.jpg"
-    },
-    {
-      "title": "¿Podemos \"enamorarnos\" de una IA? La respuesta científica es más intrigante de lo que solemos aceptar",
-      "excerpt": "Alicia Framis y Ailex Sibouwlingen se casaron el 9 de noviembre de 2024. Ella es una artista multidisciplinar española enraizada en Países Bajos, y él, una…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/robotica-e-ia/podemos-enamorarnos-ia-respuesta-cientifica-intrigante-que-solemos-aceptar",
-      "date": "2026-10-25T11:16:11.000Z",
-      "image": "https://i.blogs.es/447a41/photo-1591006407747-608d13609cc1/1024_2000.jpeg"
-    },
-    {
-      "title": "Mujeres Caballas se manifiestan en Madrid con Vivas al frente \"por una Ceuta segura, española y europea\"",
-      "excerpt": "Miles de personas apoyan este mediodía en Madrid a las mujeres de Ceuta en un manifestación convocada para exigir soluciones para que la ciudad autónoma pueda…",
-      "source": "Europa Press Tecnología",
-      "category": "Tecnología",
-      "url": "https://www.europapress.es/nacional/noticia-mujeres-caballas-manifiestan-madrid-vivas-frente-ceuta-segura-espanola-europea-20261025120541.html",
-      "date": "2026-10-25T11:05:41.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261025120541_120.jpg"
-    },
-    {
-      "title": "La empresa biométrica de Sam Altman hace su primer gran movimiento: una verificación universal orientada a grandes bancos",
-      "excerpt": "En un momento en el que los deepfakes y los agentes de IA pueden darse la mano para operar en nombre de usuarios y suplantar a quien sea en una videollamada…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/seguridad/empresa-biometrica-sam-altman-hace-su-primer-gran-movimiento-verificacion-universal-orientada-a-grandes-bancos",
-      "date": "2026-10-25T11:00:13.000Z",
-      "image": "https://i.blogs.es/2a2f3d/esfera-futurista-pintada-sobre-fondo-naranja/1024_2000.png"
-    },
-    {
-      "title": "Vivas reitera que Ceuta sigue sin recuperar la normalidad y lamenta que no haya devoluciones administrativas",
-      "excerpt": "El presidente de Ceuta, Juan Jesús Vivas, ha denunciado este domingo que la ciudad autónoma sigue sin recuperar la normalidad tres meses después de la entrada…",
-      "source": "Europa Press Tecnología",
-      "category": "Tecnología",
-      "url": "https://www.europapress.es/nacional/noticia-vivas-reitera-ceuta-sigue-recuperar-normalidad-lamenta-no-haya-devoluciones-administrativas-20261025115018.html",
-      "date": "2026-10-25T10:50:18.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261025115018_120.jpg"
     },
     {
       "title": "Un peón del sector metalúrgico de Guipúzcoa cobra por hora un 30% más que un ingeniero de Cuenca",
@@ -84,15 +129,6 @@
       "image": "https://img.europapress.es/fotoweb/fotonoticia_20261025113355_120.jpg"
     },
     {
-      "title": "Dinamarca tiene un plan contra los deepfakes: blindar la voz y el rostro de su ciudadanía contra la IA",
-      "excerpt": "Una foto de alguien que pareces tú pero no eres tú (como esa vergonzosa moda de desnudar mujeres con Grok que se hizo viral en X) o un audio usando tu voz…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/privacidad/dinamarca-tiene-plan-deepfakes-blindar-voz-rostro-sus-ciudadanos-ia",
-      "date": "2026-10-25T10:30:00.000Z",
-      "image": "https://i.blogs.es/64124d/christiansborg_slot/1024_2000.jpeg"
-    },
-    {
       "title": "Pekín mueve ficha por su 'negocio' de 3.000 millones con Corea del Norte: un puente para frenar a Rusia",
       "excerpt": "El líder de Corea del Norte, Kim Jong-un, realizó este sábado 24 de octubre un viaje sorpresa y cruzó el Nuevo Puente del Río Yalu (también llamado Nuevo…",
       "source": "El Economista",
@@ -100,42 +136,6 @@
       "url": "https://www.eleconomista.es/economia/noticias/14023396/10/26/pekin-mueve-ficha-por-su-negocio-de-3000-millones-con-corea-del-norte-un-puente-para-frenar-a-rusia.html",
       "date": "2026-10-25T10:17:52.000Z",
       "image": null
-    },
-    {
-      "title": "La exención fiscal de la subida del SMI, pendiente de un cambio legal en la Diputación Permanente o el nuevo Congreso",
-      "excerpt": "La decisión del Gobierno de subir el Salario Mínimo Interprofesional (SMI) antes de fin de año tiene como derivada su exención fiscal en el IRPF, un asunto…",
-      "source": "Europa Press",
-      "category": "Economía",
-      "url": "https://www.europapress.es/economia/laboral-00346/noticia-exencion-fiscal-subida-smi-pendiente-cambio-legal-diputacion-permanente-nuevo-congreso-20261025102649.html",
-      "date": "2026-10-25T09:26:49.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261025102649_120.jpg"
-    },
-    {
-      "title": "El sector del metal empieza a poner freno al absentismo limitando los complementos por bajas médicas",
-      "excerpt": "Los nuevos convenios colectivos del metal han comenzado a recortar los complementos por Incapacidad Temporal (IT) derivada de enfermedades comunes para atajar…",
-      "source": "Europa Press",
-      "category": "Economía",
-      "url": "https://www.europapress.es/economia/laboral-00346/noticia-sector-metal-empieza-poner-freno-absentismo-limitando-complementos-bajas-medicas-20261025094253.html",
-      "date": "2026-10-25T08:42:53.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261025094253_120.jpg"
-    },
-    {
-      "title": "Valeria Racu: “Todos los gobiernos han promovido el rentismo”",
-      "excerpt": "Valeria Racu (Chisináu, Moldavia, 31 años) es una de las principales voces de la Confederación de Sindicatos de Inquilinas, la organización que defendió y…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://elpais.com/economia/vivienda/2026-10-25/valeria-racu-todos-los-gobiernos-han-promovido-el-rentismo.html",
-      "date": "2026-10-25T04:45:00.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/JNEVQK4XURCDNB23AQMTKFYHQU.jpg?auth=eb2ada60c0f6130ec51d291f7d03c82dda4e408ace9e6f959f4daffc574b895d"
-    },
-    {
-      "title": "Las claves: las ‘midterms’ abren un horizonte de incertidumbre en Wall Street",
-      "excerpt": "Como en los mercados las expectativas muchas veces importan más que las realidades, las próximas elecciones de medio mandato de Estados Unidos podrían tener…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://cincodias.elpais.com/opinion/2026-10-25/las-claves-las-midterms-abren-un-horizonte-de-incertidumbre-en-wall-street.html",
-      "date": "2026-10-25T04:40:00.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/DRXTJQATTJO73GEL2KI2WASGKA.jpg?auth=f0627d5ffc48249c822a6060a48b55bc444d2b2159aad22acba88316be92af5e"
     }
   ]
 }
