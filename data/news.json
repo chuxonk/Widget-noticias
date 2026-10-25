@@ -1,7 +1,124 @@
 {
-  "generatedAt": "2026-10-25T04:50:38.654Z",
+  "generatedAt": "2026-10-25T11:40:24.251Z",
   "count": 15,
   "items": [
+    {
+      "title": "Los marroquíes desbancan a los europeos en la compra de vivienda en España. También pagan menos por metro cuadrado",
+      "excerpt": "Durante las últimas décadas, el extranjero que compraba casa en España tenía un perfil más o menos definido: británico, con el divino placer de unas largas…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/magnet/marroquies-desbancan-a-europeos-compra-vivienda-espana-tambien-pagan-metro-cuadrado",
+      "date": "2026-10-25T11:30:10.000Z",
+      "image": "https://i.blogs.es/8d4390/calle/1024_2000.jpeg"
+    },
+    {
+      "title": "PcComponentes tiene este MacBook Neo reacondicionado (pero como nuevo) con 512 GB mucho más barato que el de 256 GB",
+      "excerpt": "De entre todos los MacBook que podemos elegir, está claro que el MacBook Neo es la opción más adecuada si buscas un portátil económico para estudiar o para…",
+      "source": "Applesfera",
+      "category": "Tecnología",
+      "url": "https://www.applesfera.com/seleccion/pccomponentes-tiene-este-macbook-neo-reacondicionado-como-nuevo-512-gb-mucho-barato-que-256-gb",
+      "date": "2026-10-25T11:30:10.000Z",
+      "image": "https://i.blogs.es/7a76d5/macbook-neo-portada-verde/1024_2000.jpeg"
+    },
+    {
+      "title": "El campo español lleva los tractores a Madrid este miércoles ante los graves problemas que afronta sector",
+      "excerpt": "Asaja, COAG y Unión de Uniones de Agricultores y Ganaderos volverán a sacar a los tractores a la calles para tomar Madrid este miércoles 28 de octubre en una…",
+      "source": "Europa Press",
+      "category": "Economía",
+      "url": "https://www.europapress.es/economia/noticia-campo-espanol-lleva-tractores-madrid-miercoles-graves-problemas-afronta-sector-20261025122950.html",
+      "date": "2026-10-25T11:29:50.000Z",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261025122950_120.jpg"
+    },
+    {
+      "title": "Jupol denuncia la \"extrema gravedad\" de los disturbios en Barcelona: \"España parece un paraíso criminal\"",
+      "excerpt": "El portavoz de Jupol, Ibón Domínguez, ha asegurado que los disturbios registrados en Barcelona este sábado constituyen el \"máximo exponente\" de la deriva de…",
+      "source": "Europa Press Tecnología",
+      "category": "Tecnología",
+      "url": "https://www.europapress.es/nacional/noticia-jupol-denuncia-extrema-gravedad-disturbios-barcelona-espana-parece-paraiso-criminal-20261025122441.html",
+      "date": "2026-10-25T11:24:41.000Z",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261025122441_120.jpg"
+    },
+    {
+      "title": "¿Podemos \"enamorarnos\" de una IA? La respuesta científica es más intrigante de lo que solemos aceptar",
+      "excerpt": "Alicia Framis y Ailex Sibouwlingen se casaron el 9 de noviembre de 2024. Ella es una artista multidisciplinar española enraizada en Países Bajos, y él, una…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/robotica-e-ia/podemos-enamorarnos-ia-respuesta-cientifica-intrigante-que-solemos-aceptar",
+      "date": "2026-10-25T11:16:11.000Z",
+      "image": "https://i.blogs.es/447a41/photo-1591006407747-608d13609cc1/1024_2000.jpeg"
+    },
+    {
+      "title": "Mujeres Caballas se manifiestan en Madrid con Vivas al frente \"por una Ceuta segura, española y europea\"",
+      "excerpt": "Miles de personas apoyan este mediodía en Madrid a las mujeres de Ceuta en un manifestación convocada para exigir soluciones para que la ciudad autónoma pueda…",
+      "source": "Europa Press Tecnología",
+      "category": "Tecnología",
+      "url": "https://www.europapress.es/nacional/noticia-mujeres-caballas-manifiestan-madrid-vivas-frente-ceuta-segura-espanola-europea-20261025120541.html",
+      "date": "2026-10-25T11:05:41.000Z",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261025120541_120.jpg"
+    },
+    {
+      "title": "La empresa biométrica de Sam Altman hace su primer gran movimiento: una verificación universal orientada a grandes bancos",
+      "excerpt": "En un momento en el que los deepfakes y los agentes de IA pueden darse la mano para operar en nombre de usuarios y suplantar a quien sea en una videollamada…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/seguridad/empresa-biometrica-sam-altman-hace-su-primer-gran-movimiento-verificacion-universal-orientada-a-grandes-bancos",
+      "date": "2026-10-25T11:00:13.000Z",
+      "image": "https://i.blogs.es/2a2f3d/esfera-futurista-pintada-sobre-fondo-naranja/1024_2000.png"
+    },
+    {
+      "title": "Vivas reitera que Ceuta sigue sin recuperar la normalidad y lamenta que no haya devoluciones administrativas",
+      "excerpt": "El presidente de Ceuta, Juan Jesús Vivas, ha denunciado este domingo que la ciudad autónoma sigue sin recuperar la normalidad tres meses después de la entrada…",
+      "source": "Europa Press Tecnología",
+      "category": "Tecnología",
+      "url": "https://www.europapress.es/nacional/noticia-vivas-reitera-ceuta-sigue-recuperar-normalidad-lamenta-no-haya-devoluciones-administrativas-20261025115018.html",
+      "date": "2026-10-25T10:50:18.000Z",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261025115018_120.jpg"
+    },
+    {
+      "title": "Un peón del sector metalúrgico de Guipúzcoa cobra por hora un 30% más que un ingeniero de Cuenca",
+      "excerpt": ", según el informe 'La negociación colectiva en la industria y servicios del metal en 2052' elaborado por la patronal del sector, Confemetal, en el que se…",
+      "source": "Europa Press",
+      "category": "Economía",
+      "url": "https://www.europapress.es/economia/laboral-00346/noticia-peon-sector-metalurgico-guipuzcoa-cobra-hora-30-mas-ingeniero-cuenca-20261025113355.html",
+      "date": "2026-10-25T10:33:55.000Z",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261025113355_120.jpg"
+    },
+    {
+      "title": "Dinamarca tiene un plan contra los deepfakes: blindar la voz y el rostro de su ciudadanía contra la IA",
+      "excerpt": "Una foto de alguien que pareces tú pero no eres tú (como esa vergonzosa moda de desnudar mujeres con Grok que se hizo viral en X) o un audio usando tu voz…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/privacidad/dinamarca-tiene-plan-deepfakes-blindar-voz-rostro-sus-ciudadanos-ia",
+      "date": "2026-10-25T10:30:00.000Z",
+      "image": "https://i.blogs.es/64124d/christiansborg_slot/1024_2000.jpeg"
+    },
+    {
+      "title": "Pekín mueve ficha por su 'negocio' de 3.000 millones con Corea del Norte: un puente para frenar a Rusia",
+      "excerpt": "El líder de Corea del Norte, Kim Jong-un, realizó este sábado 24 de octubre un viaje sorpresa y cruzó el Nuevo Puente del Río Yalu (también llamado Nuevo…",
+      "source": "El Economista",
+      "category": "Economía",
+      "url": "https://www.eleconomista.es/economia/noticias/14023396/10/26/pekin-mueve-ficha-por-su-negocio-de-3000-millones-con-corea-del-norte-un-puente-para-frenar-a-rusia.html",
+      "date": "2026-10-25T10:17:52.000Z",
+      "image": null
+    },
+    {
+      "title": "La exención fiscal de la subida del SMI, pendiente de un cambio legal en la Diputación Permanente o el nuevo Congreso",
+      "excerpt": "La decisión del Gobierno de subir el Salario Mínimo Interprofesional (SMI) antes de fin de año tiene como derivada su exención fiscal en el IRPF, un asunto…",
+      "source": "Europa Press",
+      "category": "Economía",
+      "url": "https://www.europapress.es/economia/laboral-00346/noticia-exencion-fiscal-subida-smi-pendiente-cambio-legal-diputacion-permanente-nuevo-congreso-20261025102649.html",
+      "date": "2026-10-25T09:26:49.000Z",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261025102649_120.jpg"
+    },
+    {
+      "title": "El sector del metal empieza a poner freno al absentismo limitando los complementos por bajas médicas",
+      "excerpt": "Los nuevos convenios colectivos del metal han comenzado a recortar los complementos por Incapacidad Temporal (IT) derivada de enfermedades comunes para atajar…",
+      "source": "Europa Press",
+      "category": "Economía",
+      "url": "https://www.europapress.es/economia/laboral-00346/noticia-sector-metal-empieza-poner-freno-absentismo-limitando-complementos-bajas-medicas-20261025094253.html",
+      "date": "2026-10-25T08:42:53.000Z",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261025094253_120.jpg"
+    },
     {
       "title": "Valeria Racu: “Todos los gobiernos han promovido el rentismo”",
       "excerpt": "Valeria Racu (Chisináu, Moldavia, 31 años) es una de las principales voces de la Confederación de Sindicatos de Inquilinas, la organización que defendió y…",
@@ -19,123 +136,6 @@
       "url": "https://cincodias.elpais.com/opinion/2026-10-25/las-claves-las-midterms-abren-un-horizonte-de-incertidumbre-en-wall-street.html",
       "date": "2026-10-25T04:40:00.000Z",
       "image": "https://imagenes.elpais.com/resizer/v2/DRXTJQATTJO73GEL2KI2WASGKA.jpg?auth=f0627d5ffc48249c822a6060a48b55bc444d2b2159aad22acba88316be92af5e"
-    },
-    {
-      "title": "Whitney Wolfe Herd, la mujer detrás del auge y la caída de las ‘apps’ de citas",
-      "excerpt": "Las apps de citas llegaron hace más de una década para poner patas arriba el amor. Pero ese escenario que presuponía la extinción del cortejo analógico parece…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://cincodias.elpais.com/opinion/2026-10-25/whitney-wolfe-herd-la-mujer-detras-del-auge-y-la-caida-de-las-apps-de-citas.html",
-      "date": "2026-10-25T04:40:00.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/ZURNIIFJWRF4XFSW2CFF26FZIE.jpg?auth=b6eab8afc47c6dbd7f44252217f7d5329b0599c9b7b96a308aa49ede16f86acf"
-    },
-    {
-      "title": "Las tecnológicas pinchan en Bolsa y reabren el debate sobre la factura de la IA",
-      "excerpt": "En Wall Street, la pregunta ya no es cuánto crecerá la inteligencia artificial, sino quién pagará la factura. Después de años dominando los mercados, las…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-10-25/las-tecnologicas-pinchan-en-bolsa-y-reabren-el-debate-sobre-la-factura-de-la-ia.html",
-      "date": "2026-10-25T04:30:00.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/YSWPUATOIGUBTPVVEXQ2C3QSFQ.jpg?auth=16571644e643c09f78f57f4a7409f62262fc050796e83f6c1ef486f72df9b390"
-    },
-    {
-      "title": "El Rey es operado de cataratas en el ojo izquierdo en Oviedo este sábado",
-      "excerpt": "El Rey Felipe VI ha sido operado de cataratas en el ojo izquierdo este sábado en el Instituto Oftalmológico Fernández-Vega, en Oviedo, según ha informado la…",
-      "source": "Europa Press Tecnología",
-      "category": "Tecnología",
-      "url": "https://www.europapress.es/nacional/noticia-rey-operado-cataratas-ojo-izquierdo-oviedo-sabado-20261024224858.html",
-      "date": "2026-10-24T20:48:58.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261024224858_120.jpg"
-    },
-    {
-      "title": "Mientras discutimos qué especie introducir, el oso pardo sigue expandiéndose por el noroeste de la península Ibérica",
-      "excerpt": "Desde los años 80 y hasta final del siglo XX, el oso pardo cantábrico le vio las orejas al lobo: estuvo a punto de desaparecer, llegando a alcanzar un mínimo…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/ecologia-y-naturaleza/discutimos-que-especie-introducir-oso-pardo-sigue-expandiendose-noroeste-peninsula-iberica",
-      "date": "2026-10-24T18:30:10.000Z",
-      "image": "https://i.blogs.es/a3abea/osa-y-oseznos-en-la-ladera-rocosa/1024_2000.jpeg"
-    },
-    {
-      "title": "El eslabón perdido de Beringia: los cazadores de bisontes que cruzaron de Asia a América hace 13.800 años",
-      "excerpt": "El mapamundi de hace 35.000 años era diferente al de ahora. Un ejemplo: existía Beringia, un territorio que hacía de puente entre Siberia y Alaska que…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/magnet/eslabon-perdido-beringia-cazadores-bisontes-que-cruzaron-asia-a-america-hace-13-800-anos",
-      "date": "2026-10-24T18:00:09.000Z",
-      "image": "https://i.blogs.es/c5a89d/gemini_generated_image_sjul5esjul5esjul/1024_2000.jpeg"
-    },
-    {
-      "title": "Las mejores adaptaciones de Jane Austen para ver si te gustó ‘Sentido y sensibilidad’",
-      "excerpt": "Sentido y sensibilidad de Georgia Oakley demuestran algo que cualquier fanático del cine de época ya sabe. Jane Austen nunca pasa de moda. De hecho, la nueva…",
-      "source": "Hipertextual",
-      "category": "Tecnología",
-      "url": "https://hipertextual.com/cine-television/las-mejores-adaptaciones-de-jane-austen-para-ver-si-te-gusto-sentido-y-sensibilidad/",
-      "date": "2026-10-24T18:00:00.000Z",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2024/05/Emma.jpg?fit=1024%2C713&quality=70&strip=all&ssl=1"
-    },
-    {
-      "title": "En Aldi (por 14,99 euros) desde el miércoles 28 de octubre, la batería externa 2 en 1 con luz, panel solar y protección IP44",
-      "excerpt": "Como cada siete días, Aldi renovó el pasado lunes su folleto de novedades y ofertas con bajadas de precios en algunos productos y la llegada de otros tantos a…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/seleccion/aldi-14-99-euros-miercoles-28-octubre-bateria-externa-2-1-luz-panel-solar-proteccion-ip44",
-      "date": "2026-10-24T17:46:06.000Z",
-      "image": "https://i.blogs.es/cdfe92/aldi-powerbank/1024_2000.jpeg"
-    },
-    {
-      "title": "Cucarachas cyborg con \"mochilas\" de sensores y pilotadas por IA: la promesa de una startup alemana choca con la realidad científica",
-      "excerpt": "Para muchos, las cucarachas no deberían existir por el gran rechazo que les genera simplemente pensar en ellas, pero para una empresa alemana estas pueden ser…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/ecologia-y-naturaleza/cucarachas-cyborg-mochilas-sensores-pilotadas-ia-promesa-startup-alemana-choca-realidad-cientifica",
-      "date": "2026-10-24T17:00:08.000Z",
-      "image": "https://i.blogs.es/d277b3/cucaracha/1024_2000.jpeg"
-    },
-    {
-      "title": "Feijóo elige a Alma Ezcurra como cuatro por Madrid al Congreso y la vicealcadesa madrileña será la dos al Senado",
-      "excerpt": "Pedro Rollán, presidente del Senado, encabezará la candidatura del PP por Madrid a la Cámara Alta como ya hizo en las generales de 2023",
-      "source": "Europa Press Tecnología",
-      "category": "Tecnología",
-      "url": "https://www.europapress.es/nacional/noticia-feijoo-elige-alma-ezcurra-cuatro-madrid-congreso-vicealcadesa-madrilena-sera-dos-senado-20261024182607.html",
-      "date": "2026-10-24T16:26:07.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261024182607_120.jpg"
-    },
-    {
-      "title": "El botón de bloqueo del iPhone tiene una función que suele resultar molesta. Así puedes desactivarla",
-      "excerpt": "Es evidente que Apple no añade funciones con mala intención ni busca complicarte la vida cambiando tus hábitos. Sin embargo, cuando utilizamos el iPhone por…",
-      "source": "Applesfera",
-      "category": "Tecnología",
-      "url": "https://www.applesfera.com/tutoriales/boton-bloqueo-iphone-tiene-funcion-que-suele-resultar-molesta-asi-puedes-desactivarla",
-      "date": "2026-10-24T16:00:11.000Z",
-      "image": "https://i.blogs.es/3e3091/boton-iphone/1024_2000.jpeg"
-    },
-    {
-      "title": "Pensionistas se manifiestan en Madrid para reclamar pensiones dignas, mejores salarios y acceso a la vivienda",
-      "excerpt": "Pensionistas de distintos puntos de España se han manifestado este sábado en Madrid para reclamar pensiones dignas, mejores salarios y acceso a una vivienda…",
-      "source": "Europa Press",
-      "category": "Economía",
-      "url": "https://www.europapress.es/economia/laboral-00346/noticia-pensionistas-manifiestan-madrid-reclamar-pensiones-dignas-mejores-salarios-acceso-vivienda-20261024152028.html",
-      "date": "2026-10-24T13:20:28.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261024152028_120.jpg"
-    },
-    {
-      "title": "Ucrania anuncia nuevas sanciones a empresas y ciudadanos rusos vinculados a la fabricación de material militar",
-      "excerpt": "El presidente ucraniano, Volodimir Zelenski, ha aprobado nuevas sanciones contra empresas y ciudadanos ruso relacionados con la fabricación de armamento y el…",
-      "source": "El Economista",
-      "category": "Economía",
-      "url": "https://www.eleconomista.es/economia/noticias/14023362/10/26/ucrania-anuncia-nuevas-sanciones-a-empresas-y-ciudadanos-rusos-vinculados-a-la-fabricacion-de-material-militar.html",
-      "date": "2026-10-24T13:03:17.000Z",
-      "image": null
-    },
-    {
-      "title": "Temblores bursátiles por la escalada bélica",
-      "excerpt": "Occidente afronta el nuevo pico de los precios energéticos con sus reservas en cotas mínimas. La sostenibilidad de la deuda pública y de los desarrolladores…",
-      "source": "Expansión",
-      "category": "Economía",
-      "url": "https://www.expansion.com/opinion/2026/10/24/temblores-bursatiles-escalada-belica.html",
-      "date": "2026-10-24T11:02:37.000Z",
-      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/24/17928397435601.jpg"
     }
   ]
 }
