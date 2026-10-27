@@ -1,7 +1,79 @@
 {
-  "generatedAt": "2026-10-26T20:33:37.021Z",
+  "generatedAt": "2026-10-27T00:31:11.395Z",
   "count": 15,
   "items": [
+    {
+      "title": "China está apretando el suministro de un metal que Japón necesita para coches y motores de avión. Las reservas ya se miden en meses",
+      "excerpt": "Cuanto más sofisticado es un producto, más fácil resulta perder de vista algo bastante básico: no puede fabricarse sin los materiales que necesita. Pensemos…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/empresas-y-economia/china-esta-apretando-suministro-metal-que-japon-necesita-para-coches-motores-avion-reservas-se-miden-meses",
+      "date": "2026-10-26T22:57:00.000Z",
+      "image": "https://i.blogs.es/0081fc/motor-japon-1/1024_2000.jpeg"
+    },
+    {
+      "title": "Las pymes siguen creciendo pero pierden peso en la economía, según un informe de Pimec",
+      "excerpt": "Las casi 545.000 pequeñas y medianas empresas mejoran ventas, productividad y salarios. El gasto en personal sube más que la inflación, lo que según Pimec…",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/catalunya/2026/10/26/pymes-siguen-creciendo-pierden-peso-economia-informe-pimec.html",
+      "date": "2026-10-26T22:00:59.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/26/17930520494921.jpg"
+    },
+    {
+      "title": "El Gobierno da cinco años a los centros de datos para cumplir con las exigencias más duras",
+      "excerpt": "El Gobierno mantiene las exigencias más duras a los centros de datos, que habían levantado la protesta del sector, pero abre la mano con los plazos para…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://elpais.com/economia/2026-10-26/el-gobierno-da-cinco-anos-a-los-centros-de-datos-para-cumplir-con-las-exigencias-mas-duras.html",
+      "date": "2026-10-26T22:00:00.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/PBZMTLWGURBPDPKECEDTA4EOYY.jpg?auth=4f8031fe04aeaf718a081675b0a0a0475c6402b4cbdb3d425d8662fd42fde4b9"
+    },
+    {
+      "title": "Comprar un Galaxy A será más difícil y caro: Samsung sacrifica su gama más vendida",
+      "excerpt": "La gama media de Samsung podría enfrentar uno de sus mayores ajustes en los últimos años. El gigante surcoreano ha decidido reducir la producción de sus…",
+      "source": "Hipertextual",
+      "category": "Tecnología",
+      "url": "https://hipertextual.com/mobile/samsung-recorta-produccion-galaxy-a-subida-precios/",
+      "date": "2026-10-26T21:45:00.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/galaxy-a57.jpg?fit=1024%2C587&quality=70&strip=all&ssl=1"
+    },
+    {
+      "title": "Trump ve \"fraude\" electoral en Brasil y Bolsonaro dice que un juez le ha pedido el pasaporte",
+      "excerpt": "Preguntado sobre si espera hacer algo al respecto, Trump respondió: \"Bueno, yo no gobierno Brasil, gobierno Estados Unidos. Me gusta Lula, nos llevamos bien…",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/economia/politica/2026/10/26/trump-ve-fraude-electoral-brasil-bolsonaro-dice-juez-le-pedido-pasaporte.html",
+      "date": "2026-10-26T21:05:39.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/26/17930487287202.jpg"
+    },
+    {
+      "title": "Apple lanza iOS 27.2, que añade soporte para usar Siri AI en español",
+      "excerpt": "Apple acaba de lanzar la actualización a iOS 27.2, con algunas novedades interesantes para los modelos de iPhone compatibles. En líneas generales se trata de…",
+      "source": "Hipertextual",
+      "category": "Tecnología",
+      "url": "https://hipertextual.com/apple/apple-lanza-ios-27-2-con-soporte-para-usar-siri-ai-en-espanol/",
+      "date": "2026-10-26T20:46:29.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/iOS-27-1.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1"
+    },
+    {
+      "title": "EEUU espera que Delcy Rodríguez deje vacante la presidencia de Venezuela en 2027",
+      "excerpt": "",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/economia/politica/2026/10/26/eeuu-espera-delcy-rodriguez-deje-vacante-presidencia-venezuela-2027.html",
+      "date": "2026-10-26T20:42:01.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/26/17930473149530.jpg"
+    },
+    {
+      "title": "Marruecos repatria a 327 menores no acompañados tras la crisis migratoria de Ceuta",
+      "excerpt": "Según un medio marroquí, los retornos son diarios y se efectúan a través de la zona terrestre entre Fnideq (Castillejos) y Ceuta.",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/economia/politica/2026/10/26/marruecos-repatria-327-menores-acompanados-crisis-migratoria-ceuta.html",
+      "date": "2026-10-26T20:35:21.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/26/17930469149530.jpg"
+    },
     {
       "title": "Las muestras que OSIRIS-REx trajo del asteroide Bennu resuelven un misterio que llevaba años desconcertando a los científicos",
       "excerpt": "Cuando la sonda OSIRIS-REx, de la NASA, llegó a su destino en el asteroide Bennu en 2018, se encontró con algo inesperado. Según las mediciones tomadas por el…",
@@ -30,22 +102,13 @@
       "image": "https://i.blogs.es/5b0458/ubigi-portada/1024_2000.jpeg"
     },
     {
-      "title": "Feijóo se rodea de miembros de su equipo y varios alcaldes en la lista de Madrid al Congreso para las generales",
-      "excerpt": "El líder del PP y candidato a la Presidencia del Gobierno, Alberto Núñez Feijóo, se ha rodeado de fieles, vicesecretarios del partido y varios alcaldes…",
+      "title": "Feijóo se rodea de miembros de su equipo y varias alcaldesas en la lista de Madrid al Congreso para generales",
+      "excerpt": "Junto a las alcaldesas de Alcobendas, San Sebastián de los Reyes y Pozuelo, forman parte también de la candidatura De los Santos y Nadal",
       "source": "Europa Press Tecnología",
       "category": "Tecnología",
       "url": "https://www.europapress.es/nacional/noticia-feijoo-rodea-miembros-equipo-varios-alcaldes-lista-madrid-congreso-generales-20261026205138.html",
       "date": "2026-10-26T19:51:38.000Z",
       "image": "https://img.europapress.es/fotoweb/fotonoticia_20261026205138_120.jpg"
-    },
-    {
-      "title": "Foment condena los disturbios y pide “firmeza” a las administraciones",
-      "excerpt": "Sánchez Llibre carga contra la huelga general: \"Nos parece equivocada, inoportuna, irresponsable y perjudicial\".",
-      "source": "Expansión",
-      "category": "Economía",
-      "url": "https://www.expansion.com/catalunya/2026/10/26/foment-condena-disturbios-pide-firmeza-administraciones.html",
-      "date": "2026-10-26T19:49:34.000Z",
-      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/26/17930441613828.jpg"
     },
     {
       "title": "Abascal ve la renuncia de Vox a presentar candidaturas en el Senado como un \"gesto patriótico\": \"Todo por España\"",
@@ -66,33 +129,6 @@
       "image": "https://i.blogs.es/31dd18/f4388899/1024_2000.jpeg"
     },
     {
-      "title": "Instagram da el salto a la televisión: así son los vídeos de 90 minutos con los que quiere competir con YouTube",
-      "excerpt": "Instagram ha comenzado a probar una nueva función con la que busca capturar a los usuarios que no están interesados en mantenerse pegados al móvil. La…",
-      "source": "Hipertextual",
-      "category": "Tecnología",
-      "url": "https://hipertextual.com/tecnologia/instagram-videos-90-minutos-apple-tv/",
-      "date": "2026-10-26T19:30:00.000Z",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/instagram-videos-largos-3.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1"
-    },
-    {
-      "title": "Microsoft acaba de abrir un gigantesco plan de salidas voluntarias para cerca del 27% de su plantilla, unos 60.000 empleados",
-      "excerpt": "Microsoft lleva meses ajustando su plantilla y ahora ha dado un paso de una escala mucho mayor. La compañía ha abierto una nueva oferta de salidas voluntarias…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/empresas-y-economia/microsoft-acaba-abrir-gigantesco-plan-salidas-voluntarias-para-cerca-27-su-plantilla-unos-60-000-empleados",
-      "date": "2026-10-26T19:15:27.000Z",
-      "image": "https://i.blogs.es/e94359/satya-nadella-ceo-microsoft-portada-1/1024_2000.jpeg"
-    },
-    {
-      "title": "Siri AI ya habla español con 27.2: así puedes tenerla vivas donde vivas",
-      "excerpt": "Siri AI ya habla español. La nueva Siri responde a cualquier pregunta, conoce lo que tienes en el iPhone, desde tus mensajes y correos hasta tus fotos, y…",
-      "source": "Applesfera",
-      "category": "Tecnología",
-      "url": "https://www.applesfera.com/servicios-apple/siri-ai-habla-espanol-27-2-asi-puedes-tenerla-vivas-donde-vivas",
-      "date": "2026-10-26T19:01:27.000Z",
-      "image": "https://i.blogs.es/55ccba/siri-ai-espana/1024_2000.jpeg"
-    },
-    {
       "title": "Foment del Treball carga contra la huelga general: \"Paralizar empresas no construye viviendas\"",
       "excerpt": "Duro alegato de Foment del Treball contra la huelga general promovida por CCOO y UGT a las puertas de la campaña electoral. En el transcurso de la gala anual…",
       "source": "El Economista",
@@ -100,42 +136,6 @@
       "url": "https://www.eleconomista.es/economia/noticias/14023695/10/26/foment-del-treball-carga-contra-la-huelga-general-paralizar-empresas-no-construye-viviendas.html",
       "date": "2026-10-26T18:58:55.000Z",
       "image": null
-    },
-    {
-      "title": "Almeida admite un error millonario en el informe de recalificación de los terrenos del Real Madrid en Valdebebas",
-      "excerpt": "El alcalde de Madrid, José Luis Martínez-Almeida, ha reconocido este lunes que el informe económico sobre la recalificación de los terrenos del Real Madrid…",
-      "source": "El Economista",
-      "category": "Economía",
-      "url": "https://www.eleconomista.es/economia/noticias/14023692/10/26/almeida-admite-un-error-millonario-en-el-informe-de-recalificacion-de-los-terrenos-del-real-madrid-en-valdebebas.html",
-      "date": "2026-10-26T18:47:01.000Z",
-      "image": null
-    },
-    {
-      "title": "La IA y la sobrecualificación agravan la incertidumbre laboral de los jóvenes europeos",
-      "excerpt": "La inteligencia artificial, el desajuste entre formación y empleo y la creciente sobrecualificación están incrementando la incertidumbre laboral de la…",
-      "source": "El Economista",
-      "category": "Economía",
-      "url": "https://www.eleconomista.es/economia/noticias/14023671/10/26/la-ia-y-la-sobrecualificacion-agravan-la-incertidumbre-laboral-de-los-jovenes-europeos.html",
-      "date": "2026-10-26T17:57:14.000Z",
-      "image": null
-    },
-    {
-      "title": "El mercado levanta el castigo a la prima francesa con la mayor caída diaria desde 2020",
-      "excerpt": "Los mercados franceses se toman un respiro este lunes, después de vivir una semana negra. La prima de riesgo cerró el pasado viernes con la mayor subida…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-10-26/el-mercado-levanta-el-castigo-a-la-prima-francesa-con-la-mayor-caida-diaria-desde-2020.html",
-      "date": "2026-10-26T17:53:00.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/WSR7IQ3SLVI4NPWSJ6H6XHE6WI.jpg?auth=867206752a2605bf6f17d8d0b392bc392874b3b7d53585bf8c7305642f4de54f"
-    },
-    {
-      "title": "La Bolsa de Brasil se desploma un 17%, repunta el interés de los bonos y el real se hunde un 11%",
-      "excerpt": "Los analistas dudan de que el ajuste fiscal del presidente reelecto sea \"suficiente\" y anticipan meses de \"debilidad y volatilidad\"",
-      "source": "Europa Press",
-      "category": "Economía",
-      "url": "https://www.europapress.es/economia/finanzas-00340/noticia-bolsa-brasil-desploma-17-repunta-interes-bonos-real-hunde-11-20261026180527.html",
-      "date": "2026-10-26T17:05:27.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261026180527_120.jpg"
     }
   ]
 }
