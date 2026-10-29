@@ -1,18 +1,108 @@
 {
-  "generatedAt": "2026-10-28T20:20:16.534Z",
+  "generatedAt": "2026-10-29T01:01:20.095Z",
   "count": 15,
   "items": [
     {
+      "title": "¿Qué pasará ahora en Israel? Las elecciones dejan un escenario político incierto",
+      "excerpt": "Israel acudió a las urnas el martes para elegir a su nuevo Gobierno; fue la primera cita electoral en el país tras los ataques terroristas de Hamás del 7 de…",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/economia/politica/2026/10/29/pasara-israel-elecciones-dejan-escenario-politico-incierto.html",
+      "date": "2026-10-28T23:54:32.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/29/17932316674983.jpg"
+    },
+    {
+      "title": "El factor humano tapa la presión sobre Adif por los retrasos y el deterioro de la seguridad",
+      "excerpt": "Desde Angrois en 2013, Adif tomó nota para dar galones a la seguridad y avanzar en la alta velocidad. Cambios recurrentes del organigrama, retrasos…",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/economia/2026/10/29/factor-humano-tapa-presion-sobre-adif-retrasos-deterioro-seguridad.html",
+      "date": "2026-10-28T23:36:34.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/29/17932305888633.jpg"
+    },
+    {
+      "title": "De Chinchilla a Urda: el mapa de puntos negros y accidentes en la red ferroviaria",
+      "excerpt": "",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/economia/politica/2026/10/29/chinchilla-urda-mapa-puntos-negros-accidentes-red-ferroviaria.html",
+      "date": "2026-10-28T23:28:57.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/29/17932301249946.jpg"
+    },
+    {
+      "title": "Nueva catástrofe en la alta velocidad con decenas de muertos y heridos",
+      "excerpt": "Dos trenes de alta velocidad, uno de Renfe y otro de Iryo, colisionaron este miércoles en la localidad toledana de Urda, provocando una nueva tragedia…",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/sociedad/2026/10/29/nueva-catastrofe-alta-velocidad-decenas-muertos-heridos.html",
+      "date": "2026-10-28T23:19:24.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/29/17932295594016.jpg"
+    },
+    {
       "title": "Última hora del accidente de trenes en Toledo, en directo | Al menos 68 muertos en el choque de trenes de alta velocidad en Urda",
-      "excerpt": "Al menos 68 personas han muerto en un accidente ferroviario que se ha producido este miércoles por la mañana a la altura de la estación de Urda (Toledo). Solo…",
+      "excerpt": "Al menos 68 personas han muerto en un accidente ferroviario que se ha producido este miércoles por la mañana a la altura de la estación de Urda (Toledo). Un…",
       "source": "Cinco Días",
       "category": "Economía",
       "url": "https://elpais.com/espana/2026-10-28/ultima-hora-del-choque-entre-dos-trenes-en-los-yebenes-toledo-en-directo.html",
-      "date": "2026-10-28T20:13:55.000Z",
+      "date": "2026-10-28T22:56:01.000Z",
       "image": "https://imagenes.elpais.com/resizer/v2/4K4AZIAZRZE2VOKF3B33LSNAWQ.jpg?auth=1814b7b70fe2b39e11c77965d1fd35d3eaa74693f4a0981d6745dbea90b3b2f8"
     },
     {
-      "title": "El controlador de Atocha, al maquinista del AVE: “Desconecte y vuelva a conectar y reanude con marcha normal”",
+      "title": "Una parte de Dinamarca quiso deshacerse de Microsoft Office y usar una alternativa open source. Y el plan empezó a torcerse",
+      "excerpt": "Hay programas que usamos tanto que acaban volviéndose invisibles. Abrimos un documento, corregimos una frase, enviamos una presentación y seguimos adelante…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/aplicaciones/parte-dinamarca-quiso-deshacerse-microsoft-office-usar-alternativa-open-source-plan-empezo-a-torcerse",
+      "date": "2026-10-28T22:56:00.000Z",
+      "image": "https://i.blogs.es/1fd725/microsoft-office/1024_2000.jpeg"
+    },
+    {
+      "title": "He probado el nuevo MacBook Pro táctil: el Mac de siempre acaba de abrir una puerta que quiero explorar",
+      "excerpt": "He pasado tantos años delante de un Mac que hay movimientos que hago sin pensar. Buscar el trackpad, apoyar los dedos en el teclado, ampliar una fotografía…",
+      "source": "Applesfera",
+      "category": "Tecnología",
+      "url": "https://www.applesfera.com/eventos/macbook-pro-tactil-opiniones-toma-contacto-video-fotos",
+      "date": "2026-10-28T22:20:00.000Z",
+      "image": "https://i.blogs.es/e4e364/macbook-pro-tactil-applesfera-14/1024_2000.jpeg"
+    },
+    {
+      "title": "Tus mensajes de Discord podrían aparecer en Google si no haces este ajuste",
+      "excerpt": "Discord implementará un cambio que podría poner en riesgo la privacidad de sus usuarios. La plataforma anunció que parte del contenido publicado en sus…",
+      "source": "Hipertextual",
+      "category": "Tecnología",
+      "url": "https://hipertextual.com/internet/discord-mensajes-google-como-evitar-indexacion/",
+      "date": "2026-10-28T21:59:00.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/02/discord-teclado.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1"
+    },
+    {
+      "title": "Cargas policiales contra los manifestantes en el Ministerio de Transportes por el accidente ferroviario",
+      "excerpt": "La Policía Nacional ha realizado cargas policiales este miércoles contra los manifestantes que se habían concentrado junto al Ministerio de Transportes para…",
+      "source": "Europa Press Tecnología",
+      "category": "Tecnología",
+      "url": "https://www.europapress.es/nacional/noticia-convocan-distintas-protestas-madrid-exigir-responsabilidades-gobierno-accidente-tren-20261028224534.html",
+      "date": "2026-10-28T21:45:34.000Z",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261028224534_120.jpg"
+    },
+    {
+      "title": "He probado el nuevo MacBook Pro táctil: no tenía claro para qué querría tocar su pantalla. He encontrado las primeras respuestas",
+      "excerpt": "Hay un gesto que llevamos años haciendo en el iPhone y en el iPad que ahora llega al Mac: tocar aquello con lo que queremos interactuar. Parece una…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/eventos/apple-macbook-pro-tactil-opiniones-toma-contacto-fotos",
+      "date": "2026-10-28T21:43:57.000Z",
+      "image": "https://i.blogs.es/e6ea96/macbook-pro-tactil-xataka-24/1024_2000.jpeg"
+    },
+    {
+      "title": "Ojo con los emuladores de PS5 en GitHub: hay versiones falsas que roban tus contraseñas",
+      "excerpt": "Si estás buscando emuladores de PS5 para ejecutar en tu ordenador, ten mucho cuidado. Un nuevo reporte afirma que actualmente están en circulación versiones…",
+      "source": "Hipertextual",
+      "category": "Tecnología",
+      "url": "https://hipertextual.com/seguridad/emuladores-ps5-malware-github/",
+      "date": "2026-10-28T20:50:23.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/jeshoots-com-WrgaiX9DHi0-unsplash-scaled.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1"
+    },
+    {
+      "title": "Los audios del accidente|El controlador de Atocha, al maquinista del AVE: “Desconecte y vuelva a conectar. Reanude con marcha normal”",
       "excerpt": "Los tres audios clave de la tragedia, dos conexiones entre la maquinista del tren Iryo que estaba parado y el controlador de Atocha y uno del maquinista del…",
       "source": "Cinco Días",
       "category": "Economía",
@@ -39,33 +129,6 @@
       "image": "https://i.blogs.es/ac1553/macbook-pro-con-pantalla-tactil-y-sin-pantalla-tactil-precios/1024_2000.jpeg"
     },
     {
-      "title": "Un hacker reventó toda la seguridad de PS5. Ahora otro ha cobrado 50.000 dólares por contar a Sony cómo lo hizo",
-      "excerpt": "Sony acaba de pagar 50.000 dólares a un hacker. Es la cantidad máxima de su programa de recompensas por encontrar fallos en PlayStation 5, pero en esta…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/videojuegos/hacker-revento-toda-seguridad-ps5-ahora-otro-ha-cobrado-50-000-dolares-contar-a-sony-como-hizo",
-      "date": "2026-10-28T19:01:27.000Z",
-      "image": "https://i.blogs.es/5c2365/captura-de-pantalla-2026-10-28-a-las-14.56.45/1024_2000.png"
-    },
-    {
-      "title": "¿Cuánto cuesta el MacBook Pro táctil más caro? Prepárate para llorar",
-      "excerpt": "Los MacBook Pro ProLED XDR de 14 y 16 pulgadas, que estrenan pantalla OLED y táctil, son oficiales. Apple finalmente ha implementado la tecnología multitáctil…",
-      "source": "Hipertextual",
-      "category": "Tecnología",
-      "url": "https://hipertextual.com/apple/cuanto-cuesta-el-macbook-pro-tactil-mas-caro-preparate-para-llorar/",
-      "date": "2026-10-28T18:33:59.000Z",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/MacBook-Pro-tactil-scaled.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1"
-    },
-    {
-      "title": "Los despidos tecnológicos de 2026 ya rozan los 197.000 en pleno giro del capital hacia la IA",
-      "excerpt": "Uno de los primeros síntomas de crisis financiera en una empresa era el despido de sus trabajadores. Ante los primeros indicios de falta de solvencia, las…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/empresas-y-economia/despidos-tecnologicos-2026-rozan-197-000-pleno-giro-capital-ia",
-      "date": "2026-10-28T18:31:29.000Z",
-      "image": "https://i.blogs.es/a9ffbc/miguel-angel-hernandez-ycrwjwlgi-c-unsplash/1024_2000.jpeg"
-    },
-    {
       "title": "El presidente de la patronal empresarial vizcaína critica a \"los sindicatos que viven el conflicto como un fin\" cuando es \"el mejor ahuyentador de inversiones\"",
       "excerpt": "El presidente de Cebek, Guillermo Buces, ha lamentado que algunas organizaciones, especialmente ELA, \"encuentren en el conflicto un objetivo en sí mismo\" en…",
       "source": "El Economista",
@@ -73,69 +136,6 @@
       "url": "https://www.eleconomista.es/economia/noticias/14024261/10/26/el-presidente-de-la-patronal-empresarial-vizcaina-critica-a-los-sindicatos-que-viven-el-conflicto-como-un-fin-cuando-es-el-mejor-ahuyentador-de-inversiones.html",
       "date": "2026-10-28T18:31:06.000Z",
       "image": null
-    },
-    {
-      "title": "Samsung lanza sus nuevos auriculares tipo clip que no se meten en la oreja y llevan la IA de Gemini",
-      "excerpt": "Samsung ha lanzado un nuevo integrante de su familia de auriculares. El gigante surcoreano presentó los Galaxy Buds On, sus primeros auriculares con diseño…",
-      "source": "Hipertextual",
-      "category": "Tecnología",
-      "url": "https://hipertextual.com/tecnologia/samsung-galaxy-buds-on-auriculares-abiertos/",
-      "date": "2026-10-28T18:11:00.000Z",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/galaxy-buds-on-2.jpg?fit=1024%2C591&quality=70&strip=all&ssl=1"
-    },
-    {
-      "title": "De 799 a 33.958 euros: así queda el catálogo de precios de Apple con sus nuevos Mac",
-      "excerpt": "Apple ha puesto fin a su semana de anuncios en la que, aparte del iPad mini 8 OLED, ha renovado buena parte de su gama de ordenadores con los iMac M6, MacBook…",
-      "source": "Applesfera",
-      "category": "Tecnología",
-      "url": "https://www.applesfera.com/portatil/799-a-33-958-euros-asi-queda-catalogo-precios-apple-sus-nuevos-mac",
-      "date": "2026-10-28T18:10:27.000Z",
-      "image": "https://i.blogs.es/547260/macbook/1024_2000.jpeg"
-    },
-    {
-      "title": "La Fed no sorprende y mantiene sin cambios los tipos de interés",
-      "excerpt": "El Comité Federal de Mercado Abierto (FOMC, por sus siglas en inglés) de la Reserva Federal de Estados Unidos (Fed) ha tomado la decisión de no modificar los…",
-      "source": "Europa Press",
-      "category": "Economía",
-      "url": "https://www.europapress.es/economia/macroeconomia-00338/noticia-fed-no-sorprende-mantiene-cambios-tipos-interes-20261028190711.html",
-      "date": "2026-10-28T18:07:11.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261028190711_120.jpg"
-    },
-    {
-      "title": "La detección de un fallo de 8 km en una ciudad china reconcilia con la ciencia uno de los eclipses más antiguos de la historia",
-      "excerpt": "Unos científicos han encontrado un fallo en uno de los registros más antiguos que existen de un eclipse solar total. Con la resolución de este error, se abre…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/espacio/deteccion-fallo-8-km-ciudad-china-reconcilia-ciencia-uno-eclipses-antiguos-historia",
-      "date": "2026-10-28T18:01:27.000Z",
-      "image": "https://i.blogs.es/c01237/eclipse-china/1024_2000.jpeg"
-    },
-    {
-      "title": "Renfe bloquea la venta de billetes entre Madrid y Andalucía hasta diciembre y Ouigo suspende todos los trenes en ese trayecto hasta el 2 de noviembre",
-      "excerpt": "Renfe ha bloqueado la venta de billetes de alta velocidad en el corredor entre Madrid y Andalucía hasta diciembre después del trágico accidente entre un tren…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://elpais.com/economia/2026-10-28/renfe-bloquea-la-venta-de-billetes-entre-madrid-y-andalucia-hasta-diciembre-y-ouigo-suspende-todos-los-trenes-en-ese-trayecto-hasta-el-2-de-noviembre.html",
-      "date": "2026-10-28T17:26:14.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/RTO3VAI62ZNQPCG5CFM6M5R7R4.jpg?auth=8928a0b9588479797c346f34cd691ed2a07171a3678ea605414acba7f1b9081c"
-    },
-    {
-      "title": "La Guardia Civil interroga al operador del centro de control que autorizó al AVE a seguir el recorrido, pese a que el Iryo permanecía parado",
-      "excerpt": "Primero, localizar e identificar a las víctimas y atender a los heridos. Pero también, iniciar la investigación para determinar las causas del siniestro y las…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://elpais.com/espana/2026-10-28/la-guardia-civil-activa-un-protocolo-de-investigacion-identico-al-que-se-siguio-en-el-accidente-de-adamuz.html",
-      "date": "2026-10-28T17:20:56.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/VT2UJVUIDBDRZKFDJU67W6F7ZM.jpg?auth=6f396f5eba84c7b36c3b73f6d2b2c78642a3f871972621f4ad4d7a02876524a6"
-    },
-    {
-      "title": "El Ibex 35 cede un 1,45% y pierde los 18.900 puntos arrastrado por Acciona Energía y Santander",
-      "excerpt": "El Ibex 35 ha finalizado la sesión de este miércoles con un retroceso del 1,45%, hasta situarse en los 18.883,50 puntos, en una semana marcada por la decisión…",
-      "source": "Europa Press",
-      "category": "Economía",
-      "url": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-cede-145-pierde-18900-puntos-arrastrado-acciona-energia-santander-20261028180414.html",
-      "date": "2026-10-28T17:04:14.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261028180414_120.jpg"
     }
   ]
 }
