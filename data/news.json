@@ -1,7 +1,88 @@
 {
-  "generatedAt": "2026-10-30T18:03:44.514Z",
+  "generatedAt": "2026-10-30T22:26:05.034Z",
   "count": 15,
   "items": [
+    {
+      "title": "Google quería levantar un centro de datos en Finlandia. Empezó talando 330 hectáreas y acabó bajo investigación penal",
+      "excerpt": "Cuando hablamos de los grandes centros de datos, solemos pensar en edificios repletos de servidores, sistemas de refrigeración y enormes cantidades de…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/empresas-y-economia/google-queria-levantar-centro-datos-finlandia-empezo-talando-330-hectareas-acabo-investigacion-penal",
+      "date": "2026-10-30T22:01:27.000Z",
+      "image": "https://i.blogs.es/250cce/google/1024_2000.jpeg"
+    },
+    {
+      "title": "Intel sufre su mayor caída en Bolsa desde 1973: se hunde un 28,58% quemando 130.000 millones de dólares de capitalización",
+      "excerpt": "Desplome histórico de las acciones de Intel. Los títulos de la tecnológica estadounidense se han hundido este viernes un 28,58%, tras publicar unas…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://cincodias.elpais.com/companias/2026-10-30/intel-pierde-su-magia-se-desploma-un-25-en-bolsa-tras-lanzar-previsiones-decepcionantes.html",
+      "date": "2026-10-30T20:37:47.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/2352UQBZZZLO5IIA6QVXWTFH24.jpg?auth=5e59a8f1b669afaa88c3fbabf04fe33c157803f8422a02790fd28b0f54c57922"
+    },
+    {
+      "title": "Las tecnológicas se desploman en Bolsa por las dudas sobre el gasto en la IA",
+      "excerpt": "Los interrogantes alrededor de las multimillonarias inversiones en inteligencia artificial se incrementan exponencialmente y acrecientan las dudas del…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-10-30/la-bolsa-y-el-ibex-35.html",
+      "date": "2026-10-30T20:34:54.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/KGJBXXQLGBDUBMCAUJIY7NQGUU.png?auth=6db8a361632bb71b20fb0c44da737da08df2eae58a0d9faec427f6dd61261f63"
+    },
+    {
+      "title": "Estos Galaxy Watch estarían a punto de quedarse sin nuevas funciones de Samsung",
+      "excerpt": "Samsung podría dejar sin actualizaciones a sus Galaxy Watch más antiguos. Una filtración asegura que la surcoreana está considerando no lanzar más…",
+      "source": "Hipertextual",
+      "category": "Tecnología",
+      "url": "https://hipertextual.com/mobile/galaxy-watch-fin-actualizaciones-samsung/",
+      "date": "2026-10-30T20:30:00.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2021/08/W_03_02_lifestyle_galaxywatch4classic_silver_H-scaled.jpg?fit=1024%2C683&quality=70&strip=all&ssl=1"
+    },
+    {
+      "title": "Blackstone advierte de que Anthropic se arriesga a salir a bolsa sin una buena calificación, un golpe para sus planes",
+      "excerpt": "En la carrera por la inteligencia artificial, Anthropic se ha convertido en una de las grandes promesas del sector. La compañía detrás de Claude ha conseguido…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/empresas-y-economia/blackstone-advierte-que-anthropic-se-arriesga-a-salir-a-bolsa-buena-calificacion-crediticia-golpe-para-sus-planes",
+      "date": "2026-10-30T19:41:00.000Z",
+      "image": "https://i.blogs.es/968d89/dario-amodei-anthropic-bolsa/1024_2000.jpeg"
+    },
+    {
+      "title": "Por qué el dolor de espalda crónico se siente tan personal: el cerebro lo trata como parte de quiénes somos",
+      "excerpt": "Las personas que conviven con el dolor de espalda crónico saben bien que, de un modo u otro, se ha convertido en parte de su personalidad. Despiertan cada…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/medicina-y-salud/que-dolor-espalda-cronico-se-siente-personal-cerebro-trata-como-parte-quienes-somos",
+      "date": "2026-10-30T19:31:27.000Z",
+      "image": "https://i.blogs.es/1853aa/dolor-de-espalda/1024_2000.jpeg"
+    },
+    {
+      "title": "Esta nueva memoria promete resolver uno de los mayores problemas creados por la IA",
+      "excerpt": "La industria de los semiconductores atraviesa una de las peores crisis desde la pandemia. La explosión de la IA ha disparado la demanda de memoria a niveles…",
+      "source": "Hipertextual",
+      "category": "Tecnología",
+      "url": "https://hipertextual.com/inteligencia-artificial/z2ram-memoria-crisis-ia/",
+      "date": "2026-10-30T19:19:53.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2024/01/memoria-ram.jpg?fit=1024%2C683&quality=70&strip=all&ssl=1"
+    },
+    {
+      "title": "Hemos normalizado el uso del móvil en los estadios de fútbol. En Alemania, Vodafone está consiguiendo lo contrario",
+      "excerpt": "Hace tiempo que el móvil se convirtió en una extensión de nuestro cuerpo hasta el punto de que, en muchas ocasiones, vivimos las experiencias a través de su…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/aplicaciones/hemos-normalizado-uso-movil-estadios-futbol-alemania-vodafone-esta-consiguiendo-contrario",
+      "date": "2026-10-30T19:01:27.000Z",
+      "image": "https://i.blogs.es/adf68f/sabitzer-4-bvb/1024_2000.jpeg"
+    },
+    {
+      "title": "Spotify quiere que cambies tus canciones favoritas con IA, pero hay un problema",
+      "excerpt": "Spotify está pensando en llevar aún más lejos su apuesta por la inteligencia artificial. Un reporte afirma que la plataforma trabaja en una nueva función que…",
+      "source": "Hipertextual",
+      "category": "Tecnología",
+      "url": "https://hipertextual.com/inteligencia-artificial/spotify-remixes-inteligencia-artificial-suscripcion/",
+      "date": "2026-10-30T18:15:00.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/03/spotify.jpg?fit=1024%2C652&quality=70&strip=all&ssl=1"
+    },
     {
       "title": "Para no ofender a las 🍆 pequeñas, el iPad mini se ve obligado a cambiar de imagen",
       "excerpt": "Apple trabaja el marketing y las imágenes como nadie. Son sencillas y minimalistas, pero dicen mucho. Un buen ejemplo es cómo enseña el nuevo iPad mini o el…",
@@ -19,24 +100,6 @@
       "url": "https://www.eleconomista.es/economia/noticias/14024830/10/26/la-diputacion-de-bizkaia-contara-en-2027-con-un-presupuesto-de-18067-millones-para-sus-departamentos-un-515-mas.html",
       "date": "2026-10-30T17:52:06.000Z",
       "image": null
-    },
-    {
-      "title": "Segway renueva su gama alta de patinetes: potencia todoterreno, 80 km de autonomía real y nuevo estándar de certificación",
-      "excerpt": "El mercado de los patinetes eléctricos ha dejado de ser un terreno enfocado únicamente al ocio para convertirse en una alternativa real de movilidad diaria…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/seleccion/segway-renueva-su-gama-alta-patinetes-potencia-todoterreno-80-km-autonomia-real-nuevo-estandar-certificacion",
-      "date": "2026-10-30T17:45:26.000Z",
-      "image": "https://i.blogs.es/ca4a6e/nuevos-patinetes-segway/1024_2000.jpeg"
-    },
-    {
-      "title": "Amazon alcanza el millón de robots: “Muchos trabajos repetitivos que hacen los humanos serán realizados por ellos”",
-      "excerpt": "Terremoto en Amazon. La compañía ha presentado las cuentas del tercer trimestre, en el que ha incumplido previsiones, además de registrar un flujo de caja…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://cincodias.elpais.com/companias/2026-10-30/amazon-alcanza-el-millon-de-robots-muchos-trabajos-repetitivos-que-hacen-los-humanos-seran-realizados-por-ellos.html",
-      "date": "2026-10-30T17:43:35.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/VHD6M6263ZZVWGLIL552GVMJME.jpg?auth=d1d10e511d43f51db551815ecca6f3f3e666e26046ca701faac242ed8fc3e9c1"
     },
     {
       "title": "La UE y Canadá estudiarán aumentar los envíos de gas a Europa y crear reservas de materias primas críticas",
@@ -57,15 +120,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/W7X5BG24CVF7FPKFP3VFEGMJYM.jpeg?auth=a1b5f94f583d3c2f8b3eee19ce5a72bbc6c5dcb655318ecd0eebf870cd2ca7cc"
     },
     {
-      "title": "El BCE elige a Telefónica e Indra para desarrollar una parte clave de la infraestructura del futuro euro digital",
-      "excerpt": "El euro digital lleva años sobre la mesa del Banco Central Europeo (BCE), pero cada vez conocemos mejor qué hace falta para convertirlo en realidad. La…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/empresas-y-economia/bce-elige-a-telefonica-e-indra-para-desarrollar-parte-clave-infraestructura-futuro-euro-digital",
-      "date": "2026-10-30T17:11:46.000Z",
-      "image": "https://i.blogs.es/c9be76/telefonica-2/1024_2000.jpeg"
-    },
-    {
       "title": "Guillermo Gauna-Vivas (Ayúdame 3D): \"Empecé a diseñar con 15 años y descubrí que la tecnología podía resolver problemas y ayudar\"",
       "excerpt": "Guillermo Gauna-Vivas (1994, Madrid) es el creador de Ayúdame 3D, una entidad española que utiliza la impresión 3D y la tecnología para ponerse al servicio de…",
       "source": "El Economista",
@@ -75,15 +129,6 @@
       "image": null
     },
     {
-      "title": "Las tecnológicas se desploman en Bolsa por las dudas sobre el gasto en la IA",
-      "excerpt": "Los interrogantes alrededor de las multimillonarias inversiones en inteligencia artificial se incrementan exponencialmente y acrecientan las dudas del…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-10-30/la-bolsa-y-el-ibex-35.html",
-      "date": "2026-10-30T17:07:24.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/4XCQXXVSOBAZRDBAH34K34JWHY.png?auth=e0bc2ac3d732d765510b8c23e9581781b704aaed19ba5766b16eff7df338807e"
-    },
-    {
       "title": "El Ibex 35 pierde casi un 4% en octubre, su peor cierre mensual desde marzo, hasta los 18.600 puntos",
       "excerpt": "El Ibex 35 ha finalizado octubre con un recorte mensual del 3,90%, hasta situarse en los 18.652,90 puntos, su peor cierre mensual desde marzo, en un contexto…",
       "source": "Europa Press",
@@ -91,51 +136,6 @@
       "url": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-pierde-casi-octubre-peor-cierre-mensual-marzo-18600-puntos-20261030180603.html",
       "date": "2026-10-30T17:06:03.000Z",
       "image": "https://img.europapress.es/fotoweb/fotonoticia_20261030180603_120.jpg"
-    },
-    {
-      "title": "James Gunn quiere a Margot Robbie como Harley Quinn en el Universo DC",
-      "excerpt": "El Universo DC de James Gunn (o DCU) busca hacer borrón y cuenta nueva respecto de adaptaciones previas de sus personajes principales. Por supuesto que…",
-      "source": "Hipertextual",
-      "category": "Tecnología",
-      "url": "https://hipertextual.com/cine-television/james-gunn-quiere-margot-robbie-regrese-harley-quinn/",
-      "date": "2026-10-30T17:05:08.000Z",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/08/Harley-Quinn-Margot-Robbie-Universo-DC.jpg?fit=1024%2C529&quality=70&strip=all&ssl=1"
-    },
-    {
-      "title": "El Ayuntamiento de Madrid abre concurso para privatizar por 35 años el auditorio abandonado del parque Juan Carlos I",
-      "excerpt": "Ya hay luz verde. O ambar, más bien: el Ayuntamiento de Madrid ha abierto el concurso para entregar en concesión el auditorio del parque Juan Carlos I, el…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/magnet/ayuntamiento-madrid-abre-concurso-para-privatizar-35-anos-auditorio-abandonado-parque-juan-carlos-i",
-      "date": "2026-10-30T17:01:29.000Z",
-      "image": "https://i.blogs.es/237af7/plano_estadio_1080p/1024_2000.jpeg"
-    },
-    {
-      "title": "\"Steve Jobs me echó la bronca por esto\". Un adolescente reveló cómo solucionar gratis un problema que había causado Apple",
-      "excerpt": "Es bien sabido que Steve Jobs no era precisamente el hombre que mejor encajaba las críticas del mundo. Christopher Price, que ya era un entusiasta de la…",
-      "source": "Applesfera",
-      "category": "Tecnología",
-      "url": "https://www.applesfera.com/curiosidades/steve-jobs-me-echo-bronca-esto-adolescente-revelo-como-solucionar-gratis-problema-que-habia-causado-apple",
-      "date": "2026-10-30T17:01:28.000Z",
-      "image": "https://i.blogs.es/5c375c/steve-jobs/1024_2000.jpeg"
-    },
-    {
-      "title": "El BCE activa la sucesión de su economista jefe, Philip Lane",
-      "excerpt": "El Banco Central Europeo (BCE) ha puesto en marcha el proceso para elegir al sucesor de su economista jefe, Philip Lane, en un momento de renovación en la…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-10-30/el-bce-activa-la-sucesion-de-su-economista-jefe-philip-lane.html",
-      "date": "2026-10-30T16:55:10.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/4BPLJHFT4OPCVCWX4DO6BMQEZU.jpg?auth=328d0cc101f327673c3b97a597c986fad834250a39c9bbda17672d95e0502ed4"
-    },
-    {
-      "title": "Una gran explosión sacude la fábrica de municiones más antigua de España, en Granada, en plena fiebre del rearme",
-      "excerpt": "Una explosión en el quemadero de la Fábrica de Municiones de Granada ha hecho temblar esta mañana el barrio de El Fargue, en Granada. Como si fuera un…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/magnet/gran-explosion-sacude-fabrica-municiones-antigua-espana-granada-plena-fiebre-rearme",
-      "date": "2026-10-30T16:31:28.000Z",
-      "image": "https://i.blogs.es/9c666e/portada/1024_2000.jpeg"
     }
   ]
 }
