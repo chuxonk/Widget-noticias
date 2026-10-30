@@ -1,33 +1,78 @@
 {
-  "generatedAt": "2026-10-29T18:31:07.309Z",
+  "generatedAt": "2026-10-30T01:06:15.513Z",
   "count": 15,
   "items": [
     {
-      "title": "Canadá quiere su alianza con la UE y le da igual cómo se llame: miembro asociado, relación cada vez más estrecha... \"El nombre no importa\"",
-      "excerpt": "Una de las tareas más delicadas en una negociación diplomática puede parecer absurda, y en cierto modo lo es, pero no por eso deja de ser importante: escoger…",
-      "source": "El Economista",
+      "title": "Los accidentes ferroviarios se disparan ante los recortes en el mantenimiento de la red",
+      "excerpt": "La inversión del Estado en la infraestructura de la red ferroviaria y su mantenimiento se ha hundido en los últimos años pese a la llegada de cientos de miles…",
+      "source": "Expansión",
       "category": "Economía",
-      "url": "https://www.eleconomista.es/economia/noticias/14024526/10/26/canada-quiere-su-alianza-con-la-ue-y-le-da-igual-como-se-llame-miembro-asociado-relacion-cada-vez-mas-estrecha-el-nombre-no-importa.html",
-      "date": "2026-10-29T18:10:20.000Z",
-      "image": null
+      "url": "https://www.expansion.com/economia/2026/10/30/accidentes-ferroviarios-disparan-recortes-mantenimiento-red.html",
+      "date": "2026-10-29T23:36:33.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/29/17932295594016.jpg"
     },
     {
-      "title": "Red Eléctrica está pidiendo a sus centrales eléctricas que no se apaguen ni para hacer mantenimiento. Es una señal de lo tensionado que está el sistema",
-      "excerpt": "Red Eléctrica, como operador del sistema eléctrico en nuestro país, ha solicitado mantener disponibles más de un centenar de instalaciones esenciales y ha…",
+      "title": "La puntilla del sanchismo",
+      "excerpt": "Un accidente ferroviario es una desdicha, dos es otra cosa. Sánchez no cumple con las condiciones adecuadas para gobernar a los españoles, no los cuida. La…",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/opinion/2026/10/30/puntilla-sanchismo.html",
+      "date": "2026-10-29T23:34:46.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/30/17933168756730.jpg"
+    },
+    {
+      "title": "Airbus, Nokia y Vestas escoltan a la UE en su cumbre clave en Canadá",
+      "excerpt": "Las empresas europeas pertenecen a sectores en los que la UE quiere estrechar sus vínculos con el país norteamericano.",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/economia/2026/10/30/airbus-nokia-vestas-escoltan-ue-cumbre-clave-canada.html",
+      "date": "2026-10-29T23:34:08.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/30/17933168451332.jpg"
+    },
+    {
+      "title": "Un total de 54 cuerpos ya han llegado desde Urda a institutos forenses de C-LM, que iniciarán las autopsias este jueves",
+      "excerpt": "El Instituto de Medicina Legal de Toledo ha recibido ya los 69 cuerpos de las personas fallecidas en el accidente ferroviario ocurrido este miércoles en Urda…",
+      "source": "Europa Press Tecnología",
+      "category": "Tecnología",
+      "url": "https://www.europapress.es/castilla-lamancha/noticia-total-54-cuerpos-ya-llegado-urda-institutos-forenses-lm-iniciaran-autopsias-jueves-20261030000224.html",
+      "date": "2026-10-29T23:02:24.000Z",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261030000224_120.jpg"
+    },
+    {
+      "title": "Más de 2.000 millones de dólares salen de carteras vinculadas a Binance. La sospecha apunta a un hackeo histórico",
+      "excerpt": "Confiar nuestras criptomonedas a una plataforma de intercambio implica asumir que alguien será capaz de protegerlas las 24 horas del día. Es una…",
       "source": "Xataka",
       "category": "Tecnología",
-      "url": "https://www.xataka.com/energia/red-electrica-esta-pidiendo-a-sus-centrales-electricas-que-no-se-apaguen-para-hacer-mantenimiento-senal-tensionado-que-esta-sistema",
-      "date": "2026-10-29T18:01:32.000Z",
-      "image": "https://i.blogs.es/ae40a8/andrey-metelev-qpaoxji4dao-unsplash/1024_2000.jpeg"
+      "url": "https://www.xataka.com/criptomonedas/2-000-millones-dolares-salen-carteras-binance-sospecha-apunta-a-hackeo-historico",
+      "date": "2026-10-29T22:57:00.000Z",
+      "image": "https://i.blogs.es/1c9022/binance-hackeo/1024_2000.jpeg"
     },
     {
-      "title": "Este sábado cierran antes las Apple Store de Sol y Passeig de Gràcia. Madrid y Barcelona en alerta por las protestas",
-      "excerpt": "Si tenías pensado pasarte por la Apple Store de la Puerta del Sol o por la del Passeig de Gràcia este sábado, ten en cuenta que cerrarán el 31 de octubre a…",
-      "source": "Applesfera",
+      "title": "Windows 11 ahora puede reinstalarse desde la nube aunque el PC no arranque",
+      "excerpt": "Windows 11 acaba de recibir una función muy interesante con su más reciente actualización. A partir de la versión KB5127936, el sistema operativo se puede…",
+      "source": "Hipertextual",
       "category": "Tecnología",
-      "url": "https://www.applesfera.com/apple-1/este-sabado-cierran-antes-apple-store-sol-passeig-gracia-madrid-barcelona-alerta-protestas",
-      "date": "2026-10-29T18:01:32.000Z",
-      "image": "https://i.blogs.es/55a6f3/sol-paseo-gracia/1024_2000.jpeg"
+      "url": "https://hipertextual.com/software/reinstalar-windows-11-y-drivers-desde-nube-cloud-rebuild/",
+      "date": "2026-10-29T21:21:11.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/03/daniel-romero-MBm5AtVdiVY-unsplash-scaled.jpg?fit=1024%2C614&quality=70&strip=all&ssl=1"
+    },
+    {
+      "title": "Muere Patrick Stewart a los 86 años, el inolvidable capitán Jean-Luc Picard de ‘Star Trek’",
+      "excerpt": "Patrick Stewart ha fallecido a los 86 años. El actor británico, cuya interpretación del capitán Jean-Luc Picard en 'Star Trek: La nueva generación' lo…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/cine-y-tv/muere-patrick-stewart-a-86-anos-inolvidable-capitan-jean-luc-picard-star-trek",
+      "date": "2026-10-29T21:19:00.000Z",
+      "image": "https://i.blogs.es/96e906/patrick-stewart/1024_2000.jpeg"
+    },
+    {
+      "title": "Los maquinistas elevan su pulso por la seguridad con nuevas convocatorias de huelga",
+      "excerpt": "Jornada de caos total en Valencia por una avería en una catenaria. Una nueva incidencia vuelve a situar en primer plano la seguridad en la red de alta…",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/economia/2026/10/29/maquinistas-elevan-pulso-seguridad-nuevas-convocatorias-huelga.html",
+      "date": "2026-10-29T21:18:21.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/29/17933086920895.jpg"
     },
     {
       "title": "Accidente de trenes en Toledo: última hora y reacciones en directo | El PP pide la comparecencia de Sánchez en el Congreso y considera “insuficiente” la de Puente",
@@ -35,107 +80,62 @@
       "source": "Cinco Días",
       "category": "Economía",
       "url": "https://elpais.com/espana/2026-10-29/ultima-hora-y-reacciones-tras-el-accidente-de-trenes-de-urda-toledo-en-directo.html",
-      "date": "2026-10-29T17:54:29.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/XH3XRYQHSBGHDFCZPZFVB3YGEU.JPG?auth=2156ddfb82e01565e1a7521b2f43eb138a81bd335528a31511563b5ae9498fce"
+      "date": "2026-10-29T20:55:45.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/5W6UYG4T7RD65EOV6SLHFV62AU.JPG?auth=f70325f2e79dd4da2d4b7cb25c56c7cdfc933f74a75194c099410e71f690ce1b"
     },
     {
-      "title": "Nvidia está financiando a sus proveedores para garantizar que podrá fabricar todos los chips de IA que quiere vender",
-      "excerpt": "Nvidia está viviendo un momento muy dulce. En apenas dos años ha multiplicado por más de tres sus ingresos y por cuatro su beneficio neto. Y lo ha logrado…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/componentes/nvidia-esta-financiando-a-sus-proveedores-para-garantizar-que-podra-fabricar-todos-chips-ia-que-quiere-vender",
-      "date": "2026-10-29T17:45:27.000Z",
-      "image": "https://i.blogs.es/61887d/nvidia/1024_2000.jpeg"
-    },
-    {
-      "title": "Braun introduce un microprocesador y una pantalla en su nueva afeitadora: así es la Braun Nevo que cuesta casi 700 euros",
-      "excerpt": "Braun lleva años lanzando numerosos dispositivos para el cuidado de la barba, con varias gamas y un gran repertorio de generaciones a sus espaldas. Y la nueva…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/seleccion/braun-introduce-microprocesador-pantalla-su-nueva-afeitadora-asi-braun-nevo-que-cuesta-casi-700-euros",
-      "date": "2026-10-29T17:45:27.000Z",
-      "image": "https://i.blogs.es/a45e71/braun-nevo/1024_2000.jpeg"
-    },
-    {
-      "title": "Tu Motorola Edge 70 Pro acaba de recibir Android 17: estas son las novedades más importantes",
-      "excerpt": "Mototola ha comenzado el despliegue de Android 17 para el Motorola Edge 70 Pro. A unas semanas de hacer lo propio con el Edge 70, la compañía lanzó la…",
-      "source": "Hipertextual",
-      "category": "Tecnología",
-      "url": "https://hipertextual.com/mobile/motorola-edge-70-pro-android-17-novedades-actualizacion/",
-      "date": "2026-10-29T17:45:00.000Z",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/motorola-edge-pro-android-17.jpg?fit=1024%2C641&quality=70&strip=all&ssl=1"
-    },
-    {
-      "title": "El primer MacBook con pantalla OLED ya está aquí y que se queme la pantalla sería mi última preocupación",
-      "excerpt": "Apple ha tardado más de la cuenta en realizar dos movimientos que esperábamos hace años: meter una pantalla OLED y, además, táctil en un MacBook. El resultado…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/ordenadores/primer-macbook-pantalla-oled-esta-aqui-que-se-queme-pantalla-seria-mi-ultima-preocupacion",
-      "date": "2026-10-29T17:31:28.000Z",
-      "image": "https://i.blogs.es/38dd0f/original/1024_2000.jpeg"
-    },
-    {
-      "title": "Sánchez sigue respaldando a Puente, en el centro de las críticas tras dos accidentes de tren mortales en solo 9 meses",
-      "excerpt": "El presidente del Gobierno, Pedro Sánchez, mantiene su apoyo al ministro de Transportes, Óscar Puente, en el centro de las críticas tras el accidente…",
-      "source": "Europa Press Tecnología",
-      "category": "Tecnología",
-      "url": "https://www.europapress.es/nacional/noticia-sanchez-sigue-respaldando-puente-centro-criticas-dos-accidentes-tren-mortales-solo-meses-20261029182644.html",
-      "date": "2026-10-29T17:26:44.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261029182644_120.jpg"
-    },
-    {
-      "title": "El Ibex 35 salva los 18.800 puntos (-0,14%) tras pausar los tipos el BCE, con el crudo en 114 dólares",
-      "excerpt": "El Ibex 35 ha cerrado la sesión de este jueves con un ligero descenso del 0,14%, hasta situarse en los 18.857,6 puntos, en una sesión marcada por la oleada de…",
-      "source": "Europa Press",
-      "category": "Economía",
-      "url": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-salva-18800-puntos-014-pausar-tipos-bce-crudo-114-dolares-20261029181115.html",
-      "date": "2026-10-29T17:11:15.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261029181115_120.jpg"
-    },
-    {
-      "title": "El Congreso pone fecha a la comparecencia de Puente por el accidente de Urda: 3 de noviembre",
-      "excerpt": "El ministro de Transportes y Movilidad Sostenible, Óscar Puente, comparecerá el próximo martes, 3 de noviembre, a las 17.00 horas en la Diputación Permanente…",
-      "source": "Europa Press Tecnología",
-      "category": "Tecnología",
-      "url": "https://www.europapress.es/economia/transportes-00343/noticia-congreso-pone-fecha-comparecencia-puente-accidente-urda-noviembre-20261029180346.html",
-      "date": "2026-10-29T17:03:46.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261029180346_120.jpg"
-    },
-    {
-      "title": "María Clemente, notaria: \"La comunidad de propietarios está obligada a realizar las obras que exijan los vecinos mayores de 70 años si las ayudas concedidas alcanzan el 70% del importe\"",
-      "excerpt": "La Ley de Propiedad Horizontal (LPH) dispone que las obras que resulten necesarias para mejorar la accesibilidad de la comunidad de vecinos \"tendrán carácter…",
-      "source": "El Economista",
-      "category": "Economía",
-      "url": "https://www.eleconomista.es/economia/noticias/14024488/10/26/maria-clemente-notaria-la-comunidad-de-propietarios-esta-obligada-a-realizar-las-obras-que-exijan-los-vecinos-mayores-de-70-anos-si-las-ayudas-concedidas-alcanzan-el-70-del-importe.html",
-      "date": "2026-10-29T16:54:11.000Z",
-      "image": null
-    },
-    {
-      "title": "La Autoridad de Investigación de Accidentes mantiene en 69 los fallecidos en el siniestro de los trenes",
-      "excerpt": "La Autoridad Administrativa Independiente para la Investigación Técnica de Accidentes e Incidentes Ferroviarios, Marítimos y de Aviación Civil (AITAT) ha…",
-      "source": "Europa Press",
-      "category": "Economía",
-      "url": "https://www.europapress.es/economia/transportes-00343/noticia-autoridad-investigacion-accidentes-eleva-74-fallecidos-20261029174722.html",
-      "date": "2026-10-29T16:47:22.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261029174722_120.jpg"
-    },
-    {
-      "title": "El Gobierno amplió el contrato de mantenimiento del sistema de seguridad de la línea Madrid-Sevilla un día antes del accidente",
-      "excerpt": "La víspera del accidente de Urda (Toledo) el Consejo de Ministros aprobó una ampliación del contrato de mantenimiento de las instalaciones de control de…",
+      "title": "El primer informe técnico del accidente estima que el AVE circulaba de 160 a 200 kilómetros por hora cuando chocó en Urda",
+      "excerpt": "El tren AVE que chocó este miércoles contra un Iryo parado en las vías de alta velocidad en Urda (Toledo) impactó cuando circulaba a una velocidad de entre…",
       "source": "Cinco Días",
       "category": "Economía",
-      "url": "https://elpais.com/economia/2026-10-29/el-gobierno-amplio-el-contrato-de-mantenimiento-del-sistema-de-seguridad-de-la-linea-madrid-sevilla-un-dia-antes-del-accidente.html",
-      "date": "2026-10-29T16:46:03.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/WVSROFI2UVHYNFBY2RMDFKFERU.jpg?auth=4b36420b846a8bb47595066e714048839b388bbb94796c05752397a2557ac1cd"
+      "url": "https://elpais.com/espana/2026-10-29/el-primer-informe-tecnico-del-accidente-fija-en-160-a-200-kilometros-por-hora-la-velocidad-del-ave-que-choco-en-urda.html",
+      "date": "2026-10-29T20:53:30.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/OIFPBZS36FHSPBVFP5HWQA4LJQ.jpg?auth=589fb7c825ca1b55a9aeece10edfed46048cfbe0b46dbca069daaec5aa2ef30f"
+    },
+    {
+      "title": "GitHub ha tenido que hacer algo a gran escala para seguir el ritmo de la IA. Sus cifras explican hasta qué punto",
+      "excerpt": "Estamos acostumbrados a hablar de la inteligencia artificial en términos de plo que puede hacer por nosotros: escribir una función, corregir un error o…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/robotica-e-ia/github-ha-tenido-que-hacer-algo-a-gran-escala-para-seguir-ritmo-ia-sus-cifras-explican-que-punto",
+      "date": "2026-10-29T20:30:00.000Z",
+      "image": "https://i.blogs.es/e52ee4/github/1024_2000.jpeg"
     },
     {
       "title": "El euro cae a mínimos tras el BCE, Wall Street sufre el desplome de Google y la banca pesa en el Ibex",
-      "excerpt": "El maremoto de la inteligencia artificial se ha llevado por delante la cotización de Alphabet, la matriz de Google, que se hunde un 10% y borra medio billón…",
+      "excerpt": "El maremoto de la inteligencia artificial se ha llevado por delante la cotización de Alphabet, la matriz de Google, que se ha hundido este jueves un 12,64%…",
       "source": "Cinco Días",
       "category": "Economía",
       "url": "https://cincodias.elpais.com/mercados-financieros/2026-10-29/la-bolsa-y-el-ibex-35.html",
-      "date": "2026-10-29T16:44:18.000Z",
+      "date": "2026-10-29T20:26:04.000Z",
       "image": "https://imagenes.elpais.com/resizer/v2/MYRIJ7S5OBKRRLJAW3SGZW7SP4.jpg?auth=e9cc33541b2e960d07e4df3f9d71f8921eacb1d58a7f4c68d0226ccc8dbaa544"
+    },
+    {
+      "title": "La Guerra de las Galaxias real está empeorando tanto que una empresa quiere ponerle \"guardaespaldas\" a los satélites",
+      "excerpt": "Los acercamientos entre satélites con fines defensivos, ofensivos o de espionaje son cada vez más comunes. Generalmente se trata de ensayos, por lo que todos…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/espacio/guerra-galaxias-real-esta-empeorando-que-empresa-quiere-ponerle-guardaespaldas-a-satelites",
+      "date": "2026-10-29T20:03:27.000Z",
+      "image": "https://i.blogs.es/25b7ab/satelite-guardaespaldas/1024_2000.jpeg"
+    },
+    {
+      "title": "Patrick Stewart (X-Men, Star Trek, Dune) ha muerto a los 86 años: adiós a una leyenda del teatro, el cine y la TV",
+      "excerpt": "Luto en Hollywood por el fallecimiento de Patrick Stewart, el icónico actor detrás de personajes como Charles Xavier en la saga X-Men, el capitán Jean-Luc…",
+      "source": "Hipertextual",
+      "category": "Tecnología",
+      "url": "https://hipertextual.com/cine-television/muerte-patrick-stewart/",
+      "date": "2026-10-29T20:00:57.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/Patrick-Stewart.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1"
+    },
+    {
+      "title": "Samsung advierte: la crisis de RAM está a un paso de volverse mucho peor",
+      "excerpt": "Si creías que la crisis de RAM que está haciendo que todos tus dispositivos favoritos sean cada vez más caros no podía volverse más grave, estabas en lo…",
+      "source": "Hipertextual",
+      "category": "Tecnología",
+      "url": "https://hipertextual.com/hardware/samsung-advierte-la-crisis-de-ram-sera-mucho-peor-en-2027/",
+      "date": "2026-10-29T19:00:00.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/harrison-broadbent-ING1Uf1Fc30-unsplash-scaled.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1"
     }
   ]
 }
