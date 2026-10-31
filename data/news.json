@@ -1,7 +1,34 @@
 {
-  "generatedAt": "2026-10-30T22:26:05.034Z",
+  "generatedAt": "2026-10-31T05:52:33.807Z",
   "count": 15,
   "items": [
+    {
+      "title": "El comercio, el \"vecino de la planta baja\" que busca cómo ‘reenamorar’ a los jóvenes",
+      "excerpt": "Jordi Arias asume la presidencia de la entidad, que agrupa a 24 ejes comerciales. reclama limitar el precio de los alquileres, recuperar la ‘tasa Amazon’ y…",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/catalunya/2026/10/31/comercio-vecino-planta-baja-busca-reenamorar-jovenes.html",
+      "date": "2026-10-31T05:03:23.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/31/17934229975464.jpg"
+    },
+    {
+      "title": "De las tecnológicas del LZB a las operadoras de trenes: cuáles son las empresas presentes en el accidente de Urda",
+      "excerpt": "Las primeras hipótesis sobre las causas del accidente ferroviario del miércoles, en el que murieron al menos 69 personas, apuntan a un error humano de…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://elpais.com/economia/2026-10-31/de-las-tecnologicas-del-lzb-a-las-operadoras-de-trenes-cuales-son-las-empresas-presentes-en-el-accidente-de-urda.html",
+      "date": "2026-10-31T04:45:01.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/JCYQB2L3KNAQXLD4XH2DQX4TGU.jpg?auth=87484a32eda2bf1455668a1d675899cf6022806df521c1cea480f842d0992ab1"
+    },
+    {
+      "title": "Trump afronta unas elecciones marcadas por la inflación y el déficit",
+      "excerpt": "Republicanos y demócratas se juegan el martes el control del Parlamento de Estados Unidos en unos comicios en los que la escalada de precios por la guerra y…",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/economia/2026/10/31/trump-afronta-elecciones-marcadas-inflacion-deficit.html",
+      "date": "2026-10-30T23:53:31.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/31/17934044076903.jpg"
+    },
     {
       "title": "Google quería levantar un centro de datos en Finlandia. Empezó talando 330 hectáreas y acabó bajo investigación penal",
       "excerpt": "Cuando hablamos de los grandes centros de datos, solemos pensar en edificios repletos de servidores, sistemas de refrigeración y enormes cantidades de…",
@@ -109,33 +136,6 @@
       "url": "https://www.eleconomista.es/economia/noticias/14024822/10/26/la-ue-y-canada-estudiaran-aumentar-los-envios-de-gas-a-europa-y-crear-reservas-de-materias-primas-criticas.html",
       "date": "2026-10-30T17:40:40.000Z",
       "image": null
-    },
-    {
-      "title": "La banca española y europea se despeñan en Bolsa pese a sus beneficios récord",
-      "excerpt": "Gran parte de los bancos europeos han presentado resultados este mes, muchos de ellos aumentando beneficios a niveles de récord una vez más e incluso…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-10-30/la-banca-espanola-y-europea-se-despenan-en-bolsa-pese-a-sus-beneficios-record.html",
-      "date": "2026-10-30T17:14:54.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/W7X5BG24CVF7FPKFP3VFEGMJYM.jpeg?auth=a1b5f94f583d3c2f8b3eee19ce5a72bbc6c5dcb655318ecd0eebf870cd2ca7cc"
-    },
-    {
-      "title": "Guillermo Gauna-Vivas (Ayúdame 3D): \"Empecé a diseñar con 15 años y descubrí que la tecnología podía resolver problemas y ayudar\"",
-      "excerpt": "Guillermo Gauna-Vivas (1994, Madrid) es el creador de Ayúdame 3D, una entidad española que utiliza la impresión 3D y la tecnología para ponerse al servicio de…",
-      "source": "El Economista",
-      "category": "Economía",
-      "url": "https://www.eleconomista.es/economia/noticias/14024810/10/26/guillermo-gaunavivas-ayudame-3d-empece-a-disenar-con-15-anos-y-descubri-que-la-tecnologia-podia-resolver-problemas-y-ayudar.html",
-      "date": "2026-10-30T17:07:52.000Z",
-      "image": null
-    },
-    {
-      "title": "El Ibex 35 pierde casi un 4% en octubre, su peor cierre mensual desde marzo, hasta los 18.600 puntos",
-      "excerpt": "El Ibex 35 ha finalizado octubre con un recorte mensual del 3,90%, hasta situarse en los 18.652,90 puntos, su peor cierre mensual desde marzo, en un contexto…",
-      "source": "Europa Press",
-      "category": "Economía",
-      "url": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-pierde-casi-octubre-peor-cierre-mensual-marzo-18600-puntos-20261030180603.html",
-      "date": "2026-10-30T17:06:03.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261030180603_120.jpg"
     }
   ]
 }
