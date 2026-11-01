@@ -1,7 +1,52 @@
 {
-  "generatedAt": "2026-11-01T00:10:55.043Z",
+  "generatedAt": "2026-11-01T06:16:56.683Z",
   "count": 15,
   "items": [
+    {
+      "title": "La guerra de Ucrania acaba de dar un giro inquietante: los drones ya no necesitan ver a los soldados para encontrarlos",
+      "excerpt": "Durante años, esconderse de las cámaras de los drones fue una cuestión de supervivencia. Ahora, rusos y ucranianos están incorporando una tecnología tan…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/magnet/guerra-ucrania-acaba-dar-giro-inquietante-drones-no-necesitan-ver-a-soldados-para-encontrarlos",
+      "date": "2026-11-01T06:01:26.000Z",
+      "image": "https://i.blogs.es/05cfc8/drones_grande/1024_2000.jpeg"
+    },
+    {
+      "title": "Palmer Luckey y Ben Lamm, los milmillonarios frikis detrás de los superperros de guerra",
+      "excerpt": "Vivimos tiempos extraños en los que a veces se entremezclan ciencia ficción de gran presupuesto e ideas que a priori parecen sacadas del mejor peor guion de…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://cincodias.elpais.com/opinion/2026-11-01/palmer-luckey-y-ben-lamm-los-milmillonarios-frikis-detras-de-los-superperros-de-guerra.html",
+      "date": "2026-11-01T04:40:00.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/QNB6XQEHV5HSLLVW5SR7IXBIQM.jpg?auth=cbd6db32478b69caed54976d9058123613444db223cd1c4a067777c48ae66153"
+    },
+    {
+      "title": "La banca cobra hasta 276 euros al año al cliente poco vinculado (y despistado)",
+      "excerpt": "Tener abierta una cuenta en el banco que apenas se usa puede salir muy caro. La banca española llega a cobrar hasta 276 euros al año por el mantenimiento de…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://elpais.com/economia/2026-11-01/la-banca-cobra-hasta-276-euros-al-ano-al-cliente-poco-vinculado-y-despistado.html",
+      "date": "2026-11-01T04:30:01.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/DKQEM73VMZAXFOPEWCCSMTRTMY.jpg?auth=d10fa0220c1a074a0192924763e93e20476e29672c13ae78ba1be7f9271e9444"
+    },
+    {
+      "title": "De Cos, un perfil de equilibrio y consenso para tiempos volcánicos",
+      "excerpt": "En los 40 años transcurridos desde que España entrara en la Unión Europea, por primera vez el país tiene la posibilidad de aspirar a uno de los dos cargos con…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://elpais.com/economia/2026-11-01/de-cos-un-perfil-de-equilibrio-y-consenso-para-tiempos-volcanicos.html",
+      "date": "2026-11-01T04:30:01.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/NEWSVHNYSFM6XJTBAIWY2P4654.jpg?auth=64bc897280d7c341db1e19acf40f3df4c0927fa4af1b04789d2e88e514f231fb"
+    },
+    {
+      "title": "Zamora se pone en pie de guerra por la construcción de un macrocentro de datos: “Es una manera de echarnos”",
+      "excerpt": "Una enorme extensión de campo va camino de convertirse en un macrocentro de datos puntero para la gestión de la inteligencia artificial. Todo ello ocurre en…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://elpais.com/economia/2026-11-01/zamora-se-pone-en-pie-de-guerra-por-la-construccion-de-un-macrocentro-de-datos-es-una-manera-de-echarnos.html",
+      "date": "2026-11-01T04:30:01.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/C74ISAHYGBF3HKUV65VOKFF5DE.jpg?auth=f6da93df4077ffac9040c0bbd21b05350a7bc5be750e931e7af41ca06f3650c4"
+    },
     {
       "title": "Precio de derribo para móviles de todas las gamas en el 11.11 de AliExpress (con envío desde España): hay Xiaomi, Realme, Samsung y más",
       "excerpt": "Desde hace apenas unos minutos, tenemos activa la Promo del 11.11 de AliExpress. Es el mayor evento de este marketplace y eso se traduce en, como obvio…",
@@ -48,6 +93,15 @@
       "image": "https://i.blogs.es/ee41a7/cumpleanos-espacial/1024_2000.jpeg"
     },
     {
+      "title": "Así es Nador West Med, el nuevo complejo portuario de Marruecos cerca de Melilla",
+      "excerpt": "El príncipe heredero de Marruecos, Mulay Hasán, inauguró este sábado la primera terminal de contenedores del puerto de Nador West Med -cerca de Melilla-, la…",
+      "source": "El Economista",
+      "category": "Economía",
+      "url": "https://www.eleconomista.es/economia/noticias/14024929/10/26/asi-es-nador-west-med-el-nuevo-complejo-portuario-de-marruecos-cerca-de-melilla.html",
+      "date": "2026-10-31T19:35:21.000Z",
+      "image": null
+    },
+    {
       "title": "Detenido en Valencia un menor vinculado a 'Blocus' por instigar a realizar sabotajes",
       "excerpt": "La Policía Nacional ha detenido este sábado en Valencia a un menor que distribuía permisos de 'Blocus' para entrar en aplicaciones y chats donde se llama a…",
       "source": "Europa Press Tecnología",
@@ -55,15 +109,6 @@
       "url": "https://www.europapress.es/nacional/noticia-detenido-valencia-menor-vinculado-blocus-instigar-realizar-sabotajes-20261031202733.html",
       "date": "2026-10-31T19:27:33.000Z",
       "image": "https://img.europapress.es/fotoweb/fotonoticia_20261031202733_120.jpg"
-    },
-    {
-      "title": "Desde hoy, Aldi soluciona (por 14,99 euros) un problema cotidiano en casa cuando sube la humedad por el frío y las lluvias",
-      "excerpt": "Aunque el calor ha durado hasta bien entrado el mes de octubre, en España ya hemos notado una bajada generalizada de temperaturas y las lluvias se van…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/seleccion/hoy-aldi-soluciona-14-99-euros-problema-cotidiano-casa-cuando-sube-humedad-frio-lluvias",
-      "date": "2026-10-31T19:15:27.000Z",
-      "image": "https://i.blogs.es/229d06/novedad-aldi/1024_2000.jpeg"
     },
     {
       "title": "Extraterrestres, disparos, ciencia ficción y filosofía. Esto es lo que debes saber de ‘Hope’, la película que causa sensación y se estrena en España",
@@ -91,51 +136,6 @@
       "url": "https://www.europapress.es/economia/noticia-grandes-petroleras-europeas-disparan-ganancias-mas-68000-millones-septiembre-alza-crudo-20261031182743.html",
       "date": "2026-10-31T17:27:43.000Z",
       "image": "https://img.europapress.es/fotoweb/fotonoticia_20261031182743_120.jpg"
-    },
-    {
-      "title": "Las alternativas al tren lanzan nuevas ofertas a pasajeros para paliar el déficit a Andalucía tras el accidente de Urda",
-      "excerpt": "La interrupción de la alta velocidad entre Madrid y Andalucía tras el accidente ferroviario de Urda (Toledo) ha desencadenado una carrera entre las empresas…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://elpais.com/economia/2026-10-31/las-alternativas-al-tren-lanzan-nuevas-ofertas-a-pasajeros-para-paliar-el-deficit-a-andalucia-tras-el-accidente-de-urda.html",
-      "date": "2026-10-31T15:32:29.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/TGMPPANQEJHGZCCJ5GWNM2FSMQ.jpg?auth=c8aae00dde904c83dc8dd8d56f147097d64a053156cd03a05e06cd96e7ab2e03"
-    },
-    {
-      "title": "España resiste en una eurozona con sus tres mayores economías en declive",
-      "excerpt": "El PIB español se desacelera una décima entre julio y septiembre, al 0,6%, mientras que la eurozona lo hace en dos, al 0,4%, con Francia en contracción…",
-      "source": "Expansión",
-      "category": "Economía",
-      "url": "https://www.expansion.com/economia/2026/10/31/espana-resiste-eurozona-tres-mayores-economias-declive.html",
-      "date": "2026-10-31T14:59:38.000Z",
-      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/31/17934587718898.jpg"
-    },
-    {
-      "title": "El PP critica que Puente \"busque una cabeza de turco\" en el accidente de Urda",
-      "excerpt": "El vicesecretario de Hacienda, Vivienda e Infraestructuras, Juan Bravo, ha criticado al ministro de Transportes, Óscar Puente, que busque una \"cabeza de…",
-      "source": "Expansión",
-      "category": "Economía",
-      "url": "https://www.expansion.com/economia/2026/10/31/pp-critica-puente-busque-cabeza-turco-accidente-urda.html",
-      "date": "2026-10-31T13:47:16.000Z",
-      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/31/17934544263928.jpg"
-    },
-    {
-      "title": "Claves de la nueva tasa de 2 euros a Shein, Temu y AliExpress: así funciona el recargo a las compras ‘online’ extracomunitarias",
-      "excerpt": "A partir de este domingo, la Unión Europea aplicará una tasa de gestión de dos euros a los paquetes procedentes de fuera del bloque comunitario, una medida…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://elpais.com/economia/2026-10-31/claves-de-la-nueva-tasa-de-2-euros-a-shein-temu-y-aliexpress-asi-funciona-el-recargo-a-las-compras-online-extracomunitarias.html",
-      "date": "2026-10-31T13:18:33.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/YGE77DQIJJIA3JVOFZ6IE7QYOE.jpg?auth=93c6265709a43a5320877aafcd0d7ea59dd1ba6c1bf8c1cf7a436152238a5aa1"
-    },
-    {
-      "title": "La UE empieza a cobrar una tasa de dos euros a los paquetes de fuera de la UE",
-      "excerpt": "La Unión Europea comenzará a aplicar este domingo, 1 de noviembre, una nueva tasa de gestión de dos euros por artículo a los productos adquiridos por internet…",
-      "source": "Expansión",
-      "category": "Economía",
-      "url": "https://www.expansion.com/economia/2026/10/31/ue-empieza-cobrar-tasa-dos-euros-paquetes-fuera-ue.html",
-      "date": "2026-10-31T12:38:28.000Z",
-      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/31/17934502998294.jpg"
     }
   ]
 }
