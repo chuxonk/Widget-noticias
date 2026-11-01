@@ -1,15 +1,105 @@
 {
-  "generatedAt": "2026-11-01T13:37:59.152Z",
+  "generatedAt": "2026-11-01T19:44:04.444Z",
   "count": 15,
   "items": [
     {
-      "title": "Hasta ahora, las apps de siempre solo podían hacer lo que sus creadores querían. La IA está dinamitando eso",
-      "excerpt": "Antes descargabas una aplicación para algo muy concreto que necesitabas y debías aguantar el resto de funciones extra. Para competir, los desarrolladores…",
+      "title": "Entra en vigor nueva la tasa europea de dos euros a los pequeños envíos",
+      "excerpt": "El impuesto se dedicará a financiar las aduanas que se han visto casi colapsadas. Se reciben casi 6.000 millones de paquetes al año.",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/economia/2026/11/01/entra-vigor-nueva-tasa-europea-dos-euros-pequenos-envios.html",
+      "date": "2026-11-01T19:33:53.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/01/17935616261315.jpg"
+    },
+    {
+      "title": "Hace casi mil años en un lago italiano sucedió algo impensable: dos tsunamis. Ahora sabemos quién lo provocó",
+      "excerpt": "El tres de enero de 1117, un fuerte terremoto sacudió el norte de Italia. Poco más de 100 años después, en 1222, hubo otro terremoto allí. Del de 1117 lo…",
       "source": "Xataka",
       "category": "Tecnología",
-      "url": "https://www.xataka.com/robotica-e-ia/ahora-apps-siempre-solo-podian-hacer-que-sus-creadores-querian-ia-esta-dinamitando-eso",
-      "date": "2026-11-01T13:01:28.000Z",
-      "image": "https://i.blogs.es/e09b24/vibecoding-personalizar-apps-portada/1024_2000.jpeg"
+      "url": "https://www.xataka.com/ecologia-y-naturaleza/hace-casi-mil-anos-lago-italiano-sucedio-algo-impensable-dos-tsunamis-ahora-sabemos-quien-provoco",
+      "date": "2026-11-01T19:01:27.000Z",
+      "image": "https://i.blogs.es/438e75/chris-weiher-j3i3cfivbli-unsplash/1024_2000.jpeg"
+    },
+    {
+      "title": "El ‘top’ de personajes más populares de cinco franquicias distintas",
+      "excerpt": "Si eres amante del cine, ya lo sabes: Las franquicias y sagas son el pilar económico e industrial del cine contemporáneo. También, que han transformado…",
+      "source": "Hipertextual",
+      "category": "Tecnología",
+      "url": "https://hipertextual.com/cine-television/el-top-de-personajes-mas-populares-de-cinco-franquicias-distintas/",
+      "date": "2026-11-01T19:00:00.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/Personajes-populares.jpg?fit=1024%2C819&quality=70&strip=all&ssl=1"
+    },
+    {
+      "title": "\"Decidí hacerme amiga del fantasma\": en Japón las casas encantadas se han convertido en la obsesión de los cazadores de gangas",
+      "excerpt": "Ryua vive en un pequeño apartamento del barrio de Setagaya, en Tokio, por el que debería estar pagando un alquiler de 62.000 yenes, alrededor de 350 euros…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/magnet/decidi-hacerme-amiga-fantasma-japon-casas-encantadas-se-han-convertido-obsesion-cazadores-gangas",
+      "date": "2026-11-01T18:31:27.000Z",
+      "image": "https://i.blogs.es/f8d974/patricia-haller-anguela-ztqdkb4wbnw-unsplash/1024_2000.jpeg"
+    },
+    {
+      "title": "Han atrapado una única partícula de antimateria durante meses. Si logran su objetivo, será \"el mayor descubrimiento del siglo\"",
+      "excerpt": "La antimateria es, por definición, una pesadilla experimental. Y es una pesadilla porque en el instante que entra en contacto con la materia ordinaria, ambas…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/investigacion/han-atrapado-unica-particula-antimateria-durante-meses-logran-su-objetivo-sera-mayor-descubrimiento-siglo",
+      "date": "2026-11-01T18:01:27.000Z",
+      "image": "https://i.blogs.es/b3e571/antimateria/1024_2000.jpeg"
+    },
+    {
+      "title": "Windows 11 por fin te dirá qué aplicaciones pueden verte, escucharte y rastrearte",
+      "excerpt": "La privacidad en Windows 11 recibirá una de sus mejoras más importantes de los últimos años. Microsoft comenzó a probar nuevos controles que permitirán…",
+      "source": "Hipertextual",
+      "category": "Tecnología",
+      "url": "https://hipertextual.com/software/windows-11-apps-camara-microfono-ubicacion-privacidad/",
+      "date": "2026-11-01T18:00:00.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/windows-11-lock-screen.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1"
+    },
+    {
+      "title": "Hoy en Lidl (por 6,99 euros) este pack de tres higrómetros con los que tener la humedad y temperatura de casa siempre bajo control",
+      "excerpt": "Ahora que se acerca el invierno y bajan las temperaturas y regresan las lluvias, en muchas casas sube también la humedad. Sobre todo, en zonas costeras. Algo…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/seleccion/hoy-lidl-6-99-euros-este-pack-tres-higrometros-que-tener-humedad-temperatura-casa-siempre-control",
+      "date": "2026-11-01T17:45:26.000Z",
+      "image": "https://i.blogs.es/79335a/lidl-humedad/1024_2000.jpeg"
+    },
+    {
+      "title": "Hasta nunca, Copilot: la IA de Microsoft desaparecerá pronto de tu televisor",
+      "excerpt": "Si ya te cansaste del bloatware y las funciones de IA instaladas a la fuerza en tu televisor, te traemos buenas noticias. Microsoft dejará de ofrecer soporte…",
+      "source": "Hipertextual",
+      "category": "Tecnología",
+      "url": "https://hipertextual.com/inteligencia-artificial/hasta-nunca-copilot-la-ia-de-microsoft-desaparecera-pronto-de-tu-televisor/",
+      "date": "2026-11-01T17:00:00.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2024/01/Copilot-Pro-Sugerencias.jpg?fit=1024%2C683&quality=70&strip=all&ssl=1"
+    },
+    {
+      "title": "Freeform es app desconocida de Apple. Yo la uso en el iPad para organizarme la cabeza",
+      "excerpt": "Notas la conoce todo el mundo, pero Freeform es de esas apps de Apple que caen en el cajón del olvido. O peor, directamente se desinstala. Es una pena, porque…",
+      "source": "Applesfera",
+      "category": "Tecnología",
+      "url": "https://www.applesfera.com/aplicaciones-ipados/freeform-app-desconocida-apple-yo-uso-ipad-para-organizarme-cabeza",
+      "date": "2026-11-01T16:01:28.000Z",
+      "image": "https://i.blogs.es/bc747f/freeform/1024_2000.jpeg"
+    },
+    {
+      "title": "Egipto firma un acuerdo de financiación de 1.000 millones de dólares con el Banco Mundial",
+      "excerpt": "Egipto firmó este domingo un acuerdo de financiación de 1.000 millones de dólares con el Banco Mundial (BM) para respaldar su programa de reformas económicas…",
+      "source": "El Economista",
+      "category": "Economía",
+      "url": "https://www.eleconomista.es/economia/noticias/14024988/11/26/egipto-firma-un-acuerdo-de-financiacion-de-1000-millones-de-dolares-con-el-banco-mundial.html",
+      "date": "2026-11-01T15:48:36.000Z",
+      "image": null
+    },
+    {
+      "title": "Irán continúa las negociaciones indirectas con EEUU para reabrir el estrecho de Ormuz en dos días",
+      "excerpt": "Irán informó este domingo de que continúan las conversaciones indirectas con Estados Unidos, con la mediación de Catar, acerca de un plan de dos días para…",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/economia/2026/11/01/iran-continua-negociaciones-indirectas-eeuu-reabrir-estrecho-ormuz-dos-dias.html",
+      "date": "2026-11-01T14:57:12.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/01/17935450270649.jpg"
     },
     {
       "title": "PP y Vox se personarán en la causa por el accidente de Urda y exigen al Gobierno que asuma responsabilidades",
@@ -19,51 +109,6 @@
       "url": "https://www.expansion.com/economia/2026/11/01/pp-vox-personaran-causa-accidente-urda-exigen-gobierno-asuma-responsabilidades.html",
       "date": "2026-11-01T12:48:46.000Z",
       "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/29/17932295594016.jpg"
-    },
-    {
-      "title": "Hemos llenado las ciudades de árboles para combatir el calor. Un nuevo estudio advierte que a veces pueden lograr exactamente lo contrario",
-      "excerpt": "Durante los últimos años hemos escuchado de manera reiterada que plantar árboles era una de las soluciones para combatir el cambio climático y el aumento de…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/ecologia-y-naturaleza/hemos-llenado-ciudades-arboles-para-combatir-calor-nuevo-estudio-advierte-que-a-veces-pueden-lograr-exactamente-contrario",
-      "date": "2026-11-01T12:45:26.000Z",
-      "image": "https://i.blogs.es/1c439c/arboles-ciudad/1024_2000.jpeg"
-    },
-    {
-      "title": "El PP se personará en la causa por el accidente de Urda y exige al Gobierno que asuma responsabilidades",
-      "excerpt": "El Partido Popular se personará en la causa judicial por el accidente ferroviario de Urda (Toledo) para que se investiguen los hechos hasta el final y se…",
-      "source": "Europa Press Tecnología",
-      "category": "Tecnología",
-      "url": "https://www.europapress.es/nacional/noticia-pp-personara-causa-accidente-urda-exige-gobierno-asuma-responsabilidades-20261101131641.html",
-      "date": "2026-11-01T12:16:41.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261101131641_120.jpg"
-    },
-    {
-      "title": "Antes se marcaba estatus con tonos pastel y sobriedad: ahora hemos entrado en la era de la purpurina y el brilli brilli",
-      "excerpt": "El otro día decidí desconectar de las redes sociales porque últimamente parece que no hay forma de escapar de las gemas de colores. Me aparecían cubriendo…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/magnet/antes-se-marcaba-estatus-tonos-pastel-sobriedad-ahora-hemos-entrado-era-purpurina-brilli-brilli",
-      "date": "2026-11-01T12:15:27.000Z",
-      "image": "https://i.blogs.es/3508ae/photo-1779400882876-cfb35dc7088f/1024_2000.jpeg"
-    },
-    {
-      "title": "El problema de los hogares no es que la inflación arrastre la cesta de la compra, es que los salarios no han seguido su ritmo",
-      "excerpt": "Aunque España no se ha librado de la inflación y la guerra de Irán sigue dibujando incógnitas en el horizonte, el escenario actual está lejos de parecerse al…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/magnet/problema-hogares-no-que-inflacion-arrastre-cesta-compra-que-salarios-no-han-seguido-su-ritmo",
-      "date": "2026-11-01T12:01:29.000Z",
-      "image": "https://i.blogs.es/409c38/karsten-winegeart-cztk_e89omo-unsplash/1024_2000.jpeg"
-    },
-    {
-      "title": "¿A qué hora se estrena ‘La edad dorada’ temporada 4 en HBO Max?",
-      "excerpt": "Año y medio después de su última entrega, por fin llega la temporada 4 de La edad dorada. Este drama de época que ha cautivado al mundo entero regresa con…",
-      "source": "Hipertextual",
-      "category": "Tecnología",
-      "url": "https://hipertextual.com/cine-television/a-que-hora-se-estrena-la-edad-dorada-temporada-4-en-hbo-max/",
-      "date": "2026-11-01T12:00:00.000Z",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/06/La-edad-dorada.jpg?fit=1024%2C640&quality=70&strip=all&ssl=1"
     },
     {
       "title": "Guterres reclama el derecho de autodeterminación del Sáhara Occidental tras cerrarse 35 años de presencia de la misión en el territorio",
@@ -84,24 +129,6 @@
       "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/01/17935327865807.png"
     },
     {
-      "title": "Tras la última subida de precios, este iPad Air M2 reacondicionado es una alternativa para presupuestos más ajustados",
-      "excerpt": "Cuando se trata de comprar un nuevo dispositivo, buscar uno que no sea de la generación actual puede hacernos ahorrar bastante. Sí, además, hacemos la…",
-      "source": "Applesfera",
-      "category": "Tecnología",
-      "url": "https://www.applesfera.com/seleccion/ultima-subida-precios-este-ipad-air-m2-reacondicionado-alternativa-para-presupuestos-ajustados",
-      "date": "2026-11-01T11:31:28.000Z",
-      "image": "https://i.blogs.es/96bd54/ipad-air-m2-portada-applesfera/1024_2000.jpeg"
-    },
-    {
-      "title": "La senadora con mayor patrimonio inmobiliario no irá en las listas del PP para el 29N",
-      "excerpt": "La dirigente 'popular' María Salom Coll, que fue la senadora de la legislatura pasada con un mayor patrimonio inmobiliario al acumular unos diez inmuebles…",
-      "source": "Europa Press Tecnología",
-      "category": "Tecnología",
-      "url": "https://www.europapress.es/nacional/noticia-senadora-mayor-patrimonio-inmobiliario-no-ira-listas-pp-29n-20261101121947.html",
-      "date": "2026-11-01T11:19:47.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261101121947_120.jpg"
-    },
-    {
       "title": "Amancio Ortega ingresará 3.234 millones en dividendos de Inditex tras cobrar 1.617 millones este lunes",
       "excerpt": "El fundador y primer accionista de Inditex, Amancio Ortega, ingresará este año un total de 3.234 millones de euros en concepto de dividendos de la compañía…",
       "source": "Europa Press",
@@ -109,33 +136,6 @@
       "url": "https://www.europapress.es/economia/noticia-amancio-ortega-ingresara-3234-millones-dividendos-inditex-cobrar-1617-millones-lunes-20261101115952.html",
       "date": "2026-11-01T10:59:52.000Z",
       "image": "https://img.europapress.es/fotoweb/fotonoticia_20261101115952_120.jpg"
-    },
-    {
-      "title": "Las gestoras esperan un repunte en los mercados tras las elecciones 'midterms' en EEUU",
-      "excerpt": "Las gestoras prevén que la celebración de las elecciones de medio mandato ('midterms') en Estados Unidos del 3 de noviembre tengan un impacto limitado en los…",
-      "source": "Europa Press",
-      "category": "Economía",
-      "url": "https://www.europapress.es/economia/finanzas-00340/noticia-gestoras-esperan-repunte-mercados-elecciones-midterms-eeuu-20261101115052.html",
-      "date": "2026-11-01T10:50:52.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261101115052_120.jpg"
-    },
-    {
-      "title": "La inflación se enquista en España: el 52% de los expertos la ve ya como estructural",
-      "excerpt": "El 52% de los expertos, empresarios y directivos consultados por PwC considera que el repunte de los precios en España marca el inicio de una fase de…",
-      "source": "El Economista",
-      "category": "Economía",
-      "url": "https://www.eleconomista.es/economia/noticias/14024946/11/26/la-inflacion-se-enquista-en-espana-el-52-de-los-expertos-la-ve-ya-como-estructural.html",
-      "date": "2026-11-01T10:15:24.000Z",
-      "image": null
-    },
-    {
-      "title": "El Senado gastará 1,1 millones en comprar 325 móviles y 325 tablets para la nueva legislatura",
-      "excerpt": "El Senado tiene previsto gastar hasta 1.150.999,44 euros (IVA incluido) en 325 teléfonos móviles y 325 tablets para los nuevos miembros de la Cámara Alta tras…",
-      "source": "El Economista",
-      "category": "Economía",
-      "url": "https://www.eleconomista.es/economia/noticias/14024941/11/26/el-senado-gastara-11-millones-en-comprar-325-moviles-y-325-tablets-para-la-nueva-legislatura.html",
-      "date": "2026-11-01T09:50:23.000Z",
-      "image": null
     }
   ]
 }
