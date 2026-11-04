@@ -1,15 +1,87 @@
 {
-  "generatedAt": "2026-11-03T23:28:09.954Z",
+  "generatedAt": "2026-11-04T06:35:25.213Z",
   "count": 15,
   "items": [
     {
-      "title": "Las ‘midterms’ 2026, en vivo | Cierran los primeros colegios electorales y empieza el recuento de los votos al Congreso",
-      "excerpt": "Los colegios electorales de algunas zonas de Kentucky e Indiana han cerrado sus puertas y comenzado el escrutinio en unas elecciones legislativas en las que…",
+      "title": "El dólar y los futuros de Wall Street caen tras la victoria demócrata en las ‘midterms’ ante el posible coto a las empresas de IA",
+      "excerpt": "El giro político en Estados Unidos, con la victoria demócrata en ambas cámaras del Congreso en las elecciones de mitad de legislatura, provoca este miércoles…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-11-04/reaccion-del-dolar-las-bolsas-y-el-ibex-35-al-resultado-de-las-midterms.html",
+      "date": "2026-11-04T06:32:59.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/KS5FUUG6EFMLNB4AWN2ZCA7GAU.jpg?auth=4525617f9bd03873af8d4e54e53bce2bbfbcb983323ae9ac73a2dcbb8ee6b57c"
+    },
+    {
+      "title": "Las ‘midterms’ 2026, en vivo | Vuelco político en Estados Unidos: los demócratas logran el control total del Congreso en un duro castigo a Trump",
+      "excerpt": "Seguir leyendo",
       "source": "Cinco Días",
       "category": "Economía",
       "url": "https://elpais.com/us/2026-11-03/las-midterms-2026-en-vivo.html",
-      "date": "2026-11-03T23:21:13.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/S3S53UZYKJCXTLJHBYO2VGGVEI.jpg?auth=2968bd565843ac41c09a52df41f3065c934434975be9c79b3d56430dc6d39ad1"
+      "date": "2026-11-04T06:22:34.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/OGOS67X725O7VPZSHLROM2OXBY.jpg?auth=da90c94d61061f8fb9d4035a52e36b1bf34e0ad56d4226ebe4438cd018fc5487"
+    },
+    {
+      "title": "La Antártida esconde un secreto bajo sus suelos helados: el 91 % de las cepas de una bacteria analizada solo aparece allí",
+      "excerpt": "La Antártida se ve como un paraje donde solo se pueden encontrar pingüinos, pero la realidad es que también es una tierra que puede llegar a fascinar a…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/ecologia-y-naturaleza/antartida-esconde-secreto-sus-suelos-helados-91-cepas-bacteria-analizada-solo-aparece-alli",
+      "date": "2026-11-04T06:01:28.000Z",
+      "image": "https://i.blogs.es/331cad/antartida/1024_2000.jpeg"
+    },
+    {
+      "title": "Un tsunami demócrata arrasa EEUU, cambia el mapa político del país y deja a Trump maniatado para los próximos años",
+      "excerpt": "Las encuestas se equivocaron, pero esta vez a favor de los demócratas. Con las urnas recién cerradas en el oeste del país, los demócratas han arrasado a nivel…",
+      "source": "El Economista",
+      "category": "Economía",
+      "url": "https://www.eleconomista.es/economia/noticias/14025443/11/26/un-tsunami-democrata-arrasa-eeuu-cambia-el-mapa-politico-del-pais-y-deja-a-trump-maniatado-para-los-proximos-anos.html",
+      "date": "2026-11-04T05:29:09.000Z",
+      "image": null
+    },
+    {
+      "title": "Los expertos de Trabajo recomiendan que el salario mínimo suba un 4,9% en 2027, hasta los 1.281 euros al mes",
+      "excerpt": "El equipo de expertos reunido por el Ministerio de Trabajo tiene ya lista su recomendación sobre la próxima subida del salario mínimo, la pieza clave que…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://elpais.com/economia/2026-11-04/los-expertos-de-trabajo-recomiendan-que-el-salario-minimo-suba-un-49-en-2027-hasta-los-1281-euros-al-mes.html",
+      "date": "2026-11-04T04:45:01.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/BOTUTYA65RDYBCQK2FQY4HC4GY.jpg?auth=9d6e4462970ea1faa23efbe74946a1069846791dcd4b83aa60155d7336d73649"
+    },
+    {
+      "title": "Los demócratas reconquistan el Senado de EEUU y restringen el poder de Trump",
+      "excerpt": "Un tsunami de voto azul recorre Estados Unidos, dejando a los republicanos sin el control algunos de sus feudos tradicionales, el Senado y la Cámara de…",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/economia/2026/11/04/democratas-reconquistan-senado-eeuu-restringen-trump.html",
+      "date": "2026-11-04T04:39:53.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/04/17937671889233.jpg"
+    },
+    {
+      "title": "Puente dimite para intentar salvar la campaña del PSOE pese al respaldo de Sánchez a su gestión",
+      "excerpt": "Óscar Puente decidió finalmente dimitir y abandonar la política de primer nivel para intentar salvar la campaña del PSOE, muy tocada después del segundo…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://elpais.com/espana/2026-11-04/puente-se-aparta-para-intentar-salvar-la-campana-del-psoe-pese-al-respaldo-de-sanchez-a-su-gestion.html",
+      "date": "2026-11-04T04:30:01.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/65ITZQ6NZBBSLKKUYGQK726YMA.jpg?auth=ce96d40e5ce161bf198ef66f2bd536b099b9d9fa0f9c261d7f797f6d9954a345"
+    },
+    {
+      "title": "Los empresarios iberoamericanos exigen seguridad jurídica para blindar la inversión",
+      "excerpt": "Las patronales reclaman continuidad en las políticas que afectan al tejido productivo y que no se cambien las reglas del juego en función de la idelogía de…",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/economia/2026/11/04/empresarios-iberoamericanos-exigen-seguridad-juridica-blindar-inversion.html",
+      "date": "2026-11-04T00:09:49.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/04/17937509828479.jpg"
+    },
+    {
+      "title": "Windows 11 recibe una mejora que promete salvar a millones de computadoras antiguas",
+      "excerpt": "Uno de los requisitos más estrictos de Windows 11 después del arranque seguro eran los 16 GB de RAM. Si bien el sistema se podía instalar en ordenadores con…",
+      "source": "Hipertextual",
+      "category": "Tecnología",
+      "url": "https://hipertextual.com/software/windows-11-mejora-rendimiento-pcs-8-gb-ram/",
+      "date": "2026-11-03T23:37:41.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2022/01/Windows-11.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1"
     },
     {
       "title": "Madrid lanza una línea de avales para facilitar la compra de casa sobre plano",
@@ -19,15 +91,6 @@
       "url": "https://www.expansion.com/economia/2026/11/04/madrid-lanza-linea-avales-facilitar-compra-casa-sobre-plano.html",
       "date": "2026-11-03T23:11:19.000Z",
       "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/04/17937474711568.jpg"
-    },
-    {
-      "title": "‘Midterms’: EEUU vota dividido tras la campaña más cara de la historia",
-      "excerpt": "Demócratas y republicanos movilizan casi 12.000 millones de dólares de fondos en las elecciones legislativas de medio mandato más focalizadas en el presidente…",
-      "source": "Expansión",
-      "category": "Economía",
-      "url": "https://www.expansion.com/economia/2026/11/03/midterms-eeuu-vota-dividido-campana-cara-historia.html",
-      "date": "2026-11-03T21:53:38.000Z",
-      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/03/17937428163604.jpg"
     },
     {
       "title": "Sánchez respalda a Puente por \"dar la cara\" y dimitir \"por las víctimas\": \"Dignifica nuestro país\"",
@@ -46,42 +109,6 @@
       "url": "https://www.europapress.es/nacional/noticia-abascal-exige-sanchez-dimitir-vez-esconderse-detras-esbirros-responsabilidad-suya-20261103224058.html",
       "date": "2026-11-03T21:40:58.000Z",
       "image": "https://img.europapress.es/fotoweb/fotonoticia_20261103224058_120.jpg"
-    },
-    {
-      "title": "Última hora del accidente de trenes de Urda, en Toledo, en directo | Óscar Puente dimite: “Un ministro no puede continuar en su puesto con un accidente de este tipo”",
-      "excerpt": "El ministro de Transportes, Óscar Puente, ha anunciado su dimisión tras la tragedia ferroviaria que ha causado 69 víctimas mortales en Urda: “Un ministro de…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://elpais.com/espana/2026-11-03/ultima-hora-del-accidente-de-trenes-de-urda-en-toledo-en-directo.html",
-      "date": "2026-11-03T21:38:19.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/WFL3CPHYQZFHBCJ4GSN5HGDIRQ.jpg?auth=c05e832bcac9f4d921c275d10515122cec6d5f4db0022ba1623e86f5ef03712c"
-    },
-    {
-      "title": "Óscar Puente, el sustituto de Ábalos que sonaba como relevo de Sánchez al frente del PSOE",
-      "excerpt": "El ya exministro de Transportes llegó al Ministerio hace tres años para sustituir al condenado José Luis Ábalos y se situó como uno de los políticos más…",
-      "source": "Expansión",
-      "category": "Economía",
-      "url": "https://www.expansion.com/economia/2026/11/03/oscar-puente-sustituto-abalos-sonaba-relevo-sanchez-frente-psoe.html",
-      "date": "2026-11-03T21:09:50.000Z",
-      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/03/17937401833170.jpg"
-    },
-    {
-      "title": "Óscar Puente dimite “por dignidad”: “Quiero estar a la altura de mi país”",
-      "excerpt": "Óscar Puente dice que decidió dimitir como ministro de Transportes solo unos minutos después de que tuvo noticia del trágico accidente ferroviario de Urda. Lo…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://elpais.com/espana/2026-11-03/oscar-puente-dimite-por-dignidad-quiero-estar-a-la-altura-de-mi-pais.html",
-      "date": "2026-11-03T21:08:30.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/O5RQVIAHSRDINOT57EDW3RTDXU.jpg?auth=beefb755e9a52fa263114a4e223eb9f1bb415aaf5f866d879fc1f0b14e4868cc"
-    },
-    {
-      "title": "El PP dice que la dimisión de Puente \"llega 116 muertes tarde\" y Rufián afirma que ha sido \"un gran ministro\"",
-      "excerpt": "La portavoz del PP en el Congreso, Ester Muñoz, ha señalado este martes, tras anunciar el ministro de Transportes y Movilidad Sostenible, Óscar Puente, su…",
-      "source": "Expansión",
-      "category": "Economía",
-      "url": "https://www.expansion.com/economia/2026/11/03/pp-dice-dimision-puente-llega-116-muertes-tarde-rufian-afirma-sido-gran-ministro.html",
-      "date": "2026-11-03T21:01:07.000Z",
-      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/03/17937396542504.png"
     },
     {
       "title": "Prepárate para ver todavía más anuncios en Reddit",
@@ -109,33 +136,6 @@
       "url": "https://www.xataka.com/movilidad/oscar-puente-anuncia-su-dimision-como-ministro-transportes",
       "date": "2026-11-03T20:41:00.000Z",
       "image": "https://i.blogs.es/1f105d/oscar-puente/1024_2000.jpeg"
-    },
-    {
-      "title": "Puente dimite como ministro y candidato del PSOE: \"Es una decisión de empatía con las víctimas\"",
-      "excerpt": "El ministro de Transportes y Movilidad Sostenible, Óscar Puente, ha anunciado este martes en la Diputación Permanente del Congreso su dimisión como miembro…",
-      "source": "Europa Press",
-      "category": "Economía",
-      "url": "https://www.europapress.es/economia/transportes-00343/noticia-puente-avanza-dimision-tragedia-urda-decision-empatia-victimas-20261103211310.html",
-      "date": "2026-11-03T20:13:10.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261103211310_120.jpg"
-    },
-    {
-      "title": "Almacenamiento en la nube, VPN, correo y más: esta alternativa europea a Google Drive inaugura el Black Friday con un 87 % de descuento",
-      "excerpt": "Ya estamos en noviembre, mes de, como ya sabéis, el Black Friday. Es un momento en el que nos lanzamos a renovar dispositivos como móviles, electrodomésticos…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/seleccion/almacenamiento-nube-vpn-correo-esta-alternativa-europea-a-google-drive-inaugura-black-friday-87-descuento",
-      "date": "2026-11-03T20:01:27.000Z",
-      "image": "https://i.blogs.es/c2628e/internxt_blackmonth_xataka_es_1350x900_2x/1024_2000.jpeg"
-    },
-    {
-      "title": "Netflix tiene una nueva IA que elige qué ver según tu estado de ánimo",
-      "excerpt": "Uno de los problemas más grandes de Netflix y otros sistemas de video en streaming es encontrar qué ver. Las compañías han invertido en algoritmos que…",
-      "source": "Hipertextual",
-      "category": "Tecnología",
-      "url": "https://hipertextual.com/cine-television/netflix-ai-discover-funcion-ia-encontrar-contenido/",
-      "date": "2026-11-03T20:01:00.000Z",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/11/AI-Discover-Netflix.jpg?fit=1024%2C573&quality=70&strip=all&ssl=1"
     }
   ]
 }
