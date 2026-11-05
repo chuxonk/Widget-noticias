@@ -1,7 +1,61 @@
 {
-  "generatedAt": "2026-11-04T23:44:27.944Z",
+  "generatedAt": "2026-11-05T06:56:04.277Z",
   "count": 15,
   "items": [
+    {
+      "title": "El salario mínimo subirá un 5,3% en 2027, hasta 1.286 euros al mes",
+      "excerpt": "El Ministerio de Trabajo tiene ya la subida definitiva que aplicará al salario mínimo en 2027. Ese suelo salarial subirá un 5,3%, según el texto que publicó…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://elpais.com/economia/2026-11-05/el-salario-minimo-subira-un-53-en-2027-hasta-1286-euros-al-mes.html",
+      "date": "2026-11-05T06:49:00.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/SWX2LGGUDJMQBILEN42D6XRRWU.jpg?auth=41be50f12b25aaa33719333bd0eb7de663eac915247658623a183d1d3122129b"
+    },
+    {
+      "title": "Lidl tiene una chimenea eléctrica (sin humos ni obras) perfecta para calentar tu hogar este invierno",
+      "excerpt": "Llega el descenso de las temperaturas y con él la eterna búsqueda de soluciones para mantener el salón o el dormitorio cálidos sin que la factura de la luz o…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/seleccion/lidl-tiene-chimenea-electrica-humos-obras-perfecta-para-calentar-tu-hogar-este-invierno",
+      "date": "2026-11-05T06:45:24.000Z",
+      "image": "https://i.blogs.es/5d8fca/lidl-12-/1024_2000.jpeg"
+    },
+    {
+      "title": "“No todos los tokens que producen los modelos valen lo mismo”: Dario Amodei sugiere un modelo de precios dinámicos en función de la tarea",
+      "excerpt": "Anthropic presentó hace unos días el formulario que describe su negocio, finanzas y riesgos ante su inminente salida a bolsa, una que promete hacer historia…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/empresas-y-economia/no-todos-tokens-que-producen-modelos-valen-dario-amodei-sugiere-modelo-precios-dinamicos-funcion-tarea",
+      "date": "2026-11-05T06:01:22.000Z",
+      "image": "https://i.blogs.es/b141e8/amodei/1024_2000.png"
+    },
+    {
+      "title": "Signo dispar en las Bolsas por la rotación de activos tras la victoria demócrata en EE UU",
+      "excerpt": "La contundente victoria de los demócratas en las elecciones de mitad de mandato de EE UU ha provocado una operación de rotación de valores, dada la inquietud…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-11-05/la-bolsa-y-el-ibex-35.html",
+      "date": "2026-11-05T05:34:11.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/372WH5FLUZFWVLCUR7BD5ZUHUU.jpg?auth=0dd18518b7e8afa5efc714873d49eec02d3ee4b3a4b84b499a95693197eb5c36"
+    },
+    {
+      "title": "La regularización de extranjeros impulsa un 15% la contratación de empleadas del hogar respecto a hace un año",
+      "excerpt": "La Seguridad Social cuenta con 3,7 millones de afiliados extranjeros, de los cuales medio millón proceden del proceso de regularización que se llevó a cabo en…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://elpais.com/economia/2026-11-05/la-regularizacion-de-extranjeros-impulsa-un-15-la-contratacion-de-empleadas-del-hogar-respecto-a-hace-un-ano.html",
+      "date": "2026-11-05T04:45:01.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/BQ6CEHWCXRCAVPHZTOUVBHGFB4.jpg?auth=251018032b403f45624bbea13d4be77a14edc4f50bee29acc02731bba2ccae7f"
+    },
+    {
+      "title": "El Gobierno alerta de que la luz se triplicará con la entrada descontrolada de ‘data centers’",
+      "excerpt": "Una entrada masiva y sin control de centros de datos en España multiplicará por tres el coste variable de generación eléctrica (+200%), obligará a quemar un…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://elpais.com/economia/2026-11-05/el-gobierno-alerta-de-que-la-luz-se-triplicara-con-la-entrada-descontrolada-de-data-centers.html",
+      "date": "2026-11-05T04:45:00.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/LMXI7ER43NFDFMXV2Y3EYCCSKQ.jpg?auth=84664a4dbc07d22fd988780f467c35288b7d006915d9f81829dbaea18d05ca3e"
+    },
     {
       "title": "El tsunami demócrata acota el poder de Trump: de control del Capitolio al 'impeachment'",
       "excerpt": "El presidente de EEUU mantiene su poder de veto y las capacidad de firmar órdenes ejecutivas pero los demócratas pueden torcerle el brazo en las votaciones…",
@@ -57,15 +111,6 @@
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/11/bolsa-sangre.jpg?fit=1024%2C683&quality=70&strip=all&ssl=1"
     },
     {
-      "title": "Los mercados celebran el histórico vuelco político en Estados Unidos",
-      "excerpt": "Los mercados prefieren las certezas, sean del color que sean, frente a la incertidumbre. El vuelco político en Estados Unidos, con la sólida victoria…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-11-04/reaccion-del-dolar-las-bolsas-y-el-ibex-35-al-resultado-de-las-midterms.html",
-      "date": "2026-11-04T21:13:37.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/KS5FUUG6EFMLNB4AWN2ZCA7GAU.jpg?auth=4525617f9bd03873af8d4e54e53bce2bbfbcb983323ae9ac73a2dcbb8ee6b57c"
-    },
-    {
       "title": "Comprar electricidad barata y venderla cara: el negocio de las baterías eléctricas tiene un enemigo inesperado",
       "excerpt": "El auge de las renovables, especialmente de la energía solar, ha creado una nueva oportunidad para el negocio de las baterías. Si algo hemos visto en los…",
       "source": "Xataka",
@@ -84,24 +129,6 @@
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/god-of-war-laufey.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1"
     },
     {
-      "title": "Díaz se encamina a su primer aumento del salario mínimo sin acuerdo con los sindicatos para aprobarlo antes del 29-N",
-      "excerpt": "El Ministerio de Trabajo está decidido a que el salario mínimo interprofesional (SMI) de 2027 quede regulado antes de las elecciones generales del 29 de…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://elpais.com/economia/2026-11-04/diaz-se-encamina-a-su-primer-aumento-del-salario-minimo-sin-acuerdo-con-los-sindicatos-para-aprobarlo-antes-del-29-n.html",
-      "date": "2026-11-04T20:15:58.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/XZGZKMLYONPV7FNVC5HZNTPWSM.jpg?auth=96e13ae7fa6df7fd2d192a6b5a1e83e183cb58fc611225f9b1bc4152c3f3c4f6"
-    },
-    {
-      "title": "Los ciberataques siguen afectando a empresas europeas y ahora golpean al banco francés Crédit Mutuel Arkéa",
-      "excerpt": "Cuando hablamos de ciberataques a bancos, es fácil imaginar cuentas vaciadas o clientes que no pueden acceder a su dinero. Sin embargo, la seguridad de una…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/seguridad/ciberataques-siguen-afectando-a-empresas-europeas-ahora-golpean-al-banco-frances-credit-mutuel-arkea",
-      "date": "2026-11-04T20:01:26.000Z",
-      "image": "https://i.blogs.es/a373c3/credit-mutuel-arkea/1024_2000.jpeg"
-    },
-    {
       "title": "Feijóo, a los que le llaman \"aburrido\" o le afean no colgar listas en Spotify: \"No me presento para entretener\"",
       "excerpt": "El líder del PP y candidato a la Presidencia del Gobierno, Alberto Núñez Feijóo, ha dicho este miércoles que es \"muy consciente de las críticas\" que le hacen…",
       "source": "Europa Press Tecnología",
@@ -109,33 +136,6 @@
       "url": "https://www.europapress.es/nacional/noticia-feijoo-le-llaman-aburrido-le-afean-no-colgar-listas-spotify-no-me-presento-entretener-20261104204806.html",
       "date": "2026-11-04T19:48:06.000Z",
       "image": "https://img.europapress.es/fotoweb/fotonoticia_20261104204806_120.jpg"
-    },
-    {
-      "title": "Honor prepara un móvil con una batería que podría durar una semana",
-      "excerpt": "La autonomía es una de las características clave para aquellos que quieren comprar un nuevo móvil. Aunque la mayoría de los fabricantes se enfocan en la…",
-      "source": "Hipertextual",
-      "category": "Tecnología",
-      "url": "https://hipertextual.com/mobile/honor-movil-bateria-15000-mah-semana-autonomia/",
-      "date": "2026-11-04T19:30:00.000Z",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/01/honor-magic-8-lite-04.jpg?fit=1024%2C684&quality=70&strip=all&ssl=1"
-    },
-    {
-      "title": "Sánchez anima a los países iberoamericanos a seguir los pasos de Canadá y acercarse más a Europa en lugar de EEUU",
-      "excerpt": "El presidente del Gobierno, Pedro Sánchez, ha animado a los países iberoamericanos a seguir los pasos de Canadá que ha optado por acercarse más a Europa ante…",
-      "source": "Europa Press Tecnología",
-      "category": "Tecnología",
-      "url": "https://www.europapress.es/nacional/noticia-sanchez-anima-paises-iberoamericanos-seguir-pasos-canada-acercarse-mas-europa-lugar-eeuu-20261104202908.html",
-      "date": "2026-11-04T19:29:08.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261104202908_120.jpg"
-    },
-    {
-      "title": "Las acciones de defensa se hunden tras la victoria demócrata",
-      "excerpt": "La contundente victoria demócrata en las elecciones de Estados Unidos ha desatado una ola de ventas en Bolsa de los valores relacionados con la defensa. Tras…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-11-04/las-acciones-de-defensa-se-hunden-tras-la-victoria-democrata.html",
-      "date": "2026-11-04T18:28:14.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/2PPXXK22DZJL5DM4T2AI6YOY7Q.jpg?auth=558d6dfe0aeadd996f0c9ee8dee7681ad1e9052f1e2808557050c5e8361140d1"
     }
   ]
 }
