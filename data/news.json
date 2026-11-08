@@ -1,15 +1,78 @@
 {
-  "generatedAt": "2026-11-08T17:57:27.229Z",
+  "generatedAt": "2026-11-08T22:12:49.200Z",
   "count": 15,
   "items": [
     {
-      "title": "Las mariposas tienen un truco oculto en sus alas para escapar de los depredadores: engañar a su cerebro",
-      "excerpt": "Una de las grandes preguntas que podemos tener en la cabeza está precisamente en por qué las mariposas cuentan con deslumbrantes patrones geométricos y…",
+      "title": "Adif niega que haya blindado el cobro de un \"bonus\" para \"la cúpula\" de la empresa",
+      "excerpt": "Adif ha negado que la empresa blindara el cobro de un \"bonus\" para la dirección de la compañía y ha manifestado su \"total rechazo\" a estas afirmaciones, que…",
+      "source": "Europa Press",
+      "category": "Economía",
+      "url": "https://www.europapress.es/economia/transportes-00343/noticia-adif-niega-haya-blindado-cobro-bonus-cupula-empresa-20261108221852.html",
+      "date": "2026-11-08T21:18:52.000Z",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261108221852_120.jpg"
+    },
+    {
+      "title": "Trump afirma que es \"muy improbable\" que reanude los ataques contra Irán si avanzan las negociaciones",
+      "excerpt": "El presidente de Estados Unidos, Donald Trump, declaró este domingo que es \"muy improbable\" que reanude los ataques a gran escala contra Irán siempre que haya…",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/economia/2026/11/08/trump-afirma-improbable-reanude-ataques-iran-avanzan-negociaciones.html",
+      "date": "2026-11-08T20:58:10.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/08/17941714854011.jpg"
+    },
+    {
+      "title": "Valencia sabía desde 2003 el lugar en el que se inundaría: por qué la humanidad sigue viviendo en zonas catastróficas",
+      "excerpt": "Hace apenas unas semanas, la dana Adam volvió a convertir en ríos las calles de Oliva, Pego o Els Poblets: helicópteros rescatando a vecinos de los tejados…",
       "source": "Xataka",
       "category": "Tecnología",
-      "url": "https://www.xataka.com/ecologia-y-naturaleza/mariposas-tienen-truco-oculto-sus-alas-para-escapar-depredadores-enganar-a-su-cerebro",
-      "date": "2026-11-08T17:01:08.000Z",
-      "image": "https://i.blogs.es/66d20c/alas-mariposa/1024_2000.jpeg"
+      "url": "https://www.xataka.com/ecologia-y-naturaleza/valencia-sabia-2003-lugar-que-se-inundaria-que-humanidad-sigue-viviendo-zonas-catastroficas",
+      "date": "2026-11-08T20:31:06.000Z",
+      "image": "https://i.blogs.es/b5b59f/dana_alfafar_coches-1-/1024_2000.jpeg"
+    },
+    {
+      "title": "China está construyendo una grúa capaz de levantar 14.000 toneladas. Necesita dos unidades trabajando juntas",
+      "excerpt": "China lleva décadas demostrando hasta dónde puede llegar la ingeniería cuando se propone construir a una escala extraordinaria. Ahí tenemos la presa de las…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/ingenieria-y-megaconstrucciones/china-esta-construyendo-grua-capaz-levantar-14-000-toneladas-necesita-dos-unidades-trabajando-juntas",
+      "date": "2026-11-08T20:01:07.000Z",
+      "image": "https://i.blogs.es/2c4478/xcmg-1/1024_2000.jpeg"
+    },
+    {
+      "title": "Hace 110 años, el guanaco se extinguió de una parte de Argentina. Un viaje de 3.200 kilómetros lo trajo de vuelta",
+      "excerpt": "El Gran Chaco es, después de la Amazonia, el segundo bioma más extenso de toda América del Sur y se extiende por Argentina, Bolivia, Brasil y Paraguay…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/ecologia-y-naturaleza/hace-110-anos-guanaco-se-extinguio-parte-argentina-viaje-3-200-kilometros-trajo-vuelta",
+      "date": "2026-11-08T19:31:07.000Z",
+      "image": "https://i.blogs.es/4bb5ad/guanaco_patagonico/1024_2000.jpeg"
+    },
+    {
+      "title": "Hoy en Ikea (por 24,99 euros) la solución 5 en 1 para tener enchufes en las esquinas de las paredes y los rincones desaprovechados de casa",
+      "excerpt": "Con la cantidad de dispositivos electrónicos que usamos en nuestro día a día, tanto los que van conectados siempre a la corriente eléctrica como los que hay…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/seleccion/hoy-ikea-24-99-euros-solucion-5-1-para-tener-enchufes-esquinas-paredes-rincones-desaprovechados-casa",
+      "date": "2026-11-08T19:15:06.000Z",
+      "image": "https://i.blogs.es/20b22d/ikea-solucion/1024_2000.jpeg"
+    },
+    {
+      "title": "El iPod no ha muerto: esta aplicación convierte tu móvil, PC y Mac en el mítico reproductor de Apple",
+      "excerpt": "El final del iPod llegó oficialmente en 2022, cuando Apple anunciaba que este dispositivo dejaba de estar a la venta y de fabricarse. Un dispositivo que…",
+      "source": "Hipertextual",
+      "category": "Tecnología",
+      "url": "https://hipertextual.com/guias/ipod-apple-app-reproductor-musica-classipod/",
+      "date": "2026-11-08T19:00:00.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/11/Siluetas-iPod-Publicidad-2003.jpg?fit=1024%2C683&quality=70&strip=all&ssl=1"
+    },
+    {
+      "title": "¿De qué va la extraña serie documental mexicana ‘Poeta caníbal’ que acaba de llegar a HBO Max?",
+      "excerpt": "Poeta caníbal, el nuevo true crime mexicano que acaba de estrenarse en HBO Max, cuenta un oscuro episodio del mundo criminal del país. Pero también es un…",
+      "source": "Hipertextual",
+      "category": "Tecnología",
+      "url": "https://hipertextual.com/cine-television/de-que-va-la-extrana-serie-documental-mexicana-poeta-canibal-que-acaba-de-llegar-a-hbo-max/",
+      "date": "2026-11-08T18:00:00.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/11/Poeta-Can%C2%B4pibal.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1"
     },
     {
       "title": "Steve Jobs tenía un equipo exclusivamente dedicado a abrir cajas durante todo el día. Estas eran sus razones",
@@ -39,51 +102,6 @@
       "image": null
     },
     {
-      "title": "Resulta que el \"rey\" que llevó a Roma hasta Britania era una mujer: la pista estaba en sus monedas",
-      "excerpt": "En el año 43 d.C., el Imperio Romano invadió Britania, si bien desde hace poco sabemos que su \"conquista\" había empezado antes. El historiador Dion Casio…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/magnet/resulta-que-rey-que-llevo-a-roma-britania-era-mujer-pista-estaba-sus-monedas",
-      "date": "2026-11-08T16:31:07.000Z",
-      "image": "https://i.blogs.es/f7c4ad/stater_of_verica/1024_2000.jpeg"
-    },
-    {
-      "title": "El cangrejo azul no tenía depredadores naturales en el mediterráneo, hasta que el pulpo empezó a tener hambre",
-      "excerpt": "El 2 de octubre de 2022, un buceador fotografió una hembra de cangrejo azul caminando por la arena de San Antoni de Portmany en Ibiza. Le faltaba una pinza y…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/ecologia-y-naturaleza/cangrejo-azul-no-tenia-depredadores-naturales-mediterraneo-que-pulpo-empezo-a-tener-hambre",
-      "date": "2026-11-08T16:01:06.000Z",
-      "image": "https://i.blogs.es/537866/meressa-chartrand-eki3rr2vkzo-unsplash-1-1-/1024_2000.jpeg"
-    },
-    {
-      "title": "Hay 11 películas clásicas y modernas que se pueden ver gratis con Apple TV en noviembre",
-      "excerpt": "Aunque hay muy buenas películas en Apple TV, la plataforma también trae de regalo 11 películas cada mes para todos aquellos que estén suscritos. Y este…",
-      "source": "Applesfera",
-      "category": "Tecnología",
-      "url": "https://www.applesfera.com/apple-tv/hay-11-peliculas-clasicas-modernas-que-se-pueden-ver-gratis-apple-tv-noviembre",
-      "date": "2026-11-08T16:01:06.000Z",
-      "image": "https://i.blogs.es/6bc3ba/apple-tv/1024_2000.jpeg"
-    },
-    {
-      "title": "3 razones para ver la nueva y espectacular temporada de ‘La edad dorada’ en HBO Max",
-      "excerpt": "La edad dorada ya estrenó el primer capítulo de su cuarta temporada en HBO Max y sorprendió. En especial, porque el regreso al convulso Nueva York del año…",
-      "source": "Hipertextual",
-      "category": "Tecnología",
-      "url": "https://hipertextual.com/cine-television/3-razones-para-ver-la-nueva-y-espectacular-temporada-de-la-edad-dorada-en-hbo-max/",
-      "date": "2026-11-08T16:00:00.000Z",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/11/La-edad-dorada-calendario.jpg?fit=1024%2C614&quality=70&strip=all&ssl=1"
-    },
-    {
-      "title": "Nano está reducido, pero no recortado: Xbox apuesta por un mando apto para manos pequeñas y de cautivadora estética retro",
-      "excerpt": "Con un panorama navideño absolutamente huérfano de lanzamientos de hardware, los grandes nombres del sector intentan sacudir un poco los bolsillos con…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/videojuegos/nano-esta-reducido-no-recortado-xbox-apuesta-mando-apto-para-manos-pequenas-cautivadora-estetica-retro",
-      "date": "2026-11-08T15:01:05.000Z",
-      "image": "https://i.blogs.es/e15829/whatsapp-image-2026-11-05-at-16.33.24/1024_2000.jpeg"
-    },
-    {
       "title": "El Eurogrupo examina este lunes las candidaturas de Hernández de Cos y Knot para presidir el BCE",
       "excerpt": "Los ministros de Economía y Finanzas de la zona euro (Eurogrupo) examinarán este lunes en Bruselas las candidaturas del español Pablo Hernández de Cos y el…",
       "source": "Europa Press",
@@ -111,15 +129,6 @@
       "image": "https://img.europapress.es/fotoweb/fotonoticia_20261108121149_120.jpg"
     },
     {
-      "title": "Solaria y Enagás, las empresas del Ibex 35 que más sufren el 'ataque' de los bajistas",
-      "excerpt": "Solaria y Enagás son las compañías del Ibex 35 que más sufren los 'ataques' bajistas por parte de los 'hedge funds', por delante de otros 14 valores que…",
-      "source": "Europa Press",
-      "category": "Economía",
-      "url": "https://www.europapress.es/economia/finanzas-00340/noticia-solaria-enagas-empresas-ibex-35-mas-sufren-ataque-bajistas-20261108114507.html",
-      "date": "2026-11-08T10:45:07.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261108114507_120.jpg"
-    },
-    {
       "title": "Las recetas de los supermercados para evitar los ‘hackeos’: segmentar las redes y cifrar los métodos de acceso",
       "excerpt": "El sabotaje remoto de casi 800 congeladores de supermercados en Francia y el norte de Europa esta semana ha obligado a retirar y destruir miles de toneladas…",
       "source": "Cinco Días",
@@ -127,15 +136,6 @@
       "url": "https://elpais.com/economia/2026-11-08/las-recetas-de-los-supermercados-para-evitar-los-hackeos-segmentar-las-redes-y-cifrar-los-metodos-de-acceso.html",
       "date": "2026-11-08T04:45:01.000Z",
       "image": "https://imagenes.elpais.com/resizer/v2/32EEZHPOI5BITPNMLWKTUGKNFM.JPG?auth=19e0d24ac08a54b438e7f90dcfbd4577cdd607eed0b4b44d1db390e5f47e52c5"
-    },
-    {
-      "title": "Sam Houser, el hombre invisible detrás del imperio de ‘Grand Theft Auto’",
-      "excerpt": "Un videojuego cuyo presupuesto ronda los 1.500 millones de dólares que costó construir el Burj Khalifa, el edificio más alto del mundo, y que ha tardado más…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://cincodias.elpais.com/opinion/2026-11-08/sam-houser-el-hombre-invisible-detras-del-imperio-de-grand-theft-auto.html",
-      "date": "2026-11-08T04:40:00.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/D2JAU5SSINHTFDTIJYUMNWJGIM.jpg?auth=e6e9da7c6576aedb5a8e5fa443e1e346368cf42bc0f97adaa2ad62e8b949a187"
     }
   ]
 }
