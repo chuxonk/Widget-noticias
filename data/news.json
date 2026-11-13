@@ -1,24 +1,123 @@
 {
-  "generatedAt": "2026-11-12T20:00:37.975Z",
+  "generatedAt": "2026-11-13T01:53:39.718Z",
   "count": 15,
   "items": [
     {
-      "title": "Abascal carga contra el PSOE por la intervención de Begoña Gómez en el arranque de campaña: \"No tienen vergüenza\"",
-      "excerpt": "El líder de Vox, Santiago Abascal, ha arremetido este jueves contra el PSOE por la intervención de Begoña Gómez, esposa del presidente, Pedro Sánchez, en el…",
-      "source": "Europa Press Tecnología",
-      "category": "Tecnología",
-      "url": "https://www.europapress.es/nacional/noticia-abascal-carga-contra-psoe-intervencion-begona-gomez-arranque-campana-no-tienen-verguenza-20261112204214.html",
-      "date": "2026-11-12T19:42:14.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261112204214_120.jpg"
+      "title": "La convalidación del decreto de vivienda no frena la incertidumbre en el mercado residencial",
+      "excerpt": "El Congreso convalidó ayer el decreto más amplio con los votos del PNV en la víspera del inicio oficial de la campaña electoral, pero el PP promete derogarlo…",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/economia/2026/11/13/convalidacion-decreto-vivienda-frena-incertidumbre-mercado-residencial.html",
+      "date": "2026-11-13T00:07:31.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/13/17945284331648.jpg"
     },
     {
-      "title": "El Gobierno deja atado con la Generalitat un órgano bilateral para futuras decisiones sobre los aeropuertos catalanes",
-      "excerpt": "Administración central y catalana han dejado atado un acuerdo para compartir estrategias para el desarrollo de los aeropuertos catalanes, con Barcelona-El…",
+      "title": "Elecciones de fin de ciclo",
+      "excerpt": "La campaña que empieza hoy puede que sea un fracaso para Sánchez, lo mismo que fue un fiasco la absurda huelga política. Las elecciones puede que bajen el…",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/opinion/2026/11/13/elecciones-ciclo.html",
+      "date": "2026-11-13T00:06:44.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/13/17945283960741.jpg"
+    },
+    {
+      "title": "Una de cada cuatro nuevas pymes cierra en menos de cinco años asfixiada por los costes",
+      "excerpt": "Los elevados costes laborales y tributarios, la dificultad para encontrar mano de obra cualificada y las cargas burocráticas merman la resistencia de los…",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/economia/2026/11/13/cuatro-nuevas-pymes-cierra-cinco-anos-asfixiada-costes.html",
+      "date": "2026-11-12T23:18:51.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/13/17945255156592.jpg"
+    },
+    {
+      "title": "El ICF lanza un fondo para ‘scale up’ con el Ayuntamiento de Barcelona",
+      "excerpt": "El Govern y el consistorio ultiman un instrumento de coinversión que movilizará en su etapa inicial 45 millones de euros para empresas emergentes catalanas en…",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/catalunya/2026/11/13/icf-lanza-fondo-scale-up-ayuntamiento-barcelona.html",
+      "date": "2026-11-12T23:09:50.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/13/17945249814223.jpg"
+    },
+    {
+      "title": "Nvidia sufre en Bolsa tras anunciar el adiós de su CEO",
+      "excerpt": "Las acciones de Nvidia han vuelto a sufrir un fuerte retroceso en el índice Nasdaq estadounidense, después de que la compañía confirmase la renuncia de Jensen…",
       "source": "Cinco Días",
       "category": "Economía",
-      "url": "https://cincodias.elpais.com/economia/2026-11-12/el-gobierno-deja-atado-con-la-generalitat-un-organo-bilateral-para-futuras-decisiones-sobre-los-aeropuertos-catalanes.html",
-      "date": "2026-11-12T19:38:04.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/GFO75KKJLBE6HN4RSK534XOSSQ.jpg?auth=fcdf5f4a966f17e24365e568ee83c29659c5f990ddd2ffc033aa938435debf03"
+      "url": "https://elpais.com/economia/2026-11-12/nvidia-se-hunde-en-bolsa-tras-anunciar-el-adios-de-su-ceo.html",
+      "date": "2026-11-12T21:14:16.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/4BQ53OLHZRMXJFKQDSLSU3Z4KA.jpg?auth=40d06b94cf00b005c5b3ca3638a91499be0833c8d09f0a0c69aa392be8d050a2"
+    },
+    {
+      "title": "Rufián acusa a Junts de ser \"colaboracionista de Abascal\" por no posicionarse contra PP y Vox",
+      "excerpt": "El cabeza de lista de ERC al Congreso, Gabriel Rufián, ha acusado a Junts de ser \"colaboracionista de Abascal\" al decir que ellos son los del medio y no…",
+      "source": "Europa Press Tecnología",
+      "category": "Tecnología",
+      "url": "https://www.europapress.es/catalunya/noticia-rufian-acusa-junts-ser-colaboracionista-abascal-no-posicionarse-contra-pp-vox-20261112220637.html",
+      "date": "2026-11-12T21:06:37.000Z",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261112220637_120.jpg"
+    },
+    {
+      "title": "Google lanza Gemini 4 Hydrogen y lo integra con su buscador para dar respuestas más completas e inteligentes",
+      "excerpt": "Gemini 4 Hydrogen es la última adición a la familia de modelos de lenguaje insignia de Google. La firma de Mountain View lanzó su nueva IA este miércoles…",
+      "source": "Hipertextual",
+      "category": "Tecnología",
+      "url": "https://hipertextual.com/inteligencia-artificial/google-lanza-gemini-4-hydrogen-y-lo-integra-con-su-buscador-web/",
+      "date": "2026-11-12T20:50:51.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/11/Gemini-4.jpg?fit=1024%2C566&quality=70&strip=all&ssl=1"
+    },
+    {
+      "title": "Alemania y Francia ultiman un acuerdo para el reparto del BCE con De Cos como relevo de Lagarde",
+      "excerpt": "La candidatura del español Pablo Hernández de Cos para presidir el Banco Central Europeo (BCE) coge fuerza en las últimas horas mientras Alemania y Francia…",
+      "source": "Europa Press",
+      "category": "Economía",
+      "url": "https://www.europapress.es/economia/macroeconomia-00338/noticia-alemania-francia-ultiman-acuerdo-reparto-bce-cos-relevo-lagarde-20261112212120.html",
+      "date": "2026-11-12T20:21:20.000Z",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261112212120_120.jpg"
+    },
+    {
+      "title": "Nogueras erige a Junts como los únicos que priorizan a Catalunya: \"No nos apartaremos\"",
+      "excerpt": "La candidata de Junts a las elecciones generales, Miriam Nogueras, ha erigido a la formación como la única que prioriza los intereses de Catalunya y que no…",
+      "source": "Europa Press Tecnología",
+      "category": "Tecnología",
+      "url": "https://www.europapress.es/catalunya/noticia-nogueras-erige-junts-unicos-priorizan-catalunya-no-nos-apartaremos-20261112211949.html",
+      "date": "2026-11-12T20:19:49.000Z",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261112211949_120.jpg"
+    },
+    {
+      "title": "Jensen Huang mantuvo una tercera relación extramarital con otra empleada de Nvidia",
+      "excerpt": "El fundador de Nvidia, Jensen Huang, cesado esta jueves como consejero delegado de la compañía por un escándalo de infidelidades con una empresaria china…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://elpais.com/us/2026-11-12/jensen-huang-mantuvo-una-tercera-relacion-extramarital-con-una-empleada-de-nvidia.html",
+      "date": "2026-11-12T20:14:12.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/XTR5BQGRYRLCFAKQIK2FHGPPRI.jpg?auth=b98f0ff90d25ec60a2e961c2f1382f2665dd2eeb99b18429652923a168188ca7"
+    },
+    {
+      "title": "Sánchez apela a la movilización del voto de las mujeres para una \"remontada épica\" ante Feijóo y Abascal",
+      "excerpt": "El presidente del Gobierno y candidato a la reelección, Pedro Sánchez, ha instado a los votantes progresistas a la movilización para lograr \"una remontada…",
+      "source": "Europa Press Tecnología",
+      "category": "Tecnología",
+      "url": "https://www.europapress.es/nacional/noticia-sanchez-apela-movilizacion-voto-mujeres-remontada-epica-feijoo-abascal-20261112210758.html",
+      "date": "2026-11-12T20:07:58.000Z",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261112210758_120.jpg"
+    },
+    {
+      "title": "Maíllo llama a \"la remontada\" el 29N y destaca \"la valentía\" del Frente Amplio: \"Somos la izquierda que se arremanga\"",
+      "excerpt": "El coordinador federal de Izquierda Unida (IU) y portavoz de Por Andalucía, Antonio Maíllo, ha defendido el papal \"relevante y diferenciador\" del Frente…",
+      "source": "Europa Press Tecnología",
+      "category": "Tecnología",
+      "url": "https://www.europapress.es/andalucia/noticia-maillo-llama-remontada-29n-destaca-valentia-frente-amplio-somos-izquierda-arremanga-20261112210458.html",
+      "date": "2026-11-12T20:04:58.000Z",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261112210458_120.jpg"
+    },
+    {
+      "title": "Una catedral finlandesa suena cada día con el eco de estallidos de radio de hace miles de millones de años",
+      "excerpt": "Los estallidos rápidos de radio (FRB) son uno de los fenómenos más misteriosos del Universo. Hay varias hipótesis sobre su origen, pero sigue sin estar del…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/espacio/catedral-finlandesa-suena-cada-dia-eco-estallidos-radio-hace-miles-millones-anos",
+      "date": "2026-11-12T20:01:23.000Z",
+      "image": "https://i.blogs.es/d0d291/catedral-de-finlandia/1024_2000.jpeg"
     },
     {
       "title": "La carrera hacia 'GTA VI' se libra antes en consolas que en PC. En la era de la IA eso es un problema",
@@ -37,105 +136,6 @@
       "url": "https://cincodias.elpais.com/companias/2026-11-12/iag-busca-ingresos-publicitarios-con-la-nueva-iag-media-para-combatir-el-alza-de-costes-operativos.html",
       "date": "2026-11-12T19:30:00.000Z",
       "image": "https://imagenes.elpais.com/resizer/v2/TCVX6RPVMFCHHKYASWVGMCVBKY.jpg?auth=f6fa0594e727e2740be964034bed85ef46475f0b82376144bde659a7da003ba8"
-    },
-    {
-      "title": "Mejores pulseras de actividad 2026. Cuál comprar y cinco modelos recomendados",
-      "excerpt": "Las pulseras de actividad, también denominadas pulseras deportivas, son ideales para aquellas personas que estén buscando alternativas más pequeñas y…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/seleccion/mejores-pulseras-actividad",
-      "date": "2026-11-12T19:15:24.000Z",
-      "image": "https://i.blogs.es/06476f/google-fitbit-edge/1024_2000.jpeg"
-    },
-    {
-      "title": "Marlaska descarta dimitir y cuestiona la proporcionalidad de las cargas policiales durante el 11N",
-      "excerpt": "El ministro del Interior, Fernando Grande-Marlaska, ha descartado dimitir tras las actuaciones de la Policía durante la huelga general del 11 de noviembre, si…",
-      "source": "Europa Press Tecnología",
-      "category": "Tecnología",
-      "url": "https://www.europapress.es/nacional/noticia-marlaska-descarta-dimitir-cuestiona-proporcionalidad-cargas-policiales-11n-20261112201107.html",
-      "date": "2026-11-12T19:11:07.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261112201107_120.jpg"
-    },
-    {
-      "title": "Begoña Gómez entra de lleno en campaña e interviene por primera vez en un mitin del PSOE",
-      "excerpt": "Begoña Gómez, la mujer del presidente del Gobierno, Pedro Sánchez, ha tomado la palabra este jueves en el mitin de arranque de campaña electoral del PSOE en…",
-      "source": "Europa Press Tecnología",
-      "category": "Tecnología",
-      "url": "https://www.europapress.es/nacional/noticia-begona-gomez-entra-lleno-campana-interviene-primera-vez-mitin-psoe-20261112200930.html",
-      "date": "2026-11-12T19:09:30.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261112200930_120.jpg"
-    },
-    {
-      "title": "Ibiza tiene un problema para dar alojamiento a 30.000 trabajadores de temporada. Ahora tiene también un plan para solucionarlo",
-      "excerpt": "Ibiza no es la única región de España que lidia con la crisis de la vivienda, pero es cierto que allí tiene una dimensión especial: la isla tiene una…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/magnet/ibiza-tiene-problema-para-dar-alojamiento-a-30-000-trabajadores-temporales-ahora-tiene-tambien-plan-para-solucionarlo",
-      "date": "2026-11-12T19:01:21.000Z",
-      "image": "https://i.blogs.es/012cdf/sebastian-coman-travel-r4re271njuo-unsplash/1024_2000.jpeg"
-    },
-    {
-      "title": "Colau pide dar la vuelta a los sondeos y avisa a Sánchez: \"El futuro Gobierno será contra la especulación o no será\"",
-      "excerpt": "Admite que la campaña será difícil pero apela a la movilización para que Frente Amplio sea el factor clave del bloque de izquierdas MADRID 12 Nov. (EUROPA…",
-      "source": "Europa Press Tecnología",
-      "category": "Tecnología",
-      "url": "https://www.europapress.es/nacional/noticia-colau-pide-dar-vuelta-sondeos-avisa-sanchez-futuro-gobierno-sera-contra-especulacion-no-sera-20261112195439.html",
-      "date": "2026-11-12T18:54:39.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261112195439_120_v2.jpg"
-    },
-    {
-      "title": "Una caída de Microsoft 365 tumba el correo corporativo a usuarios de todo el mundo",
-      "excerpt": "Microsoft ha confirmado en la tarde de hoy en España que los servicios de su plataforma 365 han sufrido una caída global. La compañía ha confirmado en la red…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://elpais.com/tecnologia/2026-11-12/una-caida-de-microsoft-365-tumba-el-correo-corporativo-a-usuarios-de-todo-el-mundo.html",
-      "date": "2026-11-12T18:50:16.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/QLIEKZ7RWJK4BJX54VVLUJOSWU.jpg?auth=96ed0d5954e3bd3f562decb98f8799d61b36a71f92413da1391ee1b27439769c"
-    },
-    {
-      "title": "Más allá del debate sobre su éxito, el 11N deja una pregunta: para qué sirve realmente una huelga general en 2026",
-      "excerpt": "El 11N ha sido una huelga especial por varias razones. Además de ser la primera gran convocatoria nacional en 14 años y llegar en plena campaña preelectoral…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/magnet/alla-debate-su-exito-11n-deja-pregunta-realmente-efectivas-huelgas-generales-2026",
-      "date": "2026-11-12T18:31:23.000Z",
-      "image": "https://i.blogs.es/e1d2f4/55648806375_897125c345_o---copia/1024_2000.jpeg"
-    },
-    {
-      "title": "La Fed cambia su calendario de reuniones para 2027: la de octubre no incluirá decisiones de tipos de interés",
-      "excerpt": "La Reserva Federal de Estados Unidos (Fed) ha hecho públicas las fechas de las reuniones que el banco central mantendrá el próximo año 2027, un nuevo…",
-      "source": "Europa Press",
-      "category": "Economía",
-      "url": "https://www.europapress.es/economia/macroeconomia-00338/noticia-fed-cambia-calendario-reuniones-2027-octubre-no-incluira-decisiones-tipos-interes-20261112192514.html",
-      "date": "2026-11-12T18:25:14.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261112192514_120.jpg"
-    },
-    {
-      "title": "El PP se une a la izquierda en la Asamblea de Madrid para respaldar las pensiones públicas y su revalorización con el IPC frente al 'no' de Vox",
-      "excerpt": "El PP, Más Madrid y PSOE han votado este jueves a favor de dos iniciativas presentadas por la izquierda en las que se pedía que la Comunidad de Madrid instase…",
-      "source": "El Economista",
-      "category": "Economía",
-      "url": "https://www.eleconomista.es/economia/noticias/14027495/11/26/el-pp-se-une-a-la-izquierda-en-la-asamblea-de-madrid-para-respaldar-las-pensiones-publicas-y-su-revalorizacion-con-el-ipc-frente-al-no-de-vox.html",
-      "date": "2026-11-12T17:48:01.000Z",
-      "image": null
-    },
-    {
-      "title": "El gigante chino JD.com completa su desembarco en el retail europeo con la compra de la dueña de MediaMarkt",
-      "excerpt": "El capital chino ya es dueño, oficialmente, de uno de los grandes operadores de la distribución en Europa. JD.com ha completado este jueves la adquisición de…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://cincodias.elpais.com/companias/2026-11-12/el-gigante-chino-jdcom-completa-su-desembarco-en-el-retail-europeo-con-la-compra-de-la-duena-de-mediamarkt.html",
-      "date": "2026-11-12T17:46:46.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/G3SHRJXTPBKABD4RJJQJ7BKORY.jpg?auth=88d2323d42278803265464b2c3029ba6ff0e815f8cf775b4cba85b13ecac2087"
-    },
-    {
-      "title": "Andrés Millán, abogado, tras las crisis por el colapso de un banco en Paraguay: \"Imagínate la frustración\"",
-      "excerpt": "El experto en divulgación jurídica y derechos compartió una publicación por sus redes sociales en la que analiza la caída de Ueno Bank en Paraguay que ha…",
-      "source": "Expansión",
-      "category": "Economía",
-      "url": "https://www.expansion.com/economia/2026/11/12/andres-millan-abogado-crisis-colapso-banco-paraguay-imaginate-frustracion.html",
-      "date": "2026-11-12T17:09:08.000Z",
-      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/12/17945033395633.jpg"
     }
   ]
 }
