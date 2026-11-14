@@ -1,7 +1,70 @@
 {
-  "generatedAt": "2026-11-13T19:48:36.198Z",
+  "generatedAt": "2026-11-14T01:28:27.946Z",
   "count": 15,
   "items": [
+    {
+      "title": "PP y Vox prometen bajar impuestos, pero PSOE y Frente Amplio cuestionan cómo lo harán sin recortar servicios",
+      "excerpt": "El Partido Popular y Vox han prometido, en el marco de la campaña electoral del 29 de noviembre, una bajada de impuestos si llegan al Gobierno, pero PSOE y…",
+      "source": "Europa Press",
+      "category": "Economía",
+      "url": "https://www.europapress.es/economia/fiscal-00347/noticia-pp-vox-prometen-bajar-impuestos-psoe-frente-amplio-cuestionan-haran-recortar-servicios-20261113234025.html",
+      "date": "2026-11-13T22:40:25.000Z",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261113234025_120.jpg"
+    },
+    {
+      "title": "El PSOE admite que el gasto en pensiones necesita de revisiones: \"Hay que ver si hacemos bien los deberes\"",
+      "excerpt": "El vicepresidente primero y ministro de Economía, Carlos Cuerpo, ha garantizado que si el PSOE gobierna, las pensiones se revalorizarán con el IPC, pero ha…",
+      "source": "Europa Press",
+      "category": "Economía",
+      "url": "https://www.europapress.es/economia/laboral-00346/noticia-psoe-admite-gasto-pensiones-necesita-revisiones-hay-ver-si-hacemos-bien-deberes-20261113231131.html",
+      "date": "2026-11-13T22:11:31.000Z",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261113231131_120.jpg"
+    },
+    {
+      "title": "PSOE y Frente Amplio defienden prórrogas de alquiler, PP apuesta por construir y Vox por la \"reinmigración\"",
+      "excerpt": "PSOE y Frente Amplio han defendido las prórrogas de los contratos de alquiler y las medidas fiscales adoptadas en los últimos reales decretos de vivienda…",
+      "source": "Europa Press",
+      "category": "Economía",
+      "url": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-psoe-frente-amplio-defienden-prorrogas-alquiler-pp-apuesta-construir-vox-reinmigracion-20261113225830.html",
+      "date": "2026-11-13T21:58:30.000Z",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261113225830_120.jpg"
+    },
+    {
+      "title": "PSOE y Frente Amplio prometen más inversión en el tren, frente a PP y Vox que piden una auditoría de la red",
+      "excerpt": "PP promete invertir 300.000 millones si consigue gobernar y Frente Amplio pide dejar de ampliar aeropuertos e invertir en Cercanías",
+      "source": "Europa Press",
+      "category": "Economía",
+      "url": "https://www.europapress.es/economia/transportes-00343/noticia-psoe-frente-amplio-prometen-mas-inversion-tren-frente-pp-vox-piden-auditoria-red-20261113222931.html",
+      "date": "2026-11-13T21:29:31.000Z",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261113222931_120.jpg"
+    },
+    {
+      "title": "Gemini ya puede conectarse con Google Wallet para acceder a tus finanzas",
+      "excerpt": "Google ha ampliado las capacidades de su inteligencia artificial para ofrecer respuestas más útiles relacionadas con tus finanzas. El gigante tecnológico…",
+      "source": "Hipertextual",
+      "category": "Tecnología",
+      "url": "https://hipertextual.com/inteligencia-artificial/gemini-google-wallet-integracion-finanzas-gastos/",
+      "date": "2026-11-13T21:21:28.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/Gemini-2.jpg?fit=1024%2C650&quality=70&strip=all&ssl=1"
+    },
+    {
+      "title": "De Batman a 007: Robert Pattinson podría ser el nuevo James Bond",
+      "excerpt": "Robert Pattinson sería la primera opción de Amazon como nuevo James Bond, según reporta Puck News (vía ScreenTime). El actor británico todavía no tendría el…",
+      "source": "Hipertextual",
+      "category": "Tecnología",
+      "url": "https://hipertextual.com/cine-television/de-batman-a-007-robert-pattinson-podria-ser-el-nuevo-james-bond/",
+      "date": "2026-11-13T20:29:00.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/11/Robert-Pattinson-scaled.jpg?fit=1024%2C600&quality=70&strip=all&ssl=1"
+    },
+    {
+      "title": "El USB del espacio: Europa crea un conector universal para reparar satélites en órbita en lugar de tirarlos",
+      "excerpt": "¿Te imaginas que tu móvil se queda sin batería o te da el más mínimo fallo, lo tiras a la basura y te compras otro? Básicamente eso es lo que se hace con los…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/espacio/usb-espacio-europa-crea-conector-universal-para-reparar-satelites-orbita-lugar-tirarlos",
+      "date": "2026-11-13T20:01:21.000Z",
+      "image": "https://i.blogs.es/8b3b73/satelite-spacex/1024_2000.jpeg"
+    },
     {
       "title": "Millones de documentos de Word podrían cambiar tras esta decisión de Microsoft",
       "excerpt": "Microsoft anunció que eliminará algunas características de Word, lo cual podría afectar a documentos creados con versiones antiguas de la aplicación. En una…",
@@ -66,24 +129,6 @@
       "image": "https://i.blogs.es/bb9f76/series-12/1024_2000.jpeg"
     },
     {
-      "title": "Cinco televisores con buena relación calidad-precio para disfrutar de 'GTA VI'",
-      "excerpt": "Quedan tan solo unos días para la llegada de 'GTA VI', uno de los videojuegos más esperados de los últimos años. Por ello, si has decidido renovar el…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/seleccion/cinco-televisores-buena-relacion-calidad-precio-para-disfrutar-gta-vi",
-      "date": "2026-11-13T17:45:20.000Z",
-      "image": "https://i.blogs.es/fb2abd/gta-vi/1024_2000.jpeg"
-    },
-    {
-      "title": "La AN acepta la personación en el 'caso Leire' de la asociación judicial de la jueza que investigó al hermano de Sánchez",
-      "excerpt": "El juez de la Audiencia Nacional (AN) que investiga el 'caso Leire Díez', Santiago Pedraz, ha aceptado la personación del Foro Judicial Independiente (FJI)…",
-      "source": "Europa Press Tecnología",
-      "category": "Tecnología",
-      "url": "https://www.europapress.es/nacional/noticia-an-acepta-personacion-caso-leire-asociacion-judicial-jueza-investigo-hermano-sanchez-20261113184253.html",
-      "date": "2026-11-13T17:42:53.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261113184253_120.jpg"
-    },
-    {
       "title": "El bono americano se suma a las tensiones en la IA con un nuevo aumento de rentabilidad que lo lleva al 5,1%",
       "excerpt": "En un momento en el que los mercados están centrados en las dudas del futuro de la IA tras las elecciones estadounidenses, el mercado de renta fija se está…",
       "source": "El Economista",
@@ -91,51 +136,6 @@
       "url": "https://www.eleconomista.es/mercados-cotizaciones/noticias/14027792/11/26/el-bono-americano-se-suma-a-las-tensiones-en-la-ia-con-un-nuevo-aumento-de-rentabilidad-que-lo-lleva-al-51.html",
       "date": "2026-11-13T17:24:38.000Z",
       "image": null
-    },
-    {
-      "title": "¿Dónde está el auge de la IA de Europa?",
-      "excerpt": "Si afinamos la vista, empieza a apreciarse en los datos.",
-      "source": "Expansión",
-      "category": "Economía",
-      "url": "https://www.expansion.com/economia/financial-times/2026/11/13/auge-ia-europa.html",
-      "date": "2026-11-13T17:08:42.000Z",
-      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/13/17945897081483.jpg"
-    },
-    {
-      "title": "El Ibex 35 salva los 20.000 puntos tras subir un 3,36% en una semana marcada por Nvidia y los resultados",
-      "excerpt": "El Ibex 35 ha finalizado la semana con un alza del 3,36%, hasta situarse en los 20.020,10 puntos, en un contexto marcado por los escándalos de Nvidia, que han…",
-      "source": "Europa Press",
-      "category": "Economía",
-      "url": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-salva-20000-puntos-subir-336-semana-marcada-nvidia-resultados-20261113180434.html",
-      "date": "2026-11-13T17:04:34.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261113180434_120.jpg"
-    },
-    {
-      "title": "Confirman la citación de la exalcaldesa de Zaldibar y de otras tres personas como investigadas seis años después del derrumbe del vertedero",
-      "excerpt": "La Audiencia Provincial de Vizcaya ha confirmado la citación como investigadas de cuatro personas, entre ellas Arantza Baigorri, la alcaldesa de Zaldibar…",
-      "source": "El Economista",
-      "category": "Economía",
-      "url": "https://www.eleconomista.es/economia/noticias/14027779/11/26/confirman-la-citacion-de-la-exalcaldesa-de-zaldibar-y-de-otras-tres-personas-como-investigadas-seis-anos-despues-del-derrumbe-del-vertedero.html",
-      "date": "2026-11-13T17:02:59.000Z",
-      "image": null
-    },
-    {
-      "title": "No hace falta tener un coche compatible con CarPlay para tener un modo de conducción del iPhone. Esta app ya lo hace",
-      "excerpt": "Hace apenas unos meses me quejaba de la inexistencia de un Apple CarPlay para coches sin CarPlay. Es decir, de un modo que priorice las apps de conducción y…",
-      "source": "Applesfera",
-      "category": "Tecnología",
-      "url": "https://www.applesfera.com/aplicaciones-ios/no-hace-falta-tener-coche-compatible-carplay-para-tener-modo-conduccion-iphone-esta-app-hace",
-      "date": "2026-11-13T17:01:27.000Z",
-      "image": "https://i.blogs.es/0f7068/caros-en-coche/1024_2000.jpeg"
-    },
-    {
-      "title": "Oryzon vuelve a pedir permiso a su junta para ampliar capital en 125 millones y se desploma en Bolsa",
-      "excerpt": "Oryzon Genomics ha anunciado que va a someter a votación en la próxima junta de accionistas extraordinaria, prevista para el próximo 15 de diciembre, la…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://cincodias.elpais.com/companias/2026-11-13/oryzon-vuelve-a-pedir-permiso-a-su-junta-para-ampliar-capital-en-125-millones-y-se-desploma-en-bolsa.html",
-      "date": "2026-11-13T16:58:27.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/XDAROHWN7VP5XLWQGEDHHCK4KU.jpg?auth=e60a603fbcafbf31afa282699496736e7ef49fe43fb9e24e3334decfce9680eb"
     }
   ]
 }
