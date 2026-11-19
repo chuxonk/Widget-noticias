@@ -1,141 +1,141 @@
 {
-  "generatedAt": "2026-11-19T02:37:34.623Z",
+  "generatedAt": "2026-11-19T11:48:30.519Z",
   "count": 15,
   "items": [
     {
-      "title": "Anthropic desbanca a SpaceX como la mayor salida a Bolsa de la historia y fija su valoración en 1,5 billones de dólares",
-      "excerpt": "Este jueves 19 de noviembre es un día marcado en rojo para millones de inversores, el sector tecnológico de todo el mundo y la banca de Wall Street en bloque…",
+      "title": "Un madrileño se va a vivir al campo con 32 años y rompe el mito de la idílica vida rural: \"Hay falta de oportunidades y carencia de servicios básicos\"",
+      "excerpt": "Durante años, Instagram se ha llenado de usuarios vendiendo la idea de idílicos y pequeños huertos, estufas de leña recién cortada y amaneceres sin atascos…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/magnet/madrileno-se-va-a-vivir-al-campo-32-anos-rompe-mito-idilica-vida-rural-hay-falta-oportunidades-carencia-servicios-basicos",
+      "date": "2026-11-19T11:45:12.000Z",
+      "image": "https://i.blogs.es/adef3c/portada/1024_2000.jpeg"
+    },
+    {
+      "title": "El Ibex afloja con la expectación en máximos ante el estreno de Anthropic",
+      "excerpt": "La expectación está en niveles máximos ante el estreno este jueves de Anthropic al lograr convertirse en la mayor OPV de la historia. El fabricante de chatbot…",
       "source": "Cinco Días",
       "category": "Economía",
-      "url": "https://elpais.com/economia/2026-11-18/anthropic-desbanca-a-spacex-y-protagoniza-la-mayor-salida-a-bolsa-de-la-historia.html",
-      "date": "2026-11-19T00:25:13.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/6TCGBSQGXFKGLNZGXMR5ZSKEUI.jpg?auth=5d22c4d819abc6b9379e2fb8391a20ba70053a874318f224c4d2aebff82af1a6"
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-11-19/la-bolsa-y-el-ibex-35.html",
+      "date": "2026-11-19T11:42:34.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/EO7SYHPVBRNSDCVKWEXP7YAF5Y.jpg?auth=5e77f627907d8626d22b24d5a31b3d6708e3c99ca6c32b91e0f7a782127e3d45"
     },
     {
-      "title": "Google lanza Gemini 4 Neon: más rápido, más barato y demoledor escribiendo código",
-      "excerpt": "Google ha presentado Gemini 4 Neon, su nueva IA diseñada para ejecutar tareas complejas a velocidades mucho más rápidas. A unos días de anunciar Hydrogen y…",
-      "source": "Hipertextual",
-      "category": "Tecnología",
-      "url": "https://hipertextual.com/inteligencia-artificial/gemini-4-neon-ia-rapida-eficiente-google/",
-      "date": "2026-11-19T00:24:09.000Z",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/11/google-gemini-4-neon.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1"
-    },
-    {
-      "title": "Las empresas podrán perder contratos públicos por desigualdad salarial",
-      "excerpt": "Los trabajadores tendrán derecho a solicitar información para conocer las retribuciones medias de compañeros que realicen el mismo trabajo",
-      "source": "Expansión",
-      "category": "Economía",
-      "url": "https://www.expansion.com/economia/2026/11/19/empresas-podran-perder-contratos-publicos-desigualdad-salarial.html",
-      "date": "2026-11-18T23:41:45.000Z",
-      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/19/17950452922528.jpg"
-    },
-    {
-      "title": "Llegan los debates electorales en una campaña insólita",
-      "excerpt": "Por fin, el jueves 19 de noviembre, esta noche, se celebrará el primer cara a cara entre Pedro Sánchez y Alberto Núñez Feijóo.",
-      "source": "Expansión",
-      "category": "Economía",
-      "url": "https://www.expansion.com/opinion/2026/11/19/llegan-debates-electorales-campana-insolita.html",
-      "date": "2026-11-18T23:40:48.000Z",
-      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/19/17950452389197.jpg"
-    },
-    {
-      "title": "Nadal: \"Los Presupuestos de 2027 incluirán la rebaja del IRPF y priorizarán la inversión si gobierna el PP\"",
-      "excerpt": "El vicesecretario de Economía y Desarrollo Sostenible del Partido Popular, Alberto Nadal, concede una entrevista a EXPANSIÓN a diez días de las elecciones…",
-      "source": "Expansión",
-      "category": "Economía",
-      "url": "https://www.expansion.com/elecciones/elecciones-generales/2026/11/19/nadal-presupuestos-2027-incluiran-rebaja-irpf-priorizaran-inversion-gobierna-pp.html",
-      "date": "2026-11-18T23:33:48.000Z",
-      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/19/17950448237587.jpg"
-    },
-    {
-      "title": "El 90% de las empresas españolas temen problemas de liquidez por retrasos en los pagos hasta 2028",
-      "excerpt": "Un estudio de HSBC señala que un tercio de las empresas españolas repercutirá el alza de los costes en los consumidores en los dos próximos años.",
-      "source": "Expansión",
-      "category": "Economía",
-      "url": "https://www.expansion.com/economia/2026/11/19/90-empresas-espanolas-temen-problemas-liquidez-retrasos-pagos-2028.html",
-      "date": "2026-11-18T23:16:19.000Z",
-      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/19/17950437616153.jpg"
-    },
-    {
-      "title": "Chollazo en Nintendo Switch 2 poco antes del Black Friday 2026: aquí, con una oferta que se agotará rápido y varios descuentos disponibles",
-      "excerpt": "Queda apenas una semana para que llegue oficialmente el Black Friday de 2026 que, en esta ocasión, tendrá lugar el viernes 27 de noviembre. Momento ideal para…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/seleccion/chollazo-nintendo-switch-2-antes-black-friday-2026-aqui-oferta-que-se-agotara-rapido-varios-descuentos-disponibles",
-      "date": "2026-11-18T23:10:00.000Z",
-      "image": "https://i.blogs.es/6f2df7/chollo-nintendo-switch-2/1024_2000.jpeg"
-    },
-    {
-      "title": "Ya es Black Friday en Amazon: estas son las mejores ofertas en Kindle, teléfonos, tablets, ordenadores y más",
-      "excerpt": "Aunque el Black Friday 2026 llegará oficialmente el viernes de la próxima semana, día 27 de noviembre (tras la festividad norteamericana de Acción de…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/seleccion/black-friday-amazon-estas-mejores-ofertas-kindle-telefonos-tablets-ordenadores",
-      "date": "2026-11-18T23:00:00.000Z",
-      "image": "https://i.blogs.es/be3fc5/black-friday-amazon-2026/1024_2000.jpeg"
-    },
-    {
-      "title": "Si tienes una tarjeta NVIDIA, este error oculto podría estar dañando tu SSD sin que lo notes",
-      "excerpt": "Un fallo en los controladores de NVIDIA podría estár desgastando los SSD en Windows. Una serie de reportes en los foros de NVIDIA y Dell afirman que algunas…",
-      "source": "Hipertextual",
-      "category": "Tecnología",
-      "url": "https://hipertextual.com/hardware/nvidia-fallo-controladores-desgasta-ssd/",
-      "date": "2026-11-18T22:43:22.000Z",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/07/Nvidia-RTX-5090.jpg?fit=1024%2C602&quality=70&strip=all&ssl=1"
-    },
-    {
-      "title": "Irene Montero culpa a la inacción del Gobierno del alza de la derecha y que vea la Moncloa como \"guinda del pastel\"",
-      "excerpt": "La candidata de Podemos a las elecciones generales del 29N, Irene Montero, ha acusado al Gobierno de no haber hecho nada durante la legislatura para arrebatar…",
-      "source": "Europa Press Tecnología",
-      "category": "Tecnología",
-      "url": "https://www.europapress.es/nacional/noticia-29n-irene-montero-culpa-inaccion-gobierno-alza-derecha-vea-moncloa-guinda-pastel-20261118221801.html",
-      "date": "2026-11-18T21:18:01.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261118221801_120.jpg"
-    },
-    {
-      "title": "Vox lanza el videojuego del \"sentido común\" para explicar sus propuestas con \"minijuegos\" repartidos por España",
-      "excerpt": "Vox ha lanzado un videojuego para explicar sus propuestas electorales de cara a las elecciones del próximo 29 de noviembre bajo el nombre 'El reto del sentido…",
-      "source": "Europa Press Tecnología",
-      "category": "Tecnología",
-      "url": "https://www.europapress.es/nacional/noticia-vox-lanza-videojuego-sentido-comun-explicar-propuestas-minijuegos-repartidos-espana-20261118213444.html",
-      "date": "2026-11-18T20:34:44.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261118213444_120.jpg"
-    },
-    {
-      "title": "Las Wachowski quieren recuperar los derechos de ‘The Matrix’: ¿Problemas para Skydance?",
-      "excerpt": "Skydance, el imperio que controla David Ellison, podía sufrir su primer gran bofetón. Según un reporte de Puck, las cineastas Lana y Lily Wachowski pretenden…",
-      "source": "Hipertextual",
-      "category": "Tecnología",
-      "url": "https://hipertextual.com/cine-television/las-wachowski-quieren-recuperar-derechos-the-matrix/",
-      "date": "2026-11-18T20:30:00.000Z",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2024/10/thematrix.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1"
-    },
-    {
-      "title": "El Hierro ha recibido en dos semanas casi tantas personas como habitantes tiene. El Gobierno responde con 5 millones y un marco",
-      "excerpt": "Aunque cuenta con casi 12.000 habitantes, la isla volcánica de El Hierro ha recibido en dos semanas casi tantas personas como empadronados tiene. ¿Y qué ha…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/magnet/hierro-ha-recibido-dos-semanas-casi-tantas-personas-como-habitantes-tiene-gobierno-responde-5-millones-marco",
-      "date": "2026-11-18T20:01:17.000Z",
-      "image": "https://i.blogs.es/980f13/el-hierro/1024_2000.jpeg"
-    },
-    {
-      "title": "Repsol y sus socios en el Reino Unido compran por 874 millones los pozos petrolíferos de EnQuest en el Mar del Norte",
-      "excerpt": "Repsol amplía capacidades productivas en el Mar del Norte de la mano de los socios con los que conforma la empresa conjunta Neo Next+. La sociedad…",
+      "title": "La producción de coches en España sufre una de las peores caídas del año por el parón en Renault Palencia",
+      "excerpt": "La producción de vehículos en España sufrió en octubre una de las peores caídas mensuales en lo que va de ejercicio por el parón de la actividad en Renault…",
       "source": "Cinco Días",
       "category": "Economía",
-      "url": "https://cincodias.elpais.com/companias/2026-11-18/repsol-y-sus-socios-en-reino-unido-compran-por-874-millones-los-pozos-petroliferos-de-enquest-en-el-mar-del-norte.html",
-      "date": "2026-11-18T19:58:48.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/SJV6R6KRXFBQDCQIZFGSD6AQOQ.jpg?auth=db6c52e153dd1f826dfc861ed0cde4714199deb3e3d78026aa54805c206cb2fc"
+      "url": "https://cincodias.elpais.com/companias/2026-11-19/la-produccion-de-coches-en-espana-sufre-una-de-las-peores-caidas-del-ano-por-el-paron-en-renault-palencia.html",
+      "date": "2026-11-19T11:35:53.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/PE7XQWHHC5DOVCFS3BVVX32JSI.jpg?auth=1f135ae7d151a88c9e08d9857f364220e7e9dcc4b596894a4d9b4b9c332ffde7"
     },
     {
-      "title": "Las actas de la Fed abren la puerta a subir tipos por encima de 25 puntos en diciembre",
-      "excerpt": "Casi todos los participantes en la reunión del Comité Federal de Mercado Abierto (FOMC) de la Reserva Federal de Estados Unidos (Fed) señalaron que serán…",
+      "title": "Amazon celebra su Black Friday con todas estas ofertas en iPhone, AirPods, MacBook y más",
+      "excerpt": "Amazon ha comenzado su campaña del Black Friday algo más de una semana antes de la celebración del Viernes Negro, por lo que ya tenemos disponibles muchas…",
+      "source": "Applesfera",
+      "category": "Tecnología",
+      "url": "https://www.applesfera.com/seleccion/amazon-celebra-su-black-friday-todas-estas-ofertas-iphone-airpods-macbook",
+      "date": "2026-11-19T11:31:18.000Z",
+      "image": "https://i.blogs.es/e30e23/iphone-y-macbook/1024_2000.jpeg"
+    },
+    {
+      "title": "Los auriculares superventas de Anker también se suman al Black Friday y están a menos de 50 euros",
+      "excerpt": "Encontrar unos auriculares de diadema con buena cancelación de ruido y una autonomía extensa sin disparar el presupuesto, es el objetivo de muchas personas en…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/seleccion/auriculares-superventas-anker-tambien-se-suman-al-black-friday-estan-a-50-euros",
+      "date": "2026-11-19T11:31:17.000Z",
+      "image": "https://i.blogs.es/bfc8d6/auriculares-anker-soundcore-q30/1024_2000.jpeg"
+    },
+    {
+      "title": "Si tienes Movistar Plus, puedes ver gratis dos nuevos canales a partir de hoy",
+      "excerpt": "Si eres usuario de Movistar Plus, probablemente sabrás que la plataforma cuenta desde hace años con dos canales pop-up (temporales) que van cambiando cada…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/internet-y-television/tienes-movistar-plus-puedes-ver-gratis-dos-nuevos-canales-a-partir-hoy",
+      "date": "2026-11-19T11:31:17.000Z",
+      "image": "https://i.blogs.es/af7d0d/canales-movistar-plus/1024_2000.jpeg"
+    },
+    {
+      "title": "Millones de personas se han bajado más de 200 GB de GTA VI e internet sigue en pie. El mérito es de unos cuantos trucos de DNS",
+      "excerpt": "Hoy es el día: hoy se lanza la nueva Xataka. Aparte de eso se ha dado otro acontecimiento con el potencial para paralizar Internet, y eso es el lanzamiento de…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/videojuegos/millones-personas-se-han-bajado-200-gb-gta-vi-e-internet-sigue-pie-merito-unos-cuantos-trucos-dns",
+      "date": "2026-11-19T11:27:00.000Z",
+      "image": "https://i.blogs.es/5c4316/jason_and_lucia_07/1024_2000.jpeg"
+    },
+    {
+      "title": "Irene Montero critica el debate 'cara a cara' de Feijóo-Sánchez y llama a no sucumbir a ese \"chantaje del voto útil\"",
+      "excerpt": "La candidata de Podemos a las elecciones generales del 29N, Irene Montero, ha tachado de \"chantaje del voto útil\" el debate 'cara a cara' este jueves entre…",
+      "source": "Europa Press Tecnología",
+      "category": "Tecnología",
+      "url": "https://www.europapress.es/nacional/noticia-irene-montero-critica-debate-cara-cara-feijoo-sanchez-llama-no-sucumbir-chantaje-voto-util-20261119121821.html",
+      "date": "2026-11-19T11:18:21.000Z",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261119121821_120.jpg"
+    },
+    {
+      "title": "Las malas cartas de Trump ante Xi y Putin",
+      "excerpt": "El presidente norteamericano asiste por primera vez a una cita clave en posición débil.",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/opinion/2026/11/19/malas-cartas-trump-xi-putin.html",
+      "date": "2026-11-19T10:58:33.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/19/17950859047511.jpg"
+    },
+    {
+      "title": "Antonio Carmona (Red Ibérica de Fundación Mapfre): \"Apostamos por retener y atraer talento joven al oeste peninsular\"",
+      "excerpt": "La elección de Cáceres como sede de Red Ibérica refleja la apuesta de Fundación Mapfre por fortalecer el tejido social y cultural del oeste peninsular. El…",
+      "source": "El Economista",
+      "category": "Economía",
+      "url": "https://www.eleconomista.es/economia/noticias/14029081/11/26/antonio-carmona-red-iberica-de-fundacion-mapfre-apostamos-por-retener-y-atraer-talento-joven-al-oeste-peninsular.html",
+      "date": "2026-11-19T10:54:12.000Z",
+      "image": null
+    },
+    {
+      "title": "El empleo turístico encadena por primera vez seis meses con más de 3 millones de afiliados",
+      "excerpt": "El empleo turístico volvió a tocar máximos históricos en octubre, cuando supuestamente inicia la temporada baja. En ese mes, el número de trabajadores dados…",
+      "source": "Cinco Días",
+      "category": "Economía",
+      "url": "https://elpais.com/economia/2026-11-19/el-empleo-turistico-encadena-por-primera-vez-seis-meses-con-mas-de-3-millones-de-afiliados.html",
+      "date": "2026-11-19T10:46:02.000Z",
+      "image": "https://imagenes.elpais.com/resizer/v2/R5LH2HXWOFCTZLYKOYG2HCKOJQ.jpg?auth=59c1cfbdabd3053e5854cb362f9645e90d748b91d2e4c08a591da5fed575c3b7"
+    },
+    {
+      "title": "Bolaños alerta de \"tretas\" de Feijóo en el 'cara a cara' y recuerda su \"torrente de mentiras y bulos\" de 2023",
+      "excerpt": "El ministro de la Presidencia, Justicia y Relaciones con las Cortes, Félix Bolaños, ha advertido este jueves de las \"tretas\" del líder del PP, Alberto Núñez…",
+      "source": "Europa Press Tecnología",
+      "category": "Tecnología",
+      "url": "https://www.europapress.es/nacional/noticia-bolanos-alerta-tretas-feijoo-cara-cara-recuerda-torrente-mentiras-bulos-2023-20261119113848.html",
+      "date": "2026-11-19T10:38:48.000Z",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261119113848_120.jpg"
+    },
+    {
+      "title": "La nueva dirección de Nvidia acelera aumentos salariales y bonificaciones para levantar la moral",
+      "excerpt": "La consejera delegada interina de Nvidia, Colette Kress, ha prometido a los empleados de la compañía aumentos salariales y beneficios adicionales en acciones…",
       "source": "Europa Press",
       "category": "Economía",
-      "url": "https://www.europapress.es/economia/macroeconomia-00338/noticia-actas-fed-abren-puerta-subir-tipos-encima-25-puntos-diciembre-20261118203321.html",
-      "date": "2026-11-18T19:33:21.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261118203321_120.jpg"
+      "url": "https://www.europapress.es/economia/noticia-nueva-direccion-nvidia-acelera-aumentos-salariales-bonificaciones-levantar-moral-20261119113733.html",
+      "date": "2026-11-19T10:37:33.000Z",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261119113733_120.jpg"
+    },
+    {
+      "title": "¿A qué hora se estrena ‘Percy Jackson y los dioses del Olimpo’ temporada 3?",
+      "excerpt": "La temporada 3 de Percy Jackson y los dioses del Olimpo por fin regresa a los hogares de todo el mundo. La serie seguirá adaptando los icónicos libros de Rick…",
+      "source": "Hipertextual",
+      "category": "Tecnología",
+      "url": "https://hipertextual.com/cine-television/a-que-hora-se-estrena-percy-jackson-y-los-dioses-del-olimpo-temporada-3/",
+      "date": "2026-11-19T10:34:36.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/11/PercyJacksonAndTheOlympiansSeason3_Social_Static_16x9_5760x3240_SDCC_Date_NR_es-ES-scaled.jpeg?fit=1024%2C576&quality=70&strip=all&ssl=1"
+    },
+    {
+      "title": "Nace el programa Zaragoza Proyecta para dar apoyo integral a los autónomos",
+      "excerpt": "Los autónomos y futuros emprendedores en Zaragoza ya tienen un nuevo programa para tratar de hacer su día a día y proceso de apertura de empresas más fácil…",
+      "source": "El Economista",
+      "category": "Economía",
+      "url": "https://www.eleconomista.es/economia/noticias/14029063/11/26/nace-el-programa-zaragoza-proyecta-para-dar-apoyo-integral-a-los-autonomos.html",
+      "date": "2026-11-19T10:18:19.000Z",
+      "image": null
     }
   ]
 }
