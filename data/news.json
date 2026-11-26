@@ -1,33 +1,114 @@
 {
-  "generatedAt": "2026-11-25T19:22:12.604Z",
+  "generatedAt": "2026-11-26T03:37:22.004Z",
   "count": 15,
   "items": [
     {
-      "title": "Varios usuarios han mostrado en directo cómo 'GTA VI' fríe sus consolas. De momento no es como para perder la calma",
-      "excerpt": "Llevo casi una semana jugando bastante a 'GTA VI' en una PS5 de 2020 sin ningún tipo de problema. No suena más de la cuenta ni me ha dado ningún error raro…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/videojuegos/varios-usuarios-han-mostrado-directo-como-gta-vi-frie-sus-consolas-momento-no-como-para-perder-calma",
-      "date": "2026-11-25T19:00:25.000Z",
-      "image": "https://i.blogs.es/7c89b0/gta-vi-fallo/1024_2000.jpeg"
+      "title": "Sánchez suma 2,5 puntos al déficit con el aluvión de decretos sociales",
+      "excerpt": "El aluvión de decretos sociales aprobado por el Gobierno en las semanas previas al 29 de noviembre compromete un gasto de 43.600 millones adicionales pese a…",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/elecciones/elecciones-generales/2026/11/26/sanchez-suma-2-5-puntos-deficit-aluvion-decretos-sociales.html",
+      "date": "2026-11-26T01:04:42.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/26/17956550686423.jpg"
     },
     {
-      "title": "El Black Friday es el momento perfecto para dar el salto a una tele más grande. Esta TCL Mini LED llega hasta las 98 pulgadas",
-      "excerpt": "Comprar un nuevo televisor es algo que no hacemos todos los años. Por esa misma razón, cuando llega ese momento, merece la pena pensar bien lo que vamos a…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/seleccion/black-friday-momento-perfecto-para-dar-salto-a-tele-grande-esta-tcl-mini-led-llega-98-pulgadas",
-      "date": "2026-11-25T18:46:19.000Z",
-      "image": "https://i.blogs.es/b1e3f2/08/1024_2000.jpeg"
+      "title": "Impacto electoral en la economía: los analistas piden sostenibilidad fiscal y presupuestaria",
+      "excerpt": "El último Pulso Económico Trimestral de EY Insights, al que EXPANSIÓN ha tenido acceso en exclusiva, apunta a que los comicios no son una amenaza económica…",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/elecciones/elecciones-generales/2026/11/26/impacto-electoral-economia-analistas-piden-sostenibilidad-fiscal-presupuestaria.html",
+      "date": "2026-11-26T00:01:43.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/26/17956512965942.jpg"
     },
     {
-      "title": "Consultar el voto con la IA: lo que más pesa en la respuesta no es el programa electoral, eres tú",
-      "excerpt": "Parecía que no iban a llegar, pero ya casi están aquí: las elecciones del 29N son el próximo domingo. Los diferentes partidos han ido lanzando propuestas…",
+      "title": "Impuestos, vivienda, infraestructuras... Qué prometen los programas económicos de los candidatos",
+      "excerpt": "Las tragedias de Adamuz y Urda añaden el mantenimiento de las infraestructuras a los pilares de las propuestas de los partidos políticos, con la vivienda y la…",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/elecciones/elecciones-generales/2026/11/26/impuestos-vivienda-infraestructuras-prometen-programas-economicos-candidatos.html",
+      "date": "2026-11-25T23:38:49.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/26/17956499262282.jpg"
+    },
+    {
+      "title": "El SMI y los nuevos permisos costarán 4.000 millones a las empresas",
+      "excerpt": "Al coste salarial del permiso de duelo se sumaría la eventual necesidad de suplir la baja.",
+      "source": "Expansión",
+      "category": "Economía",
+      "url": "https://www.expansion.com/elecciones/elecciones-generales/2026/11/26/smi-nuevos-permisos-costaran-4-000-millones-empresas.html",
+      "date": "2026-11-25T23:37:38.000Z",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/26/17956498467590.jpg"
+    },
+    {
+      "title": "Vox apela a \"los que dudan\" y recuerda que \"los españoles siempre han estado por encima de sus peores gobernantes\"",
+      "excerpt": "Vox ha urgido a los indecisos a votar a su formación para \"recuperar el futuro\", alegando que \"no sólo hay que echar a Sánchez\" sino que \"hay que devolver a…",
+      "source": "Europa Press Tecnología",
+      "category": "Tecnología",
+      "url": "https://www.europapress.es/nacional/noticia-vox-apela-dudan-recuerda-espanoles-siempre-estado-encima-peores-gobernantes-20261125223905.html",
+      "date": "2026-11-25T21:39:05.000Z",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261125223905_120.jpg"
+    },
+    {
+      "title": "1Password ha sido hackeado",
+      "excerpt": "Hemos aprendido que utilizar la misma contraseña para todo no es una buena idea, que conviene generar claves largas y difíciles de adivinar y que nuestra…",
       "source": "Xataka",
       "category": "Tecnología",
-      "url": "https://www.xataka.com/robotica-e-ia/consultar-voto-ia-que-pesa-respuesta-no-programa-electoral-eres-tu",
-      "date": "2026-11-25T18:30:28.000Z",
-      "image": "https://i.blogs.es/201589/elecciones-votos-ia-portada/1024_2000.jpeg"
+      "url": "https://www.xataka.com/seguridad/1password-ha-sido-hackeado",
+      "date": "2026-11-25T21:39:01.000Z",
+      "image": "https://i.blogs.es/689270/1password-hackeado/1024_2000.jpeg"
+    },
+    {
+      "title": "Sánchez apuesta por incentivos fiscales a propietarios frente al \"punitivismo\" de sus socios de izquierda",
+      "excerpt": "Agradece a Plex que pague impuestos en España y considera que si se ingresan menos de 11.000 euros mensuales compensa el Estado de Bienestar",
+      "source": "Europa Press Tecnología",
+      "category": "Tecnología",
+      "url": "https://www.europapress.es/nacional/noticia-sanchez-apuesta-incentivos-fiscales-propietarios-frente-punitivismo-socios-izquierda-20261125223550.html",
+      "date": "2026-11-25T21:35:50.000Z",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261125223550_120.jpg"
+    },
+    {
+      "title": "Primero el FBI, después la CIA y ahora el Tesoro: EEUU encadena incidentes de ciberseguridad y el último salpica a un videojuego",
+      "excerpt": "Desde localizar a una persona buscada por la justicia hasta investigar una posible operación de blanqueo de capitales, buena parte del trabajo de las…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/seguridad/primero-fbi-despues-cia-ahora-tesoro-eeuu-encadena-incidentes-ciberseguridad-ultimo-salpica-a-videojuego",
+      "date": "2026-11-25T21:30:23.000Z",
+      "image": "https://i.blogs.es/8d4660/department_of_the_treasury_sign_washington_dc_2025-12-17_10-40-05/1024_2000.jpeg"
+    },
+    {
+      "title": "Colau critica que el PSOE decepciona en vivienda y promete medidas en campaña que bloquea en el Gobierno",
+      "excerpt": "La candidata de Frente Amplio a las elecciones del 29N, Ada Colau, ha criticado que el PSOE \"no ayuda a la credibilidad de la política\" cuando está bloqueando…",
+      "source": "Europa Press Tecnología",
+      "category": "Tecnología",
+      "url": "https://www.europapress.es/nacional/noticia-colau-critica-psoe-decepciona-vivienda-promete-medidas-campana-bloquea-gobierno-20261125221158.html",
+      "date": "2026-11-25T21:11:58.000Z",
+      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261125221158_120.jpg"
+    },
+    {
+      "title": "La forma más inesperada de usar Windows XP en 2026 está dentro de Linux",
+      "excerpt": "Windows XP fue una de las versiones más emblemáticas del sistema operativo de Microsoft. A más de dos décadas de su lanzamiento, la nostalgia sigue muy viva y…",
+      "source": "Hipertextual",
+      "category": "Tecnología",
+      "url": "https://hipertextual.com/tecnologia/windows-xp-linux-win4wine-proyecto/",
+      "date": "2026-11-25T21:10:00.000Z",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/11/windows-xp-linux.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1"
+    },
+    {
+      "title": "Take-Two frena Leonida, un proyecto que pretendía llevar 'GTA VI' a Windows a partir de una versión filtrada de Xbox",
+      "excerpt": "Para quienes juegan en PC, el lanzamiento de un nuevo 'Grand Theft Auto' tiene un significado algo distinto. Lo vimos con 'GTA V', que debutó en consolas en…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/videojuegos/take-two-frena-leonida-proyecto-que-pretendia-llevar-gta-vi-a-windows-a-partir-version-filtrada-xbox",
+      "date": "2026-11-25T21:00:31.000Z",
+      "image": "https://i.blogs.es/d19b02/gta-vi/1024_2000.jpeg"
+    },
+    {
+      "title": "Mopas triangulares, 21.000 Pa y una base que apenas necesita mantenimiento: Dyson rebaja su robot aspirador y fregona por el Black Friday",
+      "excerpt": "Si buscase ahora mismo un dispositivo para ayudarme a limpiar, iría a por un robot aspirador. Este Black Friday estamos viendo muy buenas ofertas, incluso en…",
+      "source": "Xataka",
+      "category": "Tecnología",
+      "url": "https://www.xataka.com/seleccion/mopas-triangulares-21-000-pa-base-que-apenas-necesita-mantenimiento-dyson-rebaja-su-robot-aspirador-fregona-black-friday",
+      "date": "2026-11-25T20:46:19.000Z",
+      "image": "https://i.blogs.es/06c002/dyson-nurovi-portada/1024_2000.jpeg"
     },
     {
       "title": "La CNMV autoriza la opa del grupo de Jainaga sobre el 100% de Azkoyen",
@@ -37,33 +118,6 @@
       "url": "https://cincodias.elpais.com/companias/2026-11-25/la-cnmv-autoriza-la-opa-del-grupo-de-jainaga-sobre-el-100-de-azkoyen.html",
       "date": "2026-11-25T18:21:20.000Z",
       "image": "https://imagenes.elpais.com/resizer/v2/XHINSOIB5JCFXM5W3EF3WEG2DE.JPG?auth=311a36364acd9d2a1b225d062f5f8f5421871638c5b91d841fafe1ba99542391"
-    },
-    {
-      "title": "Samsung no tira la toalla con el Galaxy Z Trifold: estaría preparando un modelo de segunda generación",
-      "excerpt": "El Galaxy Z Trifold tuvo una vida mucho más breve de la que hasta el más pesimista imaginaba, pero Samsung parece no haber tirado la toalla del todo. Según un…",
-      "source": "Hipertextual",
-      "category": "Tecnología",
-      "url": "https://hipertextual.com/mobile/samsung-posible-galaxy-z-trifold-2/",
-      "date": "2026-11-25T18:17:15.000Z",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/01/Galaxy-z-trifold-1.jpg?fit=1024%2C611&quality=70&strip=all&ssl=1"
-    },
-    {
-      "title": "Silicon Valley tiene un problema de culto a la personalidad",
-      "excerpt": "Cuando Jensen Huang regresó a las oficinas de Nvidia tras ser restituido como CEO, se topó con una multitud aguardando al otro lado de la puerta. Centenares…",
-      "source": "Xataka",
-      "category": "Tecnología",
-      "url": "https://www.xataka.com/opinion/silicon-valley-tiene-problema-culto-a-personalidad",
-      "date": "2026-11-25T18:16:20.000Z",
-      "image": "https://i.blogs.es/5a384b/xataka-opinion-culto-personalidad-silicon-valley/1024_2000.jpeg"
-    },
-    {
-      "title": "iOS 27.3 trae algo que llevo años esperando: modo oscuro para todas las páginas web",
-      "excerpt": "Aún recuerdo cuando llegó el modo oscuro al iPhone. Parecía algo impensable, porque la estética de iOS siempre había sido intocable. Y ahora mira. Mucha gente…",
-      "source": "Applesfera",
-      "category": "Tecnología",
-      "url": "https://www.applesfera.com/ios/ios-27-3-trae-algo-que-llevo-anos-esperando-modo-oscuro-para-todas-paginas-web",
-      "date": "2026-11-25T18:00:26.000Z",
-      "image": "https://i.blogs.es/c174ad/safari/1024_2000.jpeg"
     },
     {
       "title": "Indra lanza su gran plan: 20.000 millones de ingresos en 2035 y la IA como motor de crecimiento de todas las divisiones",
@@ -82,60 +136,6 @@
       "url": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-cae-borde-18600-puntos-regreso-aranceles-trump-20261125181543.html",
       "date": "2026-11-25T17:15:43.000Z",
       "image": "https://img.europapress.es/fotoweb/fotonoticia_20261125181543_120.jpg"
-    },
-    {
-      "title": "Indra lidera las subidas del Ibex 35 (+3,81%) al cierre tras presentar su nueva hoja de ruta",
-      "excerpt": "Las acciones de Indra han culminado la sesión de este miércoles con una subida cercana al 4%, en el día en el que la compañía ha lanzado su nuevo plan…",
-      "source": "Europa Press",
-      "category": "Economía",
-      "url": "https://www.europapress.es/economia/bolsa-00348/noticia-indra-lidera-subidas-ibex-35-381-cierre-presentar-nueva-hoja-ruta-20261125181021.html",
-      "date": "2026-11-25T17:10:21.000Z",
-      "image": "https://img.europapress.es/fotoweb/fotonoticia_20261125181021_120.jpg"
-    },
-    {
-      "title": "La tecnología se hunde de nuevo: el Nasdaq se deja hasta un 4% con fuertes descensos de Nvidia y Anthropic",
-      "excerpt": "El espejismo del lunes aparece cada vez más lejano en las pantallas de los operadores e inversores en tecnología. El índice Nasdaq, que subió casi un 7% en su…",
-      "source": "Cinco Días",
-      "category": "Economía",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-11-25/la-bolsa-y-el-ibex-35.html",
-      "date": "2026-11-25T17:07:04.000Z",
-      "image": "https://imagenes.elpais.com/resizer/v2/2BRRQGR7PZIUZDDBRNKYBASXWY.jpg?auth=bba49c0eda6a2d7ac65047dcce10bd4e80f97048f1069e617bf6577f17f726d7"
-    },
-    {
-      "title": "Cumbre de alto voltaje en la UE: De Cos se acerca a la presidencia del BCE, pero Países Bajos mantiene a su candidato en liza",
-      "excerpt": "Los líderes de la UE se enfrentan este jueves y viernes a una Cumbre de alto voltaje. Un encuentro llamado a dar respuesta a dos grandes cuestiones para el…",
-      "source": "El Economista",
-      "category": "Economía",
-      "url": "https://www.eleconomista.es/economia/noticias/14031044/11/26/cumbre-de-alto-voltaje-en-la-ue-de-cos-se-acerca-a-la-presidencia-del-bce-pero-paises-bajos-mantiene-a-su-candidato-en-liza.html",
-      "date": "2026-11-25T17:02:07.000Z",
-      "image": null
-    },
-    {
-      "title": "Cuándo cambiar la batería del iPhone y qué pasa si no se hace (o si se hace antes de tiempo)",
-      "excerpt": "Nos guste o no, las baterías se desgastan. Es imposible que, a poco uso que se haga de un iPhone, su no acabe degradándose con el tiempo. Y aunque hay signos…",
-      "source": "Applesfera",
-      "category": "Tecnología",
-      "url": "https://www.applesfera.com/iphone/cuando-cambiar-bateria-iphone-que-pasa-no-se-hace-se-hace-antes-tiempo",
-      "date": "2026-11-25T17:00:27.000Z",
-      "image": "https://i.blogs.es/12412a/salud-bateria-iphone/1024_2000.jpeg"
-    },
-    {
-      "title": "Bruselas planta cara a Trump y le recuerda que el pacto comercial limita los aranceles al 15%",
-      "excerpt": "Estados Unidos impondrá aranceles sobre 14 socios comerciales, entre ellos la Unión Europea. Washington recupera los aranceles que el jefe de la Casa Blanca…",
-      "source": "El Economista",
-      "category": "Economía",
-      "url": "https://www.eleconomista.es/economia/noticias/14031038/11/26/bruselas-planta-cara-a-trump-y-le-recuerda-que-el-pacto-comercial-trilimita-los-aranceles-al-15.html",
-      "date": "2026-11-25T16:55:00.000Z",
-      "image": null
-    },
-    {
-      "title": "Las políticas sociales acaparan la mitad del presupuesto más alto de la historia de la Diputación de Valladolid",
-      "excerpt": "El Pleno de noviembre de la Diputación de Valladolid ha aprobado con el voto a favor del Grupo Popular, la abstención de VOX y el voto en contra de PSOE y TLP…",
-      "source": "El Economista",
-      "category": "Economía",
-      "url": "https://www.eleconomista.es/economia/noticias/14031035/11/26/la-diputacion-de-valladolid-aprueba-el-presupuesto-mas-alto-de-su-historia-al-crecer-un-486-hasta-los-1935-millones.html",
-      "date": "2026-11-25T16:49:37.000Z",
-      "image": null
     }
   ]
 }
